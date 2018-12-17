@@ -629,3 +629,9 @@ marquee {
     }
     #popup-container  {width: 100%}
 }
+
+.font-size-24 {
+    font-size: 36px;
+}
+
+.font-italic {font-family: italic;}
