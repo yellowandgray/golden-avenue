@@ -8,7 +8,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">IT Health Check</h2>
+                            <h2 class="pageTitle">CONSULTING SERVICES</h2>
                         </div>
                     </div>
                 </div>
