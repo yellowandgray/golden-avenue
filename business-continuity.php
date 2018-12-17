@@ -8,7 +8,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">IT Health Check</h2>
+                            <h2 class="pageTitle">BUSINESS CONTINUITY</h2>
                         </div>
                     </div>
                 </div>
@@ -20,13 +20,12 @@
                             <div class="col-md-7">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
 
-                                <h3>An IT assessment is a thorough audit of all information technology infrastructure used by a business. It consists of the following checks</h3>
+                                <h3>In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible. Golden avenue experts perform the following to achieve this constraint:</h3>
                                 <ul>
-                                    <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
-                                    <li>Scrutinizing whether the current configuration of the IT structure</li>
-                                    <li>Analysing and testing the security policies and data protection safeguards adopted by the business</li>
-                                    <li>Checking for outdated or repetitive  modules and improve efficiency</li>
-                                    <li>The IT infra-structure is considered an Asset and can be related to Asset Management. It is an investment that helps in the financial growth of a business. Just like an asset it has initial and maintenance costs but the advantages of its maintenance is quite enormous. GOLDEN AVENUE consultants are highly skilled and are specialists in this field and provide best Assessment services to their clients</li>
+                                    <li>Analyze the current capabilities for recovery;</li>
+                                    <li>Provide necessary requirements that has be completed in order to recover quickly and circumvent any losses;</li>
+                                    <li>Analyze current capabilities;</li>
+                                    <li>Ensure that the changes and improvements recommended are implemented to create an Effective Recovery Strategy that will minimize or nullify losses in such an event.</li>
                                 </ul>
                             </div>
                             <div class="col-md-5">

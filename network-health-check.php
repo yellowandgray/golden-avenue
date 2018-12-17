@@ -20,14 +20,7 @@
                             <div class="col-md-7">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
 
-                                <h3>An IT assessment is a thorough audit of all information technology infrastructure used by a business. It consists of the following checks </h3>
-                                <ul>
-                                    <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
-                                    <li>2.	Scrutinizing whether the current configuration of the IT structure </li>
-                                    <li>Analysing and testing the security policies and data protection safeguards adopted by the business</li>
-                                    <li>Checking for outdated or repetitive  modules and improve efficiency</li>
-                                    <li>The IT infra-structure is considered an Asset and can be related to Asset Management. It is an investment that helps in the financial growth of a business. Just like an asset it has initial and maintenance costs but the advantages of its maintenance is quite enormous. GOLDEN AVENUE consultants are highly skilled and are specialists in this field and provide best Assessment services to their clients</li>
-                                </ul>
+                                <p class="text-justify">When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business. Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</p>
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">

@@ -8,7 +8,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">IT Health Check</h2>
+                            <h2 class="pageTitle">CLOUD MIGRATION</h2>
                         </div>
                     </div>
                 </div>
@@ -20,14 +20,7 @@
                             <div class="col-md-7">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
 
-                                <h3>An IT assessment is a thorough audit of all information technology infrastructure used by a business. It consists of the following checks</h3>
-                                <ul>
-                                    <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
-                                    <li>Scrutinizing whether the current configuration of the IT structure</li>
-                                    <li>Analysing and testing the security policies and data protection safeguards adopted by the business</li>
-                                    <li>Checking for outdated or repetitive  modules and improve efficiency</li>
-                                    <li>The IT infra-structure is considered an Asset and can be related to Asset Management. It is an investment that helps in the financial growth of a business. Just like an asset it has initial and maintenance costs but the advantages of its maintenance is quite enormous. GOLDEN AVENUE consultants are highly skilled and are specialists in this field and provide best Assessment services to their clients</li>
-                                </ul>
+                                <p class="text-justify">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it, wherever you need it. Prior to the influx of “Cloud Technology”, a company has to allocate a huge up-front budget for the system, which would have included the purchase the server, the required software, and the cost of a certified professional to set the entire infra-structure on site. Now, for a monthly “Rental” Fee, businesses can set up any or all software into the Cloud, pay NO startup fee, ADD spaces instantaneously, have the service provided over the INTERNET to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">

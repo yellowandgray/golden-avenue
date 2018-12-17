@@ -20,13 +20,14 @@
                             <div class="col-md-7">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
 
-                                <h3>An IT assessment is a thorough audit of all information technology infrastructure used by a business. It consists of the following checks</h3>
+                                 <h3>Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</h3>
                                 <ul>
-                                    <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
-                                    <li>Scrutinizing whether the current configuration of the IT structure</li>
-                                    <li>Analysing and testing the security policies and data protection safeguards adopted by the business</li>
-                                    <li>Checking for outdated or repetitive  modules and improve efficiency</li>
-                                    <li>The IT infra-structure is considered an Asset and can be related to Asset Management. It is an investment that helps in the financial growth of a business. Just like an asset it has initial and maintenance costs but the advantages of its maintenance is quite enormous. GOLDEN AVENUE consultants are highly skilled and are specialists in this field and provide best Assessment services to their clients</li>
+                                    <li>Analyze Vulnerability to reveal risks </li>
+                                    <li>Assess Security threats to outline the significance of existing vulnerabilities;</li>
+                                    <li>Design and Recommend solutions to secure the entire information security Network;</li>
+                                    <li>Provide information on available security tools and methods;</li>
+                                    <li>Decide on the suitable tools required for data security enhancements;</li>
+                                    <li>Preparing workforces for a responsible and secured data sharing.</li>
                                 </ul>
                             </div>
                             <div class="col-md-5">

@@ -8,7 +8,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">IT Health Check</h2>
+                            <h2 class="pageTitle">IT SECURITY</h2>
                         </div>
                     </div>
                 </div>
@@ -20,13 +20,12 @@
                             <div class="col-md-7">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
 
-                                <h3>An IT assessment is a thorough audit of all information technology infrastructure used by a business. It consists of the following checks</h3>
+                                <h3>The information security risks analysis from Golden Avenue is based on scrutinizing the statistics of network operation and evaluation of exposures and vulnerabilities. It aids to avoid unwanted attacks on valuable data and diminish the effect from existing threats. Evaluating the risks in Regular intervals is more effective than a one-time analysis. Our Experts in Golden Avenue do the following in order to prevent any threats:</h3>
                                 <ul>
-                                    <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
-                                    <li>Scrutinizing whether the current configuration of the IT structure</li>
-                                    <li>Analysing and testing the security policies and data protection safeguards adopted by the business</li>
-                                    <li>Checking for outdated or repetitive  modules and improve efficiency</li>
-                                    <li>The IT infra-structure is considered an Asset and can be related to Asset Management. It is an investment that helps in the financial growth of a business. Just like an asset it has initial and maintenance costs but the advantages of its maintenance is quite enormous. GOLDEN AVENUE consultants are highly skilled and are specialists in this field and provide best Assessment services to their clients</li>
+                                    <li>Risk assessment on a REGULAR basis;</li>
+                                    <li>Analyzing  history of the entire security system operation;</li>
+                                    <li>Correcting the security in the system to decrease or eliminate any risk of data breaches</li>
+                                    <li>Continuous enhancements in IT security to prevent any attacks from new threats.</li>
                                 </ul>
                             </div>
                             <div class="col-md-5">
