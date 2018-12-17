@@ -631,5 +631,7 @@ marquee {
 }
 
 .font-size-24 {
-    font-size: 24px;
+    font-size: 36px;
 }
+
+.font-italic {font-family: italic;}

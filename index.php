@@ -14,7 +14,7 @@
                         <li>
                             <img src="img/slides/01.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content">VIRTUAL IT MANAGER<br/><span class="italic font-size-24">At a Fraction of the Cost</span></h3>  
+                                <h3 class="banner-content">VIRTUAL IT MANAGER<br/><span class="italic font-size-24 font-italic">at a fraction of the cost</span></h3>  
 
                             </div>
                         </li>
