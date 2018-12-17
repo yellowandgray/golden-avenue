@@ -18,7 +18,7 @@
                     <div class="container">
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/sub2.jpg" alt="" class="img-responsive"/>
 
                                 <p class="text-justify">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it, wherever you need it. Prior to the influx of “Cloud Technology”, a company has to allocate a huge up-front budget for the system, which would have included the purchase the server, the required software, and the cost of a certified professional to set the entire infra-structure on site. Now, for a monthly “Rental” Fee, businesses can set up any or all software into the Cloud, pay NO startup fee, ADD spaces instantaneously, have the service provided over the INTERNET to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>
                             </div>

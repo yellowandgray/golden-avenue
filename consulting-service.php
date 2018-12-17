@@ -18,7 +18,7 @@
                     <div class="container">
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/sub3.jpg" alt="" class="img-responsive"/>
 
                                  <h3>Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</h3>
                                 <ul>

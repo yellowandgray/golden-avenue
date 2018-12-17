@@ -6,6 +6,7 @@
             <?php include 'menu.php'; ?><!-- end header -->
             <section id="inner-headline">
                 <div class="container">
+                   <img src="img/blog/sub01.jpg" alt="" class="img-responsive"/>
                     <div class="row">
                         <div class="col-lg-12">
                             <h2 class="pageTitle">IT SECURITY</h2>
@@ -18,7 +19,7 @@
                     <div class="container">
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/sub001.jpg" alt="" class="img-responsive"/>
 
                                 <h3>The information security risks analysis from Golden Avenue is based on scrutinizing the statistics of network operation and evaluation of exposures and vulnerabilities. It aids to avoid unwanted attacks on valuable data and diminish the effect from existing threats. Evaluating the risks in Regular intervals is more effective than a one-time analysis. Our Experts in Golden Avenue do the following in order to prevent any threats:</h3>
                                 <ul>
