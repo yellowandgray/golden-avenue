@@ -18,7 +18,7 @@
                     <div class="container">
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <img src="img/blog/sub5.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/sub02.jpg" alt="" class="img-responsive"/>
 
                                 <h3>An IT assessment is a thorough audit of all information technology infrastructure used by a business. It consists of the following checks</h3>
                                 <ul>

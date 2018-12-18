@@ -18,15 +18,22 @@
                     <div class="container">
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/bus1.jpg" alt="" class="img-responsive"/>
 
                                 <h3>In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible. Golden avenue experts perform the following to achieve this constraint:</h3>
-                                <ul>
-                                    <li>Analyze the current capabilities for recovery;</li>
-                                    <li>Provide necessary requirements that has be completed in order to recover quickly and circumvent any losses;</li>
-                                    <li>Analyze current capabilities;</li>
-                                    <li>Ensure that the changes and improvements recommended are implemented to create an Effective Recovery Strategy that will minimize or nullify losses in such an event.</li>
-                                </ul>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <ul>
+                                            <li>Analyze the current capabilities for recovery;</li>
+                                            <li>Provide necessary requirements that has be completed in order to recover quickly and circumvent any losses;</li>
+                                            <li>Analyze current capabilities;</li>
+                                            <li>Ensure that the changes and improvements recommended are implemented to create an Effective Recovery Strategy that will minimize or nullify losses in such an event.</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6">
+                                       <img src="img/blog/bus002.jpg" alt="" class="img-responsive"/> 
+                                    </div>
+                                </div>
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">

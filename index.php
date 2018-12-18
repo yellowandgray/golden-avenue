@@ -19,7 +19,7 @@
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/banner02.jpg" alt="" />
+                            <img src="img/slides/banner002.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3 class="banner-content">ANNUAL MAINTENANCE CONTRACT </h3>  
 
@@ -40,7 +40,7 @@
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/banner01.jpg" alt="" />
+                            <img src="img/slides/banner5.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3>NETWORK & CONNECTIVITY SOLUTIONS</h3>  
 

@@ -6,7 +6,6 @@
             <?php include 'menu.php'; ?><!-- end header -->
             <section id="inner-headline">
                 <div class="container">
-                   <img src="img/blog/sub01.jpg" alt="" class="img-responsive"/>
                     <div class="row">
                         <div class="col-lg-12">
                             <h2 class="pageTitle">IT SECURITY</h2>

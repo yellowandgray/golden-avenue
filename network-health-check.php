@@ -18,8 +18,7 @@
                     <div class="container">
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <img src="img/blog/sub4.jpg" alt="" class="img-responsive"/>
-
+                                <img src="img/blog/net02.jpg" alt="" class="img-responsive"/>
                                 <h3>When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business. Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</h3>
                             </div>
                             <div class="col-md-5">
