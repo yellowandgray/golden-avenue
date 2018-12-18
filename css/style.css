@@ -909,6 +909,48 @@ section#inner-headline-1:after {
 #inner-headline-5 ul.breadcrumb li a {
     color:#fff;
 }
+#inner-headline-7{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-procurement.jpg")}
+section#inner-headline-1:after {
+    content: '';
+    background: rgba(0, 0, 0, 0.47);
+    z-index: 2;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+}
+
+#inner-headline-7 h2.pageTitle{
+    color: #fff;
+    padding: 92px 0;
+    display:block;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+}
+
+/* --- breadcrumbs --- */
+#inner-headline-7 ul.breadcrumb {
+    margin:40px 0;
+    float:left;
+}
+
+#inner-headline-7 ul.breadcrumb li {
+    margin-bottom:0;
+    padding-bottom:0;
+}
+#inner-headline-7 ul.breadcrumb li {
+    font-size:13px;
+    color:#fff;
+}
+
+#inner-headline-7 ul.breadcrumb li i{
+    color:#dedede;
+}
+
+#inner-headline-7 ul.breadcrumb li a {
+    color:#fff;
+}
 /* Forms
 ============================= */
 
