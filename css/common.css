@@ -601,10 +601,10 @@ marquee {
     background: #424242;
     color: #fff;
     font-size: 18px;
+    padding: 10px 0px;
 }
 
 .table{
-    font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%!important;
 }
@@ -635,3 +635,9 @@ marquee {
 }
 
 .font-italic {font-family: italic;}
+
+.table-center-align td {width: 262px;}
+.font-size-20 {font-size: 20px;}
+.gray {background: #c7c7c7; color: #fff;}
+.blue {background: #5fb7c5; color: #fff;}
+.orange {background: #d6c09a; color: #fff;}
