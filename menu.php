@@ -47,8 +47,8 @@
                     <li><a href="amc-contract.php">AMC Contracts</a></li>
                     <li><a href="#">IT PROCUREMENT SERVICES</a></li>
                     <li><a href="blog.php">Blog</a></li>
-                    <li><a href="#">Why Us</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="why-us.php">Why Us</a></li>
+                    <li><a href="contact.php">Contact</a></li>
                 </ul>
             </div>
         </div>
