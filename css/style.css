@@ -642,7 +642,7 @@ section.hero-text h1{
 /* page headline
 ==================================== */
 
-#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/slides/1.jpg")}
+#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-health-check.jpg")}
 section#inner-headline:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -691,7 +691,7 @@ ul.breadcrumb li a:hover {
 
 /* SUB BANNER-1 */
 
-#inner-headline-1{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/network-health-check-sub-banner.jpg")}
+#inner-headline-1{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/network-health-check-sub-ban.jpg")}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -734,7 +734,181 @@ section#inner-headline-1:after {
     color:#fff;
 }
 
+/* SUB BANNER-2 */
+#inner-headline-2{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/business.jpg")}
+section#inner-headline-1:after {
+    content: '';
+    background: rgba(0, 0, 0, 0.47);
+    z-index: 2;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+}
 
+#inner-headline-2 h2.pageTitle{
+    color: #fff;
+    padding: 92px 0;
+    display:block;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+}
+
+/* --- breadcrumbs --- */
+#inner-headline-2 ul.breadcrumb {
+    margin:40px 0;
+    float:left;
+}
+
+#inner-headline-2 ul.breadcrumb li {
+    margin-bottom:0;
+    padding-bottom:0;
+}
+#inner-headline-2 ul.breadcrumb li {
+    font-size:13px;
+    color:#fff;
+}
+
+#inner-headline-2 ul.breadcrumb li i{
+    color:#dedede;
+}
+
+#inner-headline-2 ul.breadcrumb li a {
+    color:#fff;
+}
+/* SUB BANNER-3 */
+
+#inner-headline-3{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-security.jpg")}
+section#inner-headline-1:after {
+    content: '';
+    background: rgba(0, 0, 0, 0.47);
+    z-index: 2;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+}
+
+#inner-headline-3 h2.pageTitle{
+    color: #fff;
+    padding: 92px 0;
+    display:block;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+}
+
+/* --- breadcrumbs --- */
+#inner-headline-3 ul.breadcrumb {
+    margin:40px 0;
+    float:left;
+}
+
+#inner-headline-3 ul.breadcrumb li {
+    margin-bottom:0;
+    padding-bottom:0;
+}
+#inner-headline-3 ul.breadcrumb li {
+    font-size:13px;
+    color:#fff;
+}
+
+#inner-headline-3 ul.breadcrumb li i{
+    color:#dedede;
+}
+
+#inner-headline-3 ul.breadcrumb li a {
+    color:#fff;
+}
+/* SUB BANNER-4 */
+
+#inner-headline-4{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/consulting.jpg")}
+section#inner-headline-1:after {
+    content: '';
+    background: rgba(0, 0, 0, 0.47);
+    z-index: 2;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+}
+
+#inner-headline-4 h2.pageTitle{
+    color: #fff;
+    padding: 92px 0;
+    display:block;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+}
+
+/* --- breadcrumbs --- */
+#inner-headline-4 ul.breadcrumb {
+    margin:40px 0;
+    float:left;
+}
+
+#inner-headline-4 ul.breadcrumb li {
+    margin-bottom:0;
+    padding-bottom:0;
+}
+#inner-headline-4 ul.breadcrumb li {
+    font-size:13px;
+    color:#fff;
+}
+
+#inner-headline-4 ul.breadcrumb li i{
+    color:#dedede;
+}
+
+#inner-headline-4 ul.breadcrumb li a {
+    color:#fff;
+}
+/* SUB BANNER-5 */
+
+#inner-headline-5{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/cloud.jpg")}
+section#inner-headline-1:after {
+    content: '';
+    background: rgba(0, 0, 0, 0.47);
+    z-index: 2;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+}
+
+#inner-headline-5 h2.pageTitle{
+    color: #fff;
+    padding: 92px 0;
+    display:block;
+    text-align: center;
+    position: relative;
+    z-index: 3;
+}
+
+/* --- breadcrumbs --- */
+#inner-headline-5 ul.breadcrumb {
+    margin:40px 0;
+    float:left;
+}
+
+#inner-headline-5 ul.breadcrumb li {
+    margin-bottom:0;
+    padding-bottom:0;
+}
+#inner-headline-5 ul.breadcrumb li {
+    font-size:13px;
+    color:#fff;
+}
+
+#inner-headline-5 ul.breadcrumb li i{
+    color:#dedede;
+}
+
+#inner-headline-5 ul.breadcrumb li a {
+    color:#fff;
+}
 /* Forms
 ============================= */
 

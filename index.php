@@ -26,9 +26,9 @@
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/5.jpg" alt="" />
+                            <img src="img/slides/05.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content">IT HEALTH CHECKS</h3>  
+                                <h3 class="banner-content">IT AND NETWORK HEALTH CHECKS</h3>  
 
                             </div>
                         </li>
