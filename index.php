@@ -6,8 +6,6 @@
             <?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="banner">
-                <marquee>IT Health Checks, Network Health Checks, Business Continuity, IT Security, Consulting Services and Cloud Migration</marquee>
-
                 <!-- Slider -->
                 <div id="main-slider" class="flexslider">
                     <ul class="slides">
@@ -656,13 +654,13 @@
             </div>
         </div>
 
-        <button class="open-button" onclick="openForm()">DoYouKnow</button>
+        <button class="open-button" onclick="openForm()">#DoYouKnow</button>
         <div class="chat-popup" id="myQus">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeForm()"><span aria-hidden="true">×</span></button>  
             <div  class="form-container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h3 class="text-center bold white">DoYouKnow</h3>
+                        <h3 class="text-center bold white">#DoYouKnow</h3>
                         <p class="white">Computers with AV disabled?</p>
                         <p class="white">Are your systems fully patched?</p>
                         <p class="white">What systems have outdated hardware?</p>
@@ -676,7 +674,7 @@
                     </div>
                     <div class="col-md-6 text-center">
                         <form action="" method="post" id="footer-form">
-                            <h3 class="text-center bold white">Enquiry</h3>
+                            <h3 class="text-center bold white">For a Free IT Health Check</h3>
                             <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
                             <br>
                             <input class="form-control" name="email" id="email" placeholder="Your Email *">

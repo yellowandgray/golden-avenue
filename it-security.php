@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php include 'head.php'; ?>
+    <?php $page = 'services'; include 'head.php'; ?>
     <body>
         <div id="wrapper">
             <?php include 'menu.php'; ?><!-- end header -->

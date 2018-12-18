@@ -33,7 +33,7 @@
                                             </ul>
                                         </li> 
                                    <li><a href="#"></a></li>-->
-                    <li class="dropdown">
+                    <li class="<?php if ($page == 'services') {echo 'active';}?> dropdown">
                         <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             <li><a href="it-health-check.php">IT HEALTH CHECKS</a></li>
@@ -44,13 +44,14 @@
                             <li><a href="cloud-migration.php">CLOUD MIGRATION</a></li>
                         </ul>
                     </li>
-                    <li><a href="amc-contract.php">AMC Contracts</a></li>
-                    <li><a href="#">IT PROCUREMENT SERVICES</a></li>
-                    <li><a href="blog.php">Blog</a></li>
-                    <li><a href="why-us.php">Why Us</a></li>
-                    <li><a href="contact.php">Contact</a></li>
+                    <li class="<?php if ($page == 'amc-contract') {echo 'active';}?>"><a href="amc-contract.php">AMC Contracts</a></li>
+                    <li class="<?php if ($page == 'it-procurement') {echo 'active';}?>"><a href="#">IT PROCUREMENT SERVICES</a></li>
+                    <li class="<?php if ($page == 'blog') {echo 'active';}?>"><a href="blog.php">Blog</a></li>
+                    <li class="<?php if ($page == 'why-us') {echo 'active';}?>"><a href="why-us.php">Why Us</a></li>
+                    <li class="<?php if ($page == 'contact') {echo 'active';}?>"><a href="contact.php">Contact</a></li>
                 </ul>
             </div>
         </div>
     </div>
 </header>
+<marquee>IT Health Checks, Network Health Checks, Business Continuity, IT Security, Consulting Services and Cloud Migration</marquee>
