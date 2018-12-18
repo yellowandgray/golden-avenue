@@ -45,7 +45,7 @@
                         </ul>
                     </li>
                     <li class="<?php if ($page == 'amc-contract') {echo 'active';}?>"><a href="amc-contract.php">AMC Contracts</a></li>
-                    <li class="<?php if ($page == 'it-procurement') {echo 'active';}?>"><a href="#">IT PROCUREMENT SERVICES</a></li>
+                    <li class="<?php if ($page == 'it-procurement') {echo 'active';}?>"><a href="it_procurement.php">IT PROCUREMENT SERVICES</a></li>
                     <li class="<?php if ($page == 'blog') {echo 'active';}?>"><a href="blog.php">Blog</a></li>
                     <li class="<?php if ($page == 'why-us') {echo 'active';}?>"><a href="why-us.php">Why Us</a></li>
                     <li class="<?php if ($page == 'contact') {echo 'active';}?>"><a href="contact.php">Contact</a></li>
