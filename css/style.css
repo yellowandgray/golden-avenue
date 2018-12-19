@@ -735,7 +735,7 @@ section#inner-headline-1:after {
 }
 
 /* SUB BANNER-2 */
-#inner-headline-2{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/business.jpg")}
+#inner-headline-2{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/business-01.jpg")}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
