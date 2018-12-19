@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <?php $page = 'services';
-    include 'head.php'; ?>
+    include 'head.php';
+    ?>
     <body>
         <div id="wrapper">
 <?php include 'menu.php'; ?><!-- end header -->
@@ -17,6 +18,11 @@
             <section id="content">
                 <section class="section-padding">
                     <div class="container">
+                        <ul class="breadcrumb">
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="#">Services</a></li>
+                            <li>IT Health Check</li>
+                        </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <img src="img/blog/sub02.jpg" alt="" class="img-responsive"/>

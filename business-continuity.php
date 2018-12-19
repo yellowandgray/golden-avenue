@@ -17,6 +17,11 @@
             <section id="content">
                 <section class="section-padding">
                     <div class="container">
+                        <ul class="breadcrumb">
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="#">Services</a></li>
+                                <li>Business Continuity</li>
+                            </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <img src="img/blog/bus1.jpg" alt="" class="img-responsive"/>

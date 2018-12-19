@@ -17,6 +17,10 @@
             <section id="content">
                 <section class="section-padding">
                     <div class="container">
+                        <ul class="breadcrumb">
+                                <li><a href="index.php">Home</a></li>
+                                <li>Blog</li>
+                            </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>

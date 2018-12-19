@@ -6,7 +6,7 @@
     ?>
     <body>
         <div id="wrapper">
-<?php include 'menu.php'; ?>
+            <?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-8">
                 <div class="container">
@@ -20,6 +20,10 @@
             <section id="content">
                 <div class="container">
                     <div class="about">
+                        <ul class="breadcrumb">
+                            <li><a href="index.php">Home</a></li>
+                            <li>Amc Contract</li>
+                        </ul>
                         <section class="section-padding">
                             <div class="row table-center-align">
                                 <h3>Remote Support by Email & Telephone</h3>
@@ -337,7 +341,7 @@
                     </div>
                 </div>
             </section>
-<?php include 'footer.php'; ?>
+            <?php include 'footer.php'; ?>
             <div class="side-widget open">
                 <div class="inner">
                     <a class="btn btn-blue productCheckout" id="get-started">GET&nbsp;&nbsp; GUIDE</a>
