@@ -9,7 +9,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">Blog</h2>
+                            <h2 class="pageTitle"></h2>
                         </div>
                     </div>
                 </div>
