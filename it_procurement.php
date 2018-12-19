@@ -18,7 +18,7 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-7">
-                                <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/outsourcing.jpg" alt="" class="img-responsive"/>
                                 <h2 class="font-size-20 color-blue">Advantages of IT Outsourcing</h2>
                                 <ul>
                                     <li>Fixed Monthly Cost </li>
