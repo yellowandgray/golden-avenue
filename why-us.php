@@ -64,6 +64,48 @@
                 </div>
             </section>
             <?php include 'footer.php'; ?>
+            <div class="side-widget open">
+                <div class="inner">
+                    <a class="btn btn-blue productCheckout" id="get-started">&nbsp;&nbsp; IT&nbsp;&nbsp; PROCUREMENT&nbsp;&nbsp; GUIDE</a>
+                </div>
+            </div>
+            <div id="popup-container" style="width: 20%">
+                <div id="popup-window">
+                    <div class="modal-content">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>  
+                        <a href="#" class="your-class"></a>
+                        <div>
+                            <!--                <div class="row text-center margin-bottom-0">
+                                                <h1>CYBER SECURITY AWARENESS WORKSHOP</h1>
+                                            </div>
+                                            <br>-->
+
+                            <div class="row margin-bottom-0 text-center">
+                                <div class="text-center padding-20">
+                                    <form action="" method="post" id="footer-form">
+                                        <h3 class="text-center bold white">Enquiry</h3>
+                                        <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
+                                        <br>
+                                        <input class="form-control" name="email" id="email" placeholder="Your Email *">
+                                        <br>
+                                        <input class="form-control" name="phone" placeholder="Phone *" id="phone">
+                                        <br>
+                                        <input class="form-control" name="subject" placeholder="Subject" id="subject">
+                                        <br>
+                                        <textarea class="form-control" name="subject" placeholder="Comments" id="comments" style="min-height: 70px;"></textarea>
+
+                                        <br>
+                                        <center>
+                                            <input type="submit" class="btn btn-blue" value="Submit">
+                                        </center>
+                                    </form>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </body>
 </html>
