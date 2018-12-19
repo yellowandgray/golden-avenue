@@ -18,6 +18,10 @@
             <section id="content">
                 <div class="container">
                     <div class="about">
+                        <ul class="breadcrumb">
+                            <li><a href="index.php">Home</a></li>
+                            <li>Why Us</li>
+                        </ul>
                         <h2 class="">Why Golden Avenue</h2>
                         <div class="row">
                             <div class="col-md-4">
