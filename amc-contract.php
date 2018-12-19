@@ -340,7 +340,7 @@
 <?php include 'footer.php'; ?>
             <div class="side-widget open">
                 <div class="inner">
-                    <a class="btn btn-blue productCheckout" id="get-started">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GET&nbsp;&nbsp; GUIDE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                    <a class="btn btn-blue productCheckout" id="get-started">GET&nbsp;&nbsp; GUIDE</a>
                 </div>
             </div>
             <div id="popup-container" style="width: 20%">
