@@ -31,7 +31,7 @@
                                         </ul>
                                     </div>
                                     <div class="col-md-6">
-                                       <img src="img/blog/bus002.jpg" alt="" class="img-responsive"/> 
+                                       <img src="img/blog/bus-02.jpg" alt="" class="img-responsive"/> 
                                     </div>
                                 </div>
                             </div>
