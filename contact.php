@@ -73,7 +73,8 @@
                             <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+9714266 8272">+971 4 266 8272</a><br/>
                             <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+9714271 3404">+971 4 271 3404</a><br/>
                             <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:enquiry@goldenavenue.ae">enquiry@goldenavenue.ae</a><br/><br/>
-                            <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3607.9212659987456!2d55.30032966499177!3d25.273233884813532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4d09e02d95c4b7dc!2sGOLDEN+AVENUE+GENERAL+TRADING+LLC!5e0!3m2!1sen!2sin!4v1545205970728" width="600" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<!--                            <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
                             <div style="overflow:hidden;height:300px;width:600px;">
                                 <div id="gmap_canvas" style="height:500px;width:600px;"></div>
                                 <style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
@@ -90,7 +91,7 @@
                                     infowindow.open(map, marker);
                                 }
                                 google.maps.event.addDomListener(window, 'load', init_map);
-                            </script>
+                            </script>-->
                         </div>
                     </div>
                 </div>
