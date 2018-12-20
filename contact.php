@@ -27,14 +27,13 @@
                         <div class="col-md-12">
                             <div class="about-logo">
                                 <h2><span class="coloured">Get</span> in Touch</h2>
-                                <p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
-                                <p>Sed ut perspiciaatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+                                <h3>Please contact the Golden Avenue Team to acquire Knowledge and Knowhow and take advantage of our expertise to help solve serious problems and accomplish your critical objectives</p>
                             </div>  
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor.</p>
+<!--                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor.</p>-->
 
                             <!-- Form itself -->
                             <form name="sentMessage" id="contactForm"  novalidate>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php $page = 'services';
+    <?php
+    $page = 'services';
     include 'head.php';
     ?>
     <body>
@@ -25,8 +26,9 @@
                         </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
+                                <h3>When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business.</p> 
+                                    <p>Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</h3>
                                 <img src="img/blog/net02.jpg" alt="" class="img-responsive"/>
-                                <h3>When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business. Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</h3>
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">

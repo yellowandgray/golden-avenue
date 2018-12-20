@@ -25,9 +25,10 @@
                         </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
+                                <h3>The information security risks analysis from Golden Avenue is based on scrutinizing the statistics of network operation and evaluation of exposures and vulnerabilities. It aids to avoid unwanted attacks on valuable data and diminish the effect from existing threats. Evaluating the risks in Regular intervals is more effective than a one-time analysis.</h3>
                                 <img src="img/blog/sub001.jpg" alt="" class="img-responsive"/>
-
-                                <h3>The information security risks analysis from Golden Avenue is based on scrutinizing the statistics of network operation and evaluation of exposures and vulnerabilities. It aids to avoid unwanted attacks on valuable data and diminish the effect from existing threats. Evaluating the risks in Regular intervals is more effective than a one-time analysis. Our Experts in Golden Avenue do the following in order to prevent any threats:</h3>
+                                
+                                <h3> Our Experts in Golden Avenue do the following in order to prevent any threats:</h3>
                                 <ul>
                                     <li>Risk assessment on a REGULAR basis;</li>
                                     <li>Analyzing  history of the entire security system operation;</li>

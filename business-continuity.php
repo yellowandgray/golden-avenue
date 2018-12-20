@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <?php $page = 'services';
-    include 'head.php'; ?>
+    include 'head.php';
+    ?>
     <body>
         <div id="wrapper">
 <?php include 'menu.php'; ?><!-- end header -->
@@ -18,15 +19,15 @@
                 <section class="section-padding">
                     <div class="container">
                         <ul class="breadcrumb">
-                                <li><a href="index.php">Home</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li>Business Continuity</li>
-                            </ul>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="#">Services</a></li>
+                            <li>Business Continuity</li>
+                        </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
+                                <h3>In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible.</h3>
                                 <img src="img/blog/bus1.jpg" alt="" class="img-responsive"/>
-
-                                <h3>In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible. Golden avenue experts perform the following to achieve this constraint:</h3>
+                                <h3>Golden avenue experts perform the following to achieve this constraint:</h3>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <ul>
