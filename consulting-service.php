@@ -25,9 +25,7 @@
                         </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <img src="img/blog/sub-2.jpg" alt="" class="img-responsive"/>
-
-                                <h3>Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</h3>
+                                 <h3>Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</h3>
                                 <ul>
                                     <li>Analyze Vulnerability to reveal risks </li>
                                     <li>Assess Security threats to outline the significance of existing vulnerabilities;</li>
@@ -36,6 +34,8 @@
                                     <li>Decide on the suitable tools required for data security enhancements;</li>
                                     <li>Preparing workforces for a responsible and secured data sharing.</li>
                                 </ul>
+                                 </br>
+                                 <img src="img/blog/sub-2.jpg" alt="" class="img-responsive"/>
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">
