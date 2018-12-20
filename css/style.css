@@ -642,7 +642,7 @@ section.hero-text h1{
 /* page headline
 ==================================== */
 
-#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-health-check.jpg")}
+#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact.jpg")}
 section#inner-headline:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);

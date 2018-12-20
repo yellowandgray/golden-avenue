@@ -33,27 +33,27 @@
                         <li>
                             <img src="img/slides/2.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3>IT SECURITY & INFRASTRUCTURE</br> SOLUTIONS</h3>  
+                                <h3  class="banner-content">IT SECURITY & INFRASTRUCTURE</br> SOLUTIONS</h3>  
 
                             </div>
                         </li>
                         <li>
                             <img src="img/slides/banner5.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3>NETWORK & CONNECTIVITY</br> SOLUTIONS</h3>  
+                                <h3  class="banner-content">NETWORK & CONNECTIVITY</br> SOLUTIONS</h3>  
 
                             </div>
                         </li>
                         <li>
                             <img src="img/slides/4.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3>DISASTER RECOVERY & STORAGE SOLUTIONS</h3>  
+                                <h3  class="banner-content">DISASTER RECOVERY & STORAGE SOLUTIONS</h3>  
 
                             </div>
                         </li><li>
                             <img src="img/slides/04.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3>CYBER SECURITY AWARENESS WORKSHOP</h3>  
+                                <h3  class="banner-content">CYBER SECURITY AWARENESS WORKSHOP</h3>  
 
                             </div>
                         </li>
