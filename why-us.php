@@ -22,7 +22,7 @@
                             <li><a href="index.php">Home</a></li>
                             <li>Why Us</li>
                         </ul>
-                        <h2 class="">Why Golden Avenue</h2>
+                        <h2 class="text-center">Why Golden Avenue</h2>
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="why-us-content">
