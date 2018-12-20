@@ -19,7 +19,7 @@
                         <li>
                             <img src="img/slides/banner-2.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content">ANNUAL MAINTENANCE CONTRACT </h3>  
+                                <h3 class="banner-content">ANNUAL MAINTENANCE CONTRACT</br>(AMC)</h3>  
 
                             </div>
                         </li>
