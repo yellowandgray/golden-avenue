@@ -6,7 +6,7 @@
     ?>
     <body>
         <div id="wrapper">
-<?php include 'menu.php'; ?><!-- end header -->
+            <?php include 'menu.php'; ?><!-- end header -->
             <section id="inner-headline-1">
                 <div class="container">
                     <div class="row">
@@ -27,9 +27,20 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <h3 class="color-blue">Network health check</h3>
-                                <h3>When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business.</p> 
-                                    <p>Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</h3>
+                                <p>When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business.</p> 
+                                <p>Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</p>
                                 <img src="img/blog/net02.jpg" alt="" class="img-responsive"/>
+                                <h3>We work with Network Providers who deliver a Complete System and Network Analysis</h3>
+                                <ul>
+                                    <li>Create a Strategy to enhance Business Productivity</li>
+                                    <li>Ensure 24x7 operation of your systems</li>
+                                    <li>Mobile connectivity for access to information anytime anywhere</li>
+                                    <li>Agile connectivity that includes network and data security through Wireless LAN</li>
+                                    <li>Connecting remote users and branch offices through Wide Area Networks (WAN)</li>
+                                    <li>Virtual Private Networks (VPN) Providing network access to outside users</li>
+                                    <li>Whether you want to UPGRADE your Current Infrastructure or Embark on a new Venture, we deliver the state-of-the-art solutions that will give your establishment a sustained Business Advantage. </li>
+                                </ul>
+                                <p>To schedule an appointment to discuss your business’s Network Security needs, please fill out the ENQUIRY FORM. We have assisted numerous companies and Businesses just like yours with great Success and Customer Satisfaction.</p>
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">
@@ -72,7 +83,7 @@
                     </div>
                 </section>
             </section>
-<?php include 'footer.php'; ?>
+            <?php include 'footer.php'; ?>
         </div>
         <button class="open-button" onclick="openForm()"><blink>#DoYouKnow ???</blink></button>
         <div class="chat-popup" id="myQus">
