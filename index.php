@@ -159,7 +159,16 @@
                     </div>
                     <div class="row">
                         <div class="col-md-7">
-                            <h3 class="blue-color bold">Complete Solutions & Support Services, Hardware & Software</h3>
+                           <h3 class="blue-color bold">5 Benefits to Hire Your Own Virtual IT Manager </h3>  
+                           <ul>
+                                <li>Decreased Operating Costs and Improved Productivity</li>
+                                <li>Analysis of the Entire IT Infra-structure and submission of Reports, Findings and necessary Recommendations</li>
+                                <li>Ensure System Security, Plan for Business Continuity, Backup and storage for Disaster Recovery and Compliance are in Order</li>
+                                <li>Make certain that organizations are abiding by both industry regulations and government legislation</li>
+                                <li>Increased Revenue</li>
+                                <li>Dedicated IT Professionals at a fraction of the COST</li>
+                           </ul></br>
+                           <h3 class="blue-color bold">Complete Solutions & Support Services, Hardware & Software</h3>
                             <p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
                             <h4 class="bold">Our Services</h4>
                             <p class="bold">IT Health Checks:</p>

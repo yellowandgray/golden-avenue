@@ -12,7 +12,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">AMC Contract</h2>
+                            <h2 class="pageTitle">AMC Contracts</h2>
                         </div>
                     </div>
                 </div>
