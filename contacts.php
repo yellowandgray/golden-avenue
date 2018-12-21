@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <?php $page = 'contact';
-    include 'head.php'; ?>
+    include 'head.php';
+    ?>
     <body>
         <div id="wrapper">
 <?php include 'menu.php'; ?>
@@ -20,7 +21,7 @@
                 <div class="container">
                     <ul class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
-                        
+
                         <li>Contact</li>
                     </ul>
                     <div class="row"> 
@@ -81,8 +82,8 @@
                                                   maxlength="999" style="resize:none"></textarea>
                                     </div>
                                 </div> 		 
-<!--                                <div id="success"> </div>  For success/fail messages -->
-                                <button type="submit" class="btn btn-primary">Send</button><br />
+                                <!--                                <div id="success"> </div>  For success/fail messages -->
+                                <div class="text-center"><button type="submit" class="btn btn-primary">Send</button></div><br />
                             </form>
                         </div>
                         <div class="col-md-6">
