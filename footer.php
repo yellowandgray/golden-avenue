@@ -33,8 +33,14 @@
                     <h5 class="widgetheading">Our Services</h5>
                     <ul class="link-list">
                         <li><a href="#">IT Health Checks:</a></li>
-                        <li><a href="#">Technical Solutions</a></li>
-                        <li><a href="#">Hardware & Software</a></li>
+                        <!--<li><a href="#">Technical Solutions</a></li>-->
+                        <!--<li><a href="#">Hardware & Software</a></li>-->
+                        <li><a href="#">Network health check</a></li>
+                        <li><a href="#">Business continuity</a></li>
+                        <li><a href="#">IT Security</a></li>
+                        <li><a href="#">Consulting services</a></li>
+                        <li><a href="#"> Cloud migration</a></li>
+
                     </ul>
                 </div>
             </div>

@@ -26,10 +26,10 @@
                         </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <h3 class="color-blue">IT Health Check</h3>
-                                <h3>An IT assessment is a thorough audit of all information technology infrastructure used by a business.</h3> 
+                                <h3 class="color-blue"><strong>IT Health Check</strong></h3>
+                                <h3 class="color-blue">An IT assessment is a thorough audit of all information technology infrastructure used by a business.</h3> 
                                 <img src="img/blog/sub02.jpg" alt="" class="img-responsive"/>
-                                <h3>The audit consists of the following checks</h3>
+                                <h3 class="color-blue">The audit consists of the following checks</h3>
                                 <ul>
                                     <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
                                     <li>Scrutinizing whether the current configuration of the IT structure is cost effective and efficient</li>

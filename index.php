@@ -19,12 +19,12 @@
                         <li>
                             <img src="img/slides/banner-2.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content">ANNUAL MAINTENANCE CONTRACT</br>(AMC)</h3>  
+                                <h3 class="banner-content">ANNUAL MAINTENANCE CONTRACT</br><span class="italic font-size-24 font-italic">Flexible and tailorite </span></h3>  
 
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/golden-avenue-05.jpg" alt="" />
+                            <img src="img/slides/golden-avenue.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3 class="banner-content">IT & NETWORK</br> HEALTH CHECKS</h3>  
 
@@ -86,7 +86,7 @@
                                         <p>We offer World-Class & Unmatched Support</p>
                                         <br/>
                                         <br/>
-                                        <a href="#" class="btn btn-primary">Try us</a>                                        
+                                        <a href="contact.php" class="btn btn-primary">Try us</a>                                        
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-6 text-center"> 
@@ -98,7 +98,7 @@
                                         <p>We are a team of Certified IT Professionals & Experts</p>
                                         <br/>
                                         <br/>
-                                        <a href="#" class="btn btn-primary">For Details</a>
+                                        <a href="why-us.php" class="btn btn-primary">For Details</a>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-6 text-center"> 
@@ -121,7 +121,7 @@
                                         <p>Tailor-Made Contracts, FOCUSED and Specific to ALL your Business Needs</p>
                                         <br/>
 
-                                        <a href="#" class="btn btn-primary">Get Quote</a>
+                                        <a href="amc-contract.php" class="btn btn-primary">Get Quote</a>
 
                                     </div>
                                 </div>
@@ -171,33 +171,41 @@
                             <h3 class="blue-color bold">ONE STOP for all Solutions & Support Services, Hardware & Software</h3>
                             <p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
                             <h4 class="bold">Our Services</h4>
-                            <p class="bold">IT Health Checks:</p>
-                            <ul>
-                                <li>Networking Checks</li>
-                                <li>Business Continuity</li>
-                                <li>IT Security</li>
-                                <li>Server Health</li>
-                                <li>Application Performance</li>
-                            </ul>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <p class="bold">IT Health Checks:</p>
+                                    <ul>
+                                        <li>Networking Checks</li>
+                                        <li>Business Continuity</li>
+                                        <li>IT Security</li>
+                                        <li>Server Health</li>
+                                        <li>Application Performance</li>
+                                    </ul>
+                                </div>
 <!--                            <p class="bold">IT Services Dubai:</p>
                             <ul>
                                 <li>Support 24/7</li>
                                 <li>Networking</li>
                                 <li>Managed Services</li>
                             </ul>-->
-                            <p class="bold">Technical Solutions:</p>
-                            <ul>
-                                <li>Infrastructure Solutions</li>
-                                <li>Security Solutions</li>
-                                <li>Cloud Solutions</li>
-                            </ul>
-                            <p class="bold">IT Procurement Services</p>
-                            <ul>
-                                <li>Hardware</li>
-                                <li>Software</li>
-                                <li>Storage/Backup</li>
-                                <li>Networking</li>
-                            </ul>
+                                <div class="col-md-4"> 
+                                    <p class="bold">Technical Solutions:</p>
+                                    <ul>
+                                        <li>Infrastructure Solutions</li>
+                                        <li>Security Solutions</li>
+                                        <li>Cloud Solutions</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4"> 
+                                    <p class="bold">IT Procurement Services</p>
+                                    <ul>
+                                        <li>Hardware</li>
+                                        <li>Software</li>
+                                        <li>Storage/Backup</li>
+                                        <li>Networking</li>
+                                    </ul>
+                                </div>
+                            </div>
                             <div class="margin-t-b-20">
                                 <a href="#" class="btn btn-primary trigger_popup_fricc">Get a Free Expert Consultation Now</a>
                             </div>
@@ -304,8 +312,8 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-lg-12"> 
-                        </div>
+                        <!--                        <div class="col-lg-12"> 
+                                                </div>-->
                         <div class="col-sm-4">
                             <div class="pricing-box-item">
                                 <div class="pricing-heading">
@@ -321,10 +329,11 @@
                                         <li><i class="fa fa-check"></i> Unlimited Support</li>
                                         <li>&nbsp;</li>
                                         <li>&nbsp;</li>
+
                                     </ul>
                                 </div>
-                                <div class="pricing-action">
-                                </div>
+                                <!--                                <div class="pricing-action">
+                                                                </div>-->
                             </div>
                         </div>
                         <div class="col-sm-4">
@@ -342,10 +351,11 @@
                                         <li><i class="fa fa-check"></i> Unlimited Support</li>
                                         <li><i class="fa fa-check"></i> Free Trial version</li>
                                         <li>&nbsp;</li>
+
                                     </ul>
                                 </div>
-                                <div class="pricing-action">
-                                </div>
+                                <!--                                <div class="pricing-action">
+                                                                </div>-->
                             </div>
                         </div>
                         <div class="col-sm-4">
@@ -365,8 +375,8 @@
                                         <li><i class="fa fa-check"></i> HTML5 CSS3 jQuery</li>
                                     </ul>
                                 </div>
-                                <div class="pricing-action">
-                                </div>
+                                <!--                                <div class="pricing-action">
+                                                                </div>-->
                             </div>
                         </div>
                     </div>
@@ -417,6 +427,9 @@
 <!--                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quae porro consequatur aliquam, incidunt eius magni provident</p>    -->
                         </div> 
                         <div class="col-md-1"></div>
+                    </div>
+                    <div class="row text-center">
+                        <a href="#" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
                     </div>
                 </div>
 

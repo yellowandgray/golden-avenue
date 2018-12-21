@@ -592,18 +592,18 @@ blockquote p {color: #fff;}
 
 
 .blurry-text {
-    color: transparent;
+    color: transparent !important;
     text-shadow: 0px 0px 6px rgba(255, 255, 255);
-}
+  }
 
-.white {color: white}
+.white {color: white !important}
 
 marquee {
     background: #424242;
     color: #fff;
     font-size: 18px;
     padding: 10px 0px;
-    margin-bottom: -7px;
+    margin-bottom: -10px;
 }
 
 .table{
@@ -729,3 +729,5 @@ footer p {
 
 
 blockquote p { color: #ffffff !important; }
+.form container p
+ { color: #ffffff !important; }

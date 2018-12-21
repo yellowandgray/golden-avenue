@@ -10,7 +10,7 @@ Note: Licence under Creative Commons Attribution 3.0
 body {
     font-family:'Open Sans', Arial, sans-serif;
     font-weight:300;
-    line-height:1.6em;
+    line-height:2.2em;
     color:#656565;
     font-size: 14px;
 }
@@ -910,7 +910,7 @@ section#inner-headline-0:after {
     }
     /* SUB BANNER-5 */
 
-    #inner-headline-5{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/cloud.jpg")}
+    #inner-headline-5{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/cloud-01.jpg")}
     section#inner-headline-1:after {
         content: '';
         background: rgba(0, 0, 0, 0.47);
@@ -952,7 +952,7 @@ section#inner-headline-0:after {
     #inner-headline-5 ul.breadcrumb li a {
         color:#fff;
     }
-    #inner-headline-7{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-procurement.jpg")}
+    #inner-headline-7{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-procurement-1.jpg")}
     section#inner-headline-1:after {
         content: '';
         background: rgba(0, 0, 0, 0.47);
@@ -1036,7 +1036,7 @@ section#inner-headline-0:after {
     #inner-headline-8 ul.breadcrumb li a {
         color:#fff;
     }
-    #inner-headline-9{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/blog.jpg")}
+    #inner-headline-9{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/blog-1.jpg")}
     section#inner-headline-1:after {
         content: '';
         background: rgba(0, 0, 0, 0.47);
@@ -1052,7 +1052,7 @@ section#inner-headline-0:after {
         padding: 92px 0;
         display:block;
         text-align: center;
-        position: relative;
+        position: relative;C
         z-index: 3;
     }
 
@@ -1399,7 +1399,7 @@ section#inner-headline-0:after {
     }
 
     /* --- button --- */
-    .btn{text-align: center;color: #FFFFFF;padding: 12px 25px;border-radius: 0;background: #007e93;border-color: transparent;}
+    .btn{text-align: center;color: #FFFFFF;padding: 12px 83px;border-radius: 0;background: #007e93;border-color: transparent;}
     .btn-theme {
         color: #fff;
         background: transparent;

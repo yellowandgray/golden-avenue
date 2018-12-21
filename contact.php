@@ -37,12 +37,20 @@
 
                             <!-- Form itself -->
                             <form name="sentMessage" id="contactForm"  novalidate>
-                                <h3>Contact me</h3>
+                                <h3>Contact Us</h3>
                                 <div class="control-group">
                                     <div class="controls">
                                         <input type="text" class="form-control" 
                                                placeholder="Full Name" id="name" required
                                                data-validation-required-message="Please enter your name" />
+                                        <p class="help-block"></p>
+                                    </div>
+                                </div> 
+                                <div class="control-group">
+                                    <div class="controls">
+                                        <input type="text" class="form-control" 
+                                               placeholder="Phone Number" id="name" required
+                                               data-validation-required-message="Please enter your Phone Number" />
                                         <p class="help-block"></p>
                                     </div>
                                 </div> 
@@ -55,6 +63,14 @@
                                         <p class="help-block"></p>
                                     </div>
                                 </div> 	
+                                <div class="control-group">
+                                    <div class="controls">
+                                        <input type="text" class="form-control" 
+                                               placeholder="Subject" id="name" required
+                                               data-validation-required-message="Please enter your Subject" />
+                                        <p class="help-block"></p>
+                                    </div>
+                                </div> 
 
                                 <div class="control-group">
                                     <div class="controls">
@@ -65,7 +81,7 @@
                                                   maxlength="999" style="resize:none"></textarea>
                                     </div>
                                 </div> 		 
-                                <div id="success"> </div> <!-- For success/fail messages -->
+<!--                                <div id="success"> </div>  For success/fail messages -->
                                 <button type="submit" class="btn btn-primary pull-right">Send</button><br />
                             </form>
                         </div>

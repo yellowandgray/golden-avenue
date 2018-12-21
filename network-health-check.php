@@ -26,11 +26,11 @@
                         </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <h3 class="color-blue">Network health check</h3>
+                                <h3 class="color-blue"><strong>Network health check</strong></h3>
                                 <p>When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business.</p> 
                                 <p>Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</p>
                                 <img src="img/blog/net02.jpg" alt="" class="img-responsive"/>
-                                <h3>We work with Network Providers who deliver a Complete System and Network Analysis</h3>
+                                <h3 class="color-blue">We work with Network Providers who deliver a Complete System and Network Analysis</h3>
                                 <ul>
                                     <li>Create a Strategy to enhance Business Productivity</li>
                                     <li>Ensure 24x7 operation of your systems</li>

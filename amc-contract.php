@@ -26,9 +26,9 @@
                         </ul>
                         <section class="section-padding">
                             <div class="row table-center-align">
-                                <h3 class="color-blue">Annual Maintenance Contract</h3>
+                                <h3 class="color-blue"><strong>Annual Maintenance Contract</strong></h3>
                                 <p>Golden Avenue offers sensible, trustworthy, efficient yet affordable and flexible Technical IT Annual Maintenance Services to its clients in Dubai. Become a part of our distinguished Clientele to keep your Business Information Technology Infrastructure updated and current to avoid any Malfunction or Security breaches which would result in loss of Revenue</p>
-                                <h3>Remote Support by Email & Telephone</h3>
+                                <h3 class="color-blue">Remote Support by Email & Telephone</h3>
                                 <table class="table">
                                     <tr>
                                         <th></th>
@@ -70,7 +70,7 @@
                                 </table>
                             </div>
                             <div class="row table-center-align">
-                                <h3>Free On-site Engineer Visits</h3>
+                                <h3 class="color-blue">Free On-site Engineer Visits</h3>
                                 <table class="table">
                                     <tr>
                                         <th></th>
@@ -100,7 +100,7 @@
                                 </table>
                             </div>
                             <div class="row table-center-align">
-                                <h3>Regular Maintenance Visits to Check Health of PC, Servers & Network Infrastructure</h3>
+                                <h3 class="color-blue">Regular Maintenance Visits to Check Health of PC, Servers & Network Infrastructure</h3>
                                 <table class="table">
                                     <tr>
                                         <th></th>
@@ -124,7 +124,7 @@
                                 </table>
                             </div>
                             <div class="row table-center-align">
-                                <h3>SLA</h3>
+                                <h3 class="color-blue">SLA</h3>
                                 <table class="table">
                                     <tr>
                                         <th></th>
@@ -160,7 +160,7 @@
                                 </table>
                             </div>
                             <div class="row table-center-align">
-                                <h3>IT Systems Support</h3>
+                                <h3 class="color-blue">IT Systems Support</h3>
                                 <table class="table">
                                     <tr>
                                         <th></th>
@@ -298,7 +298,7 @@
                                 </table>
                             </div>
                             <div class="row table-center-align">
-                                <h3>Additional Services</h3>
+                                <h3 class="color-blue">Additional Services</h3>
                                 <table class="table">
                                     <tr>
                                         <th></th>
@@ -338,6 +338,9 @@
                                         <td><i class="fa fa-plus-circle" aria-hidden="true"></i></td>
                                     </tr>
                                 </table>
+                                <div class="row text-center">
+                                    <a href="#" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
+                                </div>
                             </div>
                         </section>
                     </div>
@@ -346,7 +349,7 @@
             <?php include 'footer.php'; ?>
             <div class="side-widget open">
                 <div class="inner">
-                    <a class="btn btn-blue productCheckout" id="get-started">GET&nbsp;&nbsp; GUIDE</a>
+                    <a class="btn btn-blue productCheckout" id="get-started">GET&nbsp;&nbsp; QUOTE</a>
                 </div>
             </div>
             <div id="popup-container" style="width: 20%">
