@@ -640,9 +640,9 @@ marquee {
 
 .table-center-align td {width: 262px;}
 .font-size-20 {font-size: 20px;}
-.gray {background: #c7c7c7; color: #fff;}
-.blue {background: #5fb7c5; color: #fff;}
-.orange {background: #d6c09a; color: #fff;}
+.gray {background: #8a8989; color: #fff;}
+.blue {background: #41a9b9; color: #fff;}
+.orange {background: #dab576; color: #fff;}
 
 .margin-top-45 {margin-top: 45px;}
 .why-us-content {
@@ -710,3 +710,22 @@ ul.breadcrumb li a:hover {
     color: #01447e;
     text-decoration: underline;
 }*/
+
+p {color: #000000 !important; font-size: 17px !important}
+ul {color: #000000 !important; font-size: 16px !important}
+table {color: #000000 !important; font-size: 15px !important}
+.topbar span{
+    color: #ffffff !important;
+    font-size: 13px !important;
+}
+.topbar p{
+    color: #ffffff !important;
+    font-size: 13px !important;
+}
+footer p {
+    color: #ffffff !important;
+    font-size: 13px !important;
+}
+
+
+blockquote p { color: #ffffff !important; }

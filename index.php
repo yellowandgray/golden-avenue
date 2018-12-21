@@ -120,7 +120,7 @@
                                     <div class="box-area">
                                         <p>Tailor-Made Contracts, FOCUSED and Specific to ALL your Business Needs</p>
                                         <br/>
-                                        <br/>
+
                                         <a href="#" class="btn btn-primary">Get Quote</a>
 
                                     </div>
@@ -130,7 +130,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="gray-bg text-center padding-20">
-                                <h1>IT Services and Technical Support Provider in Dubai</h1>
+                                <h1> Dubai's Best IT Services and Technical Support Provider </h1>
                                 <p class="text-justify">At GOLDEN AVENUE, We are a team of IT professionals and experts with a mission to influence your IT requirement & provide solutions in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
                             </div>
                         </div>
@@ -159,16 +159,16 @@
                     </div>
                     <div class="row">
                         <div class="col-md-7">
-                           <h3 class="blue-color bold">5 Benefits to Hire Your Own Virtual IT Manager </h3>  
-                           <ul>
+                            <h3 class="blue-color bold">5 Benefits to Hire Your Own Virtual IT Manager </h3>  
+                            <ul>
                                 <li>Decreased Operating Costs and Improved Productivity</li>
                                 <li>Analysis of the Entire IT Infra-structure and submission of Reports, Findings and necessary Recommendations</li>
                                 <li>Ensure System Security, Plan for Business Continuity, Backup and storage for Disaster Recovery and Compliance are in Order</li>
                                 <li>Make certain that organizations are abiding by both industry regulations and government legislation</li>
                                 <li>Increased Revenue</li>
                                 <li>Dedicated IT Professionals at a fraction of the COST</li>
-                           </ul></br>
-                           <h3 class="blue-color bold">Complete Solutions & Support Services, Hardware & Software</h3>
+                            </ul></br>
+                            <h3 class="blue-color bold">ONE STOP for all Solutions & Support Services, Hardware & Software</h3>
                             <p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
                             <h4 class="bold">Our Services</h4>
                             <p class="bold">IT Health Checks:</p>
@@ -191,7 +191,13 @@
                                 <li>Security Solutions</li>
                                 <li>Cloud Solutions</li>
                             </ul>
-                            <p class="bold">Hardware & Software</p>
+                            <p class="bold">IT Procurement Services</p>
+                            <ul>
+                                <li>Hardware</li>
+                                <li>Software</li>
+                                <li>Storage/Backup</li>
+                                <li>Networking</li>
+                            </ul>
                             <div class="margin-t-b-20">
                                 <a href="#" class="btn btn-primary trigger_popup_fricc">Get a Free Expert Consultation Now</a>
                             </div>
@@ -293,7 +299,7 @@
                         <div class="col-md-12">
                             <div class="gray-bg text-center padding-20">
                                 <h1>Annual Maintenance Contracts (AMC)</h1>
-                                <p class="text-justify">Our maintenance contracts are highly flexible.  Our customer has the option to a long term flexible AMC (Annual Maintenance Contract). Choose the plan that fits your requirements. We give our clients OPTIMAL advantage at fraction of their cost in and around Dubai. Our Services include Remote support, in-house assistance in all IT-related domains, from office infrastructure setup to staff training and consulting. GOLDEN AVENUE brings apt, dependable, resourceful yet affordable technical IT Maintenance Services to Dubai Customers.</p>
+                                <p class="text-justify">Our maintenance contracts are highly flexible.  Our customer has the option to a long term flexible AMC (Annual Maintenance Contract). Choose the plan that fits your requirements. We give our clients OPTIMAL advantage at fraction of their cost. Our Services include Remote support, in-house assistance in all IT-related domains, from office infrastructure setup to staff training and consulting. GOLDEN AVENUE brings apt, dependable, resourceful yet affordable technical IT Maintenance Services to clients in and around Dubai.</p>
                             </div>
                         </div>
                     </div>
@@ -318,7 +324,6 @@
                                     </ul>
                                 </div>
                                 <div class="pricing-action">
-                                    <a href="#" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
                                 </div>
                             </div>
                         </div>
@@ -340,14 +345,13 @@
                                     </ul>
                                 </div>
                                 <div class="pricing-action">
-                                    <a href="#" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-sm-4">
                             <div class="pricing-box-item">
                                 <div class="pricing-heading">
-                                    <h3><strong>Advanced</strong></h3>
+                                    <h3><strong>Enterprise</strong></h3>
                                 </div>
                                 <!--                                <div class="pricing-terms">
                                                                     <h6>&#36;15.00 / Year</h6>
@@ -362,12 +366,15 @@
                                     </ul>
                                 </div>
                                 <div class="pricing-action">
-                                    <a href="#" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    <div class="row text-center">
+                        <a href="#" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
+                    </div>
                 </div>
+
             </section>
 
             <section class="section-padding">

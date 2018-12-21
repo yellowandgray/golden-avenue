@@ -32,7 +32,7 @@
                                 <h3>The audit consists of the following checks</h3>
                                 <ul>
                                     <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
-                                    <li>Scrutinizing whether the current configuration of the IT structure</li>
+                                    <li>Scrutinizing whether the current configuration of the IT structure is cost effective and efficient</li>
                                     <li>Analysing and testing the security policies and data protection safeguards adopted by the business</li>
                                     <li>Checking for outdated or repetitive  modules and improve efficiency</li>
                                     <li>The IT infra-structure is considered an Asset and can be related to Asset Management. It is an investment that helps in the financial growth of a business. Just like an asset it has initial and maintenance costs but the advantages of its maintenance is quite enormous. GOLDEN AVENUE consultants are highly skilled and are specialists in this field and provide best Assessment services to their clients</li>
