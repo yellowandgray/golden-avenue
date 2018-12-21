@@ -684,9 +684,10 @@ blink {
         visibility: visible;
     }
 }
-.color-blue{color:#007e93;
+.color-blue{color:#007e93;                   
 }
-
+.color-red{color:#f14d4d;
+}
 /*ul.breadcrumb {
     padding: 10px 16px;
     list-style: none;
