@@ -711,9 +711,9 @@ ul.breadcrumb li a:hover {
     text-decoration: underline;
 }*/
 
-p {color: #000000 !important; font-size: 17px !important}
-ul {color: #000000 !important; font-size: 16px !important}
-table {color: #000000 !important; font-size: 15px !important}
+p {color: #000000 !important; font-size: 17px !important; line-height: 2em;}
+ul {color: #000000 !important; font-size: 16px !important;}
+table {color: #000000 !important; font-size: 15px !important;}
 .topbar span{
     color: #ffffff !important;
     font-size: 13px !important;
@@ -731,3 +731,7 @@ footer p {
 blockquote p { color: #ffffff !important; }
 .form container p
  { color: #ffffff !important; }
+ 
+ .list-line li{
+     padding-bottom: 10px;
+ }

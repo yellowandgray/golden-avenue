@@ -30,7 +30,7 @@
                                 <h3 class="color-blue">An IT assessment is a thorough audit of all information technology infrastructure used by a business.</h3> 
                                 <img src="img/blog/sub02.jpg" alt="" class="img-responsive"/>
                                 <h3 class="color-blue">The audit consists of the following checks</h3>
-                                <ul>
+                                <ul class="list-line">
                                     <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
                                     <li>Scrutinizing whether the current configuration of the IT structure is cost effective and efficient</li>
                                     <li>Analysing and testing the security policies and data protection safeguards adopted by the business</li>

@@ -30,7 +30,7 @@
                                 <img src="img/blog/sub001.jpg" alt="" class="img-responsive"/>
                                 
                                 <h3 class="color-blue"> Our Experts in Golden Avenue do the following in order to prevent any threats:</h3>
-                                <ul>
+                                <ul class="list-line">
                                     <li>Risk assessment on a REGULAR basis;</li>
                                     <li>Analyzing  history of the entire security system operation;</li>
                                     <li>Correcting the security in the system to decrease or eliminate any risk of data breaches</li>

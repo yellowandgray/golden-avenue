@@ -27,7 +27,7 @@
                             <div class="col-md-7">
                                 <h3 class="color-blue"><strong>Consulting services</strong></h3>
                                 <h3 class="color-blue">Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</h3>
-                                <ul>
+                                <ul class="list-line">
                                     <li>Analyze Vulnerability to reveal risks </li>
                                     <li>Assess Security threats to outline the significance of existing vulnerabilities;</li>
                                     <li>Design and Recommend solutions to secure the entire information security Network;</li>

@@ -11,8 +11,8 @@
                         London Hotel,  Al Sabkha Rd,<br>
                         Naif, Deira, Dubai, U.A.E.</address>
                     <p>
-                        <i class="fa fa-phone"></i> &nbsp;+971 4 266 8272 / +971 4 271 3404 <br>
-                        <i class="fa fa-envelope-o"></i>  &nbsp;enquiry@goldenavenue.ae
+                        <i class="fa fa-phone"></i><a href="tel:+971 4 266 8272"> &nbsp;+971 4 266 8272</a>/<a href="tel:+971 4 271 3404"> +971 4 271 3404 </a><br>
+                        <i class="fa fa-envelope-o"></i><a href="mailto:enquiry@goldenavenue.ae">  &nbsp;enquiry@goldenavenue.ae</a>
                     </p>
                 </div>
             </div>

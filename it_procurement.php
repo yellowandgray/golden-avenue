@@ -27,7 +27,7 @@
                                 <p>In many Businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure</p>
                                 <img src="img/blog/outsourcing-1.jpg" alt="" class="img-responsive"/>
                                 <h2 class="font-size-20 color-blue">Advantages of IT Outsourcing</h2>
-                                <ul>
+                                <ul class="list-line">
                                     <li>Fixed Monthly Cost </li>
                                     <li>Focus on Core Competencies</li>
                                     <li>Access to Skilled Resources</li>

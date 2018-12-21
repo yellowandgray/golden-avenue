@@ -31,7 +31,7 @@
                                 <h3 class="color-blue">Golden avenue experts perform the following to achieve this constraint:</h3>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <ul>
+                                        <ul class="list-line">
                                             <li>Analyze the current capabilities for recovery;</li>
                                             <li>Provide necessary requirements that has be completed in order to recover quickly and circumvent any losses;</li>
                                             <li>Analyze current capabilities;</li>

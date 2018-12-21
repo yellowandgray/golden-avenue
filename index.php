@@ -160,7 +160,7 @@
                     <div class="row">
                         <div class="col-md-7">
                             <h3 class="blue-color bold">5 Benefits to Hire Your Own Virtual IT Manager </h3>  
-                            <ul>
+                            <ul class="list-line">
                                 <li>Decreased Operating Costs and Improved Productivity</li>
                                 <li>Analysis of the Entire IT Infra-structure and submission of Reports, Findings and necessary Recommendations</li>
                                 <li>Ensure System Security, Plan for Business Continuity, Backup and storage for Disaster Recovery and Compliance are in Order</li>
@@ -170,72 +170,6 @@
                             </ul></br>
                             <h3 class="blue-color bold">ONE STOP for all Solutions & Support Services, Hardware & Software</h3>
                             <p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
-                            <h4 class="bold">Our Services</h4>
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <p class="bold">IT Health Checks:</p>
-                                    <ul>
-                                        <li>Networking Checks</li>
-                                        <li>Business Continuity</li>
-                                        <li>IT Security</li>
-                                        <li>Server Health</li>
-                                        <li>Application Performance</li>
-                                    </ul>
-                                </div>
-<!--                            <p class="bold">IT Services Dubai:</p>
-                            <ul>
-                                <li>Support 24/7</li>
-                                <li>Networking</li>
-                                <li>Managed Services</li>
-                            </ul>-->
-                                <div class="col-md-4"> 
-                                    <p class="bold">Technical Solutions:</p>
-                                    <ul>
-                                        <li>Infrastructure Solutions</li>
-                                        <li>Security Solutions</li>
-                                        <li>Cloud Solutions</li>
-                                    </ul>
-                                </div>
-                                <div class="col-md-4"> 
-                                    <p class="bold">IT Procurement Services</p>
-                                    <ul>
-                                        <li>Hardware</li>
-                                        <li>Software</li>
-                                        <li>Storage/Backup</li>
-                                        <li>Networking</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="margin-t-b-20">
-                                <a href="#" class="btn btn-primary trigger_popup_fricc">Get a Free Expert Consultation Now</a>
-                            </div>
-                            <div class="hover_bkgr_fricc">
-                                <span class="helper"></span>
-                                <div>
-                                    <div class="popupCloseButton">X</div>
-                                    <form action="" method="post" id="footer-form">
-                                        <h3 class="text-center bold">Enquiry</h3>
-                                        <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
-                                        <br>
-                                        <input class="form-control" name="contact_name" id="contact_person" placeholder="Contact Person *" required>
-                                        <br>
-                                        <input class="form-control" name="number_employe" id="number_of_persons" placeholder="Number of Employes *" required>
-                                        <br>
-                                        <input class="form-control" name="email" id="email" placeholder="Your Email *">
-                                        <br>
-                                        <input class="form-control" name="phone" placeholder="Phone *" id="phone">
-                                        <br>
-                                        <input class="form-control" name="subject" placeholder="Subject" id="subject">
-                                        <br>
-                                        <textarea class="form-control" name="subject" rows="4" placeholder="Comments" id="comments"></textarea>
-
-                                        <br>
-                                        <center>
-                                            <input type="submit" class="btn btn-blue" value="Submit">
-                                        </center>
-                                    </form>
-                                </div>
-                            </div>
                         </div>
                         <div class="col-md-5">
                             <div class="box-shadow-2">
@@ -301,6 +235,72 @@
                                     </div>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                    <h4 class="bold">Our Services</h4>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <p class="bold">IT Health Checks:</p>
+                            <ul>
+                                <li>Networking Checks</li>
+                                <li>Business Continuity</li>
+                                <li>IT Security</li>
+                                <li>Server Health</li>
+                                <li>Application Performance</li>
+                            </ul>
+                        </div>
+<!--                            <p class="bold">IT Services Dubai:</p>
+                    <ul>
+                        <li>Support 24/7</li>
+                        <li>Networking</li>
+                        <li>Managed Services</li>
+                    </ul>-->
+                        <div class="col-md-4"> 
+                            <p class="bold">Technical Solutions:</p>
+                            <ul>
+                                <li>Infrastructure Solutions</li>
+                                <li>Security Solutions</li>
+                                <li>Cloud Solutions</li>
+                            </ul>
+                        </div>
+                        <div class="col-md-4"> 
+                            <p class="bold">IT Procurement Services</p>
+                            <ul>
+                                <li>Hardware</li>
+                                <li>Software</li>
+                                <li>Storage/Backup</li>
+                                <li>Networking</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="margin-t-b-20">
+                        <a href="#" class="btn btn-primary trigger_popup_fricc">Get a Free Expert Consultation Now</a>
+                    </div>
+                    <div class="hover_bkgr_fricc">
+                        <span class="helper"></span>
+                        <div>
+                            <div class="popupCloseButton">X</div>
+                            <form action="" method="post" id="footer-form">
+                                <h3 class="text-center bold">Enquiry</h3>
+                                <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
+                                <br>
+                                <input class="form-control" name="contact_name" id="contact_person" placeholder="Contact Person *" required>
+                                <br>
+                                <input class="form-control" name="number_employe" id="number_of_persons" placeholder="Number of Employes *" required>
+                                <br>
+                                <input class="form-control" name="email" id="email" placeholder="Your Email *">
+                                <br>
+                                <input class="form-control" name="phone" placeholder="Phone *" id="phone">
+                                <br>
+                                <input class="form-control" name="subject" placeholder="Subject" id="subject">
+                                <br>
+                                <textarea class="form-control" name="subject" rows="4" placeholder="Comments" id="comments"></textarea>
+
+                                <br>
+                                <center>
+                                    <input type="submit" class="btn btn-blue" value="Submit">
+                                </center>
+                            </form>
                         </div>
                     </div>
                     <div class="row">
@@ -381,7 +381,7 @@
                         </div>
                     </div>
                     <div class="row text-center">
-                        <a href="#" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
+                        <a href="amc-contract.php" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
                     </div>
                 </div>
 

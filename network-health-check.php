@@ -31,7 +31,7 @@
                                 <p>Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</p>
                                 <img src="img/blog/net02.jpg" alt="" class="img-responsive"/>
                                 <h3 class="color-blue">We work with Network Providers who deliver a Complete System and Network Analysis</h3>
-                                <ul>
+                                <ul class="list-line">
                                     <li>Create a Strategy to enhance Business Productivity</li>
                                     <li>Ensure 24x7 operation of your systems</li>
                                     <li>Mobile connectivity for access to information anytime anywhere</li>
