@@ -1052,7 +1052,7 @@ section#inner-headline-0:after {
         padding: 92px 0;
         display:block;
         text-align: center;
-        position: relative;C
+        position: relative;
         z-index: 3;
     }
 
@@ -1399,7 +1399,7 @@ section#inner-headline-0:after {
     }
 
     /* --- button --- */
-    .btn{text-align: center;color: #FFFFFF;padding: 12px 83px;border-radius: 0;background: #007e93;border-color: transparent;}
+    .btn{text-align: center;color: #FFFFFF;padding: 12px 83px;border-radius: 0;background: #007e93;border-color: transparent; margin-top: 12px;}
     .btn-theme {
         color: #fff;
         background: transparent;
