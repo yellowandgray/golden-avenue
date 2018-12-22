@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <p class="pull-left hidden-xs"><span>Welcome to Golden Avenue</span> 
+                <p class="pull-left hidden-xs"><span>Welcome to Golden Avenue</span></p> 
                 <p class="pull-right"><a href=""><i class="fa fa-facebook"></i></a><a href=""><i class="fa fa-twitter"></i></a><a href=""><i class="fa fa-linkedin"></i></a><a href=""><i class="fa fa-pinterest"></i></a><a href=""><i class="fa fa-google-plus"></i></a>&nbsp;<i class="fa fa-phone"></i><a href="tel:+04 2668272"> 04 2668272 &nbsp;&nbsp;</a><i class="fa fa-envelope-o"></i><a href="mailto:enquiry@goldenavenue.ae">enquiry@goldenavenue.ae</a></p>
             </div>
         </div>
