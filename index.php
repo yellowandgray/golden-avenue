@@ -19,12 +19,12 @@
                         <li>
                             <img src="img/slides/banner-2.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content">ANNUAL MAINTENANCE CONTRACT</br><span class="italic font-size-24 font-italic">Flexible and tailorite </span></h3>  
+                                <h3 class="banner-content">ANNUAL MAINTENANCE CONTRACT</br><span class="italic font-size-24 font-italic">flexible & tailor-made </span></h3>  
 
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/golden-avenue.jpg" alt="" />
+                            <img src="img/slides/golden-avenue-1.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3 class="banner-content">IT & NETWORK</br> HEALTH CHECKS</h3>  
 
@@ -392,7 +392,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="section-title gray-bg text-center padding-20">
-                                <h2>PRODUCTS</h2>
+                                <h2>IT PROCUREMENT SERVICES</h2>
                                 <p>GOLDEN AVENUE is dedicated in providing you with the Complete Infra-Structure SETUP with impeccable Customer Service and Support</p>
                             </div>
                         </div>
@@ -429,7 +429,7 @@
                         <div class="col-md-1"></div>
                     </div>
                     <div class="row text-center">
-                        <a href="#" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
+                        <a href="it_procurement.php" class="btn btn-primary"><i class="icon-bolt"></i>IT PROCUREMENT GUIDE</a>
                     </div>
                 </div>
 

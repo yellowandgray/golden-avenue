@@ -93,57 +93,123 @@
                         </div>
                         <div class="row">
                             <div class="col-md-12">
-                              <h2 class="font-size-20 color-blue">How Do I Use a Procurement Service?</h2>
+                                <h2 class="font-size-20 color-blue">How Do I Use a Procurement Service?</h2>
                                 <p>Golden Avenue experts will personally meet with you to discuss your requirements and strategize and align our services that maybe necessary to you. You do not have to outsource your entire procurement functionalities. We will assist you in selected spend categories. GOLDEN AVENUE can work on a contingency basis, and there won’t be any up-front charges.</p>
+                                <p>Please refers to&nbsp;&nbsp;&nbsp;&nbsp; <a href="it_procurement.php" class="btn-1 btn-primary">IT Procurement Services</a>
+                              </p>
+                                   
+                              </div>
+                           
                             </div>
                         </div>
-                    </div>
                     </div>
                 </section>
             </section>
             <?php include 'footer.php'; ?>
-        </div>
-        <button class="open-button" onclick="openForm()"><blink>#DoYouKnow ???</blink></button>
-        <div class="chat-popup" id="myQus">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeForm()"><span aria-hidden="true">×</span></button>  
-            <div  class="form-container">
-                <div class="row">
-                    <div class="col-md-6">
-                        <h3 class="text-center bold white">#DoYouKnow</h3>
-                        <p class="white">Computers with AV disabled?</p>
-                        <p class="white">Are your systems fully patched?</p>
-                        <p class="white">What systems have outdated hardware?</p>
-                        <p class="white">What changed in your network?</p>
-                        <p class="blurry-text">Complete network security overview</p>
-                        <p class="blurry-text">What new devices are added to the network?</p>
-                        <p class="blurry-text">What ports are opened in the network?</p>
-                        <p class="blurry-text">Unauthorized applications?</p>
-                        <p class="blurry-text">What USB devices connect to your network?</p>
-                        <p class="blurry-text">How vulnerable is your network?</p>
-                    </div>
-                    <div class="col-md-6 text-center">
-                        <form action="" method="post" id="footer-form">
-                            <h3 class="text-center bold white">For a Free IT Health Check</h3>
-                            <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
-                            <br>
-                            <input class="form-control" name="email" id="email" placeholder="Your Email *">
-                            <br>
-                            <input class="form-control" name="phone" placeholder="Phone *" id="phone">
-                            <br>
-                            <input class="form-control" name="subject" placeholder="Subject" id="subject">
-                            <br>
-                            <textarea class="form-control" name="subject" placeholder="Comments" id="comments" style="min-height: 70px;"></textarea>
+            <div class="side-widget open">
+                <div class="inner">
+                    <a class="btn btn-blue productCheckout" id="get-started"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp; IT&nbsp;&nbsp; PROCUREMENT&nbsp;&nbsp; GUIDE</a>
+                </div>
+            </div>
+            <div id="popup-container">
+                <div id="popup-window">
+                    <div class="modal-content">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>  
+                        <a href="#" class="your-class"></a>
+                        <div>
+                            <!--                <div class="row text-center margin-bottom-0">
+                                                <h1>CYBER SECURITY AWARENESS WORKSHOP</h1>
+                                            </div>
+                                            <br>-->
 
-                            <br>
-                            <center>
-                                <input type="submit" class="btn btn-blue" value="Submit">
-                            </center>
-                        </form>
+                            <div class="row margin-bottom-0 text-center">
+                                <iframe src="https://www.youtube.com/embed/0p3787JiFgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <!--                    <div class="col-md-4">
+                                                        <img src="img/golden-avenue-cyber-workshop.jpg" class="img-responsive" />
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                        <p class="text-justify">Protect your business and make employees part of your active defense from cyber threats <br/><br/> Make security awareness fun and meaningful for employees <br/><br/>Topics Include:</p>
+                                                        <ul class="italic">
+                                                            <li>Understanding security threats</li>
+                                                            <li>Social media threats</li>
+                                                            <li>Identifying and detecting malware</li>
+                                                            <li>Best-practice password guidelines</li>
+                                                            <li>Phishing detection and awareness</li>
+                                                            <li>Data classification</li>
+                                                            <li>Data storage and retention guidelines</li>
+                                                            <li>Cloud computing and storage</li>
+                                                            <li>Physical security</li>
+                                                            <li>Mobile device protection and smartphone security</li>
+                                                        </ul>
+                                                    </div>
+                                                    <div class="col-md-4">
+                                                        <form action="" method="post" id="footer-form">
+                                                            <h3 class="text-center bold">Enquiry</h3>
+                                                            <input class="form-control" name="first_name" id="first_name" placeholder="Company Name *" required>
+                                                            <br>
+                                                            <input class="form-control" name="last_name" id="contact_person" placeholder="Contact Person *" required>
+                                                            <br>
+                                                            <input class="form-control" name="last_name" id="number_of_persons" placeholder="Number of Persons *" required>
+                                                            <br>
+                                                            <input class="form-control" name="phone" placeholder="Phone *" id="phone">
+                                                            <br>
+                                                            <input class="form-control" name="email" id="email" placeholder="Your Email *">
+                                
+                                                            <br>
+                                                            <center>
+                                                                <input type="submit" class="btn btn-blue" value="Submit">
+                                                            </center>
+                                                        </form>
+                                                    </div>-->
+                            </div>
+
+                        </div>
                     </div>
                 </div>
-
-
             </div>
-        </div>
+
+
+            <button class="open-button" onclick="openForm()"><blink>#DoYouKnow ???</blink></button>
+            <div class="chat-popup" id="myQus">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeForm()"><span aria-hidden="true">×</span></button>  
+                <div  class="form-container">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <h3 class="text-center bold white">#DoYouKnow</h3>
+                            <p class="white">Computers with AV disabled?</p>
+                            <p class="white">Are your systems fully patched?</p>
+                            <p class="white">What systems have outdated hardware?</p>
+                            <p class="white">What changed in your network?</p>
+                            <p class="blurry-text">Complete network security overview</p>
+                            <p class="blurry-text">What new devices are added to the network?</p>
+                            <p class="blurry-text">What ports are opened in the network?</p>
+                            <p class="blurry-text">Unauthorized applications?</p>
+                            <p class="blurry-text">What USB devices connect to your network?</p>
+                            <p class="blurry-text">How vulnerable is your network?</p>
+                        </div>
+                        <div class="col-md-6 text-center">
+                            <form action="" method="post" id="footer-form">
+                                <h3 class="text-center bold white">For a Free IT Health Check</h3>
+                                <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
+                                <br>
+                                <input class="form-control" name="email" id="email" placeholder="Your Email *">
+                                <br>
+                                <input class="form-control" name="phone" placeholder="Phone *" id="phone">
+                                <br>
+                                <input class="form-control" name="subject" placeholder="Subject" id="subject">
+                                <br>
+                                <textarea class="form-control" name="subject" placeholder="Comments" id="comments" style="min-height: 70px;"></textarea>
+
+                                <br>
+                                <center>
+                                    <input type="submit" class="btn btn-blue" value="Submit">
+                                </center>
+                            </form>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
     </body>
 </html>
