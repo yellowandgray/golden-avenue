@@ -419,6 +419,10 @@ blockquote p {color: #fff;}
         width: 20px;
         height: 20px;
     }
+    .popup-scroll {
+        overflow: auto;
+        height: 570px;
+    }
 }
 
 /*.img-responsive {width: 100% }*/
