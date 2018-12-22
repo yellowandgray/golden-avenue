@@ -96,13 +96,13 @@
                                 <h2 class="font-size-20 color-blue">How Do I Use a Procurement Service?</h2>
                                 <p>Golden Avenue experts will personally meet with you to discuss your requirements and strategize and align our services that maybe necessary to you. You do not have to outsource your entire procurement functionalities. We will assist you in selected spend categories. GOLDEN AVENUE can work on a contingency basis, and there won’t be any up-front charges.</p>
                                 <p>Please refers to&nbsp;&nbsp;&nbsp;&nbsp; <a href="it_procurement.php" class="btn-1 btn-primary">IT Procurement Services</a>
-                              </p>
-                                   
-                              </div>
-                           
+                                </p>
+
                             </div>
+
                         </div>
                     </div>
+                    
                 </section>
             </section>
             <?php include 'footer.php'; ?>
@@ -168,48 +168,7 @@
                 </div>
             </div>
 
-
-            <button class="open-button" onclick="openForm()"><blink>#DoYouKnow ???</blink></button>
-            <div class="chat-popup" id="myQus">
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closeForm()"><span aria-hidden="true">×</span></button>  
-                <div  class="form-container">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h3 class="text-center bold white">#DoYouKnow</h3>
-                            <p class="white">Computers with AV disabled?</p>
-                            <p class="white">Are your systems fully patched?</p>
-                            <p class="white">What systems have outdated hardware?</p>
-                            <p class="white">What changed in your network?</p>
-                            <p class="blurry-text">Complete network security overview</p>
-                            <p class="blurry-text">What new devices are added to the network?</p>
-                            <p class="blurry-text">What ports are opened in the network?</p>
-                            <p class="blurry-text">Unauthorized applications?</p>
-                            <p class="blurry-text">What USB devices connect to your network?</p>
-                            <p class="blurry-text">How vulnerable is your network?</p>
-                        </div>
-                        <div class="col-md-6 text-center">
-                            <form action="" method="post" id="footer-form">
-                                <h3 class="text-center bold white">For a Free IT Health Check</h3>
-                                <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
-                                <br>
-                                <input class="form-control" name="email" id="email" placeholder="Your Email *">
-                                <br>
-                                <input class="form-control" name="phone" placeholder="Phone *" id="phone">
-                                <br>
-                                <input class="form-control" name="subject" placeholder="Subject" id="subject">
-                                <br>
-                                <textarea class="form-control" name="subject" placeholder="Comments" id="comments" style="min-height: 70px;"></textarea>
-
-                                <br>
-                                <center>
-                                    <input type="submit" class="btn btn-blue" value="Submit">
-                                </center>
-                            </form>
-                        </div>
-                    </div>
-
-
-                </div>
-            </div>
+        </div>
+            <?php include 'popup.php'; ?>
     </body>
 </html>

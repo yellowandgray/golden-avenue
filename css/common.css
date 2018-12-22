@@ -527,16 +527,16 @@ blockquote p {color: #fff;}
 .chat-popup {
     display: none;
     position: fixed;
-    bottom: 46px;
+    bottom: 13px;
     left: 0px;
-    border: 3px solid #565656;
+/*    border: 3px solid #565656;*/
     z-index: 1000;
 }
 
 /* Add styles to the form container */
 .form-container {
     max-width: 500px;
-    padding: 10px;
+    padding: 10px 10px 0px;
     background-color: #000000;
 }
 
