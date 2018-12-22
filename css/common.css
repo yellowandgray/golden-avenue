@@ -530,7 +530,7 @@ blockquote p {color: #fff;}
     position: fixed;
     bottom: 13px;
     left: 0px;
-/*    border: 3px solid #565656;*/
+    /*    border: 3px solid #565656;*/
     z-index: 1000;
 }
 
@@ -748,4 +748,11 @@ blockquote p { color: #ffffff !important; }
     background: #007e93;
     border-color: transparent;
     margin-top: 0px;
+}
+.box-shadow-2 p{
+    color: #007e93 !important;
+}
+.get-padding {
+    padding:12px 23px;
+    font-size: 15px !important;
 }

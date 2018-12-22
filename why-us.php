@@ -71,7 +71,7 @@
 <?php include 'footer.php'; ?>
             <div class="side-widget open">
                 <div class="inner">
-                    <a class="btn btn-blue productCheckout" id="get-started">GET&nbsp;&nbsp; QUOTE</a>
+                    <a class="btn btn-blue productCheckout get-padding" id="get-started">Get a Free Expert Consultation Now</a>
                 </div>
             </div>
             <div id="popup-container" style="width: 20%">

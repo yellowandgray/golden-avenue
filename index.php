@@ -173,7 +173,7 @@
                         <div class="col-md-5">
                             <div class="box-shadow-2">
                                 <div class="row margin-bottom-0">
-                                    <h4 class="text-center bold">CURRENT NEWS POST</h4>
+                                    <h4 class="text-center bold color-blue">CURRENT NEWS POST</h4>
                                     <div class="col-md-6">
                                         <a href="https://www.arabianbusiness.com/technology/403750-274-cyber-attacks-target-the-uae-so-far-in-2018-down-39" target="blank">
                                             <img src="img/news/golden-news.jpg" class="img-responsive img-width" />
