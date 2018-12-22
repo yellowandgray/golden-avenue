@@ -23,7 +23,7 @@
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/golden-avenue-1.jpg" alt="" />
+                            <img src="img/slides/golden-avenue.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3 class="banner-content">IT & NETWORK</br> HEALTH CHECKS</h3>  
 
