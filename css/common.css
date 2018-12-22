@@ -135,7 +135,7 @@ button .glyphicon-menu-right, input[type="button"] .glyphicon-menu-right, input[
     width: 57px;
     z-index: 9;
     background-color: #fff;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0);
     position: fixed;
     right: 0;
     top: 60%;;
@@ -527,10 +527,10 @@ blockquote p {color: #fff;}
 .chat-popup {
     display: none;
     position: fixed;
-    bottom: 0;
-    left: 15px;
+    bottom: 46px;
+    left: 0px;
     border: 3px solid #565656;
-    z-index: 999;
+    z-index: 1000;
 }
 
 /* Add styles to the form container */
@@ -598,7 +598,7 @@ blockquote p {color: #fff;}
 .blurry-text {
     color: transparent !important;
     text-shadow: 0px 0px 6px rgba(255, 255, 255);
-  }
+}
 
 .white {color: white !important}
 
@@ -734,12 +734,12 @@ footer p {
 
 blockquote p { color: #ffffff !important; }
 .form container p
- { color: #ffffff !important; }
- 
- .list-line li{
-     padding-bottom: 10px;
- }
- .btn-1 {
+{ color: #ffffff !important; }
+
+.list-line li{
+    padding-bottom: 10px;
+}
+.btn-1 {
     text-align: center;
     color: #FFFFFF;
     padding: 5px 78px;
