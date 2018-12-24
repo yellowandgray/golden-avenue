@@ -43,8 +43,8 @@
                                     <li>Reviewing relationship with client on a Quarterly Basis</li>
                                     <li>Fixed Margin for all the procurement</li>
                                 </ul></br>
-                                <h2 class="font-size-20 color-blue">Procurement Services -IT procurement involves both strategic and administrative responsibilities…</h2>
-                                <h3>Daily Tasks may include</h3>
+                                <h2 class="font-size-20 color-blue">What a Procurement services include? </br>IT procurement involves both strategic and administrative responsibilities…</h2>
+                                <h3>Daily work involved </h3>
                                 <ul>
                                     <li>Conducting Market Research</li>
                                     <li>Pricing Negotiations</li>
@@ -95,7 +95,7 @@
                             <div class="col-md-12">
                                 <h2 class="font-size-20 color-blue">How Do I Use a Procurement Service?</h2>
                                 <p>Golden Avenue experts will personally meet with you to discuss your requirements and strategize and align our services that maybe necessary to you. You do not have to outsource your entire procurement functionalities. We will assist you in selected spend categories. GOLDEN AVENUE can work on a contingency basis, and there won’t be any up-front charges.</p>
-                                <p>Please refer to IT Procurement services&nbsp;&nbsp;&nbsp;&nbsp; <a href="it_procurement.php" class="btn-1 btn-primary">IT Procurement Services</a>
+                                <p>Please refer to &nbsp;&nbsp;&nbsp;&nbsp; <a href="#" class="btn-1 btn-primary" id="get-started1"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp;IT&nbsp;&nbsp;Procurement&nbsp;&nbsp;Guide</a>
                                 </p>
 
                             </div>

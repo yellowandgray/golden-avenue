@@ -160,14 +160,13 @@
                         <div class="col-md-7">
                             <h3 class="blue-color bold">5 Benefits to Hire Your Own Virtual IT Manager </h3>  
                             <ul class="list-line">
-                                <li>Decreased Operating Costs and Improved Productivity</li>
+                                <li>Increased Revenue by Decreasing Operating Costs and Improved Productivity</li>
                                 <li>Analysis of the Entire IT Infra-structure and submission of Reports, Findings and necessary Recommendations</li>
                                 <li>Ensure System Security, Plan for Business Continuity, Backup and storage for Disaster Recovery and Compliance are in Order</li>
                                 <li>Make certain that organizations are abiding by both industry regulations and government legislation</li>
-                                <li>Increased Revenue</li>
                                 <li>Dedicated IT Professionals at a fraction of the COST</li>
                             </ul></br>
-                            <h3 class="blue-color bold">ONE STOP for all Solutions & Support Services, Hardware & Software</h3>
+                            <h3 class="blue-color bold">ONE STOP for all IT Security Solutions, Support Services, Hardware & Software</h3>
                             <p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
                         </div>
                         <div class="col-md-5">
@@ -182,9 +181,7 @@
                                     <div class="col-md-6">
                                         <p class="date-font-10">August 13, 2018</p>
                                         <hr class="hr1">
-                                        <a href="https://www.arabianbusiness.com/technology/403750-274-cyber-attacks-target-the-uae-so-far-in-2018-down-39" target="blank">
-                                            <p>274 cyber attacks target the UAE so far in 2018,</p>
-                                        </a>
+                                        <a href="https://www.arabianbusiness.com/technology/403750-274-cyber-attacks-target-the-uae-so-far-in-2018-down-39" target="blank">274 cyber attacks target the UAE so far in 2018,</a>
 <!--                                        <a href="https://www.arabianbusiness.com/technology/403750-274-cyber-attacks-target-the-uae-so-far-in-2018-down-39" target="blank" class="readmore">Read More <i class="fa fa-arrow-right"></i></a>-->
                                     </div>
                                 </div>
@@ -198,9 +195,7 @@
                                     <div class="col-md-6">
                                         <p class="date-font-10">July 2018</p>
                                         <hr class="hr1">
-                                        <a href="https://blog.barkly.com/biggest-data-breaches-2018-so-far" target="blank">
-                                            <p>The 10 Biggest Data Breaches of 2018... So Far</p>
-                                        </a>
+                                        <a href="https://blog.barkly.com/biggest-data-breaches-2018-so-far" target="blank">The 10 Biggest Data Breaches of 2018... So Far</a>
                                     </div>
                                 </div>
                                 <hr class="hr2">
@@ -213,9 +208,7 @@
                                     <div class="col-md-6">
                                         <p class="date-font-10">September 07, 2018</p>
                                         <hr class="hr1">
-                                        <a href="https://www.wired.com/story/2018-worst-hacks-so-far/" target="blank">
-                                            <p>THE WORST CYBERSECURITY BREACHES OF 2018</p>
-                                        </a>
+                                        <a href="https://www.wired.com/story/2018-worst-hacks-so-far/" target="blank">THE WORST CYBERSECURITY BREACHES OF 2018</a>
                                     </div>
                                 </div>
                                 <hr class="hr2">
@@ -228,9 +221,7 @@
                                     <div class="col-md-6">
                                         <p class="date-font-10">December 03, 2018</p>
                                         <hr class="hr1">
-                                        <a href="https://www.forbes.com/sites/gilpress/2018/12/03/60-cybersecurity-predictions-for-2019/#16c6ad584352" target="blank">
-                                            <p>60 Cybersecurity Predictions For 2019</p>
-                                        </a>
+                                        <a href="https://www.forbes.com/sites/gilpress/2018/12/03/60-cybersecurity-predictions-for-2019/#16c6ad584352" target="blank">60 Cybersecurity Predictions For 2019</a>
                                     </div>
                                 </div>
                             </div>
@@ -315,7 +306,7 @@
                                                 </div>-->
                         <div class="col-sm-4">
                             <div class="pricing-box-item">
-                                <div class="pricing-heading">
+                                <div class="pricing-heading gray">
                                     <h3><strong>Basic</strong></h3>
                                 </div>
                                 <!--                                <div class="pricing-terms">
@@ -337,7 +328,7 @@
                         </div>
                         <div class="col-sm-4">
                             <div class="pricing-box-item">
-                                <div class="pricing-heading">
+                                <div class="pricing-heading orange">
                                     <h3><strong>Standard</strong></h3>
                                 </div>
                                 <!--                                <div class="pricing-terms">
@@ -359,7 +350,7 @@
                         </div>
                         <div class="col-sm-4">
                             <div class="pricing-box-item">
-                                <div class="pricing-heading">
+                                <div class="pricing-heading blue">
                                     <h3><strong>Enterprise</strong></h3>
                                 </div>
                                 <!--                                <div class="pricing-terms">

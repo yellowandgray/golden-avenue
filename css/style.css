@@ -685,10 +685,10 @@ section#inner-headline-0:after {
 }
 
 
-#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact.jpg")}
+#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact-1.jpg")}
 section#inner-headline:after {
     content: '';
-    background: rgba(0, 0, 0, 0.47);
+    background: rgba(0, 0, 0, 0);
     z-index: 2;
     position: absolute;
     width: 100%;
@@ -1631,9 +1631,9 @@ ul.team-detail li ul.social-network li i {
 .pricing-box-item .pricing-heading {
     background: #f7f7f7;
     text-align: center;
-    /*	padding: 20px 0;*/
+    padding: 10px 0;
     display:block;
-    border-bottom: 3px solid #007c93;
+/*    border-bottom: 3px solid #007c93;*/
 }
 .pricing-box-item.activeItem .pricing-heading {
     background: #ffffff;

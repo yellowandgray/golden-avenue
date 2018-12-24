@@ -645,9 +645,9 @@ marquee {
 
 .table-center-align td {width: 262px;}
 .font-size-20 {font-size: 20px;}
-.gray {background: #8a8989; color: #fff;}
-.blue {background: #41a9b9; color: #fff;}
-.orange {background: #dab576; color: #fff;}
+.gray {background: #8a8989 !important; color: #fff;}
+.blue {background: #41a9b9 !important; color: #fff;}
+.orange {background: #dab576 !important; color: #fff;}
 
 .margin-top-45 {margin-top: 45px;}
 .why-us-content {
@@ -749,9 +749,9 @@ blockquote p { color: #ffffff !important; }
     border-color: transparent;
     margin-top: 0px;
 }
-.box-shadow-2 p{
+/*.box-shadow-2 p{
     color: #007e93 !important;
-}
+}*/
 .get-padding {
     padding:12px 23px;
     font-size: 15px !important;
