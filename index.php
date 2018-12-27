@@ -625,7 +625,6 @@
                         <div class="row margin-bottom-0 text-center" id="video_container">
                             <iframe src="https://www.youtube.com/embed/0p3787JiFgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
-
                     </div>
                 </div>
             </div>
