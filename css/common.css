@@ -518,10 +518,12 @@ blockquote p {color: #fff;}
     cursor: pointer;
     opacity: 0.8;
     position: fixed;
-    bottom: 0px;
-    left: 0px;
+    bottom: 291px;
+    left: -117px;
     width: 280px;
     font-size: 24px;
+    transform: rotate(-90deg);
+    z-index: 999;
 }
 
 /* The popup chat - hidden by default */
@@ -539,6 +541,7 @@ blockquote p {color: #fff;}
     max-width: 500px;
     padding: 10px 10px 0px;
     background-color: #000000;
+    margin-left: 46px;
 }
 
 /* Full-width textarea */

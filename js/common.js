@@ -17,8 +17,10 @@ $(document).ready(function () {
         $sidenav = $('#popup-container');
         if ($this.hasClass('open')) {
             $this.removeClass('open');
+            $('#video_container').html('');
             return $sidenav.removeClass('open');
         } else {
+            $('#video_container').html('<iframe src="https://www.youtube.com/embed/0p3787JiFgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>');
             $this.addClass('open');
             return $sidenav.addClass('open');
         }
