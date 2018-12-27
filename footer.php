@@ -95,3 +95,4 @@
 <script src="js/animate.js"></script>
 <script src="js/custom.js"></script> 
 <script src="js/common.js" type="text/javascript"></script>
+<script src="js/chat.js" type="text/javascript"></script>

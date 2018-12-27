@@ -770,3 +770,66 @@ blockquote p { color: #ffffff !important; }
         bottom: 305px !important;
     }
 }
+
+
+.chat-popup-button {
+    background-color: #007e93;
+    color: white;
+    padding: 8px 10px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 8px;
+    right: 5px;
+    width: 220px;
+}
+
+.chat-popup-section {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+}
+
+.chat-popup-form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+}
+
+.chat-popup-form-container textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+    resize: none;
+    min-height: 200px;
+}
+
+.chat-popup-form-container textarea:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+.chat-popup-form-container .btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+}
+
+.chat-popup-form-container .cancel {
+    background-color: red;
+}
+
+.chat-popup-form-container .btn:hover, .chat-popup-button:hover {
+  opacity: 1;
+}
