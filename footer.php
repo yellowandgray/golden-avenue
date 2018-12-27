@@ -5,11 +5,9 @@
                 <div class="widget">
                     <h5 class="widgetheading">Our Contact</h5>
                     <address>
-                        <strong>Golden Avenue Trading</strong><br>
-                        Al-Helo Bldg,<br>
-                        Eyal Nasser, Shop # 4, After<br>
-                        London Hotel,  Al Sabkha Rd,<br>
-                        Naif, Deira, Dubai, U.A.E.</address>
+                        <strong>Golden Avenue</strong><br>
+                        P.O.Box-122041<br>
+                        Dubai, U.A.E.</address>
                     <p>
                         <i class="fa fa-phone"></i><a href="tel:+971 4 266 8272"> &nbsp;+971 4 266 8272</a>/<a href="tel:+971 4 271 3404"> +971 4 271 3404 </a><br>
                         <i class="fa fa-envelope-o"></i><a href="mailto:enquiry@goldenavenue.ae">  &nbsp;enquiry@goldenavenue.ae</a>
