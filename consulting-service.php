@@ -83,5 +83,6 @@
 <?php include 'it-procurement-popup.php'; ?>
         </div>
          <?php include 'popup.php'; ?>
+        <?php include 'chat-popup.php'; ?>
     </body>
 </html>

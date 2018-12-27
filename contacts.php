@@ -121,5 +121,6 @@
             </section>
 <?php include 'footer.php'; ?>
         </div>
+        <?php include 'chat-popup.php'; ?>
     </body>
 </html>
