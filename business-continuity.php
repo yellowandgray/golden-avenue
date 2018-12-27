@@ -46,15 +46,15 @@
                             <div class="col-md-5">
                                 <div class="box-shadow-1">
                                     <div class="row margin-bottom-0">
-                                        <h4 class="text-center bold">1 DIRHAM CYBER SECURITY AWARENESS WORKSHOP</h4>
+                                        <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
                                         <div class="col-md-6">
                                             <img src="img/golden-cyber.jpg" class="img-responsive" />
                                         </div>
                                         <div class="col-md-6">
                                             <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
                                             <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: GOLDEN AVENUE HQ</p>
-                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>
+                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
+<!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                                         </div>
                                     </div>
                                 </div>
@@ -85,6 +85,7 @@
                 </section>
             </section>
 <?php include 'footer.php'; ?>
+<?php include 'it-procurement-popup.php'; ?>
         </div>
          <?php include 'popup.php'; ?>
     </body>
