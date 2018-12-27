@@ -247,7 +247,7 @@ b, strong {
 .close {
     margin-right: 10px;
     margin-top: 5px;
-    color: #fff;
+/*    color: #fff;*/
     opacity: .8;
 }
 .close:hover {
@@ -540,7 +540,7 @@ blockquote p {color: #fff;}
 .form-container {
     max-width: 500px;
     padding: 10px 10px 0px;
-    background-color: #000000;
+    background-color: #ffffff;
     margin-left: 46px;
 }
 
@@ -601,7 +601,7 @@ blockquote p {color: #fff;}
 
 .blurry-text {
     color: transparent !important;
-    text-shadow: 0px 0px 6px rgba(255, 255, 255);
+    text-shadow: 0px 0px 6px rgb(0, 0, 0);
 }
 
 .white {color: white !important}

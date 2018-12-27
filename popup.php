@@ -5,11 +5,11 @@
         <div class="row">
             <div class="popup-scroll">
                 <div class="col-md-6 col-sm-12">
-                    <h3 class="text-center bold white">#DoYouKnow</h3>
-                    <p class="white">Computers with AV disabled?</p>
-                    <p class="white">Are your systems fully patched?</p>
-                    <p class="white">What systems have outdated hardware?</p>
-                    <p class="white">What changed in your network?</p>
+                    <h3 class="text-center bold">#DoYouKnow</h3>
+                    <p>Computers with AV disabled?</p>
+                    <p>Are your systems fully patched?</p>
+                    <p>What systems have outdated hardware?</p>
+                    <p>What changed in your network?</p>
                     <p class="blurry-text">Complete network security overview</p>
                     <p class="blurry-text">What new devices are added to the network?</p>
                     <p class="blurry-text">What ports are opened in the network?</p>
@@ -19,7 +19,7 @@
                 </div>
                 <div class="col-md-6 col-sm-12 text-center">
                     <form action="" method="post" id="footer-form">
-                        <h3 class="text-center bold white">For a Free IT Health Check</h3>
+                        <h3 class="text-center bold">For a Free IT Health Check</h3>
                         <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
                         <br>
                         <input class="form-control" name="email" id="email" placeholder="Your Email *">
