@@ -142,7 +142,7 @@
                         <div class="col-md-5">
                             <div class="box-shadow-1">
                                 <div class="row margin-bottom-0">
-                                    <h4 class="text-center bold">AEB-1 CYBER SECURITY AWARENESS WORKSHOP</h4>
+                                    <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
                                     <div class="col-md-6">
                                         <img src="img/golden-cyber.jpg" class="img-responsive img-width" />
                                     </div>

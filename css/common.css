@@ -247,7 +247,7 @@ b, strong {
 .close {
     margin-right: 10px;
     margin-top: 5px;
-/*    color: #fff;*/
+    /*    color: #fff;*/
     opacity: .8;
 }
 .close:hover {
@@ -518,7 +518,7 @@ blockquote p {color: #fff;}
     cursor: pointer;
     opacity: 0.8;
     position: fixed;
-    bottom: 291px;
+    bottom: 367px;
     left: -117px;
     width: 280px;
     font-size: 24px;
@@ -542,7 +542,9 @@ blockquote p {color: #fff;}
     padding: 10px 10px 0px;
     background-color: #ffffff;
     margin-left: 46px;
+    box-shadow: 0px 0px 20px 4px #eee;
 }
+
 
 /* Full-width textarea */
 .form-container textarea {
@@ -758,4 +760,10 @@ blockquote p { color: #ffffff !important; }
 .get-padding {
     padding:12px 23px;
     font-size: 15px !important;
+}
+
+@media  (max-width: 1220px) and (min-width: 991px) {
+    .open-button {
+        bottom: 305px !important;
+    }
 }
