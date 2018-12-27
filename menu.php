@@ -42,6 +42,7 @@
                             <li><a href="it-security.php">IT SECURITY</a></li>
                             <li><a href="consulting-service.php">CONSULTING SERVICES</a></li>
                             <li><a href="cloud-migration.php">CLOUD MIGRATION</a></li>
+                            <li><a href="#">FAQ CYBER SECURITY AWARENESS</a></li>
                         </ul>
                     </li>
                     <li class="<?php if ($page == 'amc-contract') {echo 'active';}?>"><a href="amc-contract.php">AMC Contracts</a></li>
