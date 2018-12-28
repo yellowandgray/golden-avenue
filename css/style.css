@@ -8,7 +8,7 @@ Note: Licence under Creative Commons Attribution 3.0
 @import url('animate.css');
 
 body {
-    font-family:'Open Sans', Arial, sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     font-weight:300;
     line-height:2.2em;
     color:#656565;
@@ -1364,7 +1364,7 @@ section.section-padding.gray-bg {
 blockquote {
     font-size:16px;
     font-weight:400;
-    font-family:'Noto Serif', serif;
+    font-family: 'Noto Sans TC', sans-serif;
     font-style:italic;
     padding-left:0;
     color:#a2a2a2;
@@ -1372,18 +1372,18 @@ blockquote {
     border:none;
 }
 
-blockquote cite 							{ display:block; font-size:12px; color:#666; margin-top:10px; }
-blockquote cite:before 					{ content:"\2014 \0020"; }
+blockquote cite { display:block; font-size:12px; color:#666; margin-top:10px; }
+blockquote cite:before { content:"\2014 \0020"; }
 blockquote cite a,
 blockquote cite a:visited,
-blockquote cite a:visited 				{ color:#555; }
+blockquote cite a:visited { color:#555; }
 
 /* --- pullquotes --- */
 
 .pullquote-left {
     display:block;
     color:#a2a2a2;
-    font-family:'Noto Serif', serif;
+    font-family: 'Noto Sans TC', sans-serif;
     font-size:14px;
     line-height:1.6em;
     padding-left:20px;
@@ -1392,7 +1392,7 @@ blockquote cite a:visited 				{ color:#555; }
 .pullquote-right {
     display:block;
     color:#a2a2a2;
-    font-family:'Noto Serif', serif;
+    font-family: 'Noto Sans TC', sans-serif;
     font-size:14px;
     line-height:1.6em;
     padding-right:20px;
