@@ -67,29 +67,38 @@
                     <div class="row">
                         <div class="col-md-5">
                             <h3>Types of</h3>
-
-
                             <h1>Annual</h1>
-
                             <h1>Maintenance</h1>
-
                             <h1>Contract (AMC)</h1>
                             <h3>you can sign-up for:</h3>
-                                <div class="border-line"></div>
+                            <div class="border-line"></div>
                         </div>
                         <div class="col-md-7">
-                            <ul> <h3>Unified Communications</h3>
-                            <h4>Telecomm support to keep your business lines busy!</h4>
-                            <h3>Servers & Storage</h3>
-                            <h4>Ensure up-time running of your system</h4>
-                            <h3>Network Security</h3>
-                            <h4>Regular health check to secure your network</h4>
-                            <h3>IT Support</h3>
-                            <h4>24/7 survelliance and updation of your system</h4>
-                            <h3>Website</h3>
-                            <h4>Ascertain the optimal performance of your website</h4>
-                            </ul>
-                            
+                            <div class="col-md-2 round-ring"></div>
+                            <div class="col-md-10">
+                                <h3>Unified Communications</h3>
+                                <p>Telecomm support to keep your business lines busy!</p>
+                            </div>
+                            <div class="col-md-2 round-ring"></div>
+                            <div class="col-md-10">
+                                <h3>Servers & Storage</h3>
+                                <p>Ensure up-time running of your system</p>
+                            </div>
+                            <div class="col-md-2 round-ring"></div>
+                            <div class="col-md-10">
+                                <h3>Network Security</h3>
+                                <p>Regular health check to secure your network</p>
+                            </div>
+                            <div class="col-md-2 round-ring"></div>
+                            <div class="col-md-10">
+                                <h3>IT Support</h3>
+                                <p>24/7 survelliance and updation of your system</p>
+                            </div>
+                            <div class="col-md-2 round-ring"></div>
+                            <div class="col-md-10">
+                                <h3>Website</h3>
+                                <p>Ascertain the optimal performance of your website</p>
+                            </div>
                         </div>
                     </div>
                 </div>
