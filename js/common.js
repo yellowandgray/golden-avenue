@@ -96,9 +96,9 @@ function closeForm() {
     document.getElementById("myQus").style.display = "none";
 }
 
-window.onload = function () {
-    document.getElementById('noteButton').onclick = showNote;
-};
+//window.onload = function () {
+//    document.getElementById('noteButton').onclick = showNote;
+//};
 
 
 

@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <?php include 'head.php'; ?>
-    <body>
+    <script>
+        function myFunction() {
+            alert("Page is loaded");
+        }
+    </script>
+    <body onload="myFunction()">
         <div id="wrapper" class="home-page">
             <?php include 'menu.php'; ?>
             <!-- end header -->
@@ -608,12 +613,10 @@
     </section>	  -->
 
 
-
-
         <?php include 'footer.php'; ?>
         <?php include 'it-procurement-popup.php'; ?>
         <?php include 'popup.php'; ?>
         <?php include 'chat-popup.php'; ?>
-        
+
     </body>
 </html>

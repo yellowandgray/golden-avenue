@@ -1036,7 +1036,7 @@ section#inner-headline-1:after {
 #inner-headline-8 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-9{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/blog-1.jpg")}
+#inner-headline-9{ margin: 0; padding: 0; position:relative; background: url("../img/sub-banner/blog-1.jpg"); background-position: bottom; height: 280px;}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
