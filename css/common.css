@@ -900,7 +900,7 @@ blockquote p { color: #ffffff !important; }
     border-bottom: 1px solid #eee;
 }
 .round-ring{
-    width: 50px;
+    width: 5px;
     height: 50px;
     border: solid 1px #a4d9ad;
     border-radius: 50%;
