@@ -5,6 +5,6 @@
     <form action="/action_page.php" class="chat-popup-form-container">
         <h1>Chat</h1>
         <textarea placeholder="Type message.." name="msg" required></textarea>
-        <input type="text" class="chat-input" placeholder="Type Your Message" /><i class="fa fa-paper-plane-o" aria-hidden="true"></i>
+        <input type="text" class="chat-input" placeholder="Type Your Message" style="float: left;"/><button type="button" class="btn" style="float: right;">Send</button>
     </form>
 </div>
