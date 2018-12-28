@@ -786,6 +786,7 @@ blockquote p { color: #ffffff !important; }
 }
 
 .chat-popup-section {
+    width: 280px;
     display: none;
     position: fixed;
     bottom: 0;
@@ -794,8 +795,8 @@ blockquote p { color: #ffffff !important; }
     z-index: 9;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
-    transition: 0.5s;
-    /*    -webkit-transition: 0.5s;*/
+    /*    transition: 0.5s;
+            -webkit-transition: 0.5s;*/
 }
 
 .chat-popup-form-container {
@@ -811,7 +812,7 @@ blockquote p { color: #ffffff !important; }
     padding: 15px;
     margin: 5px 0 22px 0;
     border: none;
-/*    background: #f1f1f1;*/
+    /*    background: #f1f1f1;*/
     resize: none;
     min-height: 200px;
 }
@@ -826,6 +827,8 @@ blockquote p { color: #ffffff !important; }
     color: white;
     cursor: pointer;
     opacity: 0.8;
+    padding: 0 15px;
+    margin-top: 0px;
 }
 
 .chat-popup-form-container .cancel {

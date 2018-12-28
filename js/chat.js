@@ -1,5 +1,5 @@
 function openPopup() {
-    $(".chat-popup-section").fadeIn(3500);
+    $(".chat-popup-section").fadeIn(2000);
     document.getElementById("myForm").style.display = "block";
 }
 
