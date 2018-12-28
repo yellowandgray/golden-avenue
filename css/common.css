@@ -896,3 +896,8 @@ blockquote p { color: #ffffff !important; }
     width: 219px;
     height: 3px;
     background: #46b559;}
+
+.chat-input {
+    border: none;
+    border-bottom: 1px solid #eee;
+}
