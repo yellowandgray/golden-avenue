@@ -853,5 +853,36 @@ blockquote p { color: #ffffff !important; }
 }
 
 .modal-body-1 input {margin-bottom: 10px;}
-.margin-bottom-10 {margin-bottom: 10px}
-.margin-top-10 {margin-top: 10px}
+.margin-bottom-10 {margin-bottom: 10px;}
+.margin-top-10 {margin-top: 10px;}
+
+.line-height-25 {line-height: 25px;}
+
+@media (min-width: 320px) and (max-width: 600px) {
+    .modal-onload-content {
+        margin-left: 0 !important;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 1100px) {
+    .flex-caption {
+        bottom: 0px !important;
+    }
+    .flex-caption h3 {
+       font-size: 26px !important;
+    }
+    .flex-caption h3 span {
+       font-size: 26px !important;
+    }
+}
+@media (min-width: 1101px) and (max-width: 1500px) {
+    .flex-caption {
+        bottom: 0px !important;
+    }
+    .flex-caption h3 {
+       font-size: 40px !important;
+    }
+    .flex-caption h3 span {
+       font-size: 40px !important;
+    }
+}
