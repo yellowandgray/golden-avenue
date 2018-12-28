@@ -135,6 +135,29 @@
                     </div>
                 </div>
             </section>
+             <section id="content">
+                <div class="container" style="background: #000000; width: 100%;">
+                    <div class="row">
+                        <div class="col-md-3 box-1">
+                            <i class="fa fa-envelope-o FI"></i>
+                            <img class="arrw" src="img/sub-banner/amc-9.png" alt=""/>
+
+                        </div>
+                        <div class="col-md-3 box-1">
+                            
+                           <i class="fa fa-phone FI"></i>
+                           <img class="arrw" src="img/sub-banner/amc-9.png" alt=""/>
+                        </div>
+                        <div class="col-md-3 box-1">
+                            <i class="fa fa-lightbulb-o FI"></i>
+                            <img  class="arrw" src="img/sub-banner/amc-9.png" alt=""/ >
+                        </div>
+                        <div class="col-md-3 box-1">
+                            <i class="fa fa-cogs FI"></i>
+                       </div>
+                    </div>
+                </div>
+            </section>
             <?php include 'footer.php'; ?>
             <?php include 'it-procurement-popup.php'; ?>
         </div>
