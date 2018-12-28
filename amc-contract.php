@@ -134,27 +134,69 @@
                         </div>
                     </div>
                 </div>
-            </section>
-             <section id="content">
+            </section><br/>
+            <div class="col-md12 text-center">
+                <h2>Simple steps to Sign up:</h2>
+            </div>
+            <section id="content">
                 <div class="container" style="background: #000000; width: 100%;">
                     <div class="row">
                         <div class="col-md-3 box-1">
                             <i class="fa fa-envelope-o FI"></i>
+                            <h3>Unified Communications</h3>
+                            <p>Telecomm support to keep your business lines busy!</p>
                             <img class="arrw" src="img/sub-banner/amc-9.png" alt=""/>
-
                         </div>
-                        <div class="col-md-3 box-1">
-                            
-                           <i class="fa fa-phone FI"></i>
-                           <img class="arrw" src="img/sub-banner/amc-9.png" alt=""/>
+                        <div class="col-md-3 box-2">
+                            <i class="fa fa-phone FI"></i>
+                            <h3>Servers & Storage</h3>
+                            <p>Ensure up-time running of your system</p>
+                            <img class="arrw" src="img/sub-banner/amc-9.png" alt=""/>
                         </div>
-                        <div class="col-md-3 box-1">
+                        <div class="col-md-3 box-3">
                             <i class="fa fa-lightbulb-o FI"></i>
+                            <h3>Network Security</h3>
+                            <p>Regular health check to secure your network</p>
                             <img  class="arrw" src="img/sub-banner/amc-9.png" alt=""/ >
                         </div>
-                        <div class="col-md-3 box-1">
+                        <div class="col-md-3 box-4">
                             <i class="fa fa-cogs FI"></i>
-                       </div>
+                            <h3>IT Suport</h3>
+                            <p>24/7 survelliance and updation of your system</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section id="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7">
+                            <p style="font-size: 13px !important">It’s very important to maintain and keep your server active if you want your online business to be computable to your customers round the clock. One can maintain the server without any hassle With Prologix's Annual Maintenance Contract (AMC) in Dubai, UAE. We have grown with the vision of assisting our customers in Middle East by using the best technology to effectively grow, Manage and protect IT information assets. </p>
+                            <p style="font-size: 13px !important">IT is a key component of a business operational infrastructure in Dubai . Downtime starts as soon as the systems stop functioning that leads to loss in communication, output and profit. However organizations should not worry about it. Our technical professionals in various fields can easily manage your IT infrastructure. Our IT Support Team is further bifurcated to Advance computing and networking specialists, Server specialists, Telephone and networking, Microsoft, Firewall specialists, etc.</p>
+                            <p style="font-size: 13px !important">We are providing AMC services which are well integrated and distinguished. We support you in managing your modern day maintenance challenges in a better way. Relevant and adequate maintenance is our top agenda. We always provide quality services & products for the competitive environment.</p>
+                            <p style="font-size: 13px !important">Our proficient team is well equipped to handle unpredicted hurdles in an all demanding environment with the support assistance round the clock.</p>
+                            <p style="font-size: 13px !important">Prologix is the right choice for cost effective maintenance of all your business needs. Approaching us is the smartest way ahead for solving all your difficulties in business. We provide adept maintenance of the IT infrastructure that improves your performance and keeps you moving ahead. Prologix IT annual maintenance contract provides the most hassle free maintenance for your Servers.</p>
+                            <p style="font-size: 13px !important">Prologix is based out of UAE & expanding its services across Middle East. Established in the year 1999 with the vision of helping small businesses in Middle East by using MSP technology to effectively grow, manage and protect IT Information Assets. We have a team of experts, who will dedicatedly assist you in maintaining your Telecom Equipment (Avaya), IT Systems, Network Infrastructure, Servers, & Storage Systems etc.</p>
+                        </div>
+                        <div class="col-md-5">
+                            <h3>Our Annual Maintenance Contract (AMC) covers the following:</h3>
+                            <ul class="list-sr">
+                                <li><i class="fa fa-check-square-o clr"></i> Maintenance of IT infrastructure</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Hardware and Software Support</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Network Solution</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Remote Support and Software assistance</li>
+                                <li><i class="fa fa-check-square-o clr"></i> General Maintenance</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Desktop and Server Support</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Printer Maintenance</li>
+                                <li><i class="fa fa-check-square-o clr"></i> UPS Maintenance</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Virus Free Network</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Optimization of Network</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Rack Re- cabling</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Telephone Support</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Server Monitoring 24*7</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Onsite Visit by IT Specialists</li>
+                                <li><i class="fa fa-check-square-o clr"></i> Scheduled Maintenance</li>
+                             </ul>
                     </div>
                 </div>
             </section>
