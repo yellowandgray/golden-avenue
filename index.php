@@ -319,9 +319,10 @@
                                                                 </div>-->
                                 <div class="pricing-container">
                                     <ul>
-                                        <li><i class="fa fa-check"></i> Responsive Design</li>
-                                        <li><i class="fa fa-check"></i> Bootstrap Design</li>
-                                        <li><i class="fa fa-check"></i> Unlimited Support</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Remote Support</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Once in 3 months preventive Maintenance</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> 8X5 (1 hour response time)</li>
+                                        <li>&nbsp;</li>
                                         <li>&nbsp;</li>
                                         <li>&nbsp;</li>
 
@@ -341,12 +342,12 @@
                                                                 </div>-->
                                 <div class="pricing-container">
                                     <ul>
-                                        <li><i class="fa fa-check"></i> Responsive Design</li>
-                                        <li><i class="fa fa-check"></i> Bootstrap Design</li>
-                                        <li><i class="fa fa-check"></i> Unlimited Support</li>
-                                        <li><i class="fa fa-check"></i> Free Trial version</li>
-                                        <li>&nbsp;</li>
-
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Remote Support</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Onsite Support</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Once in a month preventive maintenance</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Monitoring</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Cyber security Awareness Workshop <br/>(Every 6 months)</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> 1 hour response</li>
                                     </ul>
                                 </div>
                                 <!--                                <div class="pricing-action">
@@ -363,11 +364,12 @@
                                                                 </div>-->
                                 <div class="pricing-container">
                                     <ul>
-                                        <li><i class="fa fa-check"></i> Responsive Design</li>
-                                        <li><i class="fa fa-check"></i> Bootstrap Design</li>
-                                        <li><i class="fa fa-check"></i> Unlimited Support</li>
-                                        <li><i class="fa fa-check"></i> Free Trial version</li>
-                                        <li><i class="fa fa-check"></i> HTML5 CSS3 jQuery</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Responsive Design</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Bootstrap Design</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Unlimited Support</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Free Trial version</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> HTML5 CSS3 jQuery</li>
+                                        <li>&nbsp;</li>
                                     </ul>
                                 </div>
                                 <!--                                <div class="pricing-action">

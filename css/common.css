@@ -792,12 +792,18 @@ blockquote p { color: #ffffff !important; }
     right: 15px;
     border: 3px solid #f1f1f1;
     z-index: 9;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    transition: 0.5s;
+/*    -webkit-transition: 0.5s;*/
 }
 
 .chat-popup-form-container {
     max-width: 300px;
     padding: 10px;
     background-color: white;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
 }
 
 .chat-popup-form-container textarea {
@@ -869,10 +875,10 @@ blockquote p { color: #ffffff !important; }
         bottom: 0px !important;
     }
     .flex-caption h3 {
-       font-size: 26px !important;
+        font-size: 26px !important;
     }
     .flex-caption h3 span {
-       font-size: 26px !important;
+        font-size: 26px !important;
     }
 }
 @media (min-width: 1101px) and (max-width: 1500px) {
@@ -880,9 +886,9 @@ blockquote p { color: #ffffff !important; }
         bottom: 0px !important;
     }
     .flex-caption h3 {
-       font-size: 40px !important;
+        font-size: 40px !important;
     }
     .flex-caption h3 span {
-       font-size: 40px !important;
+        font-size: 40px !important;
     }
 }

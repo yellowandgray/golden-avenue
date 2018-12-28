@@ -30,11 +30,13 @@ h1,h2{
     margin-bottom: 20px;
     text-transform: uppercase;
     font-size: 30px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 h3, h4, h5, h6 { 
     line-height:1.1em;
     color:#333;
     margin-bottom: 20px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 h3 {font-size: 20px !important;}
 
@@ -1604,6 +1606,7 @@ ul.team-detail li ul.social-network li i {
     list-style:none;
     padding:0;
     margin:0;
+    text-align: left;
 }
 
 .pricing-container ul li{
@@ -1633,7 +1636,7 @@ ul.team-detail li ul.social-network li i {
     text-align: center;
     padding: 10px 0;
     display:block;
-/*    border-bottom: 3px solid #007c93;*/
+    /*    border-bottom: 3px solid #007c93;*/
 }
 .pricing-box-item.activeItem .pricing-heading {
     background: #ffffff;
@@ -2178,5 +2181,15 @@ article img.pull-right, article .align-right{
 
 
 }
-
+.chat-popup-section h1 {
+    background: #007e93;
+    font-weight: bold;
+    line-height: 1.1em;
+    color: #fff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-size: 24px;
+    padding: 20px;
+    text-align: center;
+}
 

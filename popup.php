@@ -6,14 +6,14 @@
             <div class="popup-scroll">
                 <div class="col-md-6 col-sm-12">
                     <h3 class="text-center bold">#DoYouKnow</h3>
-                    <p>Computers with AV disabled?</p>
-                    <p>Are your systems fully patched?</p>
-                    <p>What systems have outdated hardware?</p>
-                    <p>What changed in your network?</p>
-                    <p class="blurry-text">Complete network security overview</p>
-                    <p class="blurry-text">What new devices are added to the network?</p>
-                    <p class="blurry-text">What ports are opened in the network?</p>
-                    <p class="blurry-text">Unauthorized applications?</p>
+                    <p>What ports are opened in the network?</p>
+                    <p>Unauthorized applications?</p>
+                    <p>What USB devices connect to your network?</p>
+                    <p>How vulnerable is your network?</p>
+                    <p class="blurry-text">Computers with AV disabled?</p>
+                    <p class="blurry-text">Are your systems fully patched?</p>
+                    <p class="blurry-text">What systems have outdated hardware?</p>
+                    <p class="blurry-text">What changed in your network?</p>
 <!--                            <p class="blurry-text">What USB devices connect to your network?</p>-->
                     <!--<p class="blurry-text">How vulnerable is your network?</p>-->
                 </div>
