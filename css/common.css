@@ -806,12 +806,12 @@ blockquote p { color: #ffffff !important; }
     border-top-left-radius: 20px;
 }
 
-.chat-popup-form-container textarea {
+.chat-popup-form-container .textarea-1 {
     width: 100%;
     padding: 15px;
     margin: 5px 0 22px 0;
     border: none;
-    background: #f1f1f1;
+/*    background: #f1f1f1;*/
     resize: none;
     min-height: 200px;
 }
