@@ -197,6 +197,7 @@
                                 <li><i class="fa fa-check-square-o clr"></i> Onsite Visit by IT Specialists</li>
                                 <li><i class="fa fa-check-square-o clr"></i> Scheduled Maintenance</li>
                              </ul>
+                        </div>
                     </div>
                 </div>
             </section>
