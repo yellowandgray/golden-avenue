@@ -77,31 +77,31 @@
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
                                 <h3>Unified Communications</h3>
-                                <div class="border.small-1"></div>
+                                <div class="bordersmall-1"></div>
                                 <p>Telecomm support to keep your business lines busy!</p>
                             </div>
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
                                 <h3>Servers & Storage</h3>
-                                <div class="border.small-1"></div>
+                                <div class="bordersmall-1"></div>
                                 <p>Ensure up-time running of your system</p>
                             </div>
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
                                 <h3>Network Security</h3>
-                                <div class="border.small-1"></div>
+                                <div class="bordersmall-1"></div>
                                 <p>Regular health check to secure your network</p>
                             </div>
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
                                 <h3>IT Support</h3>
-                                <div class="border.small-1"></div>
+                                <div class="bordersmall-1"></div>
                                 <p>24/7 survelliance and updation of your system</p>
                             </div>
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
                                 <h3>Website</h3>
-                                <div class="border.small-1"></div>
+                                <div class="bordersmall-1"></div>
                                 <p>Ascertain the optimal performance of your website</p>
                             </div>
                         </div>
@@ -139,7 +139,7 @@
                 <h2>Simple steps to Sign up:</h2>
             </div>
             <section id="content">
-                <div class="container" style="background: #000000; width: 100%;">
+                <div class="container" style="width: 100%;">
                     <div class="row">
                         <div class="col-md-3 box-1">
                             <i class="fa fa-envelope-o FI"></i>

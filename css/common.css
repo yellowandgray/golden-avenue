@@ -956,3 +956,10 @@ blockquote p { color: #ffffff !important; }
 .clr {
     color: #ff0000;
 }
+
+.bordersmall-1 {
+    width: 80px;
+    height: 1px;
+    background: #a9a9a9;
+    margin-bottom: 15px;
+}
