@@ -75,10 +75,11 @@
 
                             <h1>Contract (AMC)</h1>
                             <h3>you can sign-up for:<h3/>
+                                <div class="border-line"><div/>
 
+                                </div>
                         </div>
                     </div>
-                </div>
 
             </section>
             <?php include 'footer.php'; ?>

@@ -892,3 +892,7 @@ blockquote p { color: #ffffff !important; }
         font-size: 40px !important;
     }
 }
+.border-line{
+    width: 219px;
+    height: 3px;
+    background: #46b559;}
