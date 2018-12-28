@@ -2,11 +2,11 @@
 <html lang="en">
     <?php include 'head.php'; ?>
     <script>
-        function myFunction() {
-            alert("Page is loaded");
+        function showModal() {
+            $('#myModal').modal('show');
         }
     </script>
-    <body onload="myFunction()">
+    <body onload="showModal()">
         <div id="wrapper" class="home-page">
             <?php include 'menu.php'; ?>
             <!-- end header -->
@@ -617,6 +617,34 @@
         <?php include 'it-procurement-popup.php'; ?>
         <?php include 'popup.php'; ?>
         <?php include 'chat-popup.php'; ?>
+        <div id="myModal" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <!-- Modal content-->
+                <div class="modal-onload-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h3 class="text-center">Join us for a live demo</h3>
+                    </div>
+                    <div class="modal-body">
+                        <form action="" method="post" id="footer-form">
+                            <h3 class="text-center bold">Enquiry</h3>
+                            <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
+                            <br>
+                            <input class="form-control" name="email" id="email" placeholder="Your Email *">
+                            <br>
+                            <input class="form-control" name="phone" placeholder="Phone *" id="phone">
+                            <br>
+                            <center>
+                                <input type="submit" class="btn btn-blue" value="Schedule Demo">
+                            </center>
+                        </form>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
 
+            </div>
+        </div>
     </body>
 </html>

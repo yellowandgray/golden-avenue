@@ -833,3 +833,9 @@ blockquote p { color: #ffffff !important; }
 .chat-popup-form-container .btn:hover, .chat-popup-button:hover {
   opacity: 1;
 }
+
+
+.modal-onload-content {
+    background: #fff;
+    border-radius: 10px;
+}
