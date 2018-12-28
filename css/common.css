@@ -831,11 +831,27 @@ blockquote p { color: #ffffff !important; }
 }
 
 .chat-popup-form-container .btn:hover, .chat-popup-button:hover {
-  opacity: 1;
+    opacity: 1;
 }
 
 
 .modal-onload-content {
     background: #fff;
     border-radius: 10px;
+    width: 350px;
+    margin-left: 180px;
 }
+
+.modal-header-1 {
+    padding: 0px 15px;
+
+}
+
+.modal-body-1 {
+    position: relative;
+    padding: 0px 20px 15px;
+}
+
+.modal-body-1 input {margin-bottom: 10px;}
+.margin-bottom-10 {margin-bottom: 10px}
+.margin-top-10 {margin-top: 10px}
