@@ -32,7 +32,7 @@
                                 <img src="img/blog/faq-001.jpg" alt="" class="img-responsive"/>
                                 <h3 class="color-blue">FAQ – Cyber Security Awareness Workshop</h3>
                                 <h3 class="color-blue">What is the main purpose of Cyber security awareness training?</h3>
-                                <h3 class="color-blue">Protect from WITHIN</h3>
+                                <h3>Protect from within</h3>
                                 <p>The biggest benefit to holding a session on security awareness is better security. Knowing your employees are prepared and acting with a focus on data security gives you unmatched peace of mind and a confidence that your business is doing everything possible to prevent data breaches and possible attacks from outside</p>
                                 <p>Cyber Security awareness training is a formal process for educating employees about computer security. A good security awareness program should be arranged to educate employees about corporate policies and procedures for working with information technology (IT).</p>
                             </div>
@@ -76,7 +76,7 @@
                         </div>
                     </div>
                 </section>
-                <section class="section-padding">
+                <section>
                     <div class="container">
                         <div class="row showcase-section">
                             <div class="col-lg-12">
