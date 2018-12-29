@@ -1059,3 +1059,7 @@ blockquote p { color: #ffffff !important; }
 }
 
 .box-chat-shadow {margin-top: -64px;}
+
+.color-white {
+   color: #ffffff !important
+}

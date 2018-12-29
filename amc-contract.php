@@ -147,26 +147,26 @@
                     <div class="row">
                         <div class="col-md-3 box-1">
                             <i class="fa fa-envelope-o FI icon-size-color"></i>
-                            <h3>Unified Communications</h3>
-                            <p>Telecomm support to keep your business lines busy!</p>
+                            <h3 class="color-white">Unified Communications</h3>
+                            <p class="color-white">Telecomm support to keep your business lines busy!</p>
                             <img class="arrw" src="img/sub-banner/amc-9.png" alt=""/>
                         </div>
                         <div class="col-md-3 box-2">
                             <i class="fa fa-phone FI icon-size-color"></i>
-                            <h3>Servers & Storage</h3>
-                            <p>Ensure up-time running of your system</p>
+                            <h3 class="color-white">Servers & Storage</h3>
+                            <p class="color-white">Ensure up-time running of your system</p>
                             <img class="arrw" src="img/sub-banner/amc-9.png" alt=""/>
                         </div>
                         <div class="col-md-3 box-3">
                             <i class="fa fa-lightbulb-o FI icon-size-color"></i>
-                            <h3>Network Security</h3>
-                            <p>Regular health check to secure your network</p>
+                            <h3 class="color-white">Network Security</h3>
+                            <p class="color-white">Regular health check to secure your network</p>
                             <img  class="arrw" src="img/sub-banner/amc-9.png" alt=""/ >
                         </div>
                         <div class="col-md-3 box-4">
                             <i class="fa fa-cogs FI icon-size-color"></i>
-                            <h3>IT Suport</h3>
-                            <p>24/7 survelliance and updation of your system</p>
+                            <h3 class="color-white">IT Suport</h3>
+                            <p class="color-white">24/7 survelliance and updation of your system</p>
                         </div>
                     </div>
                 </div>
