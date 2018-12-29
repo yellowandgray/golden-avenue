@@ -89,18 +89,16 @@
                                     <div class="box-area">
                                         <p>We offer World-Class & Unmatched Support</p>
                                         <br/>
-                                        <br/>
                                         <a href="contacts.php" class="btn btn-primary">Try us</a>                                        
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-6 text-center"> 
                                     <span class="icons c2">
-                                        <h3 class="title-h3" style="margin-top: -15px">CERTIFIED IT PROFESSIONALS</h3> 
+                                        <h3 class="title-h3">CERTIFIED IT PROFESSIONALS</h3> 
                                         <img src="img/002.jpg" class="img-responsive" />
                                     </span> 
                                     <div class="box-area">
                                         <p>We are a team of Certified IT Professionals & Experts</p>
-                                        <br/>
                                         <br/>
                                         <a href="why-us.php" class="btn btn-primary">For Details</a>
                                     </div>
@@ -111,7 +109,9 @@
                                         <img src="img/003.jpg" class="img-responsive" />
                                     </span> 
                                     <div class="box-area">
-                                        <p>Un-Paralleled Experience & Time Unlimited Consultancy<br/><span class="italic bold">Your First Consultation is Always FREE</span></p>
+                                        <p>Un-Paralleled Experience & Time Unlimited Consultancy</p>
+                                        <br/>
+<!--                                        <span class="italic bold">Your First Consultation is Always FREE</span>-->
 
                                         <a href="#" class="btn btn-primary">Call Us</a>
                                     </div>
@@ -123,7 +123,6 @@
                                     </span> 
                                     <div class="box-area">
                                         <p>Tailor-Made Contracts, FOCUSED and Specific to ALL your Business Needs</p>
-                                        <br/>
 
                                         <a href="amc-contract.php" class="btn btn-primary">Get Quote</a>
 
