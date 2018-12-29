@@ -26,7 +26,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <h3 class="color-blue"><strong>Consulting services</strong></h3>
-                                <h3 class="color-blue">Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</h3>
+                                <h3 class="color-blue line-height-30">Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</h3>
                                 <ul class="list-line">
                                     <li>Analyze Vulnerability to reveal risks </li>
                                     <li>Assess Security threats to outline the significance of existing vulnerabilities;</li>

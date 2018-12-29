@@ -33,7 +33,7 @@ h1,h2{
     font-family: 'Noto Sans TC', sans-serif;
 }
 h3, h4, h5, h6 { 
-    line-height:1.1em;
+    line-height:1.5em;
     color:#333;
     margin-bottom: 20px;
     font-family: 'Noto Sans TC', sans-serif;
@@ -260,6 +260,7 @@ header .nav .caret {
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
     background-color:  #fff;
+    color: #000 !important;
 }	
 
 
@@ -362,7 +363,7 @@ header ul.nav li ul li ul {
     border-bottom-color: none;
     content:none;
 }
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {color: #d2ae6c;border-radius: 0;}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {color: #d2ae6c !important;border-radius: 0;}
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
     color: #d2ae6c;
     background-color: transparent;
@@ -2156,7 +2157,7 @@ article img.pull-right, article .align-right{
 
     .flexslider .flex-caption {
         /*            display:none;*/
-        bottom: 0px;
+        bottom: -36px;
         width: 100%;
         left: 0px;
         text-align: center;

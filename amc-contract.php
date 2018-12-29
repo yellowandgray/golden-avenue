@@ -25,37 +25,37 @@
                             <li>AMC Contracts</li>
                         </ul>
                         <section class="section-padding">
-                            <div class="row table-center-align">
+                            <div class="row text-center">
                                 <h2 class="color-blue text-center"><strong>“We assure, our commitments are a reality”</strong></h2><br/>
                                 <h4 class="text-center">Worried when your server goes down? Put aside all your worries with Annual Maintenance Services provided by prologix.</h4><br/>
                                 <p class="text-center" style="font-size: 14px !important">Golden Avenue's Annual Maintenance Contract services provide you with plethora of options to ensure that your IT department is up and running. Being one of the leading IT service<br/> providers, we promote technology as a facilitator to your business. Our pool of multitalented certified engineers enables us to provide optimum IT support services for your system.</p><br/>
                                 <h4 class="text-center">You may subscribe to our Annual Maintenance Contract (AMC) to avail:</h4><br/>
-                                <div class="row">
-                                    <div class="col-md-3">
-                                        <img src="img/sub-banner/amc-3-1.png" alt=""/>
-                                    </div> 
-                                    <div class="col-md-3">
-                                        <img src="img/sub-banner/amc-3-2.png" alt=""/>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img src="img/sub-banner/amc-3-3.png" alt=""/>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img src="img/sub-banner/amc-3-4.png" alt=""/>
-                                    </div>
-                                </div><br/>
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <h4>Reality check:</h4>
-                                        <p>Golden Avenue is unique in its offerings through the Annual Maintenance Contract Services as-</p>
-                                    </div>
-                                    <div class="col-md-8">
-                                        <ol>
-                                            <li>We strictly adhere to SLA as per the client requirements</li>
-                                            <li>We ensure the shortest Response and Resolution time as per the tailor made contract</li>
-                                            <li>We have gained expertise through multi-resourced IT engineers</li>
-                                        </ol>
-                                    </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <img src="img/sub-banner/amc-3-1.png" alt=""/>
+                                </div> 
+                                <div class="col-md-3">
+                                    <img src="img/sub-banner/amc-3-2.png" alt=""/>
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/sub-banner/amc-3-3.png" alt=""/>
+                                </div>
+                                <div class="col-md-3">
+                                    <img src="img/sub-banner/amc-3-4.png" alt=""/>
+                                </div>
+                            </div><br/>
+                            <div class="row">
+                                <div class="col-md-4 col-sm-12">
+                                    <h4>Reality check:</h4>
+                                    <p>Golden Avenue is unique in its offerings through the Annual Maintenance Contract Services as-</p>
+                                </div>
+                                <div class="col-md-8">
+                                    <ol>
+                                        <li>We strictly adhere to SLA as per the client requirements</li>
+                                        <li>We ensure the shortest Response and Resolution time as per the tailor made contract</li>
+                                        <li>We have gained expertise through multi-resourced IT engineers</li>
+                                    </ol>
                                 </div>
                             </div>
                         </section>
@@ -116,7 +116,7 @@
             <section id="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-1"><img src="img/sub-banner/amc-5.png" alt="" class="img-width"/>
+                        <div class="col-md-1"><img src="img/sub-banner/amc-5.png" alt="" class="img-responsive"/>
                         </div>
                         <div class="col-md-3 border-height">
                             <h3>Monitoring</h3>
@@ -124,13 +124,13 @@
                         </div>
 
                         <div class="col-md-1">
-                            <img src="img/sub-banner/amc-6.png" alt="" class="img-width"/>
+                            <img src="img/sub-banner/amc-6.png" alt="" class="img-responsive"/>
                         </div>
                         <div class="col-md-3 border-height">
                             <h3>Preventive</h3>
                             <p>Identification of any upcoming problem is combated by essential protective measures</p>
                         </div>
-                        <div class="col-md-1"><img src="img/sub-banner/amc-7.png" alt=""  class="img-width"/>
+                        <div class="col-md-1"><img src="img/sub-banner/amc-7.png" alt=""  class="img-responsive"/>
                         </div>
                         <div class="col-md-3">
                             <h3>Monitoring</h3>
@@ -322,12 +322,14 @@
                         </div>
                     </div>
                     <div class="row">
-                        <h3>We are with you in the Crisis Hour</h3>
-                        <p class="text-justify">At the time of an infrastructure shut-down, your business network may just go down and you need to bring it up fast and keep it running. Sometimes your server might crash, your hard drive may freeze, your RAID configuration may malfunction, or your operating system may act erratic. Perhaps you are facing a critical deadline on a project, or you may be needing to deliver a product or service immediately.</p>
+                        <div class="col-md-12">
+                            <h3>We are with you in the Crisis Hour</h3>
+                            <p class="text-justify">At the time of an infrastructure shut-down, your business network may just go down and you need to bring it up fast and keep it running. Sometimes your server might crash, your hard drive may freeze, your RAID configuration may malfunction, or your operating system may act erratic. Perhaps you are facing a critical deadline on a project, or you may be needing to deliver a product or service immediately.</p>
 
-                        <p class="text-justify">We will assess your IT problems and alleviate your emergency. We have the tools, the knowledge, the resources and the staff to resolve every IT emergency, no matter how difficult or complex it may seem.</p>
-                        <p class="text-justify">We will reach you and work quickly and professionally, and support you with the knowledge. We need to be on top of the IT challenges so that we are able to resolve minor problems on our own. Our tech savvies deliver many custom-made services, and after the issue is resolved they are always just a phone call away, or an email, away from answering any follow up questions you may have. </p>
-                        <p class="text-justify">We respect your confidential and private information. Know how important confidentiality is to you, whether it’s business or personal data, or both. Our tech savvies have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
+                            <p class="text-justify">We will assess your IT problems and alleviate your emergency. We have the tools, the knowledge, the resources and the staff to resolve every IT emergency, no matter how difficult or complex it may seem.</p>
+                            <p class="text-justify">We will reach you and work quickly and professionally, and support you with the knowledge. We need to be on top of the IT challenges so that we are able to resolve minor problems on our own. Our tech savvies deliver many custom-made services, and after the issue is resolved they are always just a phone call away, or an email, away from answering any follow up questions you may have. </p>
+                            <p class="text-justify">We respect your confidential and private information. Know how important confidentiality is to you, whether it’s business or personal data, or both. Our tech savvies have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
+                        </div>
                     </div>
                 </div>
             </section>

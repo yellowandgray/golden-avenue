@@ -757,11 +757,17 @@ blockquote p { color: #ffffff !important; }
 .btn-1 {
     text-align: center;
     color: #FFFFFF;
-    padding: 5px 78px;
+    padding: 6px 8px;
     border-radius: 0;
     background: #007e93;
     border-color: transparent;
     margin-top: 0px;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #d2ac67;
+    border-color: #d2ac67;
 }
 /*.box-shadow-2 p{
     color: #007e93 !important;
@@ -1032,3 +1038,5 @@ blockquote p { color: #ffffff !important; }
     border-right: solid 1px #e0dede;
     height: 162px;
 }
+
+.line-height-30 {line-height: 30px}
