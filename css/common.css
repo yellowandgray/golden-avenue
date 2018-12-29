@@ -128,9 +128,9 @@ button .glyphicon-menu-right, input[type="button"] .glyphicon-menu-right, input[
     z-index: -10;
 }
 /* Side Widget */
-.side-widget.open {
+/*.side-widget.open {
     margin-right: -5px;
-}
+}*/
 .side-widget {
     width: 57px;
     z-index: 9;
@@ -140,7 +140,7 @@ button .glyphicon-menu-right, input[type="button"] .glyphicon-menu-right, input[
     right: 0;
     top: 60%;;
     text-align: center;
-    margin-right: -45px;
+    margin-right: 5px;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
     -webkit-transform: rotate(90deg);
@@ -643,6 +643,12 @@ marquee {
         width: 100%; height: 315px;
     }
     #popup-container  {width: 100%}
+    .box-1 img {display: none;}
+    .box-2 img {display: none;}
+    .box-3 img {display: none;}
+    .side-widget {
+        display: none;
+    }
 }
 
 .font-size-24 {
