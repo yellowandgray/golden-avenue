@@ -23,7 +23,7 @@
                         <li>
                             <img src="img/slides/banner-2.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content-1">ANNUAL MAINTENANCE CONTRACTS<br/><span class="italic font-size-24 font-italic">flexible & tailor-made</span></h3>  
+                                <h3 class="banner-content-1">ANNUAL MAINTENANCE CONTRACTS<br/><span class="italic font-size-24 font-italic">Services to keep you fit always</span></h3>  
                                 <!--<h3 class="banner-content"></br><span class="italic font-size-24 font-italic"></span></h3>-->  
                             </div>
                         </li>
@@ -90,7 +90,7 @@
                                         <p>We offer World-Class & Unmatched Support</p>
                                         <br/>
                                         <br/>
-                                        <a href="contact.php" class="btn btn-primary">Try us</a>                                        
+                                        <a href="contacts.php" class="btn btn-primary">Try us</a>                                        
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-6 text-center"> 

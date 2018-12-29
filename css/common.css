@@ -1015,3 +1015,8 @@ blockquote p { color: #ffffff !important; }
     font-size: 50px;
     color: white;
 }
+
+.font-size-p p {
+    font-size: 13px !important;
+    text-align: justify;
+}

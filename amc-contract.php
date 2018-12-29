@@ -12,7 +12,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">AMC Contracts</h2>
+                            <h2 class="pageTitle"></h2>
                         </div>
                     </div>
                 </div>
@@ -67,9 +67,13 @@
                     <div class="row">
                         <div class="col-md-5">
                             <h3>Types of</h3>
-                            <h1>Annual</h1>
-                            <h1>Maintenance</h1>
-                            <h1>Contract (AMC)</h1>
+                            <h1>Annual
+                                <br/>
+                                <br/>
+                                Maintenance
+                                <br/>
+                                <br/>
+                                Contract (AMC)</h1>
                             <h3>you can sign-up for:</h3>
                             <div class="border-line"></div>
                         </div>
@@ -170,13 +174,13 @@
             <section id="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-7">
-                            <p style="font-size: 13px !important">It’s very important to maintain and keep your server active if you want your online business to be computable to your customers round the clock. One can maintain the server without any hassle With Golden Avenue's Annual Maintenance Contract (AMC) in Dubai, UAE. We have grown with the vision of assisting our customers in Middle East by using the best technology to effectively grow, Manage and protect IT information assets. </p>
-                            <p style="font-size: 13px !important">IT is a key component of a business operational infrastructure in Dubai . Downtime starts as soon as the systems stop functioning that leads to loss in communication, output and profit. However organizations should not worry about it. Our technical professionals in various fields can easily manage your IT infrastructure. Our IT Support Team is further bifurcated to Advance computing and networking specialists, Server specialists, Telephone and networking, Microsoft, Firewall specialists, etc.</p>
-                            <p style="font-size: 13px !important">We are providing AMC services which are well integrated and distinguished. We support you in managing your modern day maintenance challenges in a better way. Relevant and adequate maintenance is our top agenda. We always provide quality services & products for the competitive environment.</p>
-                            <p style="font-size: 13px !important">Our proficient team is well equipped to handle unpredicted hurdles in an all demanding environment with the support assistance round the clock.</p>
-                            <p style="font-size: 13px !important">Golden Avenue is the right choice for cost effective maintenance of all your business needs. Approaching us is the smartest way ahead for solving all your difficulties in business. We provide adept maintenance of the IT infrastructure that improves your performance and keeps you moving ahead. Golden Avenue IT annual maintenance contract provides the most hassle free maintenance for your Servers.</p>
-                            <p style="font-size: 13px !important">Golden Avenue is based out of UAE & expanding its services across Middle East. Established in the year 1999 with the vision of helping small businesses in Middle East by using MSP technology to effectively grow, manage and protect IT Information Assets. We have a team of experts, who will dedicatedly assist you in maintaining your Telecom Equipment (Avaya), IT Systems, Network Infrastructure, Servers, & Storage Systems etc.</p>
+                        <div class="col-md-7 font-size-p">
+                            <p>It’s very important to maintain and keep your server active if you want your online business to be computable to your customers round the clock. One can maintain the server without any hassle With Golden Avenue's Annual Maintenance Contract (AMC) in Dubai, UAE. We have grown with the vision of assisting our customers in Middle East by using the best technology to effectively grow, Manage and protect IT information assets. </p>
+                            <p>IT is a key component of a business operational infrastructure in Dubai . Downtime starts as soon as the systems stop functioning that leads to loss in communication, output and profit. However organizations should not worry about it. Our technical professionals in various fields can easily manage your IT infrastructure. Our IT Support Team is further bifurcated to Advance computing and networking specialists, Server specialists, Telephone and networking, Microsoft, Firewall specialists, etc.</p>
+                            <p>We are providing AMC services which are well integrated and distinguished. We support you in managing your modern day maintenance challenges in a better way. Relevant and adequate maintenance is our top agenda. We always provide quality services & products for the competitive environment.</p>
+                            <p>Our proficient team is well equipped to handle unpredicted hurdles in an all demanding environment with the support assistance round the clock.</p>
+                            <p>Golden Avenue is the right choice for cost effective maintenance of all your business needs. Approaching us is the smartest way ahead for solving all your difficulties in business. We provide adept maintenance of the IT infrastructure that improves your performance and keeps you moving ahead. Golden Avenue IT annual maintenance contract provides the most hassle free maintenance for your Servers.</p>
+                            <p>Golden Avenue is based out of UAE & expanding its services across Middle East. Established in the year 1999 with the vision of helping small businesses in Middle East by using MSP technology to effectively grow, manage and protect IT Information Assets. We have a team of experts, who will dedicatedly assist you in maintaining your Telecom Equipment (Avaya), IT Systems, Network Infrastructure, Servers, & Storage Systems etc.</p>
                         </div>
                         <div class="col-md-5">
                             <h3>Our Annual Maintenance Contract (AMC) covers the following:</h3>
@@ -217,10 +221,9 @@
                         </div>
                         <div class="col-md-6 col-sm-2 col-xs-12">
                             <ul style="list-style: none;text-align: left">
-                                <li>5. Enhanced Business Suite</li>
-                                <li>6. Complete Infrastructure Support for all Devices</li>
-                                <li>7. Dedicated focus on Core-Business Strategy</li>
-                                <li>8. Quality Compliance is the Top agenda</li>
+                                <li>5. Cost Savings is the gaining factor</li>
+                                <li>6. Information protection is our priority</li>
+                                <li>7. Customized package suiting individual needs</li>
                             </ul>
                         </div>
                     </div>
@@ -246,16 +249,14 @@
                     </div>
                 </div>
             </section>
-            <div style="background: url(img-featured/amc-13.png) repeat-y #6b6b6b; width: 100%;">
+            <div style="background: url(img/amc-13.png) repeat-y #6b6b6b; width: 100%;">
                 <br>
                 <br>
                 <br>
                 <br>
                 <div class="container content">
                     <div class="col-md-4 bx2-1">
-                        <h3>Type of<br>
-                            Annual Maintenance<br>
-                            Contracts</h3>
+                        <h3>Type of<br> Annual Maintenance<br> Contracts</h3>
                     </div>
                     <div class="col-md-4 bx2-2 cntr">
                         <h4>Comprehensive</h4>
@@ -313,20 +314,20 @@
                     <div class="row">
                         <div class="col-md-4">
                             <h3>Hard Drive Failure</h3>
-                            <p>Hard drive issues, starting from file system corruption to actual physical failure, most common points of failure in data storage occurs this way. We understand the value that your data possesses and hence we offer the best data recovery services.</p>
+                            <p class="text-justify">Hard drive issues, starting from file system corruption to actual physical failure, most common points of failure in data storage occurs this way. We understand the value that your data possesses and hence we offer the best data recovery services.</p>
                         </div>
                         <div class="col-md-8">
                             <h3>Data Backup & Data Transfer</h3>
-                            <p>The first step towards data protection is data backup. If you have two copies of your data, it is much harder to lose it. We can design and install a backup scheme that fits your needs and budget. We'll install software, update your applications, move your files from your old computer to your new one, network your systems and configure your printer. Also, we make sure to keep your files in the same format and folder structure so that you can navigate and access your files easily. </p>
+                            <p class="text-justify">The first step towards data protection is data backup. If you have two copies of your data, it is much harder to lose it. We can design and install a backup scheme that fits your needs and budget. We'll install software, update your applications, move your files from your old computer to your new one, network your systems and configure your printer. Also, we make sure to keep your files in the same format and folder structure so that you can navigate and access your files easily. </p>
                         </div>
                     </div>
                     <div class="row">
                         <h3>We are with you in the Crisis Hour</h3>
-                        <p>At the time of an infrastructure shut-down, your business network may just go down and you need to bring it up fast and keep it running. Sometimes your server might crash, your hard drive may freeze, your RAID configuration may malfunction, or your operating system may act erratic. Perhaps you are facing a critical deadline on a project, or you may be needing to deliver a product or service immediately.</p>
+                        <p class="text-justify">At the time of an infrastructure shut-down, your business network may just go down and you need to bring it up fast and keep it running. Sometimes your server might crash, your hard drive may freeze, your RAID configuration may malfunction, or your operating system may act erratic. Perhaps you are facing a critical deadline on a project, or you may be needing to deliver a product or service immediately.</p>
 
-                        <p>We will assess your IT problems and alleviate your emergency. We have the tools, the knowledge, the resources and the staff to resolve every IT emergency, no matter how difficult or complex it may seem.</p>
-                        <p>We will reach you and work quickly and professionally, and support you with the knowledge. We need to be on top of the IT challenges so that we are able to resolve minor problems on our own. Our tech savvies deliver many custom-made services, and after the issue is resolved they are always just a phone call away, or an email, away from answering any follow up questions you may have. </p>
-                        <p>We respect your confidential and private information. Know how important confidentiality is to you, whether it’s business or personal data, or both. Our tech savvies have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
+                        <p class="text-justify">We will assess your IT problems and alleviate your emergency. We have the tools, the knowledge, the resources and the staff to resolve every IT emergency, no matter how difficult or complex it may seem.</p>
+                        <p class="text-justify">We will reach you and work quickly and professionally, and support you with the knowledge. We need to be on top of the IT challenges so that we are able to resolve minor problems on our own. Our tech savvies deliver many custom-made services, and after the issue is resolved they are always just a phone call away, or an email, away from answering any follow up questions you may have. </p>
+                        <p class="text-justify">We respect your confidential and private information. Know how important confidentiality is to you, whether it’s business or personal data, or both. Our tech savvies have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
                     </div>
                 </div>
             </section>
@@ -334,42 +335,42 @@
                 <div class="container">
                     <h2 class="text-center">Computer Networking Support Solutions</h2>
                     <h3 class="text-center">Networking Consultation</h3>
-                    <p>Find out what you need to fully connect your home or office with an efficient and customized network before you make a purchase. We’ll conduct an onsite visit, survey networking needs, and then help you draft a cost-effective plan of action for networking your computers. We also help you plan a “mixed network,” linking PCs, handheld devices and Macs for optimal performance. </p>
-                    <p>If you already have an existing network that has just grown over time then it’s highly prospective that security on that network may be an issue, chances are that you will also have bottle necks that is slowing your network access down. Just talk to one of our specialists with over 16 years of networking experience which will help you evaluate the trouble in a much effective way.</p>
+                    <p class="text-justify">Find out what you need to fully connect your home or office with an efficient and customized network before you make a purchase. We’ll conduct an onsite visit, survey networking needs, and then help you draft a cost-effective plan of action for networking your computers. We also help you plan a “mixed network,” linking PCs, handheld devices and Macs for optimal performance. </p>
+                    <p class="text-justify">If you already have an existing network that has just grown over time then it’s highly prospective that security on that network may be an issue, chances are that you will also have bottle necks that is slowing your network access down. Just talk to one of our specialists with over 16 years of networking experience which will help you evaluate the trouble in a much effective way.</p>
                     <div class="row">
                         <div class="col-md-3">
                             <h3>Network Installation & Security Setup</h3>
-                            <p>We’ll develop a glitch-free plan for you to share the Internet, Printers, and Files from anywhere in your home or office with a verifiably secure wireless network.</p>
+                            <p class="text-justify">We’ll develop a glitch-free plan for you to share the Internet, Printers, and Files from anywhere in your home or office with a verifiably secure wireless network.</p>
                         </div>
                         <div class="col-md-3">
                             <h3>System Upgrades</h3>
-                            <p>Our technicians are experts at upgrading your computing potential. We specialize in providing additional computing capacity in a cost effective manner.</p>
+                            <p class="text-justify">Our technicians are experts at upgrading your computing potential. We specialize in providing additional computing capacity in a cost effective manner.</p>
                         </div>
                         <div class="col-md-3">
                             <h3>Storage</h3>
-                            <p>Or engineers will upgrade your storage potential by successfully installing Hard Drives with a greater capacity. Also provide top of the line External Drives to manage your storage potential even further.</p>
+                            <p class="text-justify">Or engineers will upgrade your storage potential by successfully installing Hard Drives with a greater capacity. Also provide top of the line External Drives to manage your storage potential even further.</p>
                         </div>
                         <div class="col-md-3">
                             <h3>RAM</h3>
-                            <p>We will upgrade your Memory capacity by professionally installing additional RAM, allowing your computer to run more programs simultaneously, smoothly and efficiently.</p>
+                            <p class="text-justify">We will upgrade your Memory capacity by professionally installing additional RAM, allowing your computer to run more programs simultaneously, smoothly and efficiently.</p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-md-3">
                             <h3>Speed</h3>
-                            <p>Our technicians will effectively renovate your Processors giving you more computing speed.</p>
+                            <p class="text-justify">Our technicians will effectively renovate your Processors giving you more computing speed.</p>
                         </div>
                         <div class="col-md-3">
                             <h3>Servers</h3>
-                            <p>We will build a customized, top of the line Server, specifically designed to match your business requirements. Our Experts will work with you, patiently, to discuss your business computing needs and meticulously focus on building the right Server to meet your requirements. And do it as a economically as possible. We will never advise you to buy extra components for your Server besides what you actually need.</p>
+                            <p class="text-justify">We will build a customized, top of the line Server, specifically designed to match your business requirements. Our Experts will work with you, patiently, to discuss your business computing needs and meticulously focus on building the right Server to meet your requirements. And do it as a economically as possible. We will never advise you to buy extra components for your Server besides what you actually need.</p>
                         </div>
                         <div class="col-md-3">
                             <h3>Maintenance</h3>
-                            <p>We maintain you’re dedicated Servers, your Network, and all of your computers. We possess a flairof woking with all Windows Server environments, Email Server services, and most Web Server services.</p>
+                            <p class="text-justify">We maintain you’re dedicated Servers, your Network, and all of your computers. We possess a flairof woking with all Windows Server environments, Email Server services, and most Web Server services.</p>
                         </div>
                         <div class="col-md-3">
                             <h3>Workstations</h3>
-                            <p>Our Annual Maintenance Contract (AMC) team strictly understands the relevance of your Work Stations along with your Network devices. We also realize that your Work Stations are the tip of your sword for your business operations, and if the performance is not up to the mark it can spell disaster for you.</p>
+                            <p class="text-justify">Our Annual Maintenance Contract (AMC) team strictly understands the relevance of your Work Stations along with your Network devices. We also realize that your Work Stations are the tip of your sword for your business operations, and if the performance is not up to the mark it can spell disaster for you.</p>
                         </div>
                     </div>
                     <div class="row">
@@ -389,7 +390,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                             <ul>
+                            <ul>
                                 <li>Operate glitch free and experience no software issues</li>
                                 <li>Virus signatures are kept up to date</li>
                             </ul>
