@@ -102,6 +102,7 @@
                             <div class="col-md-4">
                                 <h4>2. It helps you meet regulatory requirements</h4>
                                 <p  class="text-justify">Cyber security is being addressed at government-level more than ever, with several new regulations mandating strengthened security controls. Employee cyber awareness trainings are almost universally essential to avoid any disciplinary action.</p>
+                            <br/><img class="img-responsive" src="img/blog/faq.jpg" alt=""/>
                             </div>
                             <div class="col-md-4 text-justify">
                                 <h4>3. It improves company culture</h4>
