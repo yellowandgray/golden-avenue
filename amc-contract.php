@@ -67,7 +67,7 @@
                     <div class="row">
                         <div class="col-md-5">
                             <h3>Types of</h3>
-                            <h1>Annual
+                            <h1 class="color-blue">Annual
                                 <br/>
                                 <br/>
                                 Maintenance
@@ -80,31 +80,31 @@
                         <div class="col-md-7">
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
-                                <h3>Unified Communications</h3>
+                                <h3 class="color-blue">Unified Communications</h3>
                                 <div class="bordersmall-1"></div>
                                 <p>Telecomm support to keep your business lines busy!</p>
                             </div>
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
-                                <h3>Servers & Storage</h3>
+                                <h3 class="color-blue">Servers & Storage</h3>
                                 <div class="bordersmall-1"></div>
                                 <p>Ensure up-time running of your system</p>
                             </div>
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
-                                <h3>Network Security</h3>
+                                <h3 class="color-blue">Network Security</h3>
                                 <div class="bordersmall-1"></div>
                                 <p>Regular health check to secure your network</p>
                             </div>
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
-                                <h3>IT Support</h3>
+                                <h3 class="color-blue">IT Support</h3>
                                 <div class="bordersmall-1"></div>
                                 <p>24/7 survelliance and updation of your system</p>
                             </div>
                             <div class="col-md-2 round-ring"></div>
                             <div class="col-md-10">
-                                <h3>Website</h3>
+                                <h3 class="color-blue">Website</h3>
                                 <div class="bordersmall-1"></div>
                                 <p>Ascertain the optimal performance of your website</p>
                             </div>
@@ -133,7 +133,7 @@
                         <div class="col-md-1"><img src="img/sub-banner/amc-7.png" alt=""  class="img-responsive"/>
                         </div>
                         <div class="col-md-3">
-                            <h3>Monitoring</h3>
+                            <h3>Corrective</h3>
                             <p>Preventive measures lead to minimal<br/>probability to adopt any corrective<br/>actions!</p>
                         </div>
                     </div>
