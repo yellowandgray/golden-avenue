@@ -131,7 +131,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <h2>GOLDEN AVENUE ensures that</h2>
+                            <h3>GOLDEN AVENUE ensures that</h3>
                             <ul class="list-line">
                                 <li>NO unauthorized downloading other applications that aren’t on the list maintained by GOLDEN AVENUE after consultation with the Business. GOLDEN AVENUE Software inventory applications can track type, version and patch level.</li>
                                 <li>Bring up-to-date the company’s written security policies. Segregate critical data from the rest of the network and require users to authenticate themselves before accessing it.</li>
