@@ -171,7 +171,9 @@
                                 <li>Make certain that organizations are abiding by both industry regulations and government legislation</li>
                                 <li>Dedicated IT Professionals at a fraction of the COST</li>
                             </ul></br>
-                            <h3 class="blue-color bold">ONE STOP for all IT Security Solutions, Support Services, Hardware & Software</h3>
+                            <h3 class="blue-color bold">Build a CYBER resilient organization </h3>
+                            <p class="text-justify">GOLDEN AVENUE helps your business to build a resilient IT system that needs to be a secure and an accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, Ethernet switches and network storage.</p>
+                            <p class="text-justify">It also means well thought-out configurations and rule sets that are documented and maintained, Active defence in depth with servers running their own firewalls in addition to any externally facing firewall and regular IT health checks (not just penetration testing) which are carried out routinely and issues addressed immediately.</p>
                             <p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
                         </div>
                         <div class="col-md-5">
@@ -241,7 +243,7 @@
                                 <li>Business Continuity</li>
                                 <li>IT Security</li>
                                 <li>Server Health</li>
-                                <li>Application Performance</li>
+<!--                                <li>Application Performance</li>-->
                             </ul>
                         </div>
 <!--                            <p class="bold">IT Services Dubai:</p>

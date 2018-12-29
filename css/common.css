@@ -816,9 +816,9 @@ blockquote p { color: #ffffff !important; }
 }
 
 .chat-popup-form-container {
-/*    max-width: 300px;
-    padding: 10px;
-    background-color: white;*/
+    /*    max-width: 300px;
+        padding: 10px;
+        background-color: white;*/
     /*border-top-right-radius: 20px;
     border-top-left-radius: 20px; */
 }
@@ -917,6 +917,7 @@ blockquote p { color: #ffffff !important; }
 .chat-input {
     border: none;
     border-bottom: 1px solid #868686;
+    outline: none;
 }
 .round-ring{
     width: 55px;
@@ -1050,4 +1051,10 @@ blockquote p { color: #ffffff !important; }
     margin-left: -23px;
     margin-right: -23px;
     margin-top: -23px;
+}
+
+.checks-h2 h2 {
+    font-size: 24px;
+    color: #007e93;
+    text-transform: none;
 }
