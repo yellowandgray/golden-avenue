@@ -118,7 +118,7 @@
                     <div class="row">
                         <div class="col-md-1"><img src="img/sub-banner/amc-5.png" alt="" class="img-width"/>
                         </div>
-                        <div class="col-md-3" style="border-right: solid 1px #e0dede; height: 162px;">
+                        <div class="col-md-3 border-height">
                             <h3>Monitoring</h3>
                             <p>24/7 Monitoring is a unique service<br/>which helps you forecast any issue</p>
                         </div>
@@ -126,7 +126,7 @@
                         <div class="col-md-1">
                             <img src="img/sub-banner/amc-6.png" alt="" class="img-width"/>
                         </div>
-                        <div class="col-md-3" style="border-right: solid 1px #e0dede;">
+                        <div class="col-md-3 border-height">
                             <h3>Preventive</h3>
                             <p>Identification of any upcoming problem is combated by essential protective measures</p>
                         </div>
