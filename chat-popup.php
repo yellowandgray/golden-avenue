@@ -1,4 +1,4 @@
-<button class="chat-popup-button" onclick="openPopup()">Chat</button>
+<button class="chat-popup-button" onclick="openPopup()"><i class="fa fa-comments fa-3x" aria-hidden="true"></i></button>
 
 <div class="chat-popup-section" id="myForm">
     <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closePopup()"><span aria-hidden="true">×</span></button>

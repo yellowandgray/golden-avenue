@@ -780,9 +780,10 @@ blockquote p { color: #ffffff !important; }
     cursor: pointer;
     opacity: 0.8;
     position: fixed;
-    bottom: 8px;
-    right: 5px;
-    width: 220px;
+    bottom: 35px;
+    right: 45px;
+    width: 58px;
+    border-radius: 50% !important;
 }
 
 .chat-popup-section {
