@@ -26,6 +26,20 @@
                         </ul>
                         <section class="section-padding">
                             <div class="row text-center">
+                                <div class="col-md-3">
+                                    <a href="#content-1" type="button" class="btn btn-primary">Our Assurance</a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#content-2" type="button" class="btn btn-primary">Step to sign up</a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#content-3" type="button" class="btn btn-primary">Why Golden Avenue</a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#content-4" type="button" class="btn btn-primary">Support Solution</a>
+                                </div>
+                            </div>
+                            <div class="row text-center">
                                 <h2 class="color-blue text-center"><strong>“We assure, our commitments are a reality”</strong></h2><br/>
                                 <h4 class="text-center">Worried when your server goes down? Put aside all your worries with Annual Maintenance Services provided by prologix.</h4><br/>
                                 <p class="text-center" style="font-size: 14px !important">Golden Avenue's Annual Maintenance Contract services provide you with plethora of options to ensure that your IT department is up and running. Being one of the leading IT service<br/> providers, we promote technology as a facilitator to your business. Our pool of multitalented certified engineers enables us to provide optimum IT support services for your system.</p><br/>
@@ -62,89 +76,93 @@
                     </div>
                 </div>
             </section>
-            <section id="content" style="background:#eae8e8;">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-5">
-                            <h3>Types of</h3>
-                            <h1 class="color-blue">Annual
-                                <br/>
-                                <br/>
-                                Maintenance
-                                <br/>
-                                <br/>
-                                Contract (AMC)</h1>
-                            <h3>you can sign-up for:</h3>
-                            <div class="border-line"></div>
-                        </div>
-                        <div class="col-md-7">
-                            <div class="col-md-2 round-ring"></div>
-                            <div class="col-md-10">
-                                <h3 class="color-blue">Unified Communications</h3>
-                                <div class="bordersmall-1"></div>
-                                <p>Telecomm support to keep your business lines busy!</p>
+            <section id="content-1" style="background:#eae8e8;">
+                <section class="section-padding">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <h3>Types of</h3>
+                                <h1 class="color-blue">Annual
+                                    <br/>
+                                    <br/>
+                                    Maintenance
+                                    <br/>
+                                    <br/>
+                                    Contract (AMC)</h1>
+                                <h3>you can sign-up for:</h3>
+                                <div class="border-line"></div>
                             </div>
-                            <div class="col-md-2 round-ring"></div>
-                            <div class="col-md-10">
-                                <h3 class="color-blue">Servers & Storage</h3>
-                                <div class="bordersmall-1"></div>
-                                <p>Ensure up-time running of your system</p>
-                            </div>
-                            <div class="col-md-2 round-ring"></div>
-                            <div class="col-md-10">
-                                <h3 class="color-blue">Network Security</h3>
-                                <div class="bordersmall-1"></div>
-                                <p>Regular health check to secure your network</p>
-                            </div>
-                            <div class="col-md-2 round-ring"></div>
-                            <div class="col-md-10">
-                                <h3 class="color-blue">IT Support</h3>
-                                <div class="bordersmall-1"></div>
-                                <p>24/7 survelliance and updation of your system</p>
-                            </div>
-                            <div class="col-md-2 round-ring"></div>
-                            <div class="col-md-10">
-                                <h3 class="color-blue">Website</h3>
-                                <div class="bordersmall-1"></div>
-                                <p>Ascertain the optimal performance of your website</p>
+                            <div class="col-md-7">
+                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-10">
+                                    <h3 class="color-blue">Unified Communications</h3>
+                                    <div class="bordersmall-1"></div>
+                                    <p>Telecomm support to keep your business lines busy!</p>
+                                </div>
+                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-10">
+                                    <h3 class="color-blue">Servers & Storage</h3>
+                                    <div class="bordersmall-1"></div>
+                                    <p>Ensure up-time running of your system</p>
+                                </div>
+                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-10">
+                                    <h3 class="color-blue">Network Security</h3>
+                                    <div class="bordersmall-1"></div>
+                                    <p>Regular health check to secure your network</p>
+                                </div>
+                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-10">
+                                    <h3 class="color-blue">IT Support</h3>
+                                    <div class="bordersmall-1"></div>
+                                    <p>24/7 survelliance and updation of your system</p>
+                                </div>
+                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-10">
+                                    <h3 class="color-blue">Website</h3>
+                                    <div class="bordersmall-1"></div>
+                                    <p>Ascertain the optimal performance of your website</p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
+                </section>
             </section>
-            <section id="content">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-1"><img src="img/sub-banner/amc-5.png" alt="" class="img-responsive"/>
-                        </div>
-                        <div class="col-md-3 border-height">
-                            <h3>Monitoring</h3>
-                            <p>24/7 Monitoring is a unique service<br/>which helps you forecast any issue</p>
-                        </div>
+            <section id="content-2">
+                <section class="section-padding">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-1"><img src="img/sub-banner/amc-5.png" alt="" class="img-responsive"/>
+                            </div>
+                            <div class="col-md-3 border-height">
+                                <h3>Monitoring</h3>
+                                <p>24/7 Monitoring is a unique service<br/>which helps you forecast any issue</p>
+                            </div>
 
-                        <div class="col-md-1">
-                            <img src="img/sub-banner/amc-6.png" alt="" class="img-responsive"/>
-                        </div>
-                        <div class="col-md-3 border-height">
-                            <h3>Preventive</h3>
-                            <p>Identification of any upcoming problem is combated by essential protective measures</p>
-                        </div>
-                        <div class="col-md-1"><img src="img/sub-banner/amc-7.png" alt=""  class="img-responsive"/>
-                        </div>
-                        <div class="col-md-3">
-                            <h3>Corrective</h3>
-                            <p>Preventive measures lead to minimal<br/>probability to adopt any corrective<br/>actions!</p>
+                            <div class="col-md-1">
+                                <img src="img/sub-banner/amc-6.png" alt="" class="img-responsive"/>
+                            </div>
+                            <div class="col-md-3 border-height">
+                                <h3>Preventive</h3>
+                                <p>Identification of any upcoming problem is combated by essential protective measures</p>
+                            </div>
+                            <div class="col-md-1"><img src="img/sub-banner/amc-7.png" alt=""  class="img-responsive"/>
+                            </div>
+                            <div class="col-md-3">
+                                <h3>Corrective</h3>
+                                <p>Preventive measures lead to minimal<br/>probability to adopt any corrective<br/>actions!</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </section><br/>
-            <div class="col-md12 text-center">
-                <h2>Simple steps to Sign up:</h2>
-            </div>
+                </section>
+            </section>
             <section id="content">
                 <div class="container" style="width: 100%;">
                     <div class="row">
+                        <div class="col-md12 text-center">
+                            <h2>Simple steps to Sign up:</h2>
+                        </div>
                         <div class="col-md-3 box-1">
                             <i class="fa fa-envelope-o FI icon-size-color"></i>
                             <h3>Unified Communications</h3>
@@ -205,49 +223,51 @@
                     </div>
                 </div>
             </section>
-            <section id="content">
-                <div class="container text-center">
-                    <h2>Why Golden Avenue?</h2>
-                    <p>One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong Brand partnerships to deliver and integrate enterprise products that seamlessly align with your business. We have more than 50 major alliances with long standing relationships with principals and partners. </p>
-                    <div class="row">
-                        <h3>Benefits of joining us for an Annual Maintenance Contract (AMC):</h3>
-                        <div class="col-md-6 col-sm-2 col-xs-12">
-                            <ul style="list-style: none;text-align: left">
-                                <li>1. Enhanced Business Suite</li>
-                                <li>2. Complete Infrastructure Support for all Devices</li>
-                                <li>3. Dedicated focus on Core-Business Strategy</li>
-                                <li>4. Quality Compliance is the Top agenda</li>
-                            </ul>
+            <section id="content-3">
+                <section class="section-padding">
+                    <div class="container text-center">
+                        <h2>Why Golden Avenue?</h2>
+                        <p>One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong Brand partnerships to deliver and integrate enterprise products that seamlessly align with your business. We have more than 50 major alliances with long standing relationships with principals and partners. </p>
+                        <div class="row">
+                            <h3>Benefits of joining us for an Annual Maintenance Contract (AMC):</h3>
+                            <div class="col-md-6 col-sm-2 col-xs-12">
+                                <ul style="list-style: none;text-align: left">
+                                    <li>1. Enhanced Business Suite</li>
+                                    <li>2. Complete Infrastructure Support for all Devices</li>
+                                    <li>3. Dedicated focus on Core-Business Strategy</li>
+                                    <li>4. Quality Compliance is the Top agenda</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6 col-sm-2 col-xs-12">
+                                <ul style="list-style: none;text-align: left">
+                                    <li>5. Cost Savings is the gaining factor</li>
+                                    <li>6. Information protection is our priority</li>
+                                    <li>7. Customized package suiting individual needs</li>
+                                </ul>
+                            </div>
                         </div>
-                        <div class="col-md-6 col-sm-2 col-xs-12">
-                            <ul style="list-style: none;text-align: left">
-                                <li>5. Cost Savings is the gaining factor</li>
-                                <li>6. Information protection is our priority</li>
-                                <li>7. Customized package suiting individual needs</li>
-                            </ul>
+                        <div class="row">
+                            <h3>Annual Maintenance Contract (AMC) Services</h3>
+                            <p>We at Golden Avenue offer Annual Maintenance Contract (AMC) Contract for Support Services to keep your business’ IT Systems and Network at peak performance. We understand your needs best and provide you with preeminent solutions.</p>
+                            <div class="col-md-6 col-sm-2 col-xs-12">
+                                <ul style="list-style: none;text-align: left">
+                                    <li>1. Round the clock server monitoring</li>
+                                    <li>2. Onsite visit by our qualified engineers</li>
+                                    <li>3. Incident based call‐out support</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6 col-sm-2 col-xs-12">
+                                <ul style="list-style: none;text-align: left">
+                                    <li>4. Unlimited remote help desk support</li>
+                                    <li>5. Systematic preventive maintenance</li>
+                                    <li>6. Inspection of the network break-down</li>
+                                </ul>
+                            </div>
+                            <p>We Guarantee Best Services, at the least possible prices. We believe in providing top notch quality services which are time bound, prompt and reliable to our clients. There is no compromise on integrity. We will always act to establish the foremost standards of honesty and fairness. Integrity is being ethical beyond doubt. It is living the law of the land in spirit. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p><br/><br/>
+                            <p>24/7 Emergency Support Services will be provided after business hours and on public holidays with a tiny increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period. </p>
                         </div>
                     </div>
-                    <div class="row">
-                        <h3>Annual Maintenance Contract (AMC) Services</h3>
-                        <p>We at Golden Avenue offer Annual Maintenance Contract (AMC) Contract for Support Services to keep your business’ IT Systems and Network at peak performance. We understand your needs best and provide you with preeminent solutions.</p>
-                        <div class="col-md-6 col-sm-2 col-xs-12">
-                            <ul style="list-style: none;text-align: left">
-                                <li>1. Round the clock server monitoring</li>
-                                <li>2. Onsite visit by our qualified engineers</li>
-                                <li>3. Incident based call‐out support</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6 col-sm-2 col-xs-12">
-                            <ul style="list-style: none;text-align: left">
-                                <li>4. Unlimited remote help desk support</li>
-                                <li>5. Systematic preventive maintenance</li>
-                                <li>6. Inspection of the network break-down</li>
-                            </ul>
-                        </div>
-                        <p>We Guarantee Best Services, at the least possible prices. We believe in providing top notch quality services which are time bound, prompt and reliable to our clients. There is no compromise on integrity. We will always act to establish the foremost standards of honesty and fairness. Integrity is being ethical beyond doubt. It is living the law of the land in spirit. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p><br/><br/>
-                        <p>24/7 Emergency Support Services will be provided after business hours and on public holidays with a tiny increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period. </p>
-                    </div>
-                </div>
+                </section>
             </section>
             <div style="background: url(img/amc-13.png) repeat-y #6b6b6b; width: 100%;">
                 <br>
@@ -333,72 +353,74 @@
                     </div>
                 </div>
             </section>
-            <section id="content">
-                <div class="container">
-                    <h2 class="text-center">Computer Networking Support Solutions</h2>
-                    <h3 class="text-center">Networking Consultation</h3>
-                    <p class="text-justify">Find out what you need to fully connect your home or office with an efficient and customized network before you make a purchase. We’ll conduct an onsite visit, survey networking needs, and then help you draft a cost-effective plan of action for networking your computers. We also help you plan a “mixed network,” linking PCs, handheld devices and Macs for optimal performance. </p>
-                    <p class="text-justify">If you already have an existing network that has just grown over time then it’s highly prospective that security on that network may be an issue, chances are that you will also have bottle necks that is slowing your network access down. Just talk to one of our specialists with over 16 years of networking experience which will help you evaluate the trouble in a much effective way.</p>
-                    <div class="row">
-                        <div class="col-md-3">
-                            <h3>Network Installation & Security Setup</h3>
-                            <p class="text-justify">We’ll develop a glitch-free plan for you to share the Internet, Printers, and Files from anywhere in your home or office with a verifiably secure wireless network.</p>
+            <section id="content-4">
+                <section class="section-padding">
+                    <div class="container">
+                        <h2 class="text-center">Computer Networking Support Solutions</h2>
+                        <h3 class="text-center">Networking Consultation</h3>
+                        <p class="text-justify">Find out what you need to fully connect your home or office with an efficient and customized network before you make a purchase. We’ll conduct an onsite visit, survey networking needs, and then help you draft a cost-effective plan of action for networking your computers. We also help you plan a “mixed network,” linking PCs, handheld devices and Macs for optimal performance. </p>
+                        <p class="text-justify">If you already have an existing network that has just grown over time then it’s highly prospective that security on that network may be an issue, chances are that you will also have bottle necks that is slowing your network access down. Just talk to one of our specialists with over 16 years of networking experience which will help you evaluate the trouble in a much effective way.</p>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <h3>Network Installation & Security Setup</h3>
+                                <p class="text-justify">We’ll develop a glitch-free plan for you to share the Internet, Printers, and Files from anywhere in your home or office with a verifiably secure wireless network.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <h3>System Upgrades</h3>
+                                <p class="text-justify">Our technicians are experts at upgrading your computing potential. We specialize in providing additional computing capacity in a cost effective manner.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <h3>Storage</h3>
+                                <p class="text-justify">Or engineers will upgrade your storage potential by successfully installing Hard Drives with a greater capacity. Also provide top of the line External Drives to manage your storage potential even further.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <h3>RAM</h3>
+                                <p class="text-justify">We will upgrade your Memory capacity by professionally installing additional RAM, allowing your computer to run more programs simultaneously, smoothly and efficiently.</p>
+                            </div>
                         </div>
-                        <div class="col-md-3">
-                            <h3>System Upgrades</h3>
-                            <p class="text-justify">Our technicians are experts at upgrading your computing potential. We specialize in providing additional computing capacity in a cost effective manner.</p>
+                        <div class="row">
+                            <div class="col-md-3">
+                                <h3>Speed</h3>
+                                <p class="text-justify">Our technicians will effectively renovate your Processors giving you more computing speed.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <h3>Servers</h3>
+                                <p class="text-justify">We will build a customized, top of the line Server, specifically designed to match your business requirements. Our Experts will work with you, patiently, to discuss your business computing needs and meticulously focus on building the right Server to meet your requirements. And do it as a economically as possible. We will never advise you to buy extra components for your Server besides what you actually need.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <h3>Maintenance</h3>
+                                <p class="text-justify">We maintain you’re dedicated Servers, your Network, and all of your computers. We possess a flairof woking with all Windows Server environments, Email Server services, and most Web Server services.</p>
+                            </div>
+                            <div class="col-md-3">
+                                <h3>Workstations</h3>
+                                <p class="text-justify">Our Annual Maintenance Contract (AMC) team strictly understands the relevance of your Work Stations along with your Network devices. We also realize that your Work Stations are the tip of your sword for your business operations, and if the performance is not up to the mark it can spell disaster for you.</p>
+                            </div>
                         </div>
-                        <div class="col-md-3">
-                            <h3>Storage</h3>
-                            <p class="text-justify">Or engineers will upgrade your storage potential by successfully installing Hard Drives with a greater capacity. Also provide top of the line External Drives to manage your storage potential even further.</p>
-                        </div>
-                        <div class="col-md-3">
-                            <h3>RAM</h3>
-                            <p class="text-justify">We will upgrade your Memory capacity by professionally installing additional RAM, allowing your computer to run more programs simultaneously, smoothly and efficiently.</p>
+                        <div class="row">
+                            <h3 class="text-center">We, as a robust team assure you for the effective maintenance and provide you with proper solutions to troubleshoot for any of the impending problems.</h3>
+                            <h3 class="text-center">We ensure your Workstations</h3>
+                            <div class="col-md-4">
+                                <ul>
+                                    <li>Are properly connected to your Network</li>
+                                    <li>Optimized for performance</li>
+                                    <li>Are secure from intruders</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul>
+                                    <li>Perform all tasks needed by your staff</li>
+                                    <li>Don’t run anything they aren’t supposed to</li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul>
+                                    <li>Operate glitch free and experience no software issues</li>
+                                    <li>Virus signatures are kept up to date</li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
-                    <div class="row">
-                        <div class="col-md-3">
-                            <h3>Speed</h3>
-                            <p class="text-justify">Our technicians will effectively renovate your Processors giving you more computing speed.</p>
-                        </div>
-                        <div class="col-md-3">
-                            <h3>Servers</h3>
-                            <p class="text-justify">We will build a customized, top of the line Server, specifically designed to match your business requirements. Our Experts will work with you, patiently, to discuss your business computing needs and meticulously focus on building the right Server to meet your requirements. And do it as a economically as possible. We will never advise you to buy extra components for your Server besides what you actually need.</p>
-                        </div>
-                        <div class="col-md-3">
-                            <h3>Maintenance</h3>
-                            <p class="text-justify">We maintain you’re dedicated Servers, your Network, and all of your computers. We possess a flairof woking with all Windows Server environments, Email Server services, and most Web Server services.</p>
-                        </div>
-                        <div class="col-md-3">
-                            <h3>Workstations</h3>
-                            <p class="text-justify">Our Annual Maintenance Contract (AMC) team strictly understands the relevance of your Work Stations along with your Network devices. We also realize that your Work Stations are the tip of your sword for your business operations, and if the performance is not up to the mark it can spell disaster for you.</p>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <h3 class="text-center">We, as a robust team assure you for the effective maintenance and provide you with proper solutions to troubleshoot for any of the impending problems.</h3>
-                        <h3 class="text-center">We ensure your Workstations</h3>
-                        <div class="col-md-4">
-                            <ul>
-                                <li>Are properly connected to your Network</li>
-                                <li>Optimized for performance</li>
-                                <li>Are secure from intruders</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4">
-                            <ul>
-                                <li>Perform all tasks needed by your staff</li>
-                                <li>Don’t run anything they aren’t supposed to</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4">
-                            <ul>
-                                <li>Operate glitch free and experience no software issues</li>
-                                <li>Virus signatures are kept up to date</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+                </section>
             </section>
             <?php include 'footer.php'; ?>
             <?php include 'it-procurement-popup.php'; ?>
