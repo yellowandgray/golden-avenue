@@ -29,7 +29,7 @@
                                 <h3 class="color-blue"><strong>Cyber security</strong></h3>
                                 <p>Companies of all sizes can become victims of cyber-attacks making it more important than ever to bring cyber security awareness through employee training as an integral part of your business continuity program. Look at Cyber security Awareness like a Business Function.</p> 
                                 <p> class="color-blue">Businesses and organizations should address technology risk and cyber security challenges through the lens of their business value to deliver appropriate levels of protection that support their business outcomes.</p>
-                                <img src="img/blog/sub02.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/faq-001.jpg" alt="" class="img-responsive"/>
                                 <h3 class="color-blue">FAQ – Cyber Security Awareness Workshop</h3>
                                 <h3 class="color-blue">What is the main purpose of Cyber security awareness training?</h3>
                                 <h3 class="color-blue">Protect from WITHIN</h3>
