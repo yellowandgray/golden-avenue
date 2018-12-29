@@ -158,6 +158,8 @@ button .glyphicon-menu-right, input[type="button"] .glyphicon-menu-right, input[
     color: #fff;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 a:hover, a:focus, a:active {
     text-decoration: none;
@@ -526,6 +528,8 @@ blockquote p {color: #fff;}
     font-size: 24px;
     transform: rotate(-90deg);
     z-index: 999;
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
 }
 
 /* The popup chat - hidden by default */
@@ -1061,5 +1065,5 @@ blockquote p { color: #ffffff !important; }
 .box-chat-shadow {margin-top: -64px;}
 
 .color-white {
-   color: #ffffff !important
+    color: #ffffff !important
 }
