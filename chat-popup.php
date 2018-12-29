@@ -1,9 +1,10 @@
 <button class="chat-popup-button" onclick="openPopup()"><i class="fa fa-comments fa-3x" aria-hidden="true"></i></button>
 
 <div class="chat-popup-section" id="myForm">
-    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closePopup()"><span aria-hidden="true">×</span></button>
+    <div class="chat-bg-css"></div>
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="closePopup()" style="margin-top: -22px"><span aria-hidden="true">×</span></button>
     <form action="#" class="chat-popup-form-container">
-        <h1>Chat</h1>
+<!--        <h1>Chat</h1>-->
         <div class="textarea-1"></div>
         <div class="box-chat-shadow">
             <input type="text" class="chat-input" placeholder="Type message.." />
