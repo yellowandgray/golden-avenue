@@ -20,25 +20,25 @@
             <section id="content">
                 <div class="container">
                     <div class="about">
-                        <ul class="breadcrumb">
-                            <li><a href="index.php">Home</a></li>
-                            <li>AMC Contracts</li>
-                        </ul>
-                        <section class="section-padding">
-                            <div class="row text-center">
-                                <div class="col-md-3">
-                                    <a href="#content-1" type="button" class="btn btn-primary">Our Assurance</a>
-                                </div>
-                                <div class="col-md-3">
-                                    <a href="#content-2" type="button" class="btn btn-primary">Step to sign up</a>
-                                </div>
-                                <div class="col-md-3">
-                                    <a href="#content-3" type="button" class="btn btn-primary">Why Golden Avenue</a>
-                                </div>
-                                <div class="col-md-3">
-                                    <a href="#content-4" type="button" class="btn btn-primary">Support Solution</a>
-                                </div>
+                        <div class="row text-center">
+                            <div class="col-md-3">
+                                <a href="#content-1" type="button" class="btn btn-primary">Our Assurance</a>
                             </div>
+                            <div class="col-md-3">
+                                <a href="#content-2" type="button" class="btn btn-primary">Step to sign up</a>
+                            </div>
+                            <div class="col-md-3">
+                                <a href="#content-3" type="button" class="btn btn-primary">Why Golden Avenue</a>
+                            </div>
+                            <div class="col-md-3">
+                                <a href="#content-4" type="button" class="btn btn-primary">Support Solution</a>
+                            </div>
+                        </div>
+                        <!--                        <ul class="breadcrumb">
+                                                    <li><a href="index.php">Home</a></li>
+                                                    <li>AMC Contracts</li>
+                                                </ul>-->
+                        <section class="section-padding">
                             <div class="row text-center">
                                 <h2 class="color-blue text-center"><strong>“We assure, our commitments are a reality”</strong></h2><br/>
                                 <h4 class="text-center">Worried when your server goes down? Put aside all your worries with Annual Maintenance Services provided by prologix.</h4><br/>
