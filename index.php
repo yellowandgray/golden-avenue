@@ -627,7 +627,7 @@
 
         <?php include 'footer.php'; ?>
         <?php include 'it-procurement-popup.php'; ?>
-        <?php include 'popup.php'; ?>
+        <?php include 'doyouknow-popup.php'; ?>
         <?php include 'chat-popup.php'; ?>
         <?php include 'onload-popup.php'; ?>
 

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <?php $page = 'why-us';
-    include 'head.php'; ?>
+    include 'head.php';
+    ?>
     <body>
         <div id="wrapper">
 <?php include 'menu.php'; ?>
@@ -68,11 +69,11 @@
                     </div>
                 </div>
             </section>
-<?php include 'footer.php'; ?>
-           <?php include 'it-procurement-popup.php'; ?>
+        <?php include 'footer.php'; ?>
+        <?php include 'it-procurement-popup.php'; ?>
         </div>
-        <?php include 'popup.php'; ?>
+        <?php include 'doyouknow-popup.php'; ?>
         <?php include 'chat-popup.php'; ?>
-      
+
     </body>
 </html>
