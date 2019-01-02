@@ -81,54 +81,49 @@
                 <div class="container"> 
                     <div class="row">
                         <div class="skill-home"> <div class="skill-home-solid clearfix"> 
-                                <div class="col-md-3 col-sm-6 text-center">
+                                <div class="col-md-3 col-sm-6 text-center margin-t-b-20">
                                     <span class="icons c1">
                                         <h3 class="title-h3">24 X 7 IT SUPPORT</h3> 
                                         <img src="img/001.jpg" class="img-responsive" />
                                     </span> 
                                     <div class="box-area">
                                         <p>We offer World-Class & Unmatched Support</p>
-                                        <br/>
                                         <a href="contacts.php" class="btn btn-primary">Try us</a>                                        
                                     </div>
                                 </div>
-                                <div class="col-md-3 col-sm-6 text-center"> 
+                                <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                     <span class="icons c2">
                                         <h3 class="title-h3">CERTIFIED IT PROFESSIONALS</h3> 
                                         <img src="img/002.jpg" class="img-responsive" />
                                     </span> 
                                     <div class="box-area">
                                         <p>We are a team of Certified IT Professionals & Experts</p>
-                                        <br/>
                                         <a href="why-us.php" class="btn btn-primary">For Details</a>
                                     </div>
                                 </div>
-                                <div class="col-md-3 col-sm-6 text-center"> 
+                                <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                     <span class="icons c3">
                                         <h3 class="title-h3">20+  YEARS OF EXPERIENCE</h3> 
                                         <img src="img/003.jpg" class="img-responsive" />
                                     </span> 
                                     <div class="box-area">
                                         <p>Un-Paralleled Experience & Time Unlimited Consultancy</p>
-                                        <br/>
 <!--                                        <span class="italic bold">Your First Consultation is Always FREE</span>-->
-
                                         <a href="#" class="btn btn-primary">Call Us</a>
                                     </div>
                                 </div>
-                                <div class="col-md-3 col-sm-6 text-center"> 
+                                <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                     <span class="icons c4">
                                         <h3 class="title-h3"> FLEXIBLE CONTRACTS </h3> 
                                         <img src="img/004.jpg" class="img-responsive" />
                                     </span> 
                                     <div class="box-area">
-                                        <p>Tailor-Made Contracts, FOCUSED and Specific to ALL your Business Needs</p>
-
+                                        <p>Tailor-Made Contracts, FOCUSED & Specific to your Business Needs</p>
                                         <a href="amc-contract.php" class="btn btn-primary">Get Quote</a>
-
                                     </div>
                                 </div>
-                            </div></div>
+                            </div>
+                        </div>
                     </div> 
                     <div class="row">
                         <div class="col-md-12">
@@ -238,7 +233,7 @@
                                 <h3 class="margin-t-b-0">COMPANIES HAD ALREADY BEEN THE</h3>
                                 <h2 class="margin-t-b-0">TARGET OF A CYBER ATTACK</h2>
                                 <p class="font-size-12 color-blue">GET STARTED TODAY WITH ADVANCED CYBER SECURITY</p>
-                                <button class="btn-2"><a href="#"><span class="font-size-22 bold">LEARN MORE</span><p class="font-size-12 color-white margin-t-b-0">ABOUT CLOUD SERVICES</p></a></button>
+                                <button class="btn-2"><a href="#"><span class="font-size-22 bold">LEARN MORE</span><p class="font-size-12 color-white margin-t-b-0">FROM OUR CYBER SECURITY WORKSHOP</p></a></button>
                             </div>
                         </div>
                     </div>
@@ -251,7 +246,7 @@
                                 <li>Business Continuity</li>
                                 <li>IT Security</li>
                                 <li>Server Health</li>
-<!--                                <li>Application Performance</li>-->
+                                <!--                                <li>Application Performance</li>-->
                             </ul>
                         </div>
 <!--                            <p class="bold">IT Services Dubai:</p>

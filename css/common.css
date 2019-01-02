@@ -275,6 +275,12 @@ b, strong {
 
 .box-shadow-2 a {color: #14285f; }
 
+.box-shadow-3 {    
+    box-shadow: 3px 5px 19px 12px #eee;
+    padding: 25px;
+    height: 430px;
+}
+
 .btn-medium {
     text-align: center;
     color: #FFFFFF !important;
@@ -669,8 +675,8 @@ marquee {
 .font-italic {font-family: italic;}
 
 .table-center-align td {width: 262px;}
-.font-size-20 {font-size: 20px;}
-.font-size-22 {font-size: 22px;}
+.font-size-20 {font-size: 20px !important;}
+.font-size-22 {font-size: 22px !important;}
 .gray {background: #8a8989 !important; color: #fff;}
 .blue {background: #41a9b9 !important; color: #fff;}
 .orange {background: #dab576 !important; color: #fff;}
@@ -1005,9 +1011,10 @@ blockquote p { color: #ffffff !important; }
 }
 
 .bx2-2 {
-    background: #dcd8d8;
+    /* background: #dcd8d8; */
     height: 180px;
     padding: 40px 30px;
+    border: 1px solid #000;
 }
 
 .cntr {
@@ -1018,6 +1025,8 @@ blockquote p { color: #ffffff !important; }
     background: #ffffff;
     height: 180px;
     padding: 40px 30px;
+    border: 1px solid #000;
+    border-left: none;
 }
 
 .bx2-4 {
@@ -1027,12 +1036,17 @@ blockquote p { color: #ffffff !important; }
 }
 
 .bx2-5 {
-    background: #dcd8d8;
+    /* background: #dcd8d8; */
     height: 180px;
     padding: 20px 30px;
     line-height: 20px;
+    border: 1px solid #000;
 }
 
+.we-can-help {
+    box-shadow: 5px 9px 14px 7px #eee;
+    padding: 20px;
+}
 .we-can-help li {
     font-size: 12px;
 }
@@ -1094,7 +1108,7 @@ blockquote p { color: #ffffff !important; }
     text-align: center;
     padding: 5px 30px;
     border-color: transparent;
-/*    margin-top: 12px;*/
+    /*    margin-top: 12px;*/
 }
 /*
 .btn-2:hover {
@@ -1107,4 +1121,20 @@ blockquote p { color: #ffffff !important; }
 
 .margin-top--20 {
     margin-top: -20px !important;
+}
+
+.text-transform-none {
+    text-transform: none;
+}
+
+.amc-box-content {
+    background: #eee;
+    box-shadow: 3px 7px 14px 0px #eee;
+    height: 190px;
+    border: 2px solid #ddd;
+    padding: 25px;
+}
+
+.margin-0 {
+    margin: 0px !important;
 }
