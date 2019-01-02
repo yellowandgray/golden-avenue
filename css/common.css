@@ -930,7 +930,8 @@ blockquote p { color: #ffffff !important; }
     width: 55px;
     height: 50px;
     border: solid 1px #a4d9ad;
-    border-radius: 50%;
+    /*    border-radius: 50%;*/
+    border-radius: 10%;
     margin-top: 23px;
 
 }
@@ -1066,4 +1067,10 @@ blockquote p { color: #ffffff !important; }
 
 .color-white {
     color: #ffffff !important
+}
+
+.round-ring i {
+    padding: 13px 0 0px 2px;
+    font-size: 20px;
+    color: #36ab4b;
 }

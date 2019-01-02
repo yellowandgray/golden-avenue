@@ -93,31 +93,31 @@
                                 <div class="border-line"></div>
                             </div>
                             <div class="col-md-7">
-                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-2 round-ring"><i class="fa fa-check" aria-hidden="true"></i></div>
                                 <div class="col-md-10">
                                     <h3 class="color-blue">Unified Communications</h3>
                                     <div class="bordersmall-1"></div>
                                     <p>Telecomm support to keep your business lines busy!</p>
                                 </div>
-                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-2 round-ring"><i class="fa fa-check" aria-hidden="true"></i></div>
                                 <div class="col-md-10">
                                     <h3 class="color-blue">Servers & Storage</h3>
                                     <div class="bordersmall-1"></div>
                                     <p>Ensure up-time running of your system</p>
                                 </div>
-                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-2 round-ring"><i class="fa fa-check" aria-hidden="true"></i></div>
                                 <div class="col-md-10">
                                     <h3 class="color-blue">Network Security</h3>
                                     <div class="bordersmall-1"></div>
                                     <p>Regular health check to secure your network</p>
                                 </div>
-                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-2 round-ring"><i class="fa fa-check" aria-hidden="true"></i></div>
                                 <div class="col-md-10">
                                     <h3 class="color-blue">IT Support</h3>
                                     <div class="bordersmall-1"></div>
                                     <p>24/7 survelliance and updation of your system</p>
                                 </div>
-                                <div class="col-md-2 round-ring"></div>
+                                <div class="col-md-2 round-ring"><i class="fa fa-check" aria-hidden="true"></i></div>
                                 <div class="col-md-10">
                                     <h3 class="color-blue">Website</h3>
                                     <div class="bordersmall-1"></div>
