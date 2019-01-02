@@ -6,7 +6,7 @@
 <div id="popup-container">
     <div id="popup-window">
         <div class="modal-content">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>  
+            <button type="button" class="close margin-top--20" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>  
             <a href="#" class="your-class"></a>
             <div>
                 <div class="row margin-bottom-0 text-center" id="video_container">
