@@ -1091,10 +1091,13 @@ blockquote p { color: #ffffff !important; }
     text-align: center;
     padding: 5px 30px;
     border-color: transparent;
-    margin-top: 12px;
-    cursor: unset;
+/*    margin-top: 12px;*/
 }
 /*
 .btn-2:hover {
     background: #d2ae6c;
 }*/
+
+.btn-2 a {
+    color: #ffffff !important;
+}
