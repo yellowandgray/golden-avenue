@@ -231,6 +231,15 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="box-shadow-cyber-attack text-center margin-t-b-20">
+                                <img src="img/cyber-attack.png" alt="image" class="img-responsive" />
+                                <p>According to the Global IT Security Risk Survey by Kaspersky,</p>
+                                <h2><span class="out-of-font">9</span> OUT OF <span class="out-of-font">10</span></h2>
+                                <h3 class="margin-t-b-0">COMPANIES HAD ALREADY BEEN THE</h3>
+                                <h2 class="margin-t-b-0">TARGET OF A CYBER ATTACK</h2>
+                                <p class="font-size-12 color-blue">GET STARTED TODAY WITH ADVANCED CYBER SECURITY</p>
+                                <button class="btn-2"><span class="font-size-22">LEARN MORE</span><p class="font-size-12 color-white">ABOUT CLOUD SERVICES</p></button>
+                            </div>
                         </div>
                     </div>
                     <h4 class="bold">Our Services</h4>
