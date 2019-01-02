@@ -247,13 +247,16 @@ b, strong {
     text-align: center;
 }
 .close {
-    margin-right: 10px;
+    margin-right: -10px !important;
     margin-top: 5px;
     /*    color: #fff;*/
     opacity: .8;
 }
 .close:hover {
     color: #000000;
+}
+.margin-right-0 {
+    margin-right: 0 !important;
 }
 
 
