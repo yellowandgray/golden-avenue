@@ -18,11 +18,12 @@
                 <div class="widget">
                     <h5 class="widgetheading">Quick Links</h5>
                     <ul class="link-list">
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Terms and conditions</a></li>
-                        <li><a href="#">Privacy policy</a></li>
-                        <li><a href="#">Career</a></li>
-                        <li><a href="#">Contact us</a></li>
+                        <li><a href="it-health-check.php">Services</a></li>
+                        <li><a href="amc-contract.php">AMC Contracts</a></li>
+                        <li><a href="it_procurement.php">IT Procurement Services</a></li>
+                        <li><a href="blog.php">Blog</a></li>
+                        <li><a href="why-us.php">Why Us</a></li>
+                        <li><a href="contacts.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
@@ -30,15 +31,14 @@
                 <div class="widget">
                     <h5 class="widgetheading">Our Services</h5>
                     <ul class="link-list">
-                        <li><a href="#">IT Health Checks:</a></li>
+                        <li><a href="it-health-check.php">IT Health Checks:</a></li>
                         <!--<li><a href="#">Technical Solutions</a></li>-->
                         <!--<li><a href="#">Hardware & Software</a></li>-->
-                        <li><a href="#">Network health check</a></li>
-                        <li><a href="#">Business continuity</a></li>
-                        <li><a href="#">IT Security</a></li>
-                        <li><a href="#">Consulting services</a></li>
-                        <li><a href="#"> Cloud migration</a></li>
-
+                        <li><a href="network-health-check.php">Network health check</a></li>
+                        <li><a href="business-continuity.php">Business continuity</a></li>
+                        <li><a href="it-security.php">IT Security</a></li>
+                        <li><a href="consulting-service.php">Consulting services</a></li>
+                        <li><a href="cloud-migration.php"> Cloud migration</a></li>
                     </ul>
                 </div>
             </div>
