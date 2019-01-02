@@ -786,7 +786,7 @@ blockquote p { color: #ffffff !important; }
 
 @media  (max-width: 1220px) and (min-width: 991px) {
     .open-button {
-        bottom: 305px !important;
+        bottom: 320px !important;
     }
 }
 
