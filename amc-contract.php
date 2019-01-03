@@ -163,7 +163,9 @@
                                                                 </div>-->
                             </div>
                             <div class="row">
-                                <h4>You can choose for:</h4>
+                                <div class="col-lg-12">
+                                    <h4>You can choose for:</h4>
+                                </div>
                                 <div class="col-md-3">
                                     <h5 class="margin-0 color-blue">Unified Communications</h5>
                                     <p>Telecomm support to never stop your business</p>
@@ -356,42 +358,46 @@
                         <h2>Why Golden Avenue?</h2>
                         <p>One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong Brand partnerships to deliver and integrate enterprise products that seamlessly align with your business. We have more than 50 major alliances with long standing relationships with principals and partners.</p>
                         <div class="row">
-                            <h3>Benefits of joining us for an Annual Maintenance Contract (AMC):</h3>
-                            <div class="col-md-6 col-sm-2 col-xs-12">
-                                <ul style="list-style: none;">
-                                    <li>1. Enhanced Business Suite</li>
-                                    <li>2. Complete Infrastructure Support for all Devices</li>
-                                    <li>3. Dedicated focus on Core-Business Strategy</li>
-                                    <li>4. Quality Compliance is the Top agenda</li>
-                                </ul>
-                            </div>
-                            <div class="col-md-6 col-sm-2 col-xs-12">
-                                <ul style="list-style: none;">
-                                    <li>5. Cost Savings is the gaining factor</li>
-                                    <li>6. Information protection is our priority</li>
-                                    <li>7. Customized package suiting individual needs</li>
-                                </ul>
+                            <div class="col-lg-12">
+                                <h3>Benefits of joining us for an Annual Maintenance Contract (AMC):</h3>
+                                <div class="col-md-6 col-sm-2 col-xs-12">
+                                    <ul style="list-style: none;">
+                                        <li>1. Enhanced Business Suite</li>
+                                        <li>2. Complete Infrastructure Support for all Devices</li>
+                                        <li>3. Dedicated focus on Core-Business Strategy</li>
+                                        <li>4. Quality Compliance is the Top agenda</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6 col-sm-2 col-xs-12">
+                                    <ul style="list-style: none;">
+                                        <li>5. Cost Savings is the gaining factor</li>
+                                        <li>6. Information protection is our priority</li>
+                                        <li>7. Customized package suiting individual needs</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                         <div class="row">
-                            <h3>Annual Maintenance Contract (AMC) Services</h3>
-                            <p>We at Golden Avenue offer Annual Maintenance Contract (AMC) Contract for Support Services to keep your business’ IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions.</p>
-                            <div class="col-md-6 col-sm-2 col-xs-12">
-                                <ul style="list-style: none;">
-                                    <li>1. Round the clock server monitoring</li>
-                                    <li>2. Onsite visit by our qualified engineers</li>
-                                    <li>3. Incident based call‐out support</li>
-                                </ul>
+                            <div class="col-lg-12">
+                                <h3>Annual Maintenance Contract (AMC) Services</h3>
+                                <p>We at Golden Avenue offer Annual Maintenance Contract (AMC) Contract for Support Services to keep your business’ IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions.</p>
+                                <div class="col-md-6 col-sm-2 col-xs-12">
+                                    <ul style="list-style: none;">
+                                        <li>1. Round the clock server monitoring</li>
+                                        <li>2. Onsite visit by our qualified engineers</li>
+                                        <li>3. Incident based call‐out support</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6 col-sm-2 col-xs-12">
+                                    <ul style="list-style: none;text-align: left">
+                                        <li>4. Unlimited remote help desk support</li>
+                                        <li>5. Systematic preventive maintenance</li>
+                                        <li>6. Inspection of the network break-down</li>
+                                    </ul>
+                                </div>
+                                <p>We Guarantee Best Services, at the least possible prices. We believe in providing top notch quality services which are time bound, prompt and reliable to our clients. There is no compromise on integrity. We will always act to establish the foremost standards of honesty and fairness. Integrity is being ethical beyond doubt. It is living the law of the land in spirit. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p>
+                                <p>24/7 Emergency Support Services will be provided after business hours and on public holidays with a tiny increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period.</p>
                             </div>
-                            <div class="col-md-6 col-sm-2 col-xs-12">
-                                <ul style="list-style: none;text-align: left">
-                                    <li>4. Unlimited remote help desk support</li>
-                                    <li>5. Systematic preventive maintenance</li>
-                                    <li>6. Inspection of the network break-down</li>
-                                </ul>
-                            </div>
-                            <p>We Guarantee Best Services, at the least possible prices. We believe in providing top notch quality services which are time bound, prompt and reliable to our clients. There is no compromise on integrity. We will always act to establish the foremost standards of honesty and fairness. Integrity is being ethical beyond doubt. It is living the law of the land in spirit. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p>
-                            <p>24/7 Emergency Support Services will be provided after business hours and on public holidays with a tiny increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period.</p>
                         </div>
                     </div>
                 </section>

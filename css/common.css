@@ -279,6 +279,8 @@ b, strong {
     box-shadow: 3px 5px 19px 12px #eee;
     padding: 25px;
     height: 430px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .btn-medium {
@@ -666,9 +668,10 @@ marquee {
     width: 100%!important;
 }
 .table td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #807e7e;
     text-align: left;
     padding: 10px;
+    border-top: 1px solid #807e7e !important; 
 }
 
 .table-center-align td {text-align: center;}
@@ -1066,7 +1069,7 @@ blockquote p { color: #ffffff !important; }
 .bx2-5 {
     /* background: #dcd8d8; */
     height: 180px;
-    padding: 20px 30px;
+    padding: 0px 30px;
     line-height: 20px;
     border: 1px solid #000;
 }
