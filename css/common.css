@@ -138,7 +138,7 @@ button .glyphicon-menu-right, input[type="button"] .glyphicon-menu-right, input[
     background-color: rgba(255, 255, 255, 0);
     position: fixed;
     right: 0;
-    top: 60%;;
+    top: 70%;;
     text-align: center;
     margin-right: 5px;
     -webkit-transition: all 0.2s ease-in-out;
@@ -421,6 +421,14 @@ blockquote p {color: #fff;}
     }
 }
 
+@media (min-width: 280px) and (max-width: 768px) {
+    .modal-onload-content {
+        width: auto !important;
+        padding: 20px;
+        margin: 0 !important;
+    }
+}
+
 
 /* Small devices (tablets, up to 768px) */
 @media (max-width: 768px) { 
@@ -552,7 +560,7 @@ blockquote p {color: #fff;}
     cursor: pointer;
     opacity: 0.8;
     position: fixed;
-    bottom: 367px;
+    bottom: 300px;
     left: -117px;
     width: 280px;
     font-size: 24px;
@@ -1130,10 +1138,10 @@ blockquote p { color: #ffffff !important; }
     border-color: transparent;
     /*    margin-top: 12px;*/
 }
-/*
+
 .btn-2:hover {
-    background: #d2ae6c;
-}*/
+    background: #007e93;
+}
 
 .btn-2 a {
     color: #ffffff !important;

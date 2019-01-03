@@ -109,7 +109,7 @@
                                     <div class="box-area">
                                         <p>Un-Paralleled Experience & Time Unlimited Consultancy</p>
 <!--                                        <span class="italic bold">Your First Consultation is Always FREE</span>-->
-                                        <a href="#" class="btn btn-primary">Call Us</a>
+                                        <a href="tel:042668272" class="btn btn-primary">Call Us</a>
                                     </div>
                                 </div>
                                 <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
@@ -119,7 +119,7 @@
                                     </span> 
                                     <div class="box-area">
                                         <p>Tailor-Made Contracts, FOCUSED & Specific to your Business Needs</p>
-                                        <a href="amc-contract.php" class="btn btn-primary">Get Quote</a>
+                                        <a href="contacts.php" class="btn btn-primary">Get Quote</a>
                                     </div>
                                 </div>
                             </div>
