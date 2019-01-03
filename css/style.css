@@ -1658,7 +1658,7 @@ ul.team-detail li ul.social-network li i {
 .pricing-container ul li{
     border-bottom: 1px solid #adadad;
     list-style: none;
-    padding: 15px 0 15px 0;
+    padding: 15px 0 15px 30px;
     margin: 0 0 0 0;
     color: #222;
 }
