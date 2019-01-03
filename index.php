@@ -15,47 +15,47 @@
                 <div id="main-slider" class="flexslider">
                     <ul class="slides">
                         <li>
-                            <img src="img/slides/01.jpg" alt="" />
+                            <img src="img/slides/Home_banner2.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3 class="banner-content">VIRTUAL IT MANAGER<br/><span class="italic font-size-24 font-italic">at a fraction of the cost</span></h3>  
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/banner-2.jpg" alt="" />
+                            <img src="img/slides/Home_banner1.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3 class="banner-content-1">ANNUAL MAINTENANCE CONTRACTS<br/><span class="italic font-size-24 font-italic">Services to keep you fit always</span></h3>  
                                 <!--<h3 class="banner-content"></br><span class="italic font-size-24 font-italic"></span></h3>-->  
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/golden-avenue.jpg" alt="" />
+                            <img src="img/slides/Home_banner3.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3 class="banner-content">IT & NETWORK</br> HEALTH CHECKS</h3>  
 
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/2.jpg" alt="" />
+                            <img src="img/slides/Home_banner.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3  class="banner-content">IT SECURITY & INFRASTRUCTURE</br> SOLUTIONS</h3>  
 
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/banner5.jpg" alt="" />
+                            <img src="img/slides/Home_banner4.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3  class="banner-content">NETWORK & CONNECTIVITY</br> SOLUTIONS</h3>  
 
                             </div>
                         </li>
                         <li>
-                            <img src="img/slides/4.jpg" alt="" />
+                            <img src="img/slides/Home_banner5.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3  class="banner-content">DISASTER RECOVERY & STORAGE SOLUTIONS</h3>  
 
                             </div>
                         </li><li>
-                            <img src="img/slides/04.jpg" alt="" />
+                            <img src="img/slides/Home_banner6.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3  class="banner-content">CYBER SECURITY AWARENESS WORKSHOP</h3>  
 
