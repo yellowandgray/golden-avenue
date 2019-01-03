@@ -957,7 +957,7 @@ section#inner-headline-1:after {
     color:#fff;
 }
 
-#inner-headline-6{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/faq-01.jpg"); background-size: cover;}
+#inner-headline-6{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/faq-01.jpg"); background-size: cover;height: 280px;}
 section#inner-headline-6:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
