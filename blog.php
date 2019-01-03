@@ -24,7 +24,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
-                                <h2 class="font-family-Georgia">274 cyber attacks target the UAE so far in 2018, down 39%</h2>
+                                <h2>274 cyber attacks target the UAE so far in 2018, down 39%</h2>
                                 <h3>Telecommunications Regulations Authority lauds efforts of cyber defence team in combatting attacks against UAE websites</h3>
                                 <p>A total of 274 cyber attacks targeted government and private sector entities in the UAE during the first seven months of the year, a decrease of 39 percent compared to the corresponding period in 2017.</p>
                                 <p>According to Telecommunications Regulations Authority (TRA) statistics, the decline in reported attacks is attributed to the efforts made by the Computer Emergency Readiness Team, which is in charge of foiling all cyber attacks. <a href="https://www.arabianbusiness.com/technology/403750-274-cyber-attacks-target-the-uae-so-far-in-2018-down-39" target="blank" class="bold readmore-hover">Read More</a></p>
@@ -52,8 +52,8 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <img src="img/blog/biggest-data-breaches-2018.jpg" alt="" class="img-responsive img-width"/>
-                                <h2 class="font-family-Georgia">The 10 Biggest Data Breaches of 2018... So Far</h2>
-                                <h3>We're only halfway through 2018, but the scale of some of the data breaches that have already been reported is staggering. Think Facebook was the biggest one? Guess again.</h3>
+                                <h2>The 10 Biggest Data Breaches of 2018... So Far</h2>
+                                <h4>We're only halfway through 2018, but the scale of some of the data breaches that have already been reported is staggering. Think Facebook was the biggest one? Guess again.</h4>
                                 <p>Six months is a long time in infosec, so it's no surprise that numerous data breaches have emerged in the first half of 2018. Below is a countdown of 10 of the biggest incidents reported thus far in 2018 in terms of total number of records compromised. <a href="https://blog.barkly.com/biggest-data-breaches-2018-so-far" target="blank" class="bold readmore-hover">Read More</a></p>
                             </div>
                             <div class="col-md-5"></div>
@@ -61,7 +61,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>
-                                <h2 class="font-family-Georgia">THE WORST CYBERSECURITY BREACHES OF 2018 SO FAR</h2>
+                                <h2>The worst Cyber Security Breaches of 2018 so far</h2>
                                 <p>LOOKING BACK AT the first six months of 2018, there haven't been as many government leaks and global ransomware attacks as there were by this time last year, but that's pretty much where the good news ends. Corporate security isn't getting better fast enough, critical infrastructure security hangs in the balance, and state-backed hackers from around the world are getting bolder and more sophisticated.</p>
 
                                 <p>Here are the big digital security dramas that have played out so far this year—and it's only half over. <a href="https://www.wired.com/story/2018-worst-hacks-so-far/" target="blank" class="bold readmore-hover">Read More</a></p>
@@ -71,7 +71,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>
-                                <h2 class="font-family-Georgia">60 Cybersecurity Predictions For 2019</h2>
+                                <h2>60 Cybersecurity Predictions For 2019</h2>
                                 <p>I’ve always been a loner, avoiding crowds as much as possible, but last Friday I found myself in the company of 500 million people. The breach of the personal accounts of Marriott and Starwood customers forced us to join the 34% of U.S. consumers who experienced a compromise of their personal information over the last year. Viewed another way, there were 2,216 data breaches and more than 53,000 cybersecurity incidents reported in 65 countries in the 12 months ending in March 2018. <a href="https://www.forbes.com/sites/gilpress/2018/12/03/60-cybersecurity-predictions-for-2019/#6b5233d44352" target="blank" class="bold readmore-hover">Read More</a></p>
                             </div>
                             <div class="col-md-5"></div>

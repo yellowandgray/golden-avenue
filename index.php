@@ -317,8 +317,8 @@
                                 <div class="col-sm-1"></div>
                                 <div class="col-sm-5">
                                     <div class="pricing-box-item">
-                                        <div class="pricing-heading gray">
-                                            <h3><strong>Basic</strong></h3>
+                                        <div class="pricing-heading blue-basic">
+                                            <h3 class="white"><strong>Basic</strong></h3>
                                         </div>
                                         <!--                                <div class="pricing-terms">
                                                                             <h6>&#36;15.00 / Year</h6>
@@ -340,8 +340,8 @@
                                 </div>
                                 <div class="col-sm-5">
                                     <div class="pricing-box-item">
-                                        <div class="pricing-heading orange">
-                                            <h3><strong>Standard</strong></h3>
+                                        <div class="pricing-heading blue-stand">
+                                            <h3 class="white"><strong>Standard</strong></h3>
                                         </div>
                                         <!--                                <div class="pricing-terms">
                                                                             <h6>&#36;20.00 / Year</h6>

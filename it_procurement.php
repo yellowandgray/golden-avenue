@@ -44,7 +44,7 @@
                                     <li>Fixed Margin for all the procurement</li>
                                 </ul></br>
                                 <h2 class="font-size-20 color-blue line-height-30">What a Procurement services include? </h2>
-                                <h3>IT procurement involves both strategic and administrative responsibilities</h3>
+                                <h4>IT procurement involves both strategic and administrative responsibilities</h4>
 <!--                                <h3>Daily work involved </h3>-->
                                 <ul>
                                     <li>Conducting Market Research</li>

@@ -22,16 +22,16 @@
                     <div class="about">
                         <div class="row text-center">
                             <div class="col-md-3">
-                                <a href="#content-1" type="button" class="btn btn-primary">Our Assurance</a>
+                                <a href="#content-1" type="button" class="btn btn-primary">Choose From Our AMC</a>
                             </div>
-                            <div class="col-md-3">
-                                <a href="#content-2" type="button" class="btn btn-primary">Step to sign up</a>
-                            </div>
-                            <div class="col-md-3">
+                           <div class="col-md-3">
                                 <a href="#content-3" type="button" class="btn btn-primary">Why Golden Avenue</a>
                             </div>
+                             <div class="col-md-3">
+                                <a href="#content-2" type="button" class="btn btn-primary">Crisis Management</a>
+                            </div>
                             <div class="col-md-3">
-                                <a href="#content-4" type="button" class="btn btn-primary">Support Solution</a>
+                                <a href="#content-4" type="button" class="btn btn-primary">Network Support Solution</a>
                             </div>
                         </div>
                         <!--                        <ul class="breadcrumb">
@@ -39,13 +39,42 @@
                                                     <li>AMC Contracts</li>
                                                 </ul>-->
                         <section class="section-padding">
-                            <div class="row text-center">
-                                <h2 class="color-blue text-center text-transform-none"><strong>At GOLDEN AVENUE our commitment is an “ASSURED REALITY”</strong></h2><br/>
-                                <h4 class="text-center">Worried when your server is down?? Put you worries aside with Annual Maintenance Services provided by Golden Avenue.</h4><br/>
-                                <p class="text-center" style="font-size: 14px !important">Golden Avenue's Annual Maintenance Contract services provide you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented certified engineers enables us to provide optimum IT support services for your system.</p>
-                            </div>
                             <div class="row">
-                                <h4 class="text-center">Subscribe to our Annual Maintenance Contract (AMC) to avail:</h4>
+                                <div class="col-md-7">
+                                    <h2 class="color-blue text-transform-none"><strong>At GOLDEN AVENUE our commitment is an “ASSURED REALITY”</strong></h2><br/>
+                                    <h4>Worried when your server is down?? Put you worries aside with Annual Maintenance Services provided by Golden Avenue.</h4><br/>
+                                    <p style="font-size: 14px !important">Golden Avenue's Annual Maintenance Contract services provide you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented certified engineers enables us to provide optimum IT support services for your system.</p><br/>
+                                    <!--                                    <h4>Reality check:</h4>-->
+                                    <p>Golden Avenue adheres to a professional approach by</p>
+                                    <ol>
+                                        <li>strictly following SLA as per the client requirements</li>
+                                        <li>ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
+                                        <li>expertise through multi-resourced IT engineers</li>
+                                    </ol><br/>
+                                    <img src="img/blog/amc-scb-page.jpg" alt=""/>
+                                </div>
+                                <div class="col-md-5">
+                                    <div class="box-shadow-1">
+                                        <div class="row margin-bottom-0">
+                                            <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
+                                            <div class="col-md-6">
+                                                <img src="img/golden-cyber.jpg" class="img-responsive" />
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
+                                                <hr class="hr1"> 
+                                                <p class="font-size-12 bold">Venue: Your's office Premise</p>
+    <!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <br/>
+                                    <br/>
+                                    <?php include 'enquiry.php'; ?>
+                                </div>
+                            </div><br/>
+                            <div class="row">
+                                <h4 class="text-center color-blue" >Subscribe to our Annual Maintenance Contract (AMC) to avail</h4>
                                 <div class="col-md-3">
                                     <div class="amc-box-content text-center">
                                         <p class="bold font-size-20">24 / 7</p>
@@ -76,27 +105,14 @@
                                 </div>
                             </div><br/>
                             <div class="row">
-                                <div class="col-md-4 col-sm-12">
-                                    <!--                                    <h4>Reality check:</h4>-->
-                                    <p>Golden Avenue adheres to a professional approach by</p>
-                                </div>
-                                <div class="col-md-8">
-                                    <ol>
-                                        <li>strictly following SLA as per the client requirements</li>
-                                        <li>ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
-                                        <li>expertise through multi-resourced IT engineers</li>
-                                    </ol>
-                                </div>
-                            </div>
-                            <div class="row">
-                                <h3 class="text-center">ANNUAL MAINTENANCE CONTRACT (AMC)</h3>
+                                <h3 class="text-center color-blue" id="content-1">Annual Maintenance Contract (AMC)</h3>
                                 <!--                        <div class="col-lg-12"> 
                                                         </div>-->
                                 <div class="col-sm-1"></div>
                                 <div class="col-sm-5">
                                     <div class="pricing-box-item">
-                                        <div class="pricing-heading gray">
-                                            <h3><strong>Basic</strong></h3>
+                                        <div class="pricing-heading blue-basic">
+                                            <h3 class="white"><strong>Basic</strong></h3>
                                         </div>
                                         <!--                                <div class="pricing-terms">
                                                                             <h6>&#36;15.00 / Year</h6>
@@ -118,8 +134,8 @@
                                 </div>
                                 <div class="col-sm-5">
                                     <div class="pricing-box-item">
-                                        <div class="pricing-heading orange">
-                                            <h3><strong>Standard</strong></h3>
+                                        <div class="pricing-heading blue-stand">
+                                            <h3 class="white"><strong>Standard</strong></h3>
                                         </div>
                                         <!--                                <div class="pricing-terms">
                                                                             <h6>&#36;20.00 / Year</h6>
@@ -355,7 +371,7 @@
             <section id="content-3">
                 <section class="section-padding">
                     <div class="container">
-                        <h2>Why Golden Avenue?</h2>
+                        <h2 class="color-blue">Why Golden Avenue?</h2>
                         <p>One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong Brand partnerships to deliver and integrate enterprise products that seamlessly align with your business. We have more than 50 major alliances with long standing relationships with principals and partners.</p>
                         <div class="row">
                             <div class="col-lg-12">
@@ -403,26 +419,22 @@
                 </section>
             </section>
             <div style="width: 100%;">
-                <br>
-                <br>
-                <br>
-                <br>
                 <div class="container content">
-                    <div class="col-md-4 bx2-1">
-                        <h3 class="color-blue">Type of<br> Annual Maintenance<br> Contracts</h3>
+                    <div class="col-md-4 bx2-2">
+                        <h3 class="color-blue">Types of<br> Annual Maintenance<br> Contracts</h3>
                     </div>
-                    <div class="col-md-4 bx2-2 cntr">
+                    <div class="col-md-4 bx2-2 ">
                         <h4 class="color-blue">Comprehensive</h4>
                         Includes all parts under services for repair or replacement
                     </div>
-                    <div class="col-md-4 bx2-3 cntr">
+                    <div class="col-md-4 bx2-3 ">
                         <h4 class="color-blue">Non comprehensive</h4>
                         Excludes all parts, only services to provide best possible repair.
                     </div>
                     <div class="col-md-12">&nbsp;</div>
-                    <div class="col-md-4 bx2-4">
+                    <div class="col-md-4 bx2-5">
                         <br>
-                        <h3 class="color-blue">Business Solutions</h3>
+                        <h3 class="color-blue ">Business Solutions</h3>
                         <br>
                     </div>
                     <div class="col-md-8 bx2-5">
@@ -440,9 +452,10 @@
                 <br>
             </div>
             <section id="content" style="padding: 0px">
-                <div class="container">
+               <div class="container">
+                     <h2 class="color-blue" id="content-2">Crisis Management</h2>
                     <div class="row we-can-help">
-                        <h2 class="text-center color-blue">How Can We Help</h2>
+                       <h2>How Can We Help</h2>
                         <div class="col-md-4">
                             <ul>
                                 <li>Conversion of files to different formats</li>
@@ -489,8 +502,8 @@
             <section id="content-4">
                 <section class="section-padding">
                     <div class="container">
-                        <h2 class="text-center">Computer Networking Support Solutions</h2>
-                        <h3 class="text-center">Networking Consultation</h3>
+                        <h3 class="color-blue"><strong>Computer Networking Support Solutions</strong></h3>
+                        <h3>Networking Consultation</h3>
                         <p class="text-justify">Find out what you need to fully connect your home or office with an efficient and customized network before you make a purchase. We’ll conduct an onsite visit, survey networking needs, and then help you draft a cost-effective plan of action for networking your computers. We also help you plan a “mixed network,” linking PCs, handheld devices and Macs for optimal performance.</p>
                         <p class="text-justify">If you already have an existing network that has just grown over time then it’s highly prospective that security on that network may be an issue, chances are that you will also have bottle necks that is slowing your network access down. Just talk to one of our specialists with over 16 years of networking experience which will help you evaluate the trouble in a much effective way.</p>
                         <div class="row">
@@ -544,8 +557,8 @@
                             </div>
                         </div>
                         <div class="row">
-                            <h3 class="text-center">Golden Avenue, as a robust team assure you for the effective maintenance and provide you with proper solutions to troubleshoot for any of the impending problems.</h3>
-                            <h3 class="text-center">We ensure your Workstations</h3>
+                            <h3>Golden Avenue as a robust team, assure you for the effective maintenance and provide you with proper solutions to troubleshoot for any of the impending problems.</h3>
+                            <h4>We ensure your Workstations</h4>
                             <div class="col-md-4">
                                 <ul>
                                     <li>Are properly connected to your Network</li>

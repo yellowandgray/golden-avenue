@@ -276,8 +276,9 @@ b, strong {
 .box-shadow-2 a {color: #14285f; }
 
 .box-shadow-3 {    
-    box-shadow: 3px 5px 19px 12px #eee;
-    padding: 25px;
+    box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.28);
+    border-bottom: 1px solid #716e6e;
+    padding: 20px;
     height: 430px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -1045,7 +1046,7 @@ blockquote p { color: #ffffff !important; }
     /* background: #dcd8d8; */
     height: 180px;
     padding: 40px 30px;
-    border: 1px solid #000;
+    border: 1px solid #c3bdbd;
 }
 
 .cntr {
@@ -1056,7 +1057,7 @@ blockquote p { color: #ffffff !important; }
     background: #ffffff;
     height: 180px;
     padding: 40px 30px;
-    border: 1px solid #000;
+    border: 1px solid #c3bdbd;
     border-left: none;
 }
 
@@ -1067,11 +1068,11 @@ blockquote p { color: #ffffff !important; }
 }
 
 .bx2-5 {
-    /* background: #dcd8d8; */
+    background:#e2e0e0; 
     height: 180px;
     padding: 0px 30px;
     line-height: 20px;
-    border: 1px solid #000;
+    border: 1px solid #c3bdbd;
 }
 
 .we-can-help {
@@ -1169,3 +1170,5 @@ blockquote p { color: #ffffff !important; }
 .margin-0 {
     margin: 0px !important;
 }
+.blue-basic {background: #aaaeaf !important; color:#fff;}
+.blue-stand {background: #41a9b9 !important; color: #fff;}

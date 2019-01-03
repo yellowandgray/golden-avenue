@@ -1,9 +1,9 @@
 <div class="side-widget open">
 <!--    <div class="inner">-->
-        <a class="btn btn-blue productCheckout" id="get-started"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp; IT&nbsp;&nbsp; PROCUREMENT&nbsp;&nbsp; GUIDE</a>
+<a href="it_procurement.php" class="btn btn-blue productCheckout" id="get-started"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp; IT&nbsp;&nbsp; PROCUREMENT&nbsp;&nbsp; GUIDE</a>
 <!--    </div>-->
 </div>
-<div id="popup-container">
+<!--<div id="popup-container">
     <div id="popup-window">
         <div class="modal-content">
             <button type="button" class="close margin-top--20" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>  
@@ -15,4 +15,4 @@
             </div>
         </div>
     </div>
-</div>
+</div>-->
