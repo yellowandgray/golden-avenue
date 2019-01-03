@@ -1,7 +1,7 @@
 <div class="side-widget open">
-    <div class="inner">
+<!--    <div class="inner">-->
         <a class="btn btn-blue productCheckout" id="get-started"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp; IT&nbsp;&nbsp; PROCUREMENT&nbsp;&nbsp; GUIDE</a>
-    </div>
+<!--    </div>-->
 </div>
 <div id="popup-container">
     <div id="popup-window">
