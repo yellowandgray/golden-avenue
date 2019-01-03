@@ -29,7 +29,7 @@
                                 <h3 class="color-blue"><strong>Network health check</strong></h3>
                                 <p>Network security is any activity designed to protect the usability and integrity of your network and data. It includes both hardware and software technologies. Effective network security manages access to the network. It targets a variety of threats and stops them from entering or spreading on your network.</p> 
                                 <p>Relentless cyber criminals, disgruntled current and former employees and careless users can bring down your computer networks and compromise data. Network security’s made up of the hardware, software, policies and procedures designed to defend against both internal and external threats to your company’s computer systems. Multiple layers of hardware and software can prevent threats from damaging computer networks, and stop them from spreading if they slip past your defenses.</p> 
-                                <img src="img/blog/net02.jpg" alt="" class="img-responsive"/>
+                                <br/><img src="img/blog/net02.jpg" alt="" class="img-responsive"/><br/>
                                 <p>Inappropriate user-access privileges pose a significant security threat. Managing employee access to critical data on an ongoing basis should not be overlooked.</p> 
                                 <p>When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business.</p> 
                                 <p>Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</p>
@@ -72,7 +72,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <h3>The most common threats to your systems:</h3>
+                            <h3 class="color-blue">The most common threats to your systems:</h3>
                             <ul class="list-line">
                                 <li>Malicious programs like viruses, worms, Trojan horses, spyware, malware, adware and botnets</li>
                                 <li>Zero-day and zero-hour attacks</li>
@@ -83,7 +83,7 @@
                             </ul>
                         </div>
                         <div class="col-md-6">
-                            <h3>These threats look to exploit:</h3>
+                            <h3 class="color-blue">These threats look to exploit:</h3>
                             <ul class="list-line">
                                 <li>Unsecured wireless networks</li>
                                 <li>Unpatched software and hardware</li>
@@ -97,8 +97,8 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <h2 class="text-center">Network security Health check</h2>
-                            <p class="text-center">These network security fundamentals are vital to downtime prevention, government regulation compliance, reduced liability and reputation protection:</p>
+                            <h3 class="color-blue"><strong>Network security Health check</strong></h3>
+                            <p>These network security fundamentals are vital to downtime prevention, government regulation compliance, reduced liability and reputation protection:</p>
                             <h3>Make patches and updates current</h3>
                             <p class="text-justify">GOLDEN AVENUE keeps an inventory to make sure each device is updated regularly, including mobile devices and network hardware. And make sure Windows and Apple computers have automatic updating enabled.</p>
                             <h3>Ensure Use strong passwords</h3>
@@ -113,7 +113,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12">
-                            <h3>GOLDEN AVENUE ensures that</h3>
+                            <h3 class="color-blue">GOLDEN AVENUE ensures that</h3>
                             <ul class="list-line">
                                 <li>NO unauthorized downloading other applications that aren’t on the list maintained by GOLDEN AVENUE after consultation with the Business. GOLDEN AVENUE Software inventory applications can track type, version and patch level.</li>
                                 <li>Bring up-to-date the company’s written security policies. Segregate critical data from the rest of the network and require users to authenticate themselves before accessing it.</li>

@@ -67,11 +67,11 @@
                         </div>
                         <div class="row">
                             <div class="col-md-8">
-                                <h3>EFFORTLESS PLANNING</h3>
+                                <h3 class="color-blue">Effortless Planning</h3>
                                 <p class="text-justify">Our highly qualified and professional team will dedicate their Services to saving you TIME and MONEY by assisting you in the tedious task of building a business continuity plan. These plans are designed to prioritize recovery options after an incident and develop procedures and help avoid any additional disruptions to your business. </p>
                             </div>
                             <div class="col-md-4">
-                                <h3>GOLDEN AVENUE Offers:</h3>
+                                <h3 class="color-blue">Golden Avenue Offers:</h3>
                                 <ul class="list-line">
                                     <li>Business Continuity Planning</li>
                                     <li>Incident Management Planning</li>
@@ -81,13 +81,13 @@
                         </div>
                         <div class="row">
                             <div class="col-md-8">
-                                <h3>EVALUATION, ANALYSIS AND MAINTENANCE</h3>
+                                <h3 class="color-blue">Evaluation, Analysis and Maintenance</h3>
                                 <p class="text-justify">The importance of reviewing plans and examining business processes should never be understated. GOLDEN AVENUE recognizes that programs and plans should be reviewed and analyzed in order to ensure that the right processes are in place.</p>
                                 <p class="text-justify">By doing this, you are able to rest easy knowing that your business is not only compliant with regulations and protocols, but that it is able to support itself during a crisis as well.</p>
                                 <p class="text-justify">In addition, GOLDEN AVENUE is just as INVESTED in your business as you are. That is why we take the data we find from the reviews and analyses and can perform continuous UPDATES, MAINTENANCE and ENHANCEMENTS to your plans in order to achieve a constant state of readiness for your business.</p>
                             </div>
                             <div class="col-md-4">
-                                <h3>GOLDEN AVENUE Offers:</h3>
+                                <h3 class="color-blue">Golden Avenue Offers:</h3>
                                 <ul class="list-line">
                                     <li>Business Continuity Program Review & Gap Analysis</li>
                                     <li>Business Impact Analysis</li>
@@ -98,7 +98,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-12">
-                                <h3>EMERGENCY TRAINING EXERCISES</h3>
+                                <h3 class="color-blue">Emergency Training Exercises</h3>
                                 <p class="text-justify">By using EMERGENCY exercises, our crisis management team and executives are able to ensure that there are no gaps within current plans and that the mock disruption is remedied so that business can return back to usual as soon as possible. Once the plans have been updated, emergency training exercises are provided for employees to learn how to quickly and efficiently diminish a potential crisis.</p>
                             </div>
                         </div>

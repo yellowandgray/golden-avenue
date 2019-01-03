@@ -28,7 +28,7 @@
                             <div class="col-md-7">
                                 <h3 class="color-blue"><strong>IT Health Check</strong></h3>
                                 <h3 class="color-blue">An IT assessment is a thorough audit of all information technology infrastructure used by a business.</h3> 
-                                <h3 class="color-blue">WHY IS AN IT HEALTH CHECK IMPORTANT?</h3>
+                                <h3 class="color-blue"><strong>Why is an IT health check important?</strong></h3>
                                 <p class="text-justify">The Information Technology Health Check/ Audit for organizations from any domain is a MUST to ensure optimal performance in the day to day Operations and Decision making Process. It helps the organization to understand and utilize technology more efficiently. This Audit helps to get more out of existing technology investments and recommend further updates and upgrades based on the current set up.</p>
                                 <img src="img/blog/sub02.jpg" alt="" class="img-responsive"/>
                                 <h3>GOLDEN AVENUE Technology Health Check includes various components and addresses the critical and major critical and vulnerable points of different IT areas as detailed below:</h3>
@@ -66,10 +66,10 @@
             </section>
             <section id="content" style="background: #f1f1f1;">
                 <div class="container">
-                    <h2 class="color-blue text-center">The audit consists of the following checks</h2>
+                    <h3 class="color-blue text-center"><strong>The Audit consists of the following Checks</strong></h3>
                     <div class="row checks-h2">
                         <div class="col-md-6">
-                            <h2>Power Check</h2>
+                            <h3>Power Check</h3>
                             <ul class="list-line">
                                 <li>Unexpected power failure of UPS</li>
                                 <li>Optimal utilization of UPS capacity</li>
@@ -80,7 +80,7 @@
                             </ul>
                         </div>
                         <div class="col-md-6">
-                            <h2>Network Check</h2>
+                            <h3>Network Check</h3>
                             <ul class="list-line">
                                 <li>Drops in Network speed</li>
                                 <li>Abrupt connectivity failure with devices</li>
@@ -93,7 +93,7 @@
                     </div>
                     <div class="row checks-h2">
                         <div class="col-md-6">
-                            <h2>Internet/Intranet Connectivity Check</h2>
+                            <h3>Internet/Intranet Connectivity Check</h3>
                             <ul class="list-line">
                                 <li>Internet connectivity speed drops</li>
                                 <li>Failover and load-balancing setup</li>
@@ -105,7 +105,7 @@
                             </ul>
                         </div>
                         <div class="col-md-6">
-                            <h2>Server, Storage & Backup Check</h2>
+                            <h3>Server, Storage & Backup Check</h3>
                             <ul class="list-line">
                                 <li>Operating system compatibility issues</li>
                                 <li>Performance of server, storage and backup equipment for optimum operations</li>
@@ -120,7 +120,7 @@
                     </div>
                     <div class="row checks-h2">
                         <div class="col-md-6">
-                            <h2>Desktop, Laptop & Thin Clients Check</h2>
+                            <h3>Desktop, Laptop & Thin Clients Check</h3>
                             <ul class="list-line">
                                 <li>Retrieval from crashes and reducing the downtime</li>
                                 <li>Repair / replacement and upgrade spares availability</li>
@@ -132,14 +132,14 @@
                             </ul>
                         </div>
                         <div class="col-md-6">
-                            <h2>Software License Compliance Check</h2>
+                            <h3>Software License Compliance Check</h3>
                             <ul class="list-line">
                                 <li>Unauthorized usage of software by staff</li>
                                 <li>Legal compliance issue due to pirated applications</li>
                                 <li>Find actual gaps in the license</li>
                                 <li>Identify open source alternatives to reduce investments</li>
                             </ul>
-                            <h2>Key User Checks</h2>
+                            <h3>Key User Checks</h3>
                             <ul class="list-line">
                                 <li>Collective view of the key users driving the organization</li>
                                 <li>Understand training requirements</li>

@@ -26,7 +26,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <h3 class="color-blue"><strong>Consulting Services</strong></h3>
-                                <h3>GOLDEN AVENUE offers counsel that gives you confidence in your information security status.</h3>
+                                <h3>Golden Avenue offers counsel that gives you confidence in your information security status.</h3>
                                 <p class="text-justify">Weaknesses in information security can jeopardize your undertaking, threaten your profitability, and invite fines and penalties from regulatory bodies.</p>
                                 <p class="text-justify">If you are not entirely self-assured in your Information Security Status or your ability to manage IT risk, talk to GOLDEN AVENUE expert consultants. Our cyber security consultants provide services and solutions that deliver continuous security assurance for your business and critical infrastructure.</p>
                                 <p class="text-justify">Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</p>
