@@ -24,10 +24,10 @@
                             <div class="col-md-3">
                                 <a href="#content-1" type="button" class="btn btn-primary">Choose From Our AMC</a>
                             </div>
-                           <div class="col-md-3">
+                            <div class="col-md-3">
                                 <a href="#content-3" type="button" class="btn btn-primary">Why Golden Avenue</a>
                             </div>
-                             <div class="col-md-3">
+                            <div class="col-md-3">
                                 <a href="#content-2" type="button" class="btn btn-primary">Crisis Management</a>
                             </div>
                             <div class="col-md-3">
@@ -51,7 +51,7 @@
                                         <li>ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
                                         <li>expertise through multi-resourced IT engineers</li>
                                     </ol><br/>
-                                    <img src="img/blog/amc-scb-page.jpg" alt=""/>
+                                    <img class="img-width" src="img/blog/amc-scb-page.jpg" alt=""/>
                                 </div>
                                 <div class="col-md-5">
                                     <div class="box-shadow-1">
@@ -337,7 +337,7 @@
             <section id="content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-7 font-size-p">
+                        <div class="col-md-7 text-justify">
                             <p>It’s very important to maintain and keep your server active if you want your business to be computable to your customers round the clock. One can maintain the server without any hassle with Golden Avenue's Annual Maintenance Contract (AMC) in Dubai, UAE. We have grown with the vision of assisting our customers in Middle East by using the best technology to effectively grow, Manage and protect IT information assets.</p>
                             <p>Information Technology is a key component of any business operational infrastructure in Dubai. Downtime starts as soon as the systems stop functioning that leads to loss in communication, output and profit. However organizations should not worry about it. Our technical professionals in various fields can easily manage your IT infrastructure. Our IT Support Team is further bifurcated to Advance computing and networking specialists, Server specialists, Telephone and networking, Microsoft, Firewall specialists, etc.</p>
                             <p>We are providing AMC services which are well integrated and distinguished. We support you in managing your modern day maintenance challenges in a better way. Relevant and adequate maintenance is our top agenda. We always provide quality services & products for the competitive environment.</p>
@@ -370,7 +370,7 @@
             </section>
             <section id="content-3">
                 <section class="section-padding">
-                    <div class="container">
+                    <div class="container text-justify">
                         <h2 class="color-blue">Why Golden Avenue?</h2>
                         <p>One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong Brand partnerships to deliver and integrate enterprise products that seamlessly align with your business. We have more than 50 major alliances with long standing relationships with principals and partners.</p>
                         <div class="row">
@@ -452,10 +452,10 @@
                 <br>
             </div>
             <section id="content" style="padding: 0px">
-               <div class="container">
-                     <h2 class="color-blue" id="content-2">Crisis Management</h2>
+                <div class="container">
+                    <h2 class="color-blue" id="content-2">Crisis Management</h2>
                     <div class="row we-can-help">
-                       <h2>How Can We Help</h2>
+                        <h2>How Can We Help</h2>
                         <div class="col-md-4">
                             <ul>
                                 <li>Conversion of files to different formats</li>
@@ -556,27 +556,29 @@
                                 <p class="text-justify">Our Annual Maintenance Contract (AMC) team strictly understands the relevance of your Work Stations along with your Network devices. We also realize that your Work Stations are the tip of your sword for your business operations, and if the performance is not up to the mark it can spell disaster for you.</p>
                             </div>
                         </div>
-                        <div class="row">
-                            <h3>Golden Avenue as a robust team, assure you for the effective maintenance and provide you with proper solutions to troubleshoot for any of the impending problems.</h3>
-                            <h4>We ensure your Workstations</h4>
-                            <div class="col-md-4">
-                                <ul>
-                                    <li>Are properly connected to your Network</li>
-                                    <li>Optimized for performance</li>
-                                    <li>Are secure from intruders</li>
-                                </ul>
-                            </div>
-                            <div class="col-md-4">
-                                <ul>
-                                    <li>Perform all tasks needed by your staff</li>
-                                    <li>Don’t run anything they aren’t supposed to</li>
-                                </ul>
-                            </div>
-                            <div class="col-md-4">
-                                <ul>
-                                    <li>Operate glitch free and experience no software issues</li>
-                                    <li>Virus signatures are kept up to date</li>
-                                </ul>
+                        <div class="col-md-12">
+                            <div class="row">
+                                <h3>Golden Avenue as a robust team, assure you for the effective maintenance and provide you with proper solutions to troubleshoot for any of the impending problems.</h3>
+                                <h4>We ensure your Workstations</h4>
+                                <div class="col-md-4">
+                                    <ul>
+                                        <li>Are properly connected to your Network</li>
+                                        <li>Optimized for performance</li>
+                                        <li>Are secure from intruders</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4">
+                                    <ul>
+                                        <li>Perform all tasks needed by your staff</li>
+                                        <li>Don’t run anything they aren’t supposed to</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4">
+                                    <ul>
+                                        <li>Operate glitch free and experience no software issues</li>
+                                        <li>Virus signatures are kept up to date</li>
+                                    </ul>
+                                </div>
                             </div>
                         </div>
                     </div>

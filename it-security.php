@@ -80,7 +80,7 @@
                                 <h4>Vulnerability Management</h4>
                                 <p class="text-justify">Vulnerability management solutions protect the company applications, software and networks from attacks and threats. GOLDEN AVENUE experts analyze and remedy the vulnerable areas with powerful Tools. Organizations with effective VULNERABILITY MANAGEMENT stay SAFE from data theft and other security breaches.</p>
                                 <h4>Secure Mobility</h4>
-                                <p>Employees today prefer to carry out most of the business communication and transactions through their personal smartphones, tablets and laptops to suit the mobile nature of their jobs due to client a Access Control</p>
+                                <p class="text-justify">Employees today prefer to carry out most of the business communication and transactions through their personal smartphones, tablets and laptops to suit the mobile nature of their jobs due to client a Access Control</p>
                                 <h4>End User Access Control and Security</h4>
                                 <p>Protect information from unauthorized people.</p>
                                 <h4>Advanced Threat Protection</h4>
@@ -99,7 +99,7 @@
                                 <h4>Network Security & design</h4>
                                 <h4>Security Strategy for Business</h4>
                                 <h4>Enterprise Security solutions</h4>
-                                <p>Enterprise Security Solutions are designed to integrate multiple aspects of a company’s business. </p>
+                                <p class="text-justify">Enterprise Security Solutions are designed to integrate multiple aspects of a company’s business. </p>
                             </div>
                         </div>
                     </div>
