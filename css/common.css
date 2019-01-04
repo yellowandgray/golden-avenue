@@ -1189,3 +1189,7 @@ blockquote p { color: #ffffff !important; }
 .fa-dot-circle-o {
     color: #007e93;
 }
+
+.btn-width {
+    width: 260px;
+}
