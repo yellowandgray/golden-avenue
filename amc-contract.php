@@ -22,16 +22,16 @@
                     <div class="about">
                         <div class="row text-center">
                             <div class="col-md-3">
-                                <a href="#content-1" type="button" class="btn btn-primary">Choose From Our AMC</a>
+                                <a href="#content-1" type="button" class="btn btn-primary btn-width">Choose From Our AMC</a>
                             </div>
                             <div class="col-md-3">
-                                <a href="#content-3" type="button" class="btn btn-primary">Why Golden Avenue</a>
+                                <a href="#content-3" type="button" class="btn btn-primary btn-width">Why Golden Avenue</a>
                             </div>
                             <div class="col-md-3">
-                                <a href="#content-2" type="button" class="btn btn-primary">Crisis Management</a>
+                                <a href="#content-2" type="button" class="btn btn-primary btn-width">Crisis Management</a>
                             </div>
                             <div class="col-md-3">
-                                <a href="#content-4" type="button" class="btn btn-primary">Network Support Solution</a>
+                                <a href="#content-4" type="button" class="btn btn-primary btn-width">Network Support Solution</a>
                             </div>
                         </div>
                         <!--                        <ul class="breadcrumb">
