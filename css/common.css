@@ -1179,3 +1179,7 @@ blockquote p { color: #ffffff !important; }
 }
 .blue-basic {background: #aaaeaf !important; color:#fff;}
 .blue-stand {background: #41a9b9 !important; color: #fff;}
+
+.btn-width {
+    width: 260px;
+}
