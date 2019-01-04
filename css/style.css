@@ -2011,11 +2011,6 @@ article img.pull-right, article .align-right{
 @media (min-width: 1220px) and (max-width: 1900px) {
     iframe {width: 560px; height: 315px}
 }
-@media screen and (min-width: 1024px) {
-    .slider-caption strong {
-        margin-top: 240px;
-    }
-}
 
 @media (min-width: 768px) and (max-width: 979px) {
 
