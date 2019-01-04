@@ -458,21 +458,21 @@
                         <h2>How Can We Help</h2>
                         <div class="col-md-4">
                             <ul style="list-style:none">
-                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Conversion of files to different formats</li>
-                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Migration of data to different applications</li>
-                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Import / export data to different programs and devices</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Conversion of files to different formats</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Migration of data to different applications</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Import / export data to different programs and devices</li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style:none">
-                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Software installation & up gradation.</li>
-                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> External Storage Solutions</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Software installation & up gradation.</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;External Storage Solutions</li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul style="list-style:none">
-                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Manage and sync contacts to mobiles devices</li>
-                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Old to new machine data transfer & integration</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Manage and sync contacts to mobiles devices</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Old to new machine data transfer & integration</li>
                             </ul>
                         </div>
                     </div>
