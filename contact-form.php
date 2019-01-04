@@ -4,19 +4,11 @@ if ($_POST['name']) {
 
 
 
-    $bar = $_REQUEST['bar'];
+    $name = $_REQUEST['name'];
 
     $email = $_REQUEST['email'];
 
-    $mobile = $_REQUEST['mobile'];
-
-    $no_children = $_REQUEST['no_children'];
-
-    $preffred_classes = $_REQUEST['preffred_classes'];
-
-    $subject = $_REQUEST['subject'];
-
-    $message1 = $_REQUEST['message'];
+    $number = $_REQUEST['number'];
 
     error_reporting(E_STRICT);
 
@@ -64,15 +56,15 @@ if ($_POST['name']) {
 
 
 
-    $mail->Username = "yellowandgraychannel@gmail.com";  // GMAIL username
+    $mail->Username = "umasekar098@gmail.com";  // GMAIL username
 
 
 
-    $mail->Password = "Y3ll0w@g";            // GMAIL password
+    $mail->Password = "umasiva617";            // GMAIL password
 
     $mail->IsHTML(true);
 
-    $mail->SetFrom('yellowandgraychannel@gmail.com', 'Test');
+    $mail->SetFrom('umasekar098@gmail.com', 'Test');
 
     $mail->Subject = "Contact Form Submited" . date('d-m-y H:i:s');
 
@@ -174,8 +166,8 @@ if ($_POST['name']) {
 
 
 
-    $mail->AddAddress($address, "ENPEEKKL");
-    $mail->AddCC('npschoolkkl@gmail.com', 'ENPEEKKL');
+    $mail->AddAddress($address, "TEST");
+    $mail->AddCC('yellowandgraychannel@gmail.com', 'TEST');
 
 
 
