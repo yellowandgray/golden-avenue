@@ -1087,7 +1087,7 @@ blockquote p { color: #ffffff !important; }
     padding: 20px;
 }
 .we-can-help li {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .icon-size-color {
@@ -1179,3 +1179,8 @@ blockquote p { color: #ffffff !important; }
 }
 .blue-basic {background: #aaaeaf !important; color:#fff;}
 .blue-stand {background: #41a9b9 !important; color: #fff;}
+
+
+.fa-dot-circle-o {
+    color: #007e93;
+}

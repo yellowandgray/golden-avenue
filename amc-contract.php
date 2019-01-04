@@ -43,10 +43,10 @@
                                 <div class="col-md-7">
                                     <h2 class="color-blue text-transform-none"><strong>At GOLDEN AVENUE our commitment is an “ASSURED REALITY”</strong></h2><br/>
                                     <h4>Worried when your server is down?? Put you worries aside with Annual Maintenance Services provided by Golden Avenue.</h4><br/>
-                                    <p style="font-size: 14px !important">Golden Avenue's Annual Maintenance Contract services provide you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented certified engineers enables us to provide optimum IT support services for your system.</p><br/>
+                                    <p>Golden Avenue's Annual Maintenance Contract services provide you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented certified engineers enables us to provide optimum IT support services for your system.</p><br/>
                                     <!--                                    <h4>Reality check:</h4>-->
-                                    <p>Golden Avenue adheres to a professional approach by</p>
-                                    <ol>
+                                    <h3>Golden Avenue adheres to a professional approach by</h3>
+                                    <ol style="font-size: 15px !important">
                                         <li>strictly following SLA as per the client requirements</li>
                                         <li>ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
                                         <li>expertise through multi-resourced IT engineers</li>
@@ -183,37 +183,37 @@
                                     <h4>You can choose for:</h4>
                                 </div>
                                 <div class="col-md-3">
-                                    <h5 class="margin-0 color-blue">Unified Communications</h5>
+                                    <h4 class="margin-0 color-blue">Unified Communications</h4>
                                     <p>Telecomm support to never stop your business</p>
                                 </div>
                                 <div class="col-md-3">
-                                    <h5 class="margin-0 color-blue">Servers & Storage</h5>
+                                    <h4 class="margin-0 color-blue">Servers & Storage</h4>
                                     <p>Ensure up-time running of your system</p>
                                 </div>
                                 <div class="col-md-3">
-                                    <h5 class="margin-0 color-blue">Network Security</h5>
+                                    <h4 class="margin-0 color-blue">Network Security</h4>
                                     <p>Regular health check to secure your network</p>
                                 </div>
                                 <div class="col-md-3">
-                                    <h5 class="margin-0 color-blue">IT Support</h5>
+                                    <h4 class="margin-0 color-blue">IT Support</h4>
                                     <p>24/7 surveillance and Updation of your system</p>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-md-3">
-                                    <h5 class="margin-0 color-blue">Website</h5>
+                                    <h4 class="margin-0 color-blue">Website</h4>
                                     <p>Ascertain the optimal performance of your website</p>
                                 </div>
                                 <div class="col-md-3">
-                                    <h5 class="margin-0 color-blue">Monitoring</h5>
+                                    <h4 class="margin-0 color-blue">Monitoring</h4>
                                     <p>24/7 Monitoring is a unique service which helps you forecast any issue</p>
                                 </div>
                                 <div class="col-md-3">
-                                    <h5 class="margin-0 color-blue">Preventive</h5>
+                                    <h4 class="margin-0 color-blue">Preventive</h4>
                                     <p>Identification of any upcoming problem is combated by essential protective measures</p>
                                 </div>
                                 <div class="col-md-3">
-                                    <h5 class="margin-0 color-blue">Corrective</h5>
+                                    <h4 class="margin-0 color-blue">Corrective</h4>
                                     <p>Preventive measures lead to minimal probability to adopt any corrective actions.</p>
                                 </div>
                             </div>
@@ -457,22 +457,22 @@
                     <div class="row we-can-help">
                         <h2>How Can We Help</h2>
                         <div class="col-md-4">
-                            <ul>
-                                <li>Conversion of files to different formats</li>
-                                <li>Migration of data to different applications</li>
-                                <li>Import / export data to different programs and devices</li>
+                            <ul style="list-style:none">
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Conversion of files to different formats</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Migration of data to different applications</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Import / export data to different programs and devices</li>
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <ul>
-                                <li>Software installation & up gradation.</li>
-                                <li>External Storage Solutions</li>
+                            <ul style="list-style:none">
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Software installation & up gradation.</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> External Storage Solutions</li>
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <ul>
-                                <li>Manage and sync contacts to mobiles devices</li>
-                                <li>Old to new machine data transfer & integration</li>
+                            <ul style="list-style:none">
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Manage and sync contacts to mobiles devices</li>
+                                <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i> Old to new machine data transfer & integration</li>
                             </ul>
                         </div>
                     </div>
@@ -509,25 +509,25 @@
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="box-shadow-3">
-                                    <h3>Network Installation & Security Setup</h3>
+                                    <h3 class="color-blue">Network Installation & Security Setup</h3>
                                     <p class="text-justify">We’ll develop a glitch-free plan for you to share the Internet, Printers, and Files from anywhere in your home or office with a verifiably secure wireless network.</p>
                                 </div>
                             </div>
                             <div class="col-md-3">
                                 <div class="box-shadow-3">
-                                    <h3>System Upgrades</h3>
+                                    <h3 class="color-blue">System Upgrades</h3>
                                     <p class="text-justify">Our technicians are experts at upgrading your computing potential. We specialize in providing additional computing capacity in a cost effective manner.</p>
                                 </div>
                             </div>
                             <div class="col-md-3">
                                 <div class="box-shadow-3">
-                                    <h3>Storage</h3>
+                                    <h3 class="color-blue">Storage</h3>
                                     <p class="text-justify">Or engineers will upgrade your storage potential by successfully installing Hard Drives with a greater capacity. Also provide top of the line External Drives to manage your storage potential even further.</p>
                                 </div>
                             </div>
                             <div class="col-md-3">
                                 <div class="box-shadow-3">
-                                    <h3>RAM</h3>
+                                    <h3 class="color-blue">RAM</h3>
                                     <p class="text-justify">We will upgrade your Memory capacity by professionally installing additional RAM, allowing your computer to run more programs simultaneously, smoothly and efficiently.</p>
                                 </div>
                             </div>
@@ -535,31 +535,31 @@
                         <div class="row">
                             <div class="col-md-3">
                                 <div class="box-shadow-3">
-                                    <h3>Speed</h3>
+                                    <h3 class="color-blue">Speed</h3>
                                     <p class="text-justify">Our technicians will effectively renovate your Processors giving you more computing speed.</p>
                                 </div>
                             </div>
                             <div class="col-md-3">
                                 <div class="box-shadow-3">
-                                    <h3>Servers</h3>
+                                    <h3 class="color-blue">Servers</h3>
                                     <p class="text-justify">We will build a customized, top of the line Server, specifically designed to match your business requirements. Our Experts will work with you, patiently, to discuss your business computing needs and meticulously focus on building the right Server to meet your requirements.</p>
                                 </div>
                             </div>
                             <div class="col-md-3">
                                 <div class="box-shadow-3">
-                                    <h3>Maintenance</h3>
+                                    <h3 class="color-blue">Maintenance</h3>
                                     <p class="text-justify">We maintain you’re dedicated Servers, your Network, and all of your computers. We possess a flairof woking with all Windows Server environments, Email Server services, and most Web Server services.</p>
                                 </div>
                             </div>
                             <div class="col-md-3 box-shadow-3">
-                                <h3>Workstations</h3>
+                                <h3 class="color-blue">Workstations</h3>
                                 <p class="text-justify">Our Annual Maintenance Contract (AMC) team strictly understands the relevance of your Work Stations along with your Network devices. We also realize that your Work Stations are the tip of your sword for your business operations, and if the performance is not up to the mark it can spell disaster for you.</p>
                             </div>
                         </div>
                         <div class="col-md-12">
                             <div class="row">
                                 <h3>Golden Avenue as a robust team, assure you for the effective maintenance and provide you with proper solutions to troubleshoot for any of the impending problems.</h3>
-                                <h4>We ensure your Workstations</h4>
+                                <h4 class="color-blue">We ensure your Workstations</h4>
                                 <div class="col-md-4">
                                     <ul>
                                         <li>Are properly connected to your Network</li>
