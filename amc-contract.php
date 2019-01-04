@@ -561,22 +561,22 @@
                                 <h3>Golden Avenue as a robust team, assure you for the effective maintenance and provide you with proper solutions to troubleshoot for any of the impending problems.</h3>
                                 <h4 class="color-blue">We ensure your Workstations</h4>
                                 <div class="col-md-4">
-                                    <ul>
-                                        <li>Are properly connected to your Network</li>
-                                        <li>Optimized for performance</li>
-                                        <li>Are secure from intruders</li>
+                                    <ul style="list-style:none">
+                                        <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Are properly connected to your Network</li>
+                                        <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Optimized for performance</li>
+                                        <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Are secure from intruders</li>
                                     </ul>
                                 </div>
                                 <div class="col-md-4">
-                                    <ul>
-                                        <li>Perform all tasks needed by your staff</li>
-                                        <li>Don’t run anything they aren’t supposed to</li>
+                                    <ul style="list-style:none">
+                                        <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Perform all tasks needed by your staff</li>
+                                        <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Don’t run anything they aren’t supposed to</li>
                                     </ul>
                                 </div>
                                 <div class="col-md-4">
-                                    <ul>
-                                        <li>Operate glitch free and experience no software issues</li>
-                                        <li>Virus signatures are kept up to date</li>
+                                    <ul style="list-style:none">
+                                        <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Operate glitch free and experience no software issues</li>
+                                        <li><i class="fa fa-dot-circle-o" aria-hidden="true"></i>&nbsp;&nbsp;Virus signatures are kept up to date</li>
                                     </ul>
                                 </div>
                             </div>
