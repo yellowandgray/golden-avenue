@@ -30,7 +30,7 @@
                                 <h3 class="color-blue">An IT assessment is a thorough audit of all information technology infrastructure used by a business.</h3> 
                                 <h3 class="color-blue"><strong>Why is an IT health check important?</strong></h3>
                                 <p class="text-justify">The Information Technology Health Check/ Audit for organizations from any domain is a MUST to ensure optimal performance in the day to day Operations and Decision making Process. It helps the organization to understand and utilize technology more efficiently. This Audit helps to get more out of existing technology investments and recommend further updates and upgrades based on the current set up.</p>
-                                <img src="img/blog/sub02.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/sub-page-pic-2.jpg" alt="" class="img-responsive"/>
                                 <h3 class="text-justify">GOLDEN AVENUE Technology Health Check includes various components and addresses the critical and major critical and vulnerable points of different IT areas as detailed below:</h3>
                                 <ul class="list-line">
                                     <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
