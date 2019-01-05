@@ -2,9 +2,10 @@
 <html lang="en">
     <?php include 'head.php'; ?>
     <script>
+        setInterval(
         function showModal() {
             $('#myModal').modal('show');
-        }
+        } ,5000);
     </script>
     <body onload="showModal()">
         <div id="wrapper" class="home-page">
@@ -311,79 +312,79 @@
                             </div>
                         </div>
                     </div>
-                      <div class="row">
-                                <!--                        <div class="col-lg-12"> 
-                                                        </div>-->
-                                <div class="col-sm-1"></div>
-                                <div class="col-sm-5">
-                                    <div class="pricing-box-item">
-                                        <div class="pricing-heading blue-basic">
-                                            <h3 class="white"><strong>Basic</strong></h3>
-                                        </div>
-                                        <!--                                <div class="pricing-terms">
-                                                                            <h6>&#36;15.00 / Year</h6>
-                                                                        </div>-->
-                                        <div class="pricing-container">
-                                            <ul>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Remote Support</li>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Once in 3 months preventive Maintenance</li>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> 8X5 (1 hour response time)</li>
-                                                <li>&nbsp;</li>
-                                                <li>&nbsp;</li>
-                                                <li>&nbsp;</li>
+                    <div class="row">
+                        <!--                        <div class="col-lg-12"> 
+                                                </div>-->
+                        <div class="col-sm-1"></div>
+                        <div class="col-sm-5">
+                            <div class="pricing-box-item">
+                                <div class="pricing-heading blue-basic">
+                                    <h3 class="white"><strong>Basic</strong></h3>
+                                </div>
+                                <!--                                <div class="pricing-terms">
+                                                                    <h6>&#36;15.00 / Year</h6>
+                                                                </div>-->
+                                <div class="pricing-container">
+                                    <ul>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Remote Support</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Once in 3 months preventive Maintenance</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> 8X5 (1 hour response time)</li>
+                                        <li>&nbsp;</li>
+                                        <li>&nbsp;</li>
+                                        <li>&nbsp;</li>
 
-                                            </ul>
-                                        </div>
-                                        <!--                                <div class="pricing-action">
-                                                                        </div>-->
-                                    </div>
+                                    </ul>
                                 </div>
-                                <div class="col-sm-5">
-                                    <div class="pricing-box-item">
-                                        <div class="pricing-heading blue-stand">
-                                            <h3 class="white"><strong>Standard</strong></h3>
-                                        </div>
-                                        <!--                                <div class="pricing-terms">
-                                                                            <h6>&#36;20.00 / Year</h6>
-                                                                        </div>-->
-                                        <div class="pricing-container">
-                                            <ul>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Remote Support</li>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Onsite Support</li>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Once in a month preventive maintenance</li>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Monitoring</li>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Cyber security Awareness Workshop (Every 6 months)</li>
-                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> 1 hour response</li>
-                                            </ul>
-                                        </div>
-                                        <!--                                <div class="pricing-action">
-                                                                        </div>-->
-                                    </div>
-                                </div>
-                                <div class="col-sm-1"></div>
-                                <!--                                <div class="col-sm-4">
-                                                                    <div class="pricing-box-item">
-                                                                        <div class="pricing-heading blue">
-                                                                            <h3><strong>Enterprise</strong></h3>
-                                                                        </div>
-                                                                                                        <div class="pricing-terms">
-                                                                                                            <h6>&#36;15.00 / Year</h6>
-                                                                                                        </div>
-                                                                        <div class="pricing-container">
-                                                                            <ul>
-                                                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Responsive Design</li>
-                                                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Bootstrap Design</li>
-                                                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Unlimited Support</li>
-                                                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Free Trial version</li>
-                                                                                <li>&nbsp;&nbsp;<i class="fa fa-check"></i> HTML5 CSS3 jQuery</li>
-                                                                                <li>&nbsp;</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                                                        <div class="pricing-action">
-                                                                                                        </div>
-                                                                    </div>
+                                <!--                                <div class="pricing-action">
                                                                 </div>-->
                             </div>
+                        </div>
+                        <div class="col-sm-5">
+                            <div class="pricing-box-item">
+                                <div class="pricing-heading blue-stand">
+                                    <h3 class="white"><strong>Standard</strong></h3>
+                                </div>
+                                <!--                                <div class="pricing-terms">
+                                                                    <h6>&#36;20.00 / Year</h6>
+                                                                </div>-->
+                                <div class="pricing-container">
+                                    <ul>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Remote Support</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Onsite Support</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Once in a month preventive maintenance</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Monitoring</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Cyber security Awareness Workshop (Every 6 months)</li>
+                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> 1 hour response</li>
+                                    </ul>
+                                </div>
+                                <!--                                <div class="pricing-action">
+                                                                </div>-->
+                            </div>
+                        </div>
+                        <div class="col-sm-1"></div>
+                        <!--                                <div class="col-sm-4">
+                                                            <div class="pricing-box-item">
+                                                                <div class="pricing-heading blue">
+                                                                    <h3><strong>Enterprise</strong></h3>
+                                                                </div>
+                                                                                                <div class="pricing-terms">
+                                                                                                    <h6>&#36;15.00 / Year</h6>
+                                                                                                </div>
+                                                                <div class="pricing-container">
+                                                                    <ul>
+                                                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Responsive Design</li>
+                                                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Bootstrap Design</li>
+                                                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Unlimited Support</li>
+                                                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> Free Trial version</li>
+                                                                        <li>&nbsp;&nbsp;<i class="fa fa-check"></i> HTML5 CSS3 jQuery</li>
+                                                                        <li>&nbsp;</li>
+                                                                    </ul>
+                                                                </div>
+                                                                                                <div class="pricing-action">
+                                                                                                </div>
+                                                            </div>
+                                                        </div>-->
+                    </div>
                     <div class="row text-center">
                         <a href="amc-contract.php" class="btn btn-primary"><i class="icon-bolt"></i> Get Quote</a>
                     </div>
