@@ -5,7 +5,7 @@
         setTimeout(
         function showModal() {
             $('#myModal').modal('show');
-        } ,5000);
+        } ,25000);
     </script>
     <body onload="showModal()">
         <div id="wrapper" class="home-page">
