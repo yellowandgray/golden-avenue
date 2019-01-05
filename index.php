@@ -2,7 +2,7 @@
 <html lang="en">
     <?php include 'head.php'; ?>
     <script>
-        setInterval(
+        setTimeout(
         function showModal() {
             $('#myModal').modal('show');
         } ,5000);
