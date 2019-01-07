@@ -53,7 +53,7 @@
                                 </div>
                                 <br/>
                                 <br/>
-                                 <?php include 'enquiry.php'; ?>
+                                <?php include 'enquiry.php'; ?>
                             </div>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                         </div>
                         <h3 class="color-blue">Advantages</h3>
                         <div class="row showcase-section">
-                           <div class="col-md-4 text-justify">
+                            <div class="col-md-4 text-justify">
                                 <h4>1. You are less likely to be penetrated or breached from outside</h4>
                                 <p class="text-justify">Training your staff to spot the signs of an attack means they’re less likely to fall victim. Your employees can be crucial in protecting your organisation from other vulnerabilities.</p>
                                 <p class="text-justify">For instance, phishing scams target individuals indiscriminately. Anyone can receive a malicious email, social media message or text that asks the recipient to hand over their login details. Phishing and other types of social engineering and media can be tricky to spot, and technological defences are unreliable. So it’s vital that employees are shown how to stay one step ahead of criminals.</p>
@@ -84,7 +84,7 @@
                             <div class="col-md-4">
                                 <h4>2. It helps you meet regulatory requirements</h4>
                                 <p  class="text-justify">Cyber security is being addressed at government-level more than ever, with several new regulations mandating strengthened security controls. Employee cyber awareness trainings are almost universally essential to avoid any disciplinary action.</p>
-                            <br/><img class="img-responsive" src="img/blog/faq.jpg" alt=""/>
+                                <br/><img class="img-responsive" src="img/blog/faq.jpg" alt=""/>
                             </div>
                             <div class="col-md-4 text-justify">
                                 <h4>3. It improves company culture</h4>
@@ -112,9 +112,6 @@
                 </section>
             </section>
             <?php include 'footer.php'; ?>
-            <?php include 'it-procurement-popup.php'; ?>
         </div>
-        <?php include 'doyouknow-popup.php'; ?>
-        <?php include 'chat-popup.php'; ?>
     </body>
 </html>

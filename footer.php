@@ -78,6 +78,12 @@
     </div>
 </footer>
 <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
+    <?php 
+//    include 'it-procurement-popup.php'; 
+    ?>
+
+<?php include 'doyouknow-popup.php'; ?>
+<?php include 'chat-popup.php'; ?>
 <!-- javascript
     ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->

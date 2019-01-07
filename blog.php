@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
     <?php $page = 'blog';
-    include 'head.php'; ?>
+    include 'head.php';
+    ?>
     <body>
         <div id="wrapper">
 <?php include 'menu.php'; ?><!-- end header -->
@@ -18,9 +19,9 @@
                 <section class="section-padding">
                     <div class="container">
                         <ul class="breadcrumb">
-                                <li><a href="index.php">Home</a></li>
-                                <li>Blog</li>
-                            </ul>
+                            <li><a href="index.php">Home</a></li>
+                            <li>Blog</li>
+                        </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
@@ -46,7 +47,7 @@
                                 </div>
                                 <br/>
                                 <br/>
-                                <?php include 'enquiry.php'; ?>
+<?php include 'enquiry.php'; ?>
                             </div>
                         </div>
                         <div class="row showcase-section">
@@ -277,9 +278,8 @@
                                 </div>-->
             </section>
 <?php include 'footer.php'; ?>
-<?php include 'it-procurement-popup.php'; ?>
+
         </div>
-         <?php include 'doyouknow-popup.php'; ?>
-        <?php include 'chat-popup.php'; ?>
+
     </body>
 </html>

@@ -3,9 +3,9 @@
     <?php include 'head.php'; ?>
     <script>
         setTimeout(
-        function showModal() {
-            $('#myModal').modal('show');
-        } ,25000);
+                function showModal() {
+                    $('#myModal').modal('show');
+                }, 15000);
     </script>
     <body onload="showModal()">
         <div id="wrapper" class="home-page">
@@ -24,7 +24,9 @@
                         <li>
                             <img src="img/slides/Home_banner1.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content-1">ANNUAL MAINTENANCE CONTRACTS<br/><span class="italic font-size-24 font-italic">Services to keep you fit always</span></h3>  
+                                <h3 class="banner-content-1">ANNUAL MAINTENANCE<br/> CONTRACTS
+<!--                                    <span class="italic font-size-24 font-italic">Services to keep you fit always</span>-->
+                                </h3>  
                                 <!--<h3 class="banner-content"></br><span class="italic font-size-24 font-italic"></span></h3>-->  
                             </div>
                         </li>
@@ -42,20 +44,21 @@
 
                             </div>
                         </li>
+                        <!--                        <li>
+                                                    <img src="img/slides/Home_banner4.jpg" alt="" />
+                                                    <div class="flex-caption">
+                                                        <h3  class="banner-content">NETWORK & CONNECTIVITY</br> SOLUTIONS</h3>  
+                        
+                                                    </div>
+                                                </li>-->
+                        <!--                        <li>
+                                                    <img src="img/slides/Home_banner5.jpg" alt="" />
+                                                    <div class="flex-caption">
+                                                        <h3  class="banner-content">DISASTER RECOVERY & STORAGE SOLUTIONS</h3>  
+                        
+                                                    </div>
+                                                </li>-->
                         <li>
-                            <img src="img/slides/Home_banner4.jpg" alt="" />
-                            <div class="flex-caption">
-                                <h3  class="banner-content">NETWORK & CONNECTIVITY</br> SOLUTIONS</h3>  
-
-                            </div>
-                        </li>
-                        <li>
-                            <img src="img/slides/Home_banner5.jpg" alt="" />
-                            <div class="flex-caption">
-                                <h3  class="banner-content">DISASTER RECOVERY & STORAGE SOLUTIONS</h3>  
-
-                            </div>
-                        </li><li>
                             <img src="img/slides/Home_banner6.jpg" alt="" />
                             <div class="flex-caption">
                                 <h3  class="banner-content">CYBER SECURITY AWARENESS WORKSHOP</h3>  
@@ -624,7 +627,9 @@
 
 
         <?php include 'footer.php'; ?>
-        <?php include 'it-procurement-popup.php'; ?>
+        <!--
+            <?php include 'it-procurement-popup.php'; ?>
+        -->
         <?php include 'doyouknow-popup.php'; ?>
         <?php include 'chat-popup.php'; ?>
         <?php include 'onload-popup.php'; ?>

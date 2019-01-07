@@ -36,17 +36,18 @@
                     <li class="<?php if ($page == 'services') {echo 'active';}?> dropdown">
                         <a href="#" data-toggle="dropdown" class="dropdown-toggle">Services <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="it-health-check.php">IT HEALTH CHECKS</a></li>
-                            <li><a href="network-health-check.php">NETWORK HEALTH CHECKS</a></li>
-                            <li><a href="business-continuity.php">BUSINESS CONTINUITY</a></li> 
-                            <li><a href="it-security.php">IT SECURITY</a></li>
-                            <li><a href="consulting-service.php">CONSULTING SERVICES</a></li>
-                            <li><a href="cloud-migration.php">CLOUD MIGRATION</a></li>
-                            <li><a href="faq-cyber-security.php">FAQ CYBER SECURITY AWARENESS</a></li>
+                            <li><a href="it-health-check.php">IT & Network Health Checks</a></li>
+<!--                            <li><a href="network-health-check.php">NETWORK HEALTH CHECKS</a></li>-->
+                            <li><a href="business-continuity.php">Business Continuity</a></li> 
+                            <li><a href="it-security.php">IT Security</a></li>
+                            <li><a href="consulting-service.php">Consulting Services</a></li>
+                            <li><a href="cloud-migration.php">Cloud Migration</a></li>
+                            <li><a href="faq-cyber-security.php">Cyber Security Awareness</a></li>
+                            <li><a href="it_procurement.php">IT Procurement Services</a></li>
                         </ul>
                     </li>
-                    <li class="<?php if ($page == 'amc-contract') {echo 'active';}?>"><a href="amc-contract.php">AMC Contracts</a></li>
-                    <li class="<?php if ($page == 'it-procurement') {echo 'active';}?>"><a href="it_procurement.php">IT PROCUREMENT SERVICES</a></li>
+                    <li class="<?php if ($page == 'amc-contract') {echo 'active';}?>"><a href="amc-contract.php">Annual Maintenance Contracts</a></li>
+                    <li class="<?php if ($page == 'it-procurement') {echo 'active';}?>"><a href="#">Products</a></li>
                     <li class="<?php if ($page == 'blog') {echo 'active';}?>"><a href="blog.php">Blog</a></li>
                     <li class="<?php if ($page == 'why-us') {echo 'active';}?>"><a href="why-us.php">Why Us</a></li>
                     <li class="<?php if ($page == 'contact') {echo 'active';}?>"><a href="contacts.php">Contact</a></li>
