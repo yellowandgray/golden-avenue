@@ -31,14 +31,13 @@
                 <div class="widget">
                     <h5 class="widgetheading">Our Services</h5>
                     <ul class="link-list">
-                        <li><a href="it-health-check.php">IT Health Checks:</a></li>
-                        <!--<li><a href="#">Technical Solutions</a></li>-->
-                        <!--<li><a href="#">Hardware & Software</a></li>-->
-                        <li><a href="network-health-check.php">Network health check</a></li>
-                        <li><a href="business-continuity.php">Business continuity</a></li>
-                        <li><a href="it-security.php">IT Security</a></li>
-                        <li><a href="consulting-service.php">Consulting services</a></li>
-                        <li><a href="cloud-migration.php"> Cloud migration</a></li>
+                        <li><a href="it-health-check.php">IT & Network Health Checks</a></li>
+<!--                            <li><a href="network-health-check.php">NETWORK HEALTH CHECKS</a></li>-->
+                            <li><a href="business-continuity.php">Business Continuity</a></li> 
+                            <li><a href="it-security.php">IT Security</a></li>
+                            <li><a href="consulting-service.php">Consulting Services</a></li>
+                            <li><a href="cloud-migration.php">Cloud Migration</a></li>
+                            <li><a href="faq-cyber-security.php">Cyber Security Awareness</a></li>
                     </ul>
                 </div>
             </div>
