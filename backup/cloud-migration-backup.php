@@ -28,10 +28,11 @@
                             <div class="col-md-7">
                                 <h3 class="color-blue"><strong>Cloud Migration</strong></h3>
                                 <p class="text-justify">Many organizations and businesses are expected to move to the cloud and thus transform and adapt to the new digital age. The previous mind set of in-house infrastructure is getting erased and will soon be completely replaced by the cloud.</p>
-                                <p class="text-justify">Golden Avenue helps such businesses either through a new transformed set-up or by transitioning their already existing data centers, to a highly accessible and secure cloud environment. We support customer hosted hardware apart from web-services which includes hosting websites, custom apps and emails.</p>
+                                <p class="text-justify">Golden Avenue helps such businesses either through a new transformed set-up or by transition their already existing data centers, to a highly accessible and secure cloud environment. Golden Avenue, supports customer hosted hardware apart from web-services which includes hosting websites, custom apps and emails.</p>
                                 <br/><img src="img/blog/sub-page-pic-9.jpg" alt="" class="img-responsive"/><br/>
-                                <p class="text-justify">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it and wherever you need it. Prior to the influx of “Cloud Technology”, companies has to allocate a hefty budget for the system, which would have included the purchase of the server, the required software, and the cost of a certified professional to set the entire infrastructure on premise.</p>
-                                <p class="text-justify">Now, for a monthly “Rental” Fee, companies can set up any or all software into the Cloud, pay no startup fee, add spaces instantaneously, have the service provided over the internet to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>
+                                <p class="text-justify">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it, wherever you need it. Prior to the influx of “Cloud Technology”, a company has to allocate a huge up-front budget for the system, which would have included the purchase the server, the required software, and the cost of a certified professional to set the entire infra-structure on site.</p>
+                                <p class="text-justify"> Now, for a monthly “Rental” Fee, businesses can set up any or all software into the Cloud, pay NO startup fee, ADD spaces instantaneously, have the service provided over the INTERNET to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>
+
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">
@@ -92,8 +93,8 @@
                 </div>
             </section>
             <?php include 'footer.php'; ?>
-
+            
         </div>
-
+       
     </body>
 </html>
