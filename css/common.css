@@ -1193,3 +1193,6 @@ blockquote p { color: #ffffff !important; }
 .btn-width {
     width: 260px;
 }
+.width200 {
+    width: 200px;
+}
