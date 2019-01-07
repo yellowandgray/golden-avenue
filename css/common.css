@@ -561,7 +561,7 @@ blockquote p {color: #fff;}
 
 /* Button used to open the chat form - fixed at the bottom of the page */
 .open-button {
-    background-color: #ff0000;
+    background-color: #007e93;
     color: white;
     padding: 8px 20px;
     border: none;
