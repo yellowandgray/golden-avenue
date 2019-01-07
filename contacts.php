@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php $page = 'contact';
+    <?php
+    $page = 'contact';
     include 'head.php';
     ?>
     <body>
@@ -121,6 +122,5 @@
             </section>
 <?php include 'footer.php'; ?>
         </div>
-        <?php include 'chat-popup.php'; ?>
     </body>
 </html>

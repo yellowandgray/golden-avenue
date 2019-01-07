@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php $page = 'services';
+    <?php
+    $page = 'services';
     include 'head.php';
     ?>
     <body>
@@ -38,8 +39,8 @@
                                     <li>Decide on the suitable tools required for data security enhancements;</li>
                                     <li>Preparing workforces for a responsible and secured data sharing.</li>
                                 </ul>
-                                 </br>
-                                 <img src="img/blog/sub-page-pic-3.jpg" alt="" class="img-responsive"/>
+                                </br>
+                                <img src="img/blog/sub-page-pic-3.jpg" alt="" class="img-responsive"/>
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">
@@ -58,16 +59,14 @@
                                 </div>
                                 <br/>
                                 <br/>
-                                 <?php include 'enquiry.php'; ?>
+<?php include 'enquiry.php'; ?>
                             </div>
                         </div>
                     </div>
                 </section>
             </section>
 <?php include 'footer.php'; ?>
-<?php include 'it-procurement-popup.php'; ?>
+
         </div>
-         <?php include 'doyouknow-popup.php'; ?>
-        <?php include 'chat-popup.php'; ?>
     </body>
 </html>
