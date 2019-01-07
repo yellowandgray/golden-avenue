@@ -26,18 +26,18 @@
                         </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <h3 class="color-blue"><strong>What is an IT & Network Health Check?</strong></h3>
-                                <p>It is a comprehensive IT specific assessment of your infrastructure and security. It provides you with an accurate IT audit that will highlight your current and potential risk areas.</p> 
-                                <h3 class="color-blue"><strong>Why is an IT & Network Health Check important?</strong></h3>
-                                <p class="text-justify">The IT Health Check / Audit for organizations from any domain is a MUST to ensure optimal performance in the day to day operations and decision-making process. It helps the organization to understand and utilize technology more efficiently. This audit helps to get more out of your existing technology investments and recommend further updates and upgrades based on the current set up.</p>
+                                <h3 class="color-blue"><strong>IT Health Check</strong></h3>
+                                <h3 class="color-blue">An IT assessment is a thorough audit of all information technology infrastructure used by a business.</h3> 
+                                <h3 class="color-blue"><strong>Why is an IT health check important?</strong></h3>
+                                <p class="text-justify">The Information Technology Health Check/ Audit for organizations from any domain is a MUST to ensure optimal performance in the day to day Operations and Decision making Process. It helps the organization to understand and utilize technology more efficiently. This Audit helps to get more out of existing technology investments and recommend further updates and upgrades based on the current set up.</p>
                                 <img src="img/blog/sub-page-pic-2.jpg" alt="" class="img-responsive"/>
-                                <h3 class="text-justify">Golden Avenue IT & Network Health Check includes various components and addresses the critical and vulnerable points of different IT aspects as detailed below:</h3>
+                                <h3 class="text-justify">GOLDEN AVENUE Technology Health Check includes various components and addresses the critical and major critical and vulnerable points of different IT areas as detailed below:</h3>
                                 <ul class="list-line">
-                                    <li>Assess if the entire IT infrastructure both hardware and software fulfill the standard necessary requirements of your business and if it is cost effective</li>
-                                    <li>Analyzing and testing the security policies and data protection adopted by your business</li>
-                                    <li>Guides you in the right direction to build a robust and secured IT foundation for your business</li>
-                                    <li>Whether you want to UPGRADE your current Infrastructure or embark on a new venture, we deliver the state-of-the-art solutions that will give your establishment a sustained business advantage.</li>
-                                    <li>Using the right network tools to check the vulnerabilities on the Network.</li>
+                                    <li>Assess if the entire IT infra-structure fulfills the standard necessary requirements of the business</li>
+                                    <li>Scrutinizing whether the current configuration of the IT structure is cost effective and efficient</li>
+                                    <li>Analysing and testing the security policies and data protection safeguards adopted by the business</li>
+                                    <li>Checking for outdated or repetitive  modules and improve efficiency</li>
+                                    <li>The IT infra-structure is considered an Asset and can be related to Asset Management. It is an investment that helps in the financial growth of a business. Just like an asset it has initial and maintenance costs but the advantages of its maintenance is quite enormous. GOLDEN AVENUE consultants are highly skilled and are specialists in this field and provide best Assessment services to their clients</li>
                                 </ul>
 
                             </div>
@@ -58,7 +58,7 @@
                                 </div>
                                 <br/>
                                 <br/>
-                                <?php include 'enquiry.php'; ?>
+                                 <?php include 'enquiry.php'; ?>
                             </div>
                         </div>
                     </div>
@@ -66,22 +66,26 @@
             </section>
             <section id="content" style="background: #f1f1f1;">
                 <div class="container">
-                    <h3 class="color-blue"><strong>The Health Check consists of the following:</strong></h3>
+                    <h3 class="color-blue text-center"><strong>The Audit consists of the following Checks</strong></h3>
                     <div class="row checks-h2">
                         <div class="col-md-6">
                             <h3>Power Check</h3>
                             <ul class="list-line">
                                 <li>Unexpected power failure of UPS</li>
                                 <li>Optimal utilization of UPS capacity</li>
+                                <li>Address UPS power cabling concerns</li>
                                 <li>Battery backup for the practical load used</li>
                                 <li>Temperature control measures taken up for the UPS and Battery placement</li>
+                                <li>Fire Hazards that pose a potential threat to the BUSINESS ASSETS and the environment.</li>
                             </ul>
                         </div>
                         <div class="col-md-6">
                             <h3>Network Check</h3>
                             <ul class="list-line">
-                                <li>Drop in network speed</li>
+                                <li>Drops in Network speed</li>
+                                <li>Abrupt connectivity failure with devices</li>
                                 <li>Wireless signal strength issues</li>
+                                <li>Design Complex Network architecture</li>
                                 <li>Cable routing and analyze type of cables being utilized</li>
                                 <li>Active and passive network components</li>
                             </ul>
@@ -91,7 +95,10 @@
                         <div class="col-md-6">
                             <h3>Internet/Intranet Connectivity Check</h3>
                             <ul class="list-line">
+                                <li>Internet connectivity speed drops</li>
+                                <li>Failover and load-balancing setup</li>
                                 <li>Bandwidth utilization</li>
+                                <li>Unauthorized usage of internet services</li>
                                 <li>Content filtering to avoid certain categories of websites</li>
                                 <li>Firewall setup (policies for allowing/disallowing the users access to websites)</li>
                                 <li>Email services (unauthorized sending of emails, blocking of attachments, controlling size or type of attachments).</li>
@@ -100,9 +107,13 @@
                         <div class="col-md-6">
                             <h3>Server, Storage & Backup Check</h3>
                             <ul class="list-line">
+                                <li>Operating system compatibility issues</li>
                                 <li>Performance of server, storage and backup equipment for optimum operations</li>
+                                <li>Analyze Increased downtime of servers</li>
                                 <li>Virtual and physical Recovery from crashes</li>
+                                <li>management of Storage space</li>
                                 <li>Automated backup</li>
+                                <li>restoration of the backed-up data</li>
                                 <li>Potential concerns of server, storage and backup</li>
                             </ul>
                         </div>
@@ -112,9 +123,12 @@
                             <h3>Desktop, Laptop & Thin Clients Check</h3>
                             <ul class="list-line">
                                 <li>Retrieval from crashes and reducing the downtime</li>
-                                <li>End-to-end audit of machines to ensure longevity of the business asset</li>
+                                <li>Repair / replacement and upgrade spares availability</li>
                                 <li>Standard hardware configuration across the organization</li>
-                                <li>Ensure all patches and security software are up to date</li>
+                                <li>End-to-end audit or sampling audit can be scoped as required.</li>
+                                <li>Content filtering to avoid certain categories of websites</li>
+                                <li>Firewall setup (policies for allowing/disallowing the users access to websites)</li>
+                                <li>Email services (unauthorized sending of emails, blocking of attachments, controlling size or type of attachments).</li>
                             </ul>
                         </div>
                         <div class="col-md-6">
@@ -125,35 +139,20 @@
                                 <li>Find actual gaps in the license</li>
                                 <li>Identify open source alternatives to reduce investments</li>
                             </ul>
-                        </div>
-                    </div>
-                    <div class="row checks-h2">
-                        <div class="col-md-6">
-                            <h3>The most common threats to your business:</h3>
+                            <h3>Key User Checks</h3>
                             <ul class="list-line">
-                                <li>Malicious programs like viruses, worms, trojan horses, spyware, malware, adware and botnets</li>
-                                <li>Zero-day and zero-hour attacks</li>
-                                <li>Hacker attacks</li>
-                                <li>Denial of Service</li>
-                                <li>Distributed Denial of Service Attacks</li>
-                                <li>Data theft.</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-6">
-                            <h3>These threats look to exploit:</h3>
-                            <ul class="list-line">
-                                <li>Unsecured wireless networks</li>
-                                <li>Unpatched software and hardware</li>
-                                <li>Unsecured websites</li>
-                                <li>Potentially unwanted applications</li>
-                                <li>Weak passwords</li>
-                                <li>Lost devices or users with malicious intent</li>
+                                <li>Collective view of the key users driving the organization</li>
+                                <li>Understand training requirements</li>
+                                <li>Identify the key expectations of majority stake holders.</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </section>
             <?php include 'footer.php'; ?>
+            <?php include 'it-procurement-popup.php'; ?>
         </div>
+        <?php include 'doyouknow-popup.php'; ?>
+        <?php include 'chat-popup.php'; ?>
     </body>
 </html>
