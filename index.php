@@ -169,7 +169,7 @@
                                 <li>Ensure System Security, Plan for Business Continuity, Backup and storage for Disaster Recovery and Compliance are in Order</li>
                                 <li>Make certain that organizations are abiding by both industry regulations and government legislation</li>
                                 <li>Dedicated IT Professionals at a fraction of the COST</li>
-                            </ul></br>
+                            </ul><br/>
                             <h3 class="blue-color bold">Build a CYBER Resilient Organization </h3>
                             <p class="text-justify">GOLDEN AVENUE helps your business to build a resilient IT system that needs to be a secure and an accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, Ethernet switches and network storage.</p>
                             <p class="text-justify">It also means well thought-out configurations and rule sets that are documented and maintained, Active defence in depth with servers running their own firewalls in addition to any externally facing firewall and regular IT health checks (not just penetration testing) which are carried out routinely and issues addressed immediately.</p>
