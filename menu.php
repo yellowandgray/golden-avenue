@@ -55,4 +55,4 @@
         </div>
     </div>
 </header>
-<marquee>IT Health Checks,&nbsp;&nbsp;Network Health Checks,&nbsp;&nbsp; Business Continuity,&nbsp;&nbsp; IT Security,&nbsp;&nbsp; Consulting Services and Cloud Migration &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For&nbsp;&nbsp; <blink class="color-red"><strong>FREE</strong></blink>&nbsp;&nbsp; IT Health Check Call&nbsp;&nbsp;: 04 2668272</marquee>
+<marquee>IT Health Checks,&nbsp;&nbsp;Network Health Checks,&nbsp;&nbsp; Business Continuity,&nbsp;&nbsp; IT Security,&nbsp;&nbsp; Consulting Services and Cloud Migration &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For&nbsp;&nbsp; <blink style="color: black"><strong>FREE</strong></blink>&nbsp;&nbsp; IT Health Check&nbsp;&nbsp; Call&nbsp;&nbsp;: 04 2668272</marquee>
