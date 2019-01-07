@@ -27,10 +27,11 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <h3 class="color-blue"><strong>Business continuity</strong></h3>
-                                <p class="text-justify">With the increasing number of threats to business in today’s world, Businesses have to learn to prepare for the unexpected. Without the proper resources, being able to ensure that your business remains safe can be challenging. Here at GOLDEN AVENUE, Readiness and Preparedness is our focus and we are here to assist you with developing and maintaining your business continuity plan. With access to current state of the art technology and resources, business continuity planning and maintenance has never been easier.</p>
+                                <p class="text-justify">With the increasing number of threats to businesses in today’s world, you must learn to be prepared for the unexpected. Without the proper resources, being able to ensure that your business remains safe can be challenging. Here at Golden Avenue, readiness and preparedness is our focus and we are here to assist you with developing and maintaining your business continuity plan. With access to current state of the art technology and resources, business continuity planning and maintenance has never been easier.</p>
+                                <p>In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible (In Green</p>
                                 <h3 class="color-blue text-justify">In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible.</h3>
                                 <img src="img/blog/bus1.jpg" alt="" class="img-responsive"/>
-                                <h3 class="color-blue">Golden avenue experts perform the following to achieve this constraint:</h3>
+                                <h3 class="color-blue">Our experts are constantly engaged in ensuring your business performs to the optimum levels</h3>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <ul class="list-line">
