@@ -333,49 +333,46 @@
 
             <section id="banner" style="background: url(img/bg-box.jpg) no-repeat; background-size: cover;">
                 <section class="section-padding">
-                    <div class="container-fluid">
+                    <div class="container">
                         <div class="row">
                             <div class="skill-home"> 
                                 <div class="skill-home-solid clearfix"> 
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20">
                                         <div class="services-inner">
-                                            <span class="icons">
+                                            <span class="services-thumb">
                                                 <img src="img/005.jpg" class="img-responsive" />
                                             </span> 
-                                            <div class="box-area">
-                                                <h3 class="title-h3">24 X 7 IT SUPPORT</h3> 
-                                                <p>We offer World-Class & Unmatched Support</p>
-                                                <!--<a href="contacts.php" class="btn btn-primary">Try us</a>-->                                        
-                                            </div>
+                                            <h3>24 X 7 IT SUPPORT</h3> 
+                                            <p>We offer World-Class & Unmatched Support</p>
+                                            <!--<a href="contacts.php" class="btn btn-primary">Try us</a>-->
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
-                                        <span class="icons">
-                                            <img src="img/006.jpg" class="img-responsive" />
-                                        </span> 
-                                        <div class="box-area">
-                                            <h3 class="title-h3">CERTIFIED IT PROFESSIONALS</h3> 
+                                        <div class="services-inner">
+                                            <span class="services-thumb">
+                                                <img src="img/006.jpg" class="img-responsive" />
+                                            </span>
+                                            <h3>CERTIFIED IT PROFESSIONALS</h3> 
                                             <p>We are a team of Certified IT Professionals & Experts</p>
-                                            <!--<a href="why-us.php" class="btn btn-primary">For Details</a>-->
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
-                                        <span class="icons">
-                                            <img src="img/007.jpg" class="img-responsive" />
-                                        </span> 
-                                        <div class="box-area">
-                                            <h3 class="title-h3">20+  YEARS OF EXPERIENCE</h3> 
+                                        <div class="services-inner">
+                                            <span class="services-thumb">
+                                                <img src="img/007.jpg" class="img-responsive" />
+                                            </span> 
+                                            <h3>20+  YEARS OF EXPERIENCE</h3> 
                                             <p>Un-Paralleled Experience & Time Unlimited Consultancy</p>
     <!--                                        <span class="italic bold">Your First Consultation is Always FREE</span>-->
                                             <!--<a href="tel:042668272" class="btn btn-primary">Call Us</a>-->
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
-                                        <span class="icons">
-                                            <img src="img/008.jpg" class="img-responsive" />
-                                        </span> 
-                                        <div class="box-area">
-                                            <h3 class="title-h3"> FLEXIBLE CONTRACTS </h3> 
+                                        <div class="services-inner">
+                                            <span class="services-thumb">
+                                                <img src="img/008.jpg" class="img-responsive" />
+                                            </span> 
+                                            <h3> FLEXIBLE CONTRACTS </h3> 
                                             <p>Tailor-Made Contracts, FOCUSED & Specific to your Business Needs</p>
                                             <!--<a href="contacts.php" class="btn btn-primary">Get Quote</a>-->
                                         </div>
