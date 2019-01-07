@@ -645,7 +645,7 @@ section.hero-text h1{
 }
 /* page headline
 ==================================== */
-#inner-headline-0{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-health-check.jpg")}
+#inner-headline-0{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-health-check.jpg"); height: 280px;background-position: center}
 section#inner-headline-0:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -689,7 +689,7 @@ section#inner-headline-0:after {
 }
 
 
-#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact-01.jpg")}
+#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact-01.jpg"); height: 280px;background-position: centers}
 section#inner-headline:after {
     content: '';
     background: rgba(0, 0, 0, 0);
@@ -738,7 +738,7 @@ ul.breadcrumb li a:hover {
 
 /* SUB BANNER-1 */
 
-#inner-headline-1{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/network-health-check-sub-ban.jpg")}
+#inner-headline-1{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/network-health-check-sub-ban.jpg"); height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -782,7 +782,7 @@ section#inner-headline-1:after {
 }
 
 /* SUB BANNER-2 */
-#inner-headline-2{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/business-01.jpg")}
+#inner-headline-2{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/business-01.jpg"); height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -826,7 +826,7 @@ section#inner-headline-1:after {
 }
 /* SUB BANNER-3 */
 
-#inner-headline-3{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-security-01.jpg")}
+#inner-headline-3{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-security-01.jpg"); height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -870,7 +870,7 @@ section#inner-headline-1:after {
 }
 /* SUB BANNER-4 */
 
-#inner-headline-4{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/consulting.jpg")}
+#inner-headline-4{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/consulting.jpg"); height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -914,7 +914,7 @@ section#inner-headline-1:after {
 }
 /* SUB BANNER-5 */
 
-#inner-headline-5{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/cloud-01.jpg")}
+#inner-headline-5{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/cloud-01.jpg"); height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -957,7 +957,7 @@ section#inner-headline-1:after {
     color:#fff;
 }
 
-#inner-headline-6{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/faq-01.jpg"); background-size: cover;height: 269px;}
+#inner-headline-6{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/faq-01.jpg"); background-size: cover; height: 280px;background-position: center}
 section#inner-headline-6:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1000,7 +1000,7 @@ section#inner-headline-6:after {
     color:#fff;
 }
 
-#inner-headline-7{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/sub-page-pic-11.jpg")}
+#inner-headline-7{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/sub-page-pic-11.jpg"); height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1042,7 +1042,7 @@ section#inner-headline-1:after {
 #inner-headline-7 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-8{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/amc-banner.jpg"); height: 275px;}
+#inner-headline-8{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/amc-banner.jpg"); height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1084,7 +1084,7 @@ section#inner-headline-1:after {
 #inner-headline-8 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-9{ margin: 0; padding: 0; position:relative; background: url("../img/sub-banner/sub-page-pic-7.jpg"); background-position: bottom; height: 280px;}
+#inner-headline-9{ margin: 0; padding: 0; position:relative; background: url("../img/sub-banner/sub-page-pic-7.jpg"); background-position: bottom; height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1126,7 +1126,7 @@ section#inner-headline-1:after {
 #inner-headline-9 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-10{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/why-us-1.jpg")}
+#inner-headline-10{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/why-us-1.jpg"); height: 280px;background-position: center}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
