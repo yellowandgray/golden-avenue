@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php $page = 'services';
-    include 'head.php'; ?>
+    <?php $page = 'services'; include 'head.php'; ?>
     <body>
         <div id="wrapper">
-<?php include 'menu.php'; ?><!-- end header -->
+            <?php include 'menu.php'; ?><!-- end header -->
             <section id="inner-headline-7">
                 <div class="container">
                     <div class="row">
@@ -24,29 +23,29 @@
                         </ul>
                         <div class="row">
                             <div class="col-md-7">
-                                <h2 class="font-size-20 color-blue">Why Use IT Procurement Service Provider?</h2>
-                                <p class="text-justify">In many businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure.</p>
+                                <h2 class="font-size-20 color-blue">Why Use Procurement Service Provider?</h2>
+                                <p class="text-justify">In many Businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure</p>
                                 <img src="img/blog/outsourcing-1.jpg" alt="" class="img-responsive"/>
-                                <h2 class="font-size-20 color-blue">Advantages of IT Procurement Service Provider</h2>
+                                <h2 class="font-size-20 color-blue">Advantages of IT Procurement</h2>
                                 <ul class="list-line">
+                                    <li>Fixed Monthly Cost </li>
+                                    <li>Focus on Core Competencies</li>
                                     <li>Access to Skilled Resources</li>
                                     <li>Save Money</li>
                                     <li>Lessen Service Outage Risk</li>
-                                    <li>Dedicated experienced and qualified account manager</li>
-                                    <li>Use of Genuine Infra Structure Equipment and Software</li>
-                                    <li>Access to Comparison in Price, configuration, functionalities between brands</li>
-                                    <li>Act as a liaison between vendor and client</li>
+                                    <li>Dedicated Experienced and Qualified Account Manager </li>
+                                    <li>Use of Genuine Infra Structure Equipment and Software </li>
+                                    <li>Access to Comparison in Price, configuration, Functionalities between brands</li>
+                                    <li>An expert analysis of various Products/Services</li>
+                                    <li>Act as a liaison between Vendor and Client</li>
                                     <li>Coordinating with companies for Product warranty</li>
                                     <li>Global Sourcing for materials</li>
-                                    <!--                                    <li>Act as a liaison between Vendor and Client</li>
-                                                                        <li>Coordinating with companies for Product warranty</li>
-                                                                        <li>Global Sourcing for materials</li>
-                                                                        <li>Reviewing relationship with client on a Quarterly Basis</li>
-                                                                        <li>Fixed Margin for all the procurement</li>-->
+                                    <li>Reviewing relationship with client on a Quarterly Basis</li>
+                                    <li>Fixed Margin for all the procurement</li>
                                 </ul></br>
-                                <h2 class="font-size-20 color-blue line-height-30">What does IT Procurement services include?</h2>
-                                <!--                                <h4>IT procurement involves both strategic and administrative responsibilities</h4>-->
-                                <!--                                <h3>Daily work involved </h3>-->
+                                <h2 class="font-size-20 color-blue line-height-30">What a Procurement services include? </h2>
+                                <h4>IT procurement involves both strategic and administrative responsibilities</h4>
+<!--                                <h3>Daily work involved </h3>-->
                                 <ul>
                                     <li>Conducting Market Research</li>
                                     <li>Pricing Negotiations</li>
@@ -72,22 +71,24 @@
                                 </div>
                                 <br>
                                 <br>
-<?php include 'enquiry.php'; ?>
+                                 <?php include 'enquiry.php'; ?>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12">
-                                <h2 class="font-size-20 color-blue">How Do I Use an IT Procurement Service?</h2>
-                                <p class="text-justify">Our team of experts will personally meet with you to understand your requirements. We will then strategize and align our services that maybe necessary to you. You do not have to outsource your entire procurement functionalities. We will assist you in selecting the right spend categories that will save you both time and money.</p>
-                                <!--<p>Please refer to &nbsp;&nbsp;&nbsp;&nbsp; <a href="#" class="btn-1 btn-primary" id="get-started1"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp;IT&nbsp;&nbsp;Procurement&nbsp;&nbsp;Guide</a></p>-->
+                                <h2 class="font-size-20 color-blue">How Do I Use a Procurement Service?</h2>
+                                <p class="text-justify">Golden Avenue experts will personally meet with you to discuss your requirements and strategize and align our services that maybe necessary to you. You do not have to outsource your entire procurement functionalities. We will assist you in selected spend categories. GOLDEN AVENUE can work on a contingency basis, and there won’t be any up-front charges.</p>
+                                <p>Please refer to &nbsp;&nbsp;&nbsp;&nbsp; <a href="#" class="btn-1 btn-primary" id="get-started1"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp;IT&nbsp;&nbsp;Procurement&nbsp;&nbsp;Guide</a>
+                                </p>
+
                             </div>
 
                         </div>
                     </div>
-
+                    
                 </section>
             </section>
-<?php include 'footer.php'; ?>
+            <?php include 'footer.php'; ?>
         </div>
     </body>
 </html>
