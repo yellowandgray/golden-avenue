@@ -432,27 +432,27 @@ select.selectmenu {
     background:#609cec;
 }
 .skill-home .icons {
-/*    padding: 20px 0px;*/
-/*    width: 94px;
-    height: 200px;*/
+    /*    padding: 20px 0px;*/
+    /*    width: 94px;
+        height: 200px;*/
     color: #fff;
-/*    font-size: 42px;
-    font-size: 38px;*/
-/*    text-align: center;*/
-/*    -ms-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;*/
+    /*    font-size: 42px;
+        font-size: 38px;*/
+    /*    text-align: center;*/
+    /*    -ms-border-radius: 50%;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;*/
     border-radius: 0;
     display: inline-table;
-/*    color: #46bd55;
-    background: transparent;
-    border-radius: 0;
-    background: #ffffff;*/
-/*    border: none;*/
+    /*    color: #46bd55;
+        background: transparent;
+        border-radius: 0;
+        background: #ffffff;*/
+    /*    border: none;*/
     width: 100%;
-/*    border: 1px solid #ffffff;
-    box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.28);
-    border-bottom: 2px solid #007e93;*/
+    /*    border: 1px solid #ffffff;
+        box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.28);
+        border-bottom: 2px solid #007e93;*/
 }
 .skill-home h2 {
     padding-top: 20px;
@@ -2326,3 +2326,25 @@ article img.pull-right, article .align-right{
     text-align: center;
 }
 
+.cyber-security-bg {
+    box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.28);
+    border-bottom: 1px solid #716e6e;
+    padding: 20px 20px 0px;
+    background:  url("../img/gray.jpg");
+}
+.cyber-security-bg h4 {
+    line-height: 1.5em;
+    color: #f7f6f6;
+    margin-bottom: 5px;
+    font-family: 'Noto Sans TC', sans-serif;
+    margin-top: -16px;
+    float: left;
+    font-size: 14px;
+}
+
+.cyber-security-bg p {
+
+    color: #f7f6f6 !important;
+    font-size: 15px !important;
+    line-height: 2em
+}
