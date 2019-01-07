@@ -27,16 +27,15 @@
                         <div class="row showcase-section">
                             <div class="col-md-7">
                                 <h3 class="color-blue"><strong>Consulting Services</strong></h3>
-                                <h3>Golden Avenue offers counsel that gives you confidence in your information security status.</h3>
+                                <h3>`Our experts at Golden Avenue offer consulting that gives you confidence in your information security status.</h3>
                                 <p class="text-justify">Weaknesses in information security can jeopardize your undertaking, threaten your profitability, and invite fines and penalties from regulatory bodies.</p>
-                                <p class="text-justify">If you are not entirely self-assured in your Information Security Status or your ability to manage IT risk, talk to GOLDEN AVENUE expert consultants. Our cyber security consultants provide services and solutions that deliver continuous security assurance for your business and critical infrastructure.</p>
+                                <p class="text-justify">If you are not entirely self-assured in your Information Security Status or your ability to manage IT risk, talk to our expert consultants. Our cyber security consultants provide services and solutions that deliver continuous security assurance for your business and critical infrastructure.</p>
                                 <p class="text-justify">Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</p>
                                 <ul class="list-line">
-                                    <li>Analyze Vulnerability to reveal risks </li>
-                                    <li>Assess Security threats to outline the significance of existing vulnerabilities;</li>
-                                    <li>Design and Recommend solutions to secure the entire information security Network;</li>
-                                    <li>Provide information on available security tools and methods;</li>
-                                    <li>Decide on the suitable tools required for data security enhancements;</li>
+                                    <li>Analyze vulnerability to reveal risks</li>
+                                    <li>Assess security threats to outline the significance of existing vulnerabilities</li>
+                                    <li>Design and recommend solutions to secure the entire information security in your network</li>
+                                    <li>Provide information on available security tools and methods</li>
                                     <li>Preparing workforces for a responsible and secured data sharing.</li>
                                 </ul>
                                 </br>
@@ -52,7 +51,7 @@
                                         <div class="col-md-6">
                                             <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
                                             <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
+                                            <p class="font-size-12 bold">Venue: Your office Premise</p>
 <!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                                         </div>
                                     </div>

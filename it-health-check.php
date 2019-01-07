@@ -51,7 +51,7 @@
                                         <div class="col-md-6">
                                             <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
                                             <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
+                                            <p class="font-size-12 bold">Venue: Your office Premise</p>
 <!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                                         </div>
                                     </div>

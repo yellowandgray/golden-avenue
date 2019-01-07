@@ -29,19 +29,19 @@
                                 <h3 class="color-blue"><strong>Business continuity</strong></h3>
                                 <p class="text-justify">With the increasing number of threats to businesses in today’s world, you must learn to be prepared for the unexpected. Without the proper resources, being able to ensure that your business remains safe can be challenging. Here at Golden Avenue, readiness and preparedness is our focus and we are here to assist you with developing and maintaining your business continuity plan. With access to current state of the art technology and resources, business continuity planning and maintenance has never been easier.</p>
                                 <p>In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible (In Green</p>
-                                <h3 class="color-blue text-justify">In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible.</h3>
-                                <img src="img/blog/bus1.jpg" alt="" class="img-responsive"/>
+                                <!--                                <h3 class="color-blue text-justify">In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible.</h3>
+                                                                <img src="img/blog/bus1.jpg" alt="" class="img-responsive"/>-->
                                 <h3 class="color-blue">Our experts are constantly engaged in ensuring your business performs to the optimum levels</h3>
                                 <div class="row">
-                                    <div class="col-md-6">
-                                        <ul class="list-line">
-                                            <li>Analyze the current capabilities for recovery;</li>
-                                            <li>Provide necessary requirements that has be completed in order to recover quickly and circumvent any losses;</li>
-                                            <li>Analyze current capabilities;</li>
-                                            <li>Ensure that the changes and improvements recommended are implemented to create an Effective Recovery Strategy that will minimize or nullify losses in such an event.</li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6">
+                                    <!--                                    <div class="col-md-6">
+                                                                            <ul class="list-line">
+                                                                                <li>Analyze the current capabilities for recovery;</li>
+                                                                                <li>Provide necessary requirements that has be completed in order to recover quickly and circumvent any losses;</li>
+                                                                                <li>Analyze current capabilities;</li>
+                                                                                <li>Ensure that the changes and improvements recommended are implemented to create an Effective Recovery Strategy that will minimize or nullify losses in such an event.</li>
+                                                                            </ul>
+                                                                        </div>-->
+                                    <br/><div class="col-md-6">
                                         <img src="img/blog/bus-02.jpg" alt="" class="img-responsive"/> 
                                     </div>
                                 </div>
@@ -56,7 +56,7 @@
                                         <div class="col-md-6">
                                             <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
                                             <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
+                                            <p class="font-size-12 bold">Venue: Your office Premise</p>
 <!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                                         </div>
                                     </div>
@@ -66,7 +66,7 @@
                                 <?php include 'enquiry.php'; ?>
                             </div>
                         </div>
-                        <div class="row">
+<!--                        <div class="row">
                             <div class="col-md-8">
                                 <h3 class="color-blue">Effortless Planning</h3>
                                 <p class="text-justify">Our highly qualified and professional team will dedicate their Services to saving you TIME and MONEY by assisting you in the tedious task of building a business continuity plan. These plans are designed to prioritize recovery options after an incident and develop procedures and help avoid any additional disruptions to your business. </p>
@@ -102,13 +102,13 @@
                                 <h3 class="color-blue">Emergency Training Exercises</h3>
                                 <p class="text-justify">By using EMERGENCY exercises, our crisis management team and executives are able to ensure that there are no gaps within current plans and that the mock disruption is remedied so that business can return back to usual as soon as possible. Once the plans have been updated, emergency training exercises are provided for employees to learn how to quickly and efficiently diminish a potential crisis.</p>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </section>
             </section>
             <?php include 'footer.php'; ?>
-           
+
         </div>
-       
+
     </body>
 </html>

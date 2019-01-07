@@ -39,7 +39,7 @@
                                     <li>Correcting the security in the system to decrease or eliminate any risk of data breaches</li>
                                     <li>Continuous enhancements in IT security to prevent any attacks from new threats.</li>
                                 </ul>
-                                <p class="text-justify line-height-30">The information security risks analysis from Golden Avenue is based on scrutinizing the statistics of network operation and evaluation of exposures and vulnerabilities. It aids to avoid unwanted attacks on valuable data and diminish the effect from existing threats. Evaluating the risks in Regular intervals is more effective than a one-time analysis.</p>
+                                <!--<p class="text-justify line-height-30">The information security risks analysis from Golden Avenue is based on scrutinizing the statistics of network operation and evaluation of exposures and vulnerabilities. It aids to avoid unwanted attacks on valuable data and diminish the effect from existing threats. Evaluating the risks in Regular intervals is more effective than a one-time analysis.</p>-->
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">
@@ -51,7 +51,7 @@
                                         <div class="col-md-6">
                                             <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
                                             <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
+                                            <p class="font-size-12 bold">Venue: Your office Premise</p>
 <!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                                         </div>
                                     </div>
@@ -70,7 +70,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
+<!--                        <div class="row">
                             <div class="col-md-12">
                                 <h3 class="color-blue bold">Products & Solutions</h3>
                                 <h4>Advanced Security for Business</h4>
@@ -100,7 +100,7 @@
                                 <h4>Enterprise Security solutions</h4>
                                 <p class="text-justify">Enterprise Security Solutions are designed to integrate multiple aspects of a company’s business. </p>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                 </section>
             </section>
