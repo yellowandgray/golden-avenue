@@ -487,7 +487,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/testimonial-img.png" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-1.jpg" style="width: 100px;height:100px;">
                                                     <!--<img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg" style="width: 100px;height:100px;">-->
                                                 </div>
                                                 <div class="col-sm-9">
@@ -502,7 +502,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/testimonial-img.png" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-2.jpg" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
                                                     <p>" The service was very prompt with reasonable pricing, we really appreciate this!</p>
@@ -516,7 +516,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/testimonial-img.png" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-3.jpg" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
                                                     <p>" We are very satisfied with the services and prices that Golden avenue is offering us. We look forward to have a good long-term relationship with your organization</p>
@@ -530,7 +530,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/testimonial-img.png" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-04.jpg" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
                                                     <p>" Delivery is on time, urgent orders are handled well, pricing is great. Overall, it is value for money!</p>
