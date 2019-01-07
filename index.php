@@ -290,7 +290,7 @@
                         </div>
                     </div>-->
                     <div class="margin-t-b-20 cntr">
-                        <a href="#" class="btn btn-primary trigger_popup_fricc">Get a Free Expert Consultation Now</a>
+                        <a href="#" class="btn btn-primary trigger_popup_fricc">Get your FREE consultation now</a>
                     </div>
                     <div class="hover_bkgr_fricc">
                         <span class="helper"></span>
@@ -485,8 +485,8 @@
                                                     <!--<img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg" style="width: 100px;height:100px;">-->
                                                 </div>
                                                 <div class="col-sm-9">
-                                                    <p>Appreciate your quick service and having such a responsive and professional team.</p>
-                                                    <small>Hello Caitano</small>
+                                                    <p>Appreciate your quick service and having such a responsive and professional team</p>
+                                                    <small>Mr. Yasir Rizvi, Fetchr</small>
                                                 </div>
                                             </div>
                                         </blockquote>
@@ -499,8 +499,8 @@
                                                     <img class="img-circle" src="img/testimonial-img.png" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
-                                                    <p>The service was very prompt with reasonable pricing, we really appreciate this.</p>
-                                                    <small>Icademy Middle East</small>
+                                                    <p>The service was very prompt with reasonable pricing, we really appreciate this!</p>
+                                                    <small>Mr. Fazal Rehman, Icademy Middle East</small>
                                                 </div>
                                             </div>
                                         </blockquote>
@@ -513,8 +513,8 @@
                                                     <img class="img-circle" src="img/testimonial-img.png" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
-                                                    <p>We are very satisfied with the services and prices that Golden avenue is offering us.</p>
-                                                    <small>Centena Group</small>
+                                                    <p>We are very satisfied with the services and prices that Golden avenue is offering us. We look forward to have a good long-term relationship with your organization</p>
+                                                    <small>Mr. Glen D’souza, Centena Group</small>
                                                 </div>
                                             </div>
                                         </blockquote>
@@ -527,8 +527,8 @@
                                                     <img class="img-circle" src="img/testimonial-img.png" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
-                                                    <p>Delivery is on time, Urgent orders are handled well. Overall, it is value for money</p>
-                                                    <small>Centena Group</small>
+                                                    <p>Delivery is on time, urgent orders are handled well, pricing is great. Overall, it is value for money!</p>
+                                                    <small>Mr. Mobeen Anwar, Universal American School</small>
                                                 </div>
                                             </div>
                                         </blockquote>
