@@ -394,12 +394,12 @@ blockquote p {color: #fff;}
     margin-bottom: 10px;
 }
 
-.item blockquote p:before {
+/*.item blockquote p:before {
     content: "\f10d";
-    font-family: 'Noto Sans TC', sans-serif;
+    font-family: 'arial', sans-serif;
     float: left;
     margin-right: 10px;
-}
+}*/
 
 
 
@@ -953,9 +953,11 @@ blockquote p { color: #ffffff !important; }
     }
     .flex-caption h3 {
         font-size: 26px !important;
+        margin-bottom: 125px !important;
     }
     .flex-caption h3 span {
         font-size: 26px !important;
+        margin-bottom: 125px !important;
     }
 }
 @media (min-width: 1101px) and (max-width: 1500px) {
@@ -964,9 +966,11 @@ blockquote p { color: #ffffff !important; }
     }
     .flex-caption h3 {
         font-size: 40px !important;
+        margin-bottom: 188px !important;
     }
     .flex-caption h3 span {
         font-size: 40px !important;
+        margin-bottom: 188px !important;
     }
 }
 .border-line{
@@ -1225,4 +1229,22 @@ blockquote p { color: #ffffff !important; }
 #About {background-color: orange;}*/
 .width200 {
     width: 200px;
+}
+
+.services-inner {
+    background-color: #fff;
+    transition: all 300ms linear 0s;
+}
+
+.services-inner:hover {
+    background-color: #00768d;
+}
+
+/*.box-area:hover {
+    background-color: #00768d;
+}*/
+
+.services-inner img {
+    max-width: 100%;
+    transition: all 500ms linear 0s;
 }
