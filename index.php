@@ -85,11 +85,11 @@
                 <div class="container"> 
                    <div class="row">
                         <div class="col-md-12">
-                            <div class="gray-bg padding-20">
+                            
                                 <h1 class="color-blue">Dubai's Best IT Services and Technical Support Provider</h1>
                                 <p class="text-justify">At Golden Avenue, we are a team of IT professionals and experts with a mission to influence your IT requirements & provide solutions in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
                                 <p class="text-justify">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions and support focusing on satisfying our clients requirements. If your business requires unparalleled technical support, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
-                            </div>
+                        
                         </div>
                     </div>
                     <div class="row">
