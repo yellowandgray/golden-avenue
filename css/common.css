@@ -1223,3 +1223,6 @@ blockquote p { color: #ffffff !important; }
 #News {background-color: green;}
 #Contact {background-color: blue;}
 #About {background-color: orange;}*/
+.width200 {
+    width: 200px;
+}
