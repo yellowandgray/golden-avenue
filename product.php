@@ -24,6 +24,18 @@
                             <li><a href="index.php">Home</a></li>
                             <li>Products</li>
                         </ul>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h2 class="font-size-24 text-center">Infrastructure products</h2>
+                            </div>
+                            <div class="col-md-6">
+                                <h3>Enterprise Computing & Telecom</h3>
+                                <p class="text-justify">Alpha Data’s Enterprise Computing Systems team provides a complete range of servers, storage solutions, printing solutions,security solutions and services to a variety of sectors across the UAE.</p>
+                                <p class="text-justify">The integration of IT technologies to deliver business value to our customers is Alpha Data’s primary focus and market differentiator. To deliver a successful integration of complex systems requires both specialized skills and the right level of experience. Our team consists of highly certified professionals, many with over 10 years experience in the IT industry.</p>
+                                <p class="text-justify">We recognize that key areas of importance for our customers when considering an IT solution are based around four crucial perspectives: availability, adaptability, manageability and security. Our offering reflects this understanding and our solutions are designed to deliver based on these perspectives.</p>
+                                <p class="text-justify">Alpha Data’s offering is divided into a products and a solutions range, depending on the scale and nature of our client’s requirements. Below is the list of solutions we offer:</p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="container">
