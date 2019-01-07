@@ -125,9 +125,6 @@
                 </div>
             </section>
             <?php include 'footer.php'; ?>
-            <?php include 'it-procurement-popup.php'; ?>
         </div>
-        <?php include 'doyouknow-popup.php'; ?>
-        <?php include 'chat-popup.php'; ?>
     </body>
 </html>

@@ -32,7 +32,7 @@
                                 <img src="img/blog/sub-page-pic-1.jpg" alt="" class="img-responsive"/><br/>
                                 <p class="text-justify">With the rapid advances in Information Technology, businesses these days are expected to be constantly vigilant and preemptive due to the growing complexity in security threats. Our highly experienced and qualified security professionals bring years of experience, in-depth industry knowledge and business-process expertise to protect your business against threats and minimalize risks. Upon understanding and analyzing your business requirements in depth, our consultants will offer a complete package of security solutions ranging from formulating security strategy for business, Network security and design, Email and web security, Network audit & monitoring, Endpoint control and security services. Our solutions help you minimize risks to your data and solve your current security challenges.</p>
                                 <p class="text-justify">Golden Avenue ensures to give you full control over your virtual, physical and cloud IT environments. Our team brings to you tailor made solutions for your IT infrastructure that is scalable, flexible and threat free. Our solutions will add wings of freedom to drive your business growth.</p>
-                               <h3 class="color-blue">Our Experts in Golden Avenue do the following in order to prevent any threats:</h3>
+                                <h3 class="color-blue">Our Experts in Golden Avenue do the following in order to prevent any threats:</h3>
                                 <ul class="list-line">
                                     <li>Risk assessment on a regular basis</li>
                                     <li>Analyzing history of the entire security system operation</li>
@@ -60,14 +60,14 @@
                                 <br/>
                                 <?php include 'enquiry.php'; ?>
                                 <div class="box-shadow-cyber-attack text-center margin-t-b-20">
-                                <img src="img/cyber-attack.png" alt="image" class="img-responsive" />
-                                <p>According to the Global IT Security Risk Survey by Kaspersky,</p>
-                                <h2><span class="out-of-font">9</span> OUT OF <span class="out-of-font">10</span></h2>
-                                <h3 class="margin-t-b-0">COMPANIES HAD ALREADY BEEN THE</h3>
-                                <h2 class="margin-t-b-0">TARGET OF A CYBER ATTACK</h2>
-                                <p class="font-size-12 color-blue">GET STARTED TODAY WITH ADVANCED CYBER SECURITY</p>
-                                <button class="btn-2"><a href="#"><span class="font-size-22 bold">LEARN MORE</span><p class="font-size-12 color-white margin-t-b-0">FROM OUR CYBER SECURITY WORKSHOP</p></a></button>
-                            </div>
+                                    <img src="img/cyber-attack.png" alt="image" class="img-responsive" />
+                                    <p>According to the Global IT Security Risk Survey by Kaspersky,</p>
+                                    <h2><span class="out-of-font">9</span> OUT OF <span class="out-of-font">10</span></h2>
+                                    <h3 class="margin-t-b-0">COMPANIES HAD ALREADY BEEN THE</h3>
+                                    <h2 class="margin-t-b-0">TARGET OF A CYBER ATTACK</h2>
+                                    <p class="font-size-12 color-blue">GET STARTED TODAY WITH ADVANCED CYBER SECURITY</p>
+                                    <button class="btn-2"><a href="#"><span class="font-size-22 bold">LEARN MORE</span><p class="font-size-12 color-white margin-t-b-0">FROM OUR CYBER SECURITY WORKSHOP</p></a></button>
+                                </div>
                             </div>
                         </div>
                         <div class="row">
@@ -105,9 +105,6 @@
                 </section>
             </section>
             <?php include 'footer.php'; ?>
-            <?php include 'it-procurement-popup.php'; ?>
         </div>
-        <?php include 'doyouknow-popup.php'; ?>
-        <?php include 'chat-popup.php'; ?>
     </body>
 </html>
