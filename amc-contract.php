@@ -40,10 +40,8 @@
                                                 </ul>-->
                         <div class="row">
                             <div class="col-md-7">
-                                <h2 class="color-blue text-transform-none  wow fadeInLeft"><strong>At Golden Avenue our commitment is an “ASSURED REALITY”</strong></h2><br/>
-                                <!--<h4>Worried when your server is down?? Put you worries aside with Annual Maintenance Services provided by Golden Avenue.</h4><br/>-->
-                                <p class="wow fadeInLeft">Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p><br/>
-                                <!--                                    <h4>Reality check:</h4>-->
+                                <h2 class="color-blue text-transform-none  wow fadeInLeft"><strong>At Golden Avenue our commitment is an “ASSURED REALITY”</strong></h2>
+                                <p class="wow fadeInLeft">Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p>
                                 <h3  class="wow fadeInLeft">Golden Avenue adheres to a professional approach by</h3>
                                 <ol class="wow fadeInUp" data-wow-delay="0.5s" style="font-size: 15px !important">
                                     <li>Strictly following SLA as per the client requirements</li>
@@ -310,11 +308,11 @@
             </section>-->
             <section id="content-3">
                 <div class="container text-justify">
-                    <h2 class="color-blue wow fadeInLeft">Why Golden Avenue?</h2>
-                    <p class="wow fadeInLeft">One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong brand partnerships to deliver and integrate enterprise products that seamlessly align with your business.</p>
+                    <h2 class="color-blue wow fadeInLeft text-center">Why Golden Avenue?</h2>
+                    <p class="wow fadeInLeft text-center">One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong brand partnerships to deliver and integrate enterprise products that seamlessly align with your business.</p>
                     <div class="row">
                         <div class="col-lg-12">
-                            <h3 class="wow fadeInLeft">Benefits of signing up for an Annual Maintenance Contract (AMC):</h3>
+                            <h3 class="wow fadeInLeft text-center">Benefits of signing up for an Annual Maintenance Contract (AMC):</h3>
                             <div class="col-md-6 col-sm-2 col-xs-12 wow fadeInLeft" data-wow-delay="0.5s">
                                 <ul style="list-style: none;">
                                     <li>1. Enhanced Business Suite</li>
@@ -324,9 +322,9 @@
                             </div>
                             <div class="col-md-6 col-sm-2 col-xs-12 wow fadeInRight" data-wow-delay="0.5s">
                                 <ul style="list-style: none;">
-                                    <li>5. Cost Savings is the gaining factor</li>
-                                    <li>6. Information protection is our priority</li>
-                                    <li>7. Customized package suiting individual needs</li>
+                                    <li>4. Cost Savings is the gaining factor</li>
+                                    <li>5. Information protection is our priority</li>
+                                    <li>6. Customized package suiting individual needs</li>
                                 </ul>
                             </div>
                         </div>

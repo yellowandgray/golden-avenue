@@ -46,7 +46,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h3 class="color-blue text-center">Types of cloud services:</h3>
+                            <h3 class="color-blue text-center bold margin-bottom-40">Types of cloud services:</h3>
                         </div>
                         <div class="col-md-2"></div>
                         <div class="col-md-4 wow fadeInLeft">
