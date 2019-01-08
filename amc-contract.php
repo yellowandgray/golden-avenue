@@ -40,28 +40,28 @@
                                                 </ul>-->
                         <div class="row">
                             <div class="col-md-7">
-                                <h2 class="color-blue text-transform-none"><strong>At Golden Avenue our commitment is an “ASSURED REALITY”</strong></h2><br/>
+                                <h2 class="color-blue text-transform-none  wow fadeInLeft"><strong>At Golden Avenue our commitment is an “ASSURED REALITY”</strong></h2><br/>
                                 <!--<h4>Worried when your server is down?? Put you worries aside with Annual Maintenance Services provided by Golden Avenue.</h4><br/>-->
-                                <p>Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p><br/>
+                                <p class="wow fadeInLeft">Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p><br/>
                                 <!--                                    <h4>Reality check:</h4>-->
-                                <h3>Golden Avenue adheres to a professional approach by</h3>
-                                <ol style="font-size: 15px !important">
+                                <h3  class="wow fadeInLeft">Golden Avenue adheres to a professional approach by</h3>
+                                <ol class="wow fadeInUp" data-wow-delay="0.5s" style="font-size: 15px !important">
                                     <li>Strictly following SLA as per the client requirements</li>
                                     <li>Ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
                                     <!--                                        <li>expertise through multi-resourced IT engineers</li>-->
                                 </ol><br/>
-                                <img class="img-width" src="img/blog/amc-scb-page.jpg" alt=""/>
+                                <img class="img-width wow fadeInLeft" src="img/blog/amc-scb-page.jpg" alt=""/>
                             </div>
-                            <div class="col-md-5">
+                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br>
                                 <?php include 'enquiry.php'; ?>
                             </div>
                         </div><br/>
                         <div class="row">
-                            <h4 class="text-center color-blue" >Signup for our Annual Maintenance Contract (AMC) to avail</h4>
+                            <h4 class="text-center color-blue wow fadeInLeft" >Signup for our Annual Maintenance Contract (AMC) to avail</h4>
                             <div class="col-md-3">
-                                <div class="amc-box-content text-center">
+                                <div class="amc-box-content text-center wow fadeInUp" data-wow-delay="0.5s">
                                     <i class="fa fa-clock-o fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">24 / 7</p>
                                     <p>Anywhere Anytime at your desk</p>
@@ -69,7 +69,7 @@
 <!--                                    <img src="img/sub-banner/amc-3-1.png" alt=""/>-->
                             </div> 
                             <div class="col-md-3">
-                                <div class="amc-box-content text-center">
+                                <div class="amc-box-content text-center wow fadeInUp" data-wow-delay="0.8s">
                                     <i class="fa fa-mobile fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">Mobile</p>
                                     <p>A simplecall / chat to resolve issue</p>
@@ -77,7 +77,7 @@
                                 </div>
                             </div>
                             <div class="col-md-3">
-                                <div class="amc-box-content text-center">
+                                <div class="amc-box-content text-center wow fadeInUp" data-wow-delay="1.1s">
                                     <i class="fa fa-building-o fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">On site</p>
                                     <p>We are at your rescue in minutes</p>
@@ -85,7 +85,7 @@
 <!--                                    <img src="img/sub-banner/amc-3-3.png" alt=""/>-->
                             </div>
                             <div class="col-md-3">
-                                <div class="amc-box-content text-center">
+                                <div class="amc-box-content text-center wow fadeInUp" data-wow-delay="1.4s">
                                     <i class="fa fa-user fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">Remote</p>
                                     <p>Assist you even before you realise</p>
@@ -94,11 +94,11 @@
                             </div>
                         </div><br/>
                         <div class="row">
-                            <h3 class="text-center color-blue" id="content-1">Annual Maintenance Contract Package</h3>
+                            <h3 class="text-center color-blue wow fadeInRight" id="content-1">Annual Maintenance Contract Package</h3>
                             <!--                        <div class="col-lg-12"> 
                                                     </div>-->
                             <div class="col-sm-1"></div>
-                            <div class="col-sm-5">
+                            <div class="col-sm-5 wow fadeInUp" data-wow-delay="0.5s">
                                 <div class="pricing-box-item">
                                     <div class="pricing-heading blue-basic">
                                         <h3 class="white"><strong>Basic</strong></h3>
@@ -121,7 +121,7 @@
                                                                     </div>-->
                                 </div>
                             </div>
-                            <div class="col-sm-5">
+                            <div class="col-sm-5 wow fadeInUp" data-wow-delay="1s">
                                 <div class="pricing-box-item">
                                     <div class="pricing-heading blue-stand">
                                         <h3 class="white"><strong>Standard</strong></h3>
@@ -169,8 +169,8 @@
                         </div>
                         <div class="row">
                             <div class="col-md-5">
-                                <h3 class="color-blue">Our Annual Maintenance Contract (AMC) covers the following:</h3>
-                                <ul class="list-sr">
+                                <h3 class="color-blue wow fadeInLeft">Our Annual Maintenance Contract (AMC) covers the following:</h3>
+                                <ul class="list-sr wow fadeInUp" data-wow-delay="0.5s">
                                     <li><i class="fa fa-check-square-o clr"></i> Maintenance of IT infrastructure</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Hardware and Software Support</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Network Solution</li>
@@ -184,7 +184,7 @@
                                     <li><i class="fa fa-check-square-o clr"></i> Scheduled Maintenance</li>
                                 </ul>
                             </div>
-                            <div class="col-md-7">
+                            <div class="col-md-7 wow fadeInRight">
                                 <div class="box-in-p">
                                     <p class="text-justify">In today’s business environment it’s very important to maintain and keep your server online in order for your business to be active to your customers round the clock. One can maintain the server without any hassle with Golden Avenue’s Annual Maintenance Contract (AMC) in Dubai, UAE.</p>  
                                     <p class="text-justify">IT is a key component for any business operational infrastructure. Downtime starts as soon as the systems stop functioning and this leads to loss in communication, output and profit. Our technical professionals are capable of managing your IT infrastructure because of the knowledge and experience they possess in the areas that are most critical.</p>
@@ -310,19 +310,19 @@
             </section>-->
             <section id="content-3">
                 <div class="container text-justify">
-                    <h2 class="color-blue">Why Golden Avenue?</h2>
-                    <p>One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong brand partnerships to deliver and integrate enterprise products that seamlessly align with your business.</p>
+                    <h2 class="color-blue wow fadeInLeft">Why Golden Avenue?</h2>
+                    <p class="wow fadeInLeft">One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong brand partnerships to deliver and integrate enterprise products that seamlessly align with your business.</p>
                     <div class="row">
                         <div class="col-lg-12">
-                            <h3>Benefits of signing up for an Annual Maintenance Contract (AMC):</h3>
-                            <div class="col-md-6 col-sm-2 col-xs-12">
+                            <h3 class="wow fadeInLeft">Benefits of signing up for an Annual Maintenance Contract (AMC):</h3>
+                            <div class="col-md-6 col-sm-2 col-xs-12 wow fadeInLeft" data-wow-delay="0.5s">
                                 <ul style="list-style: none;">
                                     <li>1. Enhanced Business Suite</li>
                                     <li>2. Complete Infrastructure Support for all Devices</li>
                                     <li>3. Dedicated focus on Core-Business Strategy</li>
                                 </ul>
                             </div>
-                            <div class="col-md-6 col-sm-2 col-xs-12">
+                            <div class="col-md-6 col-sm-2 col-xs-12 wow fadeInRight" data-wow-delay="0.5s">
                                 <ul style="list-style: none;">
                                     <li>5. Cost Savings is the gaining factor</li>
                                     <li>6. Information protection is our priority</li>
@@ -337,9 +337,9 @@
                 <div class="container text-justify">
                     <div class="row">
                         <div class="col-lg-12">
-                            <p class="text-justify">We at Golden Avenue offer AMC to keep your business IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions. We respect your confidential and private information, know how important confidentiality is to you, whether it’s business or personal data, or both. Our experts have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
-                            <p class="text-justify">We provide you with the best services, at very competitive prices without compromising on integrity and quality. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p>
-                            <p class="text-justify">24/7 Emergency Support Services will be provided after business hours and on public holidays with a small increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period.</p>
+                            <p class="text-justify wow fadeInUp">We at Golden Avenue offer AMC to keep your business IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions. We respect your confidential and private information, know how important confidentiality is to you, whether it’s business or personal data, or both. Our experts have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
+                            <p class="text-justify wow fadeInUp">We provide you with the best services, at very competitive prices without compromising on integrity and quality. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p>
+                            <p class="text-justify wow fadeInUp">24/7 Emergency Support Services will be provided after business hours and on public holidays with a small increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period.</p>
                         </div>
                     </div>
                 </div>

@@ -26,10 +26,10 @@
                         </ul>
                         <div class="row">
                             <div class="col-md-7">
-                                <h2 class="font-size-20 color-blue">Why Use IT Procurement Service Provider?</h2>
-                                <p class="text-justify">In many businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure.</p>
-                                <img src="img/blog/outsourcing-1.jpg" alt="" class="img-responsive"/>
-                                <h2 class="font-size-20 color-blue">Advantages of IT Procurement Service Provider</h2>
+                                <h2 class="font-size-20 color-blue wow fadeInLeft">Why Use IT Procurement Service Provider?</h2>
+                                <p class="text-justify wow fadeInLeft">In many businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure.</p>
+                                <img src="img/blog/outsourcing-1.jpg" alt="" class="img-responsive wow fadeInLeft"/>
+                                <h2 class="font-size-20 color-blue wow fadeInLeft">Advantages of IT Procurement Service Provider</h2>
                                 <ul class="list-line list-style-type1 padding-0 wow fadeInUp">
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Access to Skilled Resources</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Save Money</li>
@@ -46,7 +46,7 @@
                                                                         <li>Reviewing relationship with client on a Quarterly Basis</li>
                                                                         <li>Fixed Margin for all the procurement</li>-->
                                 </ul></br>
-                                <h2 class="font-size-20 color-blue line-height-30">What does IT Procurement services include?</h2>
+                                <h2 class="font-size-20 color-blue line-height-30 wow fadeInLeft">What does IT Procurement services include?</h2>
                                 <!--                                <h4>IT procurement involves both strategic and administrative responsibilities</h4>-->
                                 <!--                                <h3>Daily work involved </h3>-->
                                 <ul class="list-line list-style-type1 padding-0 wow fadeInUp">
@@ -57,14 +57,14 @@
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Communicating the Details on Purchases with Customers</li>
                                 </ul></br>
                             </div>
-                            <div class="col-md-5">
+                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br>
                                 <?php include 'enquiry.php'; ?>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-md-12">
+                            <div class="col-md-12 wow fadeInLeft">
                                 <h2 class="font-size-20 color-blue">How Do I Use an IT Procurement Service?</h2>
                                 <p class="text-justify">Our team of experts will personally meet with you to understand your requirements. We will then strategize and align our services that maybe necessary to you. You do not have to outsource your entire procurement functionalities. We will assist you in selecting the right spend categories that will save you both time and money.</p>
                                 <!--<p>Please refer to &nbsp;&nbsp;&nbsp;&nbsp; <a href="#" class="btn-1 btn-primary" id="get-started1"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp;IT&nbsp;&nbsp;Procurement&nbsp;&nbsp;Guide</a></p>-->

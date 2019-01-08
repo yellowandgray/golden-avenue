@@ -26,12 +26,12 @@
                         </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <h3 class="color-blue"><strong>Cloud Migration</strong></h3>
-                                <p class="text-justify">Many organizations and businesses are expected to move to the cloud and thus transform and adapt to the new digital age. The previous mind set of in-house infrastructure is getting erased and will soon be completely replaced by the cloud.</p>
-                                <p class="text-justify">Golden Avenue helps such businesses either through a new transformed set-up or by transitioning their already existing data centers, to a highly accessible and secure cloud environment. We support customer hosted hardware apart from web-services which includes hosting websites, custom apps and emails.</p>
-                                <br/><img src="img/blog/sub-page-pic-9.jpg" alt="" class="img-responsive"/><br/>
-                                <p class="text-justify">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it and wherever you need it. Prior to the influx of “Cloud Technology”, companies has to allocate a hefty budget for the system, which would have included the purchase of the server, the required software, and the cost of a certified professional to set the entire infrastructure on premise.</p>
-                                <p class="text-justify">Now, for a monthly “Rental” Fee, companies can set up any or all software into the Cloud, pay no startup fee, add spaces instantaneously, have the service provided over the internet to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>
+                                <h3 class="color-blue wow fadeInLeft"><strong>Cloud Migration</strong></h3>
+                                <p class="text-justify wow fadeInLeft">Many organizations and businesses are expected to move to the cloud and thus transform and adapt to the new digital age. The previous mind set of in-house infrastructure is getting erased and will soon be completely replaced by the cloud.</p>
+                                <p class="text-justify wow fadeInLeft">Golden Avenue helps such businesses either through a new transformed set-up or by transitioning their already existing data centers, to a highly accessible and secure cloud environment. We support customer hosted hardware apart from web-services which includes hosting websites, custom apps and emails.</p>
+                                <br/><img src="img/blog/sub-page-pic-9.jpg" alt="" class="img-responsive wow fadeInLeft"/><br/>
+                                <p class="text-justify wow fadeInLeft">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it and wherever you need it. Prior to the influx of “Cloud Technology”, companies has to allocate a hefty budget for the system, which would have included the purchase of the server, the required software, and the cost of a certified professional to set the entire infrastructure on premise.</p>
+                                <p class="text-justify wow fadeInLeft">Now, for a monthly “Rental” Fee, companies can set up any or all software into the Cloud, pay no startup fee, add spaces instantaneously, have the service provided over the internet to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>
                             </div>
                             <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
                                 <?php include 'cyber-security-workshop.php'; ?>
@@ -49,16 +49,16 @@
                             <h3 class="color-blue text-center">Types of cloud services:</h3>
                         </div>
                         <div class="col-md-2"></div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow fadeInLeft">
                             <div class="box-shadow-white">
-                                <h4 class="color-blue text-center">Software as a Service (Saas)</h4>
-                                <p class="text-justify">Hosted PBX, Security, Antivirus, Firewall, Spam Filtering, Content Filtering, Network Monitoring & Management, Exchange, MS Office (Word, Powerpoint, Excel), SharePoint, Oracle E-Business, PeopleSoft, Siebel, Hyperion, Microsoft Dynamics, IBM Lotus Notes, SalesForce, QuickBooks, Unified Communications (Cloud)</p>
+                                <h4 class="color-blue text-center wow fadeInUp">Software as a Service (Saas)</h4>
+                                <p class="text-justify wow fadeInUp" data-wow-delay="0.5s">Hosted PBX, Security, Antivirus, Firewall, Spam Filtering, Content Filtering, Network Monitoring & Management, Exchange, MS Office (Word, Powerpoint, Excel), SharePoint, Oracle E-Business, PeopleSoft, Siebel, Hyperion, Microsoft Dynamics, IBM Lotus Notes, SalesForce, QuickBooks, Unified Communications (Cloud)</p>
                             </div>
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow fadeInRight">
                             <div class="box-shadow-white">
-                                <h4 class="color-blue text-center">Infrastructure as a Service (Iaas)</h4>
-                                <p class="text-justify">Storage (think Amazon, etc.), Virtual Private Data Center, Virtual & Dedicated Servers, Symphony Database (Oracle or MS SQL), Private/Public Cloud, Backup & Recovery, Disaster Recovery (SAN), Enterprise Cloud Security</p>
+                                <h4 class="color-blue text-center wow fadeInUp">Infrastructure as a Service (Iaas)</h4>
+                                <p class="text-justify wow fadeInUp" data-wow-delay="0.5s">Storage (think Amazon, etc.), Virtual Private Data Center, Virtual & Dedicated Servers, Symphony Database (Oracle or MS SQL), Private/Public Cloud, Backup & Recovery, Disaster Recovery (SAN), Enterprise Cloud Security</p>
                             </div>
                         </div>
                         <div class="col-md-2"></div>
