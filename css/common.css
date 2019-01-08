@@ -1246,8 +1246,9 @@ blockquote p { color: #ffffff !important; }
 }
 
 .services-inner:hover {
-    background-color: #00768d;
+/*    background-color: #00768d;*/
     color: #fff;
+    cursor: pointer;
 }
 
 /*.box-area:hover {
@@ -1278,12 +1279,12 @@ blockquote p { color: #ffffff !important; }
     margin-top: 30px;
 }
 
-.services-inner h3:hover{
+/*.services-inner h3:hover{
     color: #FFF;
 }
 .services-inner p:hover{
     color: #FFF;
-}
+}*/
 
 .font-size-42 {
     font-size: 42px !important;
