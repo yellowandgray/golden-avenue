@@ -146,9 +146,9 @@
                                     <ul class="list-line list-style-type padding-0 wow fadeInUp" data-wow-delay="1s">
                                         <li>Annual Maintenance Contracts</li>
                                         <li>Cyber Security Awareness workshops</li>
-                                        <li>IT Infrastructure and Network health check</li>
+                                        <li>IT Infrastructure and Network Health Check</li>
                                         <li>Cloud solutions</li>
-                                        <li>IT Hardware and software procurement</li>
+                                        <li>IT Hardware and Software procurement</li>
                                         <li>Data storage & backup disaster recovery</li>
                                     </ul>
                                 </div>

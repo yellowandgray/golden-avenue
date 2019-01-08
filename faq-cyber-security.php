@@ -26,7 +26,7 @@
                         </ul>
                         <div class="row showcase-section">
                             <div class="col-md-7">
-                                <h3 class="color-blue"><strong>Cyber Security</strong></h3>
+                                <h3 class="color-blue"><strong>Cyber Security Awareness</strong></h3>
                                 <p class="text-justify">Companies of all sizes can become victims of cyber-attacks making it more important than ever to bring cyber security awareness through employee training as an integral part of your business continuity program. Look at Cyber security Awareness like a Business Function.</p> 
                                 <p class="text-justify">Businesses and organizations should address technology risk and cyber security challenges through the lens of their business value to deliver appropriate levels of protection that support their business outcomes.</p>
                                 <br/><img src="img/blog/faq-001.jpg" alt="" class="img-responsive"/><br/>
