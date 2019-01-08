@@ -41,7 +41,7 @@
                                 <br/>
                                 <img src="img/blog/sub-page-pic-03.jpg" alt="" class="img-responsive wow fadeInLeft"/>
                             </div>
-                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
+                            <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <?php include 'enquiry.php'; ?>

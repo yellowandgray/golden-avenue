@@ -38,7 +38,7 @@
                                 <h3 class="wow fadeInLeft">Educate & Train</h3>
                                 <p class="text-justify wow fadeInLeft">Cyber Security awareness training is a formal process for educating employees about computer security. A good security awareness program should be organized to educate your employees about the corporate policies and procedures within the IT space. The main focus is to empower your employees on the hassles of being complacent to the threats lingering out there.</p>
                             </div>
-                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s"">
+                            <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <?php include 'enquiry.php'; ?>

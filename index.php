@@ -106,7 +106,7 @@
 
  <!--<p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>-->
                         </div>
-                        <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
+                        <div class="col-md-5 wow fadeInRight" data-wow-delay="1s">
                             <div class="cyber-security-bg1">
                                 <a href="faq-cyber-security.php"><h4 class="text-center bold"> AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4></a>
                                 <a href="faq-cyber-security.php"><img src="img/golden-cyber.jpg" class="img-responsive img-width" />

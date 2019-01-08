@@ -52,7 +52,7 @@
                                 </ol><br/>
                                 <img class="img-width wow fadeInLeft" src="img/blog/amc-scb-page.jpg" alt=""/>
                             </div>
-                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
+                            <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br>
                                 <?php include 'enquiry.php'; ?>
