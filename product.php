@@ -53,11 +53,14 @@
                                 <button class="tablink" onclick="openPage('Security', this, '#007e93')">Security</button>
                                 <div id="PC" class="tabcontent">
                                     <div class="row">
-                                        <div class="product-container">
-                                            <div class="col-md-6">
-                                                <div class="product-inner"></div>
+                                        <!--                                        <div class="product-container">-->
+                                        <div class="col-md-6">
+                                            <div class="product-inner product-container">
+                                                <img src="img/product-new/pc.jpg" alt="" class="img-width" />
                                             </div>
-                                            <div class="col-md-6">
+                                        </div>
+                                        <div class="col-md-6 col-6-custome">
+                                            <div class="padding-custom">
                                                 <h3 class="color-blue">PC’s and Consumables</h3>
                                                 <p><strong>To keep in line with current requirements of clients we offer wide range of products taking into consideration their budgets</strong></p>
                                                 <p>1.	PCs</p>
@@ -67,16 +70,20 @@
                                                 <p>5.	Workstations</p>
                                             </div>
                                         </div>
+                                        <!--                                        </div>-->
                                     </div>
                                 </div>
 
                                 <div id="Server" class="tabcontent">
                                     <div class="row">
-                                        <div class="product-container">
-                                            <div class="col-md-6">
-                                                <div class="product-inner"></div>
+
+                                        <div class="col-md-6">
+                                            <div class="product-inner product-container1">
+                                                <img src="img/product-new/server.jpg" alt="" class="img-width" />
                                             </div>
-                                            <div class="col-md-6">
+                                        </div>
+                                        <div class="col-md-6 col-6-custome">
+                                            <div class="padding-custom">
                                                 <h3 class="color-blue">Servers </h3>
                                                 <p><strong>For Outstanding and optimum level of performance, IT-enabled companies depend significantly on computing. Golden Avenue delivers the best computing experience</strong></p>
                                                 <p>1.	Rack & Blade Servers.</p>
@@ -90,11 +97,13 @@
 
                                 <div id="Storage" class="tabcontent">
                                     <div class="row">
-                                        <div class="product-container">
-                                            <div class="col-md-6">
-                                                <div class="product-inner"></div>
+                                        <div class="col-md-6">
+                                            <div class="product-inner product-container2">
+                                                <img src="img/product-new/storage.jpg" alt="" class="img-width" />
                                             </div>
-                                            <div class="col-md-6">
+                                        </div>
+                                        <div class="col-md-6 col-6-custome">
+                                            <div class="padding-custom">
                                                 <h3 class="color-blue">Storage</h3>
                                                 <p><strong>Keep your Data safe with cloud and on-premises storage devices</strong></p>
                                                 <p>1.	Cloud storage </p>
@@ -108,11 +117,13 @@
 
                                 <div id="Printing" class="tabcontent">
                                     <div class="row">
-                                        <div class="product-container">
-                                            <div class="col-md-6">
-                                                <div class="product-inner"></div>
+                                        <div class="col-md-6">
+                                            <div class="product-inner product-container3">
+                                                <img src="img/product-new/printing.jpg" alt="" class="img-width" />
                                             </div>
-                                            <div class="col-md-6">
+                                        </div>
+                                        <div class="col-md-6 col-6-custome">
+                                            <div class="padding-custom">
                                                 <h3 class="color-blue">Printing </h3>
                                                 <p><strong>We offer latest printing equipment’s to ensure all your documents are printed as per your requirements</strong></p>
                                                 <p>1.	HP Printers</p>
@@ -123,14 +134,17 @@
                                         </div>
                                     </div>
                                 </div>
-                                
+
                                 <div id="Networking" class="tabcontent">
                                     <div class="row">
-                                        <div class="product-container">
-                                            <div class="col-md-6">
-                                                <div class="product-inner"></div>
+
+                                        <div class="col-md-6">
+                                            <div class="product-inner product-container4">
+                                                <img src="img/product-new/network.jpg" alt="" class="img-width" />
                                             </div>
-                                            <div class="col-md-6">
+                                        </div>
+                                        <div class="col-md-6 col-6-custome">
+                                            <div class="padding-custom">
                                                 <h3 class="color-blue">Networking</h3>
                                                 <p><strong>A network connects computers, mobile phones, peripherals, and even IoT devices.</strong></p>
                                                 <p>1.	Switches</p>
@@ -140,14 +154,17 @@
                                         </div>
                                     </div>
                                 </div>
-                                
+
                                 <div id="Security" class="tabcontent">
                                     <div class="row">
-                                        <div class="product-container">
-                                            <div class="col-md-6">
-                                                <div class="product-inner"></div>
+
+                                        <div class="col-md-6">
+                                            <div class="product-inner product-container4">
+                                                <img src="img/product-new/security.jpg" alt="" class="img-width" />
                                             </div>
-                                            <div class="col-md-6">
+                                        </div>
+                                        <div class="col-md-6 col-6-custome">
+                                            <div class="padding-custom">
                                                 <h3 class="color-blue">Security</h3>
                                                 <p><strong>To protect your Network environment and IT infrastructure from threat, intrusion and data loss, we offer the following solutions.</strong></p>
                                                 <p>1.	Application security</p>
@@ -159,7 +176,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                
+
                             </div>
                         </div>
                     </section>
@@ -181,7 +198,7 @@
                     elmnt.style.backgroundColor = color;
                 }
 
-// Get the element with id="defaultOpen" and click on it
+                // Get the element with id="defaultOpen" and click on it
                 document.getElementById("defaultOpen").click();
             </script>
         </div>
