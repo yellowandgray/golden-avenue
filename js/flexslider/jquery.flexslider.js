@@ -319,7 +319,7 @@
             var target = (dx > 0) ? slider.getTarget('next') : slider.getTarget('prev');
             if (slider.canAdvance(target) && Number(new Date()) - startT < 550 && Math.abs(dx) > 20 || Math.abs(dx) > cwidth/2) {
               slider.flexAnimate(target, slider.vars.pauseOnAction);
-            } else if (slider.vars.animation !== "fade") {
+            } else if (slider.vars.animation !== "slide") {
               slider.flexAnimate(slider.currentSlide, slider.vars.pauseOnAction);
             }
           }

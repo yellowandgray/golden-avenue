@@ -32,12 +32,12 @@
                     <h5 class="widgetheading">Our Services</h5>
                     <ul class="link-list">
                         <li><a href="it-health-check.php">IT & Network Health Checks</a></li>
-<!--                            <li><a href="network-health-check.php">NETWORK HEALTH CHECKS</a></li>-->
-                            <li><a href="business-continuity.php">Business Continuity</a></li> 
-                            <li><a href="it-security.php">IT Security</a></li>
-                            <li><a href="consulting-service.php">Consulting Services</a></li>
-                            <li><a href="cloud-migration.php">Cloud Migration</a></li>
-                            <li><a href="faq-cyber-security.php">Cyber Security Awareness</a></li>
+                        <!--                            <li><a href="network-health-check.php">NETWORK HEALTH CHECKS</a></li>-->
+                        <li><a href="business-continuity.php">Business Continuity</a></li> 
+                        <li><a href="it-security.php">IT Security</a></li>
+                        <li><a href="consulting-service.php">Consulting Services</a></li>
+                        <li><a href="cloud-migration.php">Cloud Migration</a></li>
+                        <li><a href="faq-cyber-security.php">Cyber Security Awareness</a></li>
                     </ul>
                 </div>
             </div>
@@ -77,7 +77,7 @@
     </div>
 </footer>
 <a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
-    <?php 
+    <?php
 //    include 'it-procurement-popup.php'; 
     ?>
 
@@ -102,3 +102,21 @@
 <script src="js/custom.js"></script> 
 <script src="js/common.js" type="text/javascript"></script>
 <script src="js/chat.js" type="text/javascript"></script>
+<script src="js/wow/wow.js" type="text/javascript"></script>
+<script>
+    wow = new WOW(
+            {
+                animateClass: 'animated',
+                offset: 100,
+                callback: function (box) {
+                    console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
+                }
+            }
+    );
+    wow.init();
+    document.getElementById('moar').onclick = function () {
+        var section = document.createElement('section');
+        section.className = 'section--purple wow fadeInDown';
+        this.parentNode.insertBefore(section, this);
+    };
+</script>
