@@ -323,13 +323,13 @@ b, strong {
     position: inherit;
     float: left;
     padding: 8px 6px 38px;
-    color: #36ab4b;
+    color: #2c91a2;
 }
 .list-style-type1 i {
     position: inherit;
     float: left;
     padding: 8px 6px 17px;
-    color: #36ab4b;
+    color: #2c91a2;
 }
 
 .title-h3 {    
@@ -1223,6 +1223,7 @@ blockquote p { color: #ffffff !important; }
     padding: 14px 16px;
     font-size: 17px;
     width: 16.6666666666%;
+    height: 100px;
 }
 
 .tablink:hover {
@@ -1233,7 +1234,7 @@ blockquote p { color: #ffffff !important; }
 .tabcontent {
     color: white;
     display: none;
-    padding: 100px 20px;
+    padding: 100px 0px;
     height: 100%;
 }
 
@@ -1253,7 +1254,7 @@ blockquote p { color: #ffffff !important; }
 }
 
 .services-inner:hover {
-/*    background-color: #00768d;*/
+    /*    background-color: #00768d;*/
     color: #fff;
     cursor: pointer;
 }
@@ -1313,7 +1314,7 @@ blockquote p { color: #ffffff !important; }
 
 .b2 {
     padding: 10px 20px 0px 15px;
-    background: #e4e4e4;
+    background: #ececec;
     box-shadow: 0 0 20px 1px #eee;
     height: 420px;
 }
@@ -1338,4 +1339,31 @@ blockquote p { color: #ffffff !important; }
     background: #eee;
     box-shadow: 0 0 1px 0px #000;
     height: 376px;
+}
+
+.box-shadow-background {
+    padding: 25px;
+    background: #fff;
+    box-shadow: 0 0 10px 6px #eee;
+    height: 720px;
+}
+
+.box-in-p {
+    padding: 25px;
+    box-shadow: 0 0 20px 1px #eee;
+}
+
+#content-3 {
+    padding:50px 0;
+    background-image: url("../img/bg-why-golden.jpg");
+    background-repeat: no-repeat;
+}
+
+.product-container {
+    padding: 60px 0;
+}
+
+.product-inner {
+    background: #000;
+    height: 340px;
 }

@@ -107,12 +107,12 @@
  <!--<p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>-->
                         </div>
                         <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
-                            <div class="cyber-security-bg">
+                            <div class="cyber-security-bg1">
                                 <h4 class="text-center bold"> AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
                                 <img src="img/golden-cyber.jpg" class="img-responsive img-width" />
                                 <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
                                 <hr class="hr1"> 
-                                <p class="font-size-12 bold">Venue:&nbsp;&nbsp;Your Office Premise</p>
+                                <p class="font-size-12 bold">Venue:&nbsp;&nbsp;Your Office Premise &nbsp; <a type="button" class="btn">See More</a></p>
 <!--                                        <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                             </div>
                         </div>
@@ -126,7 +126,7 @@
                         <div class="row">
                             <div class="col-md-4 wow fadeInUpBig" data-wow-delay="0.5s">
                                 <div class="b1">
-                                    <h3 class="color-white bold font-size-29 wow fadeInUp"><span class="font-size-56">5 Benefits</span> to Hire<br/> Your Own<br/> Virtual IT Manager</h3>  
+                                    <h3 class="color-white bold font-size-29 wow fadeInUp"><span class="font-size-56">5 Benefits</span> Hire<br/> Your Own<br/> Virtual IT Manager</h3>  
                                 </div>
                             </div>
                             <div class="col-md-4 wow fadeInUpBig" data-wow-delay="1s">

@@ -41,27 +41,14 @@
                                                                                 <li>Ensure that the changes and improvements recommended are implemented to create an Effective Recovery Strategy that will minimize or nullify losses in such an event.</li>
                                                                             </ul>
                                                                         </div>-->
-                                    <br/><div class="col-md-6">
-                                        <img src="img/blog/bus-02.jpg" alt="" class="img-responsive"/> 
+                                    <br/>
+                                    <div class="col-md-12">
+                                        <img src="img/blog/bus-02.jpg" alt="" class="img-responsive img-width" /> 
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-5">
-                                <div class="box-shadow-1">
-                                    <div class="row margin-bottom-0">
-                                        <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
-                                        <div class="col-md-6">
-                                            <img src="img/golden-cyber.jpg" class="img-responsive" />
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
-                                            <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your office Premise</p>
-<!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
-                                        </div>
-                                    </div>
-                                </div>
-                                <br/>
+                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
+                                <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <?php include 'enquiry.php'; ?>
                             </div>

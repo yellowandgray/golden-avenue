@@ -11,7 +11,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">CYBER SECURITY AWARENESS<br/>FAQ</h2>
+                            <h2 class="pageTitle">CYBER SECURITY AWARENESS</h2>
                         </div>
                     </div>
                 </div>
@@ -39,28 +39,14 @@
                                 <p class="text-justify">Cyber Security awareness training is a formal process for educating employees about computer security. A good security awareness program should be organized to educate your employees about the corporate policies and procedures within the IT space. The main focus is to empower your employees on the hassles of being complacent to the threats lingering out there.</p>
                             </div>
                             <div class="col-md-5">
-                                <div class="box-shadow-1">
-                                    <div class="row margin-bottom-0">
-                                        <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
-                                        <div class="col-md-6">
-                                            <img src="img/golden-cyber.jpg" class="img-responsive" />
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
-                                            <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
-<!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
-                                        </div>
-                                    </div>
-                                </div>
-                                <br/>
+                                <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <?php include 'enquiry.php'; ?>
                             </div>
                         </div>
                     </div>
                 </section>
-                <section>
+                <section id="contact" style="background: #f0f0f0; padding: 50px 0">
                     <div class="container">
                         <div class="row showcase-section">
                             <div class="col-lg-12">
@@ -71,20 +57,26 @@
                         <!--                        <h3 class="color-blue">Advantages</h3>-->
                         <div class="row showcase-section">
                             <div class="col-md-4 text-justify">
-                                <h4>You are less likely to be penetrated or breached from outside</h4>
-                                <p class="text-justify">Training your staff to spot the signs of an attack means they’re less likely to fall victim. Your employees can be a shield in protecting your organization from other vulnerabilities.</p>
-                                <p class="text-justify">For instance, phishing scams target individuals indiscriminately. Anyone can receive a malicious email, social media message or text that asks the recipient to hand over their login details. So, it’s vital that employees are shown how to stay one step ahead of criminals.</p>
-                                <p class="text-justify">Cyber security awareness training can also preclude accidental breaches. Employees are always likely to mishandle sensitive information like losing devices and misconfiguring databases which are some of the common concerns, but reminding them of their security obligations can mitigate the risk.</p> 
+                                <div class="box-shadow-background">
+                                    <h4>You are less likely to be penetrated or breached from outside</h4>
+                                    <p class="text-justify">Training your staff to spot the signs of an attack means they’re less likely to fall victim. Your employees can be a shield in protecting your organization from other vulnerabilities.</p>
+                                    <p class="text-justify">For instance, phishing scams target individuals indiscriminately. Anyone can receive a malicious email, social media message or text that asks the recipient to hand over their login details. So, it’s vital that employees are shown how to stay one step ahead of criminals.</p>
+                                    <p class="text-justify">Cyber security awareness training can also preclude accidental breaches. Employees are always likely to mishandle sensitive information like losing devices and misconfiguring databases which are some of the common concerns, but reminding them of their security obligations can mitigate the risk.</p> 
+                                </div>
                             </div>
                             <div class="col-md-4">
-                                <h4>You are able to meet regulatory requirements</h4>
-                                <p  class="text-justify">Cyber security is being addressed at government-level now more than ever before, with several new regulations mandating strengthened security controls. Employee cyber security awareness trainings are almost universally essential to avoid any disciplinary action.</p>
-                                <br/><img class="img-responsive" src="img/blog/faq.jpg" alt=""/>
+                                <div class="box-shadow-background">
+                                    <h4>You are able to meet regulatory requirements</h4>
+                                    <p  class="text-justify">Cyber security is being addressed at government-level now more than ever before, with several new regulations mandating strengthened security controls. Employee cyber security awareness trainings are almost universally essential to avoid any disciplinary action.</p>
+                                    <br/><img class="img-responsive" src="img/blog/faq.jpg" alt=""/>
+                                </div>
                             </div>
                             <div class="col-md-4 text-justify">
-                                <h4>You can improve company culture</h4>
-                                <p class="text-justify">Employees often find cyber security trainings frustrating and boring. The reason being, no one articulates to them as to what they should do or who they should speak to if such a breach occurs. Reprimanding or disciplining them without giving them proper training is not appropriate.</p>
-                                <p class="text-justify">Cyber security awareness training gives employees the knowledge and confidence to handle their cyber security responsibilities. They are less likely to feel stranded, because they would have been trained.</p>
+                                <div class="box-shadow-background">
+                                    <h4>You can improve company culture</h4>
+                                    <p class="text-justify">Employees often find cyber security trainings frustrating and boring. The reason being, no one articulates to them as to what they should do or who they should speak to if such a breach occurs. Reprimanding or disciplining them without giving them proper training is not appropriate.</p>
+                                    <p class="text-justify">Cyber security awareness training gives employees the knowledge and confidence to handle their cyber security responsibilities. They are less likely to feel stranded, because they would have been trained.</p>
+                                </div>
                             </div>
                         </div>
                         <p class="text-justify">Applying appropriate administrative, technical, and physical safeguards through an information security program can help you to protect the privacy, integrity, and accessibility of your organization's critical assets.</p>

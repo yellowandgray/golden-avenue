@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php $page = 'services';
-    include 'head.php'; ?>
+    <?php
+    $page = 'services';
+    include 'head.php';
+    ?>
     <body>
         <div id="wrapper">
-<?php include 'menu.php'; ?><!-- end header -->
+            <?php include 'menu.php'; ?><!-- end header -->
             <section id="inner-headline-7">
                 <div class="container">
                     <div class="row">
@@ -28,16 +30,16 @@
                                 <p class="text-justify">In many businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure.</p>
                                 <img src="img/blog/outsourcing-1.jpg" alt="" class="img-responsive"/>
                                 <h2 class="font-size-20 color-blue">Advantages of IT Procurement Service Provider</h2>
-                                <ul class="list-line">
-                                    <li>Access to Skilled Resources</li>
-                                    <li>Save Money</li>
-                                    <li>Lessen Service Outage Risk</li>
-                                    <li>Dedicated experienced and qualified account manager</li>
-                                    <li>Use of Genuine Infra Structure Equipment and Software</li>
-                                    <li>Access to Comparison in Price, configuration, functionalities between brands</li>
-                                    <li>Act as a liaison between vendor and client</li>
-                                    <li>Coordinating with companies for Product warranty</li>
-                                    <li>Global Sourcing for materials</li>
+                                <ul class="list-line list-style-type1 padding-0 wow fadeInUp">
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Access to Skilled Resources</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Save Money</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Lessen Service Outage Risk</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Dedicated experienced and qualified account manager</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Use of Genuine Infra Structure Equipment and Software</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Access to Comparison in Price, configuration, functionalities between brands</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Act as a liaison between vendor and client</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Coordinating with companies for Product warranty</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Global Sourcing for materials</li>
                                     <!--                                    <li>Act as a liaison between Vendor and Client</li>
                                                                         <li>Coordinating with companies for Product warranty</li>
                                                                         <li>Global Sourcing for materials</li>
@@ -47,32 +49,18 @@
                                 <h2 class="font-size-20 color-blue line-height-30">What does IT Procurement services include?</h2>
                                 <!--                                <h4>IT procurement involves both strategic and administrative responsibilities</h4>-->
                                 <!--                                <h3>Daily work involved </h3>-->
-                                <ul class="list-line">
-                                    <li>Conducting Market Research</li>
-                                    <li>Pricing Negotiations</li>
-                                    <li>Instituting terms and conditions for services</li>
-                                    <li>Resolving any discrepancies in Billing etc.</li>
-                                    <li>Communicating the Details on Purchases with Customers</li>
+                                <ul class="list-line list-style-type1 padding-0 wow fadeInUp">
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Conducting Market Research</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Pricing Negotiations</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Instituting terms and conditions for services</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Resolving any discrepancies in Billing etc.</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Communicating the Details on Purchases with Customers</li>
                                 </ul></br>
                             </div>
                             <div class="col-md-5">
-                                <div class="box-shadow-1">
-                                    <div class="row margin-bottom-0">
-                                        <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
-                                        <div class="col-md-6">
-                                            <img src="img/golden-cyber.jpg" class="img-responsive" />
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
-                                            <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
-<!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
-                                        </div>
-                                    </div>
-                                </div>
+                                <?php include 'cyber-security-workshop.php'; ?>
                                 <br>
-                                <br>
-<?php include 'enquiry.php'; ?>
+                                <?php include 'enquiry.php'; ?>
                             </div>
                         </div>
                         <div class="row">
@@ -87,7 +75,7 @@
 
                 </section>
             </section>
-<?php include 'footer.php'; ?>
+            <?php include 'footer.php'; ?>
         </div>
     </body>
 </html>

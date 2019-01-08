@@ -43,15 +43,7 @@
                             </div>
 
                             <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
-                                <div class="cyber-security-bg">
-                                    <h4 class="text-center bold"> AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
-                                    <img src="img/golden-cyber.jpg" class="img-responsive img-width" />
-                                    <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
-                                    <hr class="hr1"> 
-                                    <p class="font-size-12 bold">Venue:&nbsp;&nbsp;Your Office Premise</p>
-    <!--                                        <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
-                                </div>
-                                <br/>
+                                <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <?php include 'enquiry.php'; ?>
                             </div>

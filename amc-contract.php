@@ -53,22 +53,8 @@
                                 <img class="img-width" src="img/blog/amc-scb-page.jpg" alt=""/>
                             </div>
                             <div class="col-md-5">
-                                <div class="box-shadow-1">
-                                    <div class="row margin-bottom-0">
-                                        <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
-                                        <div class="col-md-6">
-                                            <img src="img/golden-cyber.jpg" class="img-responsive" />
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
-                                            <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
-<!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
-                                        </div>
-                                    </div>
-                                </div>
-                                <br/>
-                                <br/>
+                                <?php include 'cyber-security-workshop.php'; ?>
+                                <br>
                                 <?php include 'enquiry.php'; ?>
                             </div>
                         </div><br/>
@@ -76,6 +62,7 @@
                             <h4 class="text-center color-blue" >Signup for our Annual Maintenance Contract (AMC) to avail</h4>
                             <div class="col-md-3">
                                 <div class="amc-box-content text-center">
+                                    <i class="fa fa-clock-o fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">24 / 7</p>
                                     <p>Anywhere Anytime at your desk</p>
                                 </div>
@@ -83,6 +70,7 @@
                             </div> 
                             <div class="col-md-3">
                                 <div class="amc-box-content text-center">
+                                    <i class="fa fa-mobile fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">Mobile</p>
                                     <p>A simplecall / chat to resolve issue</p>
 <!--                                    <img src="img/sub-banner/amc-3-2.png" alt=""/>-->
@@ -90,6 +78,7 @@
                             </div>
                             <div class="col-md-3">
                                 <div class="amc-box-content text-center">
+                                    <i class="fa fa-building-o fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">On site</p>
                                     <p>We are at your rescue in minutes</p>
                                 </div>
@@ -97,6 +86,7 @@
                             </div>
                             <div class="col-md-3">
                                 <div class="amc-box-content text-center">
+                                    <i class="fa fa-user fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">Remote</p>
                                     <p>Assist you even before you realise</p>
                                 </div>
@@ -178,10 +168,7 @@
                                                             </div>-->
                         </div>
                         <div class="row">
-                            <div class="col-md-12">
-                                <p class="text-justify">In today’s business environment it’s very important to maintain and keep your server online in order for your business to be active to your customers round the clock. One can maintain the server without any hassle with Golden Avenue’s Annual Maintenance Contract (AMC) in Dubai, UAE.</p>  
-                                <p class="text-justify">IT is a key component for any business operational infrastructure. Downtime starts as soon as the systems stop functioning and this leads to loss in communication, output and profit. Our technical professionals are capable of managing your IT infrastructure because of the knowledge and experience they possess in the areas that are most critical.</p>
-                                <p class="text-justify">Golden Avenue is the right choice for cost effective maintenance for all your business needs. Approaching us is the smartest way ahead for solving all your difficulties in business. We provide adept maintenance of the IT infrastructure that improves your performance and keeps you moving ahead. We have a team of experts, who are dedicated in assisting you in maintaining your IP telephony equipment, IT systems such as your Laptops / Desktops, Network infrastructure, Servers, Storage & back-up systems etc.</p>
+                            <div class="col-md-5">
                                 <h3 class="color-blue">Our Annual Maintenance Contract (AMC) covers the following:</h3>
                                 <ul class="list-sr">
                                     <li><i class="fa fa-check-square-o clr"></i> Maintenance of IT infrastructure</li>
@@ -196,6 +183,13 @@
                                     <li><i class="fa fa-check-square-o clr"></i> Onsite Visit by IT Specialists</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Scheduled Maintenance</li>
                                 </ul>
+                            </div>
+                            <div class="col-md-7">
+                                <div class="box-in-p">
+                                    <p class="text-justify">In today’s business environment it’s very important to maintain and keep your server online in order for your business to be active to your customers round the clock. One can maintain the server without any hassle with Golden Avenue’s Annual Maintenance Contract (AMC) in Dubai, UAE.</p>  
+                                    <p class="text-justify">IT is a key component for any business operational infrastructure. Downtime starts as soon as the systems stop functioning and this leads to loss in communication, output and profit. Our technical professionals are capable of managing your IT infrastructure because of the knowledge and experience they possess in the areas that are most critical.</p>
+                                    <p class="text-justify">Golden Avenue is the right choice for cost effective maintenance for all your business needs. Approaching us is the smartest way ahead for solving all your difficulties in business. We provide adept maintenance of the IT infrastructure that improves your performance and keeps you moving ahead. We have a team of experts, who are dedicated in assisting you in maintaining your IP telephony equipment, IT systems such as your Laptops / Desktops, Network infrastructure, Servers, Storage & back-up systems etc.</p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -337,6 +331,10 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </section>
+            <section id="content">
+                <div class="container text-justify">
                     <div class="row">
                         <div class="col-lg-12">
                             <p class="text-justify">We at Golden Avenue offer AMC to keep your business IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions. We respect your confidential and private information, know how important confidentiality is to you, whether it’s business or personal data, or both. Our experts have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>

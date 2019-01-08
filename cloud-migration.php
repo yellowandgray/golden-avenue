@@ -33,22 +33,8 @@
                                 <p class="text-justify">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it and wherever you need it. Prior to the influx of “Cloud Technology”, companies has to allocate a hefty budget for the system, which would have included the purchase of the server, the required software, and the cost of a certified professional to set the entire infrastructure on premise.</p>
                                 <p class="text-justify">Now, for a monthly “Rental” Fee, companies can set up any or all software into the Cloud, pay no startup fee, add spaces instantaneously, have the service provided over the internet to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>
                             </div>
-                            <div class="col-md-5">
-                                <div class="box-shadow-1">
-                                    <div class="row margin-bottom-0">
-                                        <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
-                                        <div class="col-md-6">
-                                            <img src="img/golden-cyber.jpg" class="img-responsive" />
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
-                                            <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your office Premise</p>
-<!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
-                                        </div>
-                                    </div>
-                                </div>
-                                <br/>
+                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
+                                <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <?php include 'enquiry.php'; ?>
                             </div>
@@ -56,10 +42,27 @@
                     </div>
                 </section>
             </section>
-            <section id="content" style="padding:0px">
+            <section id="content" style="background: #f0f0f0">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
+                            <h3 class="color-blue text-center">Types of cloud services:</h3>
+                        </div>
+                        <div class="col-md-2"></div>
+                        <div class="col-md-4">
+                            <div class="box-shadow-white">
+                                <h4 class="color-blue text-center">Software as a Service (Saas)</h4>
+                                <p class="text-justify">Hosted PBX, Security, Antivirus, Firewall, Spam Filtering, Content Filtering, Network Monitoring & Management, Exchange, MS Office (Word, Powerpoint, Excel), SharePoint, Oracle E-Business, PeopleSoft, Siebel, Hyperion, Microsoft Dynamics, IBM Lotus Notes, SalesForce, QuickBooks, Unified Communications (Cloud)</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="box-shadow-white">
+                                <h4 class="color-blue text-center">Infrastructure as a Service (Iaas)</h4>
+                                <p class="text-justify">Storage (think Amazon, etc.), Virtual Private Data Center, Virtual & Dedicated Servers, Symphony Database (Oracle or MS SQL), Private/Public Cloud, Backup & Recovery, Disaster Recovery (SAN), Enterprise Cloud Security</p>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+<!--                        <div class="col-md-12">
                             <h3 class="color-blue">Types of cloud services:</h3>
                             <table class="table">
                                 <tr>
@@ -71,23 +74,23 @@
                                     <td>Storage (think Amazon, etc.), Virtual Private Data Center, Virtual & Dedicated Servers, Symphony Database (Oracle or MS SQL), Private/Public Cloud, Backup & Recovery, Disaster Recovery (SAN), Enterprise Cloud Security</td>
                                 </tr>
                             </table><br/>
-<!--                            <h3>Infrastructure as a Service (IaaS):</h3>
-                            <ul>
-                                <li>Data Centers are not only expensive but require a highly skilled team of experts to set it up, operating it and maintaining it.</li>
-                                <li>IaaS includes servers, memory and storage that allow a customer to scale up or down as required.</li>
-                                <li>Can be used by customers to run their own software with only the basic resource needed at a given moment in time.</li>
-                                <li>There is no Capital Expenditure upfront for IaaS as an operating expense.</li>
-                                <li>There is no risk of obsolescence or a requirement of constant upgrades. This is done by your service provider.</li>
-                                <li>Small businesses can take advantage of this and fill in the technology gap resulting in a more efficient delivery in products and services they offer.</li>
-                            </ul><br/>
-                            <h3>SaaS (Software as a Service):</h3>
-                            <ul>
-                                <li>This software distribution model delivers software hosted by vendors, over the Internet (typically) without the need to install applications on computers at your respective enterprises.</li>
-                                <li>They are run from a centralized location on the cloud, such that the software can be accessed from any location over the Internet anytime with any amount of access.</li>
-                                <li>Pay-as-you-go service Simplifies maintenance and minimize cost. This has a mammoth impact on the billing of contracts and the post business operations Pay for what you use is a predictable and flexible model. This favors the smaller businesses as they have limited and tight budgets. </li>
-                            </ul>
-                            <p class="text-justify">This audit calls for a complete application development and deployment environment. GOLDEN AVENUE delivers the entire runtime environment consisting of of all required services to organize and run enterprise-class applications. This facilitates cheaper and faster deployment of the entire IT infrastructure as developers need not deal with the complexities of the underlying hardware and software components.</p>-->
-                        </div>
+                                                        <h3>Infrastructure as a Service (IaaS):</h3>
+                                                        <ul>
+                                                            <li>Data Centers are not only expensive but require a highly skilled team of experts to set it up, operating it and maintaining it.</li>
+                                                            <li>IaaS includes servers, memory and storage that allow a customer to scale up or down as required.</li>
+                                                            <li>Can be used by customers to run their own software with only the basic resource needed at a given moment in time.</li>
+                                                            <li>There is no Capital Expenditure upfront for IaaS as an operating expense.</li>
+                                                            <li>There is no risk of obsolescence or a requirement of constant upgrades. This is done by your service provider.</li>
+                                                            <li>Small businesses can take advantage of this and fill in the technology gap resulting in a more efficient delivery in products and services they offer.</li>
+                                                        </ul><br/>
+                                                        <h3>SaaS (Software as a Service):</h3>
+                                                        <ul>
+                                                            <li>This software distribution model delivers software hosted by vendors, over the Internet (typically) without the need to install applications on computers at your respective enterprises.</li>
+                                                            <li>They are run from a centralized location on the cloud, such that the software can be accessed from any location over the Internet anytime with any amount of access.</li>
+                                                            <li>Pay-as-you-go service Simplifies maintenance and minimize cost. This has a mammoth impact on the billing of contracts and the post business operations Pay for what you use is a predictable and flexible model. This favors the smaller businesses as they have limited and tight budgets. </li>
+                                                        </ul>
+                                                        <p class="text-justify">This audit calls for a complete application development and deployment environment. GOLDEN AVENUE delivers the entire runtime environment consisting of of all required services to organize and run enterprise-class applications. This facilitates cheaper and faster deployment of the entire IT infrastructure as developers need not deal with the complexities of the underlying hardware and software components.</p>
+                        </div>-->
                     </div>
                 </div>
             </section>
