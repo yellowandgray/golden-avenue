@@ -39,7 +39,7 @@
                                     <li>Preparing workforces for a responsible and secured data sharing.</li>
                                 </ul>
                                 </br>
-                                <img src="img/blog/sub-page-pic-3.jpg" alt="" class="img-responsive"/>
+                                <img src="img/blog/sub-page-pic-03.jpg" alt="" class="img-responsive"/>
                             </div>
                             <div class="col-md-5">
                                 <div class="box-shadow-1">

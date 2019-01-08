@@ -87,7 +87,7 @@
                         <div class="col-md-12">
                             <h1 class="color-blue wow bounceInDown">Dubai's Best IT Services and Technical Support Provider</h1>
                             <p class="text-justify wow fadeInLeftBig animated">At Golden Avenue, we are a team of IT professionals and experts with a mission to influence your IT requirements & provide solutions in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
-                            <p class="text-justify wow fadeInRightBig animated">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions and support focusing on satisfying our clients requirements. If your business requires unparalleled technical support, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
+                            <p class="text-justify wow fadeInRightBig animated">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions, and support focusing on satisfying our clients requirements. If your business requires unparalleled technical support, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                         </div>
                         <div class="col-md-7 wow fadeInRight" data-wow-delay="1s">
                             <p class="text-justify wow fadeInRight">Golden Avenue helps your business to build a resilient IT system that needs to be secure and accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, ethernet switches and network storage.</p>
-                            <p class="text-justify wow fadeInRight">We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
+                            <p class="text-justify wow fadeInRight">We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance, we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
 
 
  <!--<p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>-->
@@ -146,9 +146,9 @@
                                     <ul class="list-line list-style-type padding-0 wow fadeInUp" data-wow-delay="1s">
                                         <li>Annual Maintenance Contracts</li>
                                         <li>Cyber Security Awareness workshops</li>
-                                        <li>IT Infrastructure and Network health check</li>
+                                        <li>IT Infrastructure and Network Health Check</li>
                                         <li>Cloud solutions</li>
-                                        <li>IT Hardware and software procurement</li>
+                                        <li>IT Hardware and Software procurement</li>
                                         <li>Data storage & backup disaster recovery</li>
                                     </ul>
                                 </div>

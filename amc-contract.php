@@ -73,7 +73,7 @@
                             </div>
                         </div><br/>
                         <div class="row">
-                            <h4 class="text-center color-blue" >Subscribe to our Annual Maintenance Contract (AMC) to avail</h4>
+                            <h4 class="text-center color-blue" >Signup for our Annual Maintenance Contract (AMC) to avail</h4>
                             <div class="col-md-3">
                                 <div class="amc-box-content text-center">
                                     <p class="bold font-size-20">24 / 7</p>
@@ -190,8 +190,8 @@
                                     <li><i class="fa fa-check-square-o clr"></i> Remote Support and Software assistance</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Virus Free Network</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Optimization of Network</li>
-                                    <li><i class="fa fa-check-square-o clr"></i> Rack Re- cabling</li>
-                                    <li><i class="fa fa-check-square-o clr"></i> Telephone Support/li>
+                                    <li><i class="fa fa-check-square-o clr"></i> Rack Re-cabling</li>
+                                    <li><i class="fa fa-check-square-o clr"></i> Telephone Support</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Server Monitoring 24*7</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Onsite Visit by IT Specialists</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Scheduled Maintenance</li>
@@ -332,7 +332,7 @@
                                 <ul style="list-style: none;">
                                     <li>5. Cost Savings is the gaining factor</li>
                                     <li>6. Information protection is our priority</li>
-                                    <li>7. ustomized package suiting individual needs</li>
+                                    <li>7. Customized package suiting individual needs</li>
                                 </ul>
                             </div>
                         </div>
