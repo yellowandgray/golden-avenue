@@ -84,7 +84,7 @@
                                     </div>
                                 </div> 		 
                                 <!--                                <div id="success"> </div>  For success/fail messages -->
-                                <div class="text-center"><button type="submit" class="btn btn-primary">Send</button></div><br />
+                                <div class="text-center"><button type="submit" class="btn btn-primary">Submit</button></div><br />
                             </form>
                         </div>
                         <div class="col-md-6">
