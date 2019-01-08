@@ -826,9 +826,10 @@ blockquote p { color: #ffffff !important; }
 }
 
 .btn-primary:hover {
-    color: #fff;
-    background-color: #d2ac67;
-    border-color: #d2ac67;
+    color: #000;
+    background-color: #ffffff;
+    border-color: #000000;
+    transition: 0.5s;
 }
 /*.box-shadow-2 p{
     color: #007e93 !important;
