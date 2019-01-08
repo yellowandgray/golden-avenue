@@ -1214,7 +1214,7 @@ blockquote p { color: #ffffff !important; }
 
 /* Style tab links */
 .tablink {
-    background-color: #555;
+    background-color: #009bb5;
     color: white;
     float: left;
     border: none;
@@ -1227,7 +1227,7 @@ blockquote p { color: #ffffff !important; }
 }
 
 .tablink:hover {
-    background-color: #777;
+    background-color: #007e93;
 }
 
 /* Style the tab content (and add height:100% for full page content) */
@@ -1360,10 +1360,52 @@ blockquote p { color: #ffffff !important; }
 }
 
 .product-container {
-    padding: 60px 0;
+    background: url(../img/product-new/pc-bg.jpg) no-repeat;
+    height: 520px;
+    z-index: 1050;
+    background-size: cover;
+}
+.product-container1 {
+    background: url(../img/product-new/server-bg.jpg) no-repeat;
+    height: 520px;
+    z-index: 1050;
+    background-size: cover;
+}
+.product-container2 {
+    background: url(../img/product-new/storage-bg.jpg) no-repeat;
+    height: 520px;
+    z-index: 1050;
+    background-size: cover;
+}
+.product-container3 {
+    background: url(../img/product-new/printing-bg.jpg) no-repeat;
+    height: 520px;
+    z-index: 1050;
+    background-size: cover;
+}
+.product-container4 {
+    background: url(../img/product-new/network-bg.jpg) no-repeat;
+    height: 520px;
+    z-index: 1050;
+    background-size: cover;
+}
+.product-container5 {
+    background: url(../img/product-new/security-bg.jpg) no-repeat;
+    height: 520px;
+    z-index: 1050;
+    background-size: cover;
 }
 
-.product-inner {
-    background: #000;
-    height: 340px;
+.product-inner img {
+    padding: 45px 25px !important;
+}
+
+.col-6-custome {
+    background: #ececec;
+    margin-left: -15px;
+    height: 520px;
+}
+
+.padding-custom {
+        padding: 50px 45px;
 }
