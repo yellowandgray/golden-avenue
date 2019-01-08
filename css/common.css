@@ -1246,8 +1246,9 @@ blockquote p { color: #ffffff !important; }
 }
 
 .services-inner:hover {
-    background-color: #00768d;
+/*    background-color: #00768d;*/
     color: #fff;
+    cursor: pointer;
 }
 
 /*.box-area:hover {
