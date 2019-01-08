@@ -41,7 +41,7 @@
                                 </ul>
                                 <!--<p class="text-justify line-height-30">The information security risks analysis from Golden Avenue is based on scrutinizing the statistics of network operation and evaluation of exposures and vulnerabilities. It aids to avoid unwanted attacks on valuable data and diminish the effect from existing threats. Evaluating the risks in Regular intervals is more effective than a one-time analysis.</p>-->
                             </div>
-                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
+                            <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <div class="box-shadow-cyber-attack text-center margin-t-b-20">

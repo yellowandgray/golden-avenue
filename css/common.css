@@ -1407,5 +1407,25 @@ blockquote p { color: #ffffff !important; }
 }
 
 .padding-custom {
-        padding: 50px 45px;
+    padding: 50px 45px;
+}
+
+.btn-custom {
+    text-align: center;
+    color: #FFFFFF;
+    padding: 0px 21px;
+    border-radius: 100px;
+    background: #007e93;
+    border-color: transparent;
+    margin-top: 5px;
+    float: right;
+}
+.btn-custom:hover {
+    background: #fff;
+    color: #000000;
+    border: 1px solid #000000;
+}
+
+.margin-bottom-40 {
+    margin-bottom: 40px;
 }

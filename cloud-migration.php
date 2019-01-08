@@ -33,7 +33,7 @@
                                 <p class="text-justify wow fadeInLeft">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it and wherever you need it. Prior to the influx of “Cloud Technology”, companies has to allocate a hefty budget for the system, which would have included the purchase of the server, the required software, and the cost of a certified professional to set the entire infrastructure on premise.</p>
                                 <p class="text-justify wow fadeInLeft">Now, for a monthly “Rental” Fee, companies can set up any or all software into the Cloud, pay no startup fee, add spaces instantaneously, have the service provided over the internet to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>
                             </div>
-                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
+                            <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <?php include 'enquiry.php'; ?>
@@ -46,7 +46,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h3 class="color-blue text-center">Types of cloud services:</h3>
+                            <h3 class="color-blue text-center bold margin-bottom-40">Types of cloud services:</h3>
                         </div>
                         <div class="col-md-2"></div>
                         <div class="col-md-4 wow fadeInLeft">

@@ -42,7 +42,7 @@
 
                             </div>
 
-                            <div class="col-md-5 wow fadeInRight" data-wow-delay="1.5s">
+                            <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br/>
                                 <?php include 'enquiry.php'; ?>
@@ -53,7 +53,7 @@
             </section>
             <section id="content" style="background: #f1f1f1;">
                 <div class="container">
-                    <h3 class="color-blue text-center"><strong>The Health Check consists of the following:</strong></h3>
+                    <h3 class="color-blue text-center margin-bottom-40"><strong>The Health Check consists of the following:</strong></h3>
                     <div class="row checks-h2">
                         <div class="col-md-6">
                             <div class="box-shadow-white wow fadeInLeft" data-wow-delay="0.5s">
@@ -90,7 +90,7 @@
                 <div class="container">
                     <div class="row checks-h2">
                         <div class="col-md-6">
-                            <div class="box-shadow-gray wow fadeInLeft" data-wow-delay="0.5s">
+                            <div class="box-shadow-white wow fadeInLeft" data-wow-delay="0.5s">
                                 <div class="text-center">
                                     <i class="fa fa-globe fa-4x" aria-hidden="true"></i>
                                     <h3>Internet/Intranet Connectivity Check</h3>
@@ -104,7 +104,7 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="box-shadow-gray wow fadeInRight" data-wow-delay="0.5s">
+                            <div class="box-shadow-white wow fadeInRight" data-wow-delay="0.5s">
                                 <div class="text-center">
                                     <i class="fa fa-hdd-o fa-4x" aria-hidden="true"></i>
                                     <h3>Server, Storage & Backup Check</h3>
@@ -158,7 +158,7 @@
                 <div class="container">
                     <div class="row checks-h2">
                         <div class="col-md-6">
-                            <div class="box-shadow-gray wow fadeInLeft" data-wow-delay="0.5s">
+                            <div class="box-shadow-white wow fadeInLeft" data-wow-delay="0.5s">
                                 <div class="text-center">
                                     <h3>The most common threats to your business:</h3>
                                 </div>
@@ -173,7 +173,7 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="box-shadow-gray wow fadeInRight" data-wow-delay="0.5s">
+                            <div class="box-shadow-white wow fadeInRight" data-wow-delay="0.5s">
                                 <div class="text-center">
                                     <h3>These threats look to exploit:</h3>
                                 </div>
