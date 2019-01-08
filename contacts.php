@@ -67,9 +67,16 @@
                                 </div> 	
                                 <div class="control-group">
                                     <div class="controls">
-                                        <input type="text" class="form-control" 
+<!--                                        <input type="text" class="form-control" 
                                                placeholder="Subject" id="name" required
-                                               data-validation-required-message="Please enter your Subject" />
+                                               data-validation-required-message="Please enter your Subject" />-->
+                                        <select type="text" class="form-control" required>
+                                            <option>Subject</option>
+                                            <option value="Products">Product</option>
+                                            <option value="Services">Services</option>
+                                            <option value="Annual Maintenance Contract">Annual Maintenance Contract</option>
+                                            <option value="others">Others</option>
+                                        </select>
                                         <p class="help-block"></p>
                                     </div>
                                 </div> 
