@@ -1,4 +1,4 @@
-<button class="chat-popup-button wow bounceInDown" onclick="openPopup()"><i class="fa fa-comments fa-3x" aria-hidden="true"></i></button>
+<button class="chat-popup-button" onclick="openPopup()"><i class="fa fa-comments fa-3x" aria-hidden="true"></i></button>
 
 <div class="chat-popup-section" id="myForm">
     <div class="chat-bg-css"></div>

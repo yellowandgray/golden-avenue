@@ -2327,10 +2327,11 @@ article img.pull-right, article .align-right{
 }
 
 .cyber-security-bg {
-/*    box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.28);
-    border-bottom: 1px solid #716e6e;*/
+    /*    box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.28);
+        border-bottom: 1px solid #716e6e;*/
     padding: 10px 25px;
-    background:  url("../img/gray.jpg");
+    /*    background:  url("../img/gray.jpg");*/
+    background: #007188;
     background-size: cover;
 }
 .cyber-security-bg h4 {

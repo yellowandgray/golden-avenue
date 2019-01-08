@@ -318,10 +318,17 @@ b, strong {
 
 .link-list li {border-bottom: 1px solid #fff; }
 .list-style-type {list-style-type:none}
+.list-style-type1 {list-style-type:none}
 .list-style-type i {
     position: inherit;
     float: left;
     padding: 8px 6px 38px;
+    color: #36ab4b;
+}
+.list-style-type1 i {
+    position: inherit;
+    float: left;
+    padding: 8px 6px 17px;
     color: #36ab4b;
 }
 
@@ -1318,4 +1325,17 @@ blockquote p { color: #ffffff !important; }
 
 .padding-0 {
     padding: 0px !important;
+}
+
+.box-shadow-white {
+    padding: 25px;
+    background: #fff;
+    box-shadow: 0 0 10px 6px #eee;
+    height: 376px;
+}
+.box-shadow-gray {
+    padding: 25px;
+    background: #eee;
+    box-shadow: 0 0 1px 0px #000;
+    height: 376px;
 }
