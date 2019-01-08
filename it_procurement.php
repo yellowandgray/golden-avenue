@@ -47,7 +47,7 @@
                                 <h2 class="font-size-20 color-blue line-height-30">What does IT Procurement services include?</h2>
                                 <!--                                <h4>IT procurement involves both strategic and administrative responsibilities</h4>-->
                                 <!--                                <h3>Daily work involved </h3>-->
-                                <ul>
+                                <ul class="list-line">
                                     <li>Conducting Market Research</li>
                                     <li>Pricing Negotiations</li>
                                     <li>Instituting terms and conditions for services</li>
