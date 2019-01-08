@@ -2329,15 +2329,13 @@ article img.pull-right, article .align-right{
 .cyber-security-bg {
 /*    box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.28);
     border-bottom: 1px solid #716e6e;*/
-    padding: 25px 25px 0px;
+    padding: 10px 25px;
     background:  url("../img/gray.jpg");
+    background-size: cover;
 }
 .cyber-security-bg h4 {
-    line-height: 1.5em;
     color: #f7f6f6;
-    margin-bottom: 5px;
     font-family: 'Noto Sans TC', sans-serif;
-    margin-top: -16px;
     float: left;
     font-size: 14px;
 }
