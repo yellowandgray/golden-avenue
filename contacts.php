@@ -26,7 +26,7 @@
                         <li>Contact</li>
                     </ul>
                     <div class="row"> 
-                        <div class="col-md-12">
+                        <div class="col-md-12 wow fadeInUp">
                             <div class="about-logo">
                                 <h2><span class="coloured">Get</span> in Touch</h2>
                                 <p class="text-justify">Please contact the Golden Avenue Team to acquire Knowledge and Knowhow and take advantage of our expertise to help solve serious problems and accomplish your critical objectives</p>
@@ -34,7 +34,7 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-6 wow fadeInLeft">
 <!--                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor.</p>-->
 
                             <!-- Form itself -->
@@ -94,7 +94,7 @@
                                 <div class="text-center"><button type="submit" class="btn btn-primary">Submit</button></div><br/>
                             </form>
                         </div>
-                        <div class="col-md-6">
+                        <div class="col-md-6 wow fadeInRight">
                             <div class="margin-top-45">
                                 <h3>Address:</h3>
                                 <h4>Golden Avenue</h4>  

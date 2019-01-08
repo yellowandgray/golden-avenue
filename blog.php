@@ -25,7 +25,7 @@
                             <li>Blog</li>
                         </ul>
                         <div class="row showcase-section">
-                            <div class="col-md-7">
+                            <div class="col-md-7 wow fadeInLeft">
                                 <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
                                 <h2>274 cyber attacks target the UAE so far in 2018, down 39%</h2>
                                 <h3 class="text-justify">Telecommunications Regulations Authority lauds efforts of cyber defence team in combatting attacks against UAE websites</h3>
@@ -47,7 +47,7 @@
                                 <h2>60 Cybersecurity Predictions For 2019</h2>
                                 <p class="text-justify">I’ve always been a loner, avoiding crowds as much as possible, but last Friday I found myself in the company of 500 million people. The breach of the personal accounts of Marriott and Starwood customers forced us to join the 34% of U.S. consumers who experienced a compromise of their personal information over the last year. Viewed another way, there were 2,216 data breaches and more than 53,000 cybersecurity incidents reported in 65 countries in the 12 months ending in March 2018. <a href="https://www.forbes.com/sites/gilpress/2018/12/03/60-cybersecurity-predictions-for-2019/#6b5233d44352" target="blank" class="bold readmore-hover">Read More</a></p>
                             </div>
-                            <div class="col-md-5">
+                            <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
                                 <br>
                                 <?php include 'enquiry.php'; ?>

@@ -26,16 +26,16 @@
                         </ul>
                         <div class="row">
                             <div class="col-md-12">
-                                <h2 class="font-size-24 text-center">Infrastructure Products</h2>
+                                <h2 class="font-size-24 text-center wow fadeInUp">Infrastructure Products</h2>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6 wow fadeInLeft">
                                 <h3>Enterprise Computing & Telecom</h3>
                                 <p class="text-justify">Alpha Data’s Enterprise Computing Systems team provides a complete range of servers, storage solutions, printing solutions,security solutions and services to a variety of sectors across the UAE.</p>
                                 <p class="text-justify">The integration of IT technologies to deliver business value to our customers is Alpha Data’s primary focus and market differentiator. To deliver a successful integration of complex systems requires both specialized skills and the right level of experience. Our team consists of highly certified professionals, many with over 10 years experience in the IT industry.</p>
                                 <p class="text-justify">We recognize that key areas of importance for our customers when considering an IT solution are based around four crucial perspectives: availability, adaptability, manageability and security. Our offering reflects this understanding and our solutions are designed to deliver based on these perspectives.</p>
                                 <p class="text-justify">Alpha Data’s offering is divided into a products and a solutions range, depending on the scale and nature of our client’s requirements. Below is the list of solutions we offer:</p>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6 wow fadeInRight">
                                 <img src="img/product-img.jpg" alt="" class="img-width">
                             </div>
                         </div>
@@ -44,7 +44,7 @@
                 <div class="container">
                     <section class="section-padding">
                         <div class="row">
-                            <div class="col-md-12">
+                            <div class="col-md-12 wow fadeInUp">
                                 <button class="tablink" onclick="openPage('PC', this, '#007e93')" id="defaultOpen">PC’s and Consumables</button>
                                 <button class="tablink" onclick="openPage('Server', this, '#007e93')">Servers</button>
                                 <button class="tablink" onclick="openPage('Storage', this, '#007e93')">Storage</button>
