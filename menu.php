@@ -50,7 +50,7 @@
                             <li><a href="it-security.php">IT Security</a></li>
                             <li><a href="consulting-service.php">Consulting Services</a></li>
                             <li><a href="cloud-migration.php">Cloud Migration</a></li>
-                            <li><a href="faq-cyber-security.php">Cyber Security Awareness</a></li>
+                            <li><a href="cyber-security.php">Cyber Security Awareness</a></li>
                             <li><a href="it_procurement.php">IT Procurement Services</a></li>
                         </ul>
                     </li>

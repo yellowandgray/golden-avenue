@@ -112,7 +112,7 @@
                                 <a href="faq-cyber-security.php"><img src="img/golden-cyber.jpg" class="img-responsive img-width" />
                                 <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
                                 <hr class="hr1"> 
-                                <p class="font-size-12 bold">Venue: Your Office Premise <a href="faq-cyber-security.php" type="buttton" class="btn-custom">See More</a></p>
+                                <p class="font-size-12 bold">Venue: Your Office Premise <a href="cyber-security.php" type="buttton" class="btn-custom">See More</a></p>
 <!--                                        <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                             </div>
                         </div>
@@ -177,18 +177,18 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.3s">
                                             <span class="services-thumb">
-                                                <a href="contacts.php"><img src="img/006.jpg" class="img-responsive" /></a>
+                                                <a href="why-us.php"><img src="img/006.jpg" class="img-responsive" /></a>
                                             </span>
-                                            <a href="contacts.php"><h3> CERTIFIED IT PROFESSIONALS</h3> </a>
+                                            <a href="why-us.php"><h3> CERTIFIED IT PROFESSIONALS</h3> </a>
                                             <p>We are a team of Certified IT Professionals & Experts</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.5s">
                                             <span class="services-thumb">
-                                                <a href="contacts.php"><img src="img/007.jpg" class="img-responsive" /></a>
+                                                <a href="why-us.php"><img src="img/007.jpg" class="img-responsive" /></a>
                                             </span> 
-                                            <a href="contacts.php"><h3>20+  YEARS OF EXPERIENCE</h3></a>
+                                            <a href="why-us.php"><h3>20+  YEARS OF EXPERIENCE</h3></a>
                                             <p>Un-Paralleled Experience & Time Unlimited Consultancy</p>
                                         </div>
                                     </div>

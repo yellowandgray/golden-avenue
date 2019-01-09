@@ -51,7 +51,7 @@
                                     <h3 class="margin-t-b-0">COMPANIES HAD ALREADY BEEN THE</h3>
                                     <h2 class="margin-t-b-0">TARGET OF A CYBER ATTACK</h2>
                                     <p class="font-size-12 color-blue">GET STARTED TODAY WITH ADVANCED CYBER SECURITY</p>
-                                    <a href="#" class="btn">
+                                    <a href="cyber-security.php" class="btn">
                                         <span class="font-size-22 bold">LEARN MORE</span><br/>
                                         <span class="font-size-12 margin-t-b-0">FROM OUR CYBER SECURITY WORKSHOP</span>
                                     </a>
