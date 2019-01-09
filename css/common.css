@@ -432,6 +432,18 @@ blockquote p {color: #fff;}
 
 }
 
+@media (min-width: 1024px) and (max-width: 1200px) {
+    .b1 {
+        height: 530px !important;
+    }
+    .b2 {
+        height: 530px !important;
+    }
+    .b3 {
+        height: 530px !important;
+    }
+}
+
 @media (min-width: 280px) and (max-width: 320px) {
     .navbar-brand img{
         margin-top: -100px;
@@ -493,6 +505,15 @@ blockquote p {color: #fff;}
         padding: 35px !important;
         height: 275px !important;
     }
+    .b1 {
+        height: 530px;
+    }
+    .b2 {
+        height: 530px;
+    }
+    .b3 {
+        height: 530px;
+    }
 }
 
 @media (min-width: 280px) and (max-width: 320px) {
@@ -508,10 +529,25 @@ blockquote p {color: #fff;}
         padding: 35px !important;
         height: 275px !important;
     }
+    .b1 {
+        height: 500px !important;
+    }
+    .b2 {
+        height: 500px !important;
+    }
+    .b3 {
+        height: 500px !important;
+    }
 }
 
 
 /* Small devices (tablets, up to 768px) */
+@media (max-width: 768px) {
+    .list-style-type i {
+        padding: 8px 6px 8px !important;
+    }
+}
+
 @media (max-width: 768px) { 
 
     /* Make the indicators larger for easier clicking with fingers/thumb on mobile */
@@ -653,7 +689,7 @@ blockquote p {color: #fff;}
     padding: 8px 20px;
     border: none;
     cursor: pointer;
-/*    opacity: 0.8;*/
+    /*    opacity: 0.8;*/
     position: fixed;
     bottom: 293px;
     left: -117px;
@@ -722,7 +758,7 @@ blockquote p {color: #fff;}
 
 /* Add some hover effects to buttons */
 .form-container .btn:hover, .open-button:hover {
-/*    opacity: 1;*/
+    /*    opacity: 1;*/
     background: #fff;
     color: #000;
     border: 1px solid;
