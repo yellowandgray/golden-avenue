@@ -146,7 +146,7 @@
                                     <ul class="list-line list-style-type padding-0">
                                         <li>Annual Maintenance Contracts</li>
                                         <li>Cyber Security Awareness workshops</li>
-                                        <li>IT Infrastructure and Network Health Check</li>
+                                        <li>IT Infrastructure Network Health Check</li>
                                         <li>Cloud solutions</li>
                                         <li>IT Hardware and Software procurement</li>
                                         <li>Data storage & backup disaster recovery</li>
