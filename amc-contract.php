@@ -49,13 +49,12 @@
                                     <!--                                        <li>expertise through multi-resourced IT engineers</li>-->
                                 </ol>
                                 <img class="img-width" src="img/blog/amc-scb-page.jpg" alt=""/>
-                                <h3 class="color-blue bold">One stop solution for multi-vendor products and services.</h3>
-                                <ul class="list-line list-style-type1">
-                                    <li><i class="fa fa-check"></i> We Guarantee Best Services</li>
-                                    <li><i class="fa fa-check"></i> We Provide Quality Services</li>
-                                    <li><i class="fa fa-check"></i> Time Bound, Prompt, Reliable</li>
-                                    <li><i class="fa fa-check"></i> No Compromise on Integrity</li>
-                                </ul>
+                                <div class="padding-20">
+                                    <h3 class="color-blue bold"><i class="fa fa-check"></i> We Guarantee Best Services</h3>
+                                    <h3 class="color-blue bold"><i class="fa fa-check"></i> We Provide Quality Service</h3>
+                                    <h3 class="color-blue bold"><i class="fa fa-check"></i> Time Bound, Prompt, Reliable</h3>
+                                    <h3 class="color-blue bold"><i class="fa fa-check"></i> No Compromise on Integrity</h3>
+                                </div>
                             </div>
                             <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
@@ -77,7 +76,7 @@
                                 <div class="amc-box-content text-center wow fadeInUp" data-wow-delay="0.8s">
                                     <i class="fa fa-mobile fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">Mobile</p>
-                                    <p>A simplecall / chat to resolve issue</p>
+                                    <p>A simple call / chat to resolve issue</p>
 <!--                                    <img src="img/sub-banner/amc-3-2.png" alt=""/>-->
                                 </div>
                             </div>
