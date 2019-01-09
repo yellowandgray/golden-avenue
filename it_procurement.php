@@ -30,7 +30,7 @@
                                 <p class="text-justify wow fadeInLeft">In many businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure.</p>
                                 <img src="img/blog/outsourcing-1.jpg" alt="" class="img-responsive wow fadeInLeft"/>
                                 <h2 class="font-size-20 color-blue wow fadeInLeft">Advantages of IT Procurement Service Provider</h2>
-                                <ul class="list-line list-style-type1 padding-0 wow fadeInUp">
+                                <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Access to Skilled Resources</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Save Money</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Lessen Service Outage Risk</li>
@@ -49,13 +49,13 @@
                                 <h2 class="font-size-20 color-blue line-height-30 wow fadeInLeft">What does IT Procurement services include?</h2>
                                 <!--                                <h4>IT procurement involves both strategic and administrative responsibilities</h4>-->
                                 <!--                                <h3>Daily work involved </h3>-->
-                                <ul class="list-line list-style-type1 padding-0 wow fadeInUp">
+                                <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Conducting Market Research</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Pricing Negotiations</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Instituting terms and conditions for services</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Resolving any discrepancies in Billing etc.</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Communicating the Details on Purchases with Customers</li>
-                                </ul></br>
+                                </ul><br/>
                             </div>
                             <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
