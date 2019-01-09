@@ -538,6 +538,12 @@ blockquote p {color: #fff;}
     .b3 {
         height: 500px !important;
     }
+    .btn {
+        padding: 12px 10px;
+    }
+    .btn-custom {
+        float: none !important;
+    }
 }
 
 
