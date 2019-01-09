@@ -47,8 +47,15 @@
                                     <li>Strictly following SLA as per the client requirements</li>
                                     <li>Ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
                                     <!--                                        <li>expertise through multi-resourced IT engineers</li>-->
-                                </ol><br/>
+                                </ol>
                                 <img class="img-width" src="img/blog/amc-scb-page.jpg" alt=""/>
+                                <h3 class="color-blue bold">One stop solution for multi-vendor products and services.</h3>
+                                <ul class="list-line list-style-type1">
+                                    <li><i class="fa fa-check"></i> We Guarantee Best Services</li>
+                                    <li><i class="fa fa-check"></i> We Provide Quality Services</li>
+                                    <li><i class="fa fa-check"></i> Time Bound, Prompt, Reliable</li>
+                                    <li><i class="fa fa-check"></i> No Compromise on Integrity</li>
+                                </ul>
                             </div>
                             <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>

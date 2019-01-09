@@ -148,7 +148,8 @@ button .glyphicon-menu-right, input[type="button"] .glyphicon-menu-right, input[
     transform: rotate(-90deg);
 }
 .btn.btn-blue:hover {
-    background-color: #d2ae6c;
+    background-color: #ffffff;
+    color: #000;
 }
 .btn.btn-blue {
     background-color: #0082ca;
@@ -401,6 +402,7 @@ blockquote p {color: #fff;}
 .item blockquote {
     border-left: none; 
     margin: 0;
+    height: 170px;
 }
 
 .item blockquote img {
@@ -452,6 +454,9 @@ blockquote p {color: #fff;}
         margin-top: 20px !important;
         margin-bottom: 20px !important;
     }
+    .item blockquote {
+        height: auto !important;
+    }
 }
 
 @media (min-width: 280px) and (max-width: 768px) {
@@ -477,6 +482,9 @@ blockquote p {color: #fff;}
         margin-top: 20px !important;
         margin-bottom: 20px !important;
     }
+    .item blockquote {
+        height: auto !important;
+    }
 }
 
 @media (min-width: 280px) and (max-width: 320px) {
@@ -484,6 +492,9 @@ blockquote p {color: #fff;}
         height: 550px !important;
         margin-top: 20px !important;
         margin-bottom: 20px !important;
+    }
+    .item blockquote {
+        height: auto !important;
     }
 }
 
@@ -539,7 +550,7 @@ blockquote p {color: #fff;}
 
 .italic {font-style: italic;}
 
-.pricing-container i {font-size: 18px;}
+.pricing-container i {font-size: 18px; color: #007e93}
 
 .img-border img {border: 2px solid #adadad;}
 

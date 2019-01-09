@@ -72,7 +72,7 @@
                                                data-validation-required-message="Please enter your Subject" />-->
                                         <select type="text" class="form-control" required>
                                             <option>Subject</option>
-                                            <option value="Products">Product</option>
+                                            <option value="Products">Products</option>
                                             <option value="Services">Services</option>
                                             <option value="Annual Maintenance Contract">Annual Maintenance Contract</option>
                                             <option value="others">Others</option>
