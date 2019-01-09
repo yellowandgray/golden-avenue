@@ -2292,6 +2292,7 @@ article img.pull-right, article .align-right{
         width: 100%;
         left: 0px;
         text-align: center;
+        top: 12%;
     }
     .flexslider .flex-caption h3 {
         font-size: 12px !important;

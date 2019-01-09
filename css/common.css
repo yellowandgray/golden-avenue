@@ -466,7 +466,7 @@ blockquote p {color: #fff;}
         margin: 0 !important;
     }
     .tabcontent {
-        padding: 360px 0px !important;
+        padding: 360px 0px 0px !important;
     }
     .tablink {
         padding: 10px 10px !important;
@@ -632,7 +632,7 @@ blockquote p {color: #fff;}
     padding: 8px 20px;
     border: none;
     cursor: pointer;
-    opacity: 0.8;
+/*    opacity: 0.8;*/
     position: fixed;
     bottom: 293px;
     left: -117px;
@@ -701,7 +701,10 @@ blockquote p {color: #fff;}
 
 /* Add some hover effects to buttons */
 .form-container .btn:hover, .open-button:hover {
-    opacity: 1;
+/*    opacity: 1;*/
+    background: #fff;
+    color: #000;
+    border: 1px solid;
 }
 
 .background-border {
