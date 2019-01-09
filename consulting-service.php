@@ -31,7 +31,7 @@
                                 <p class="text-justify wow fadeInLeft">Weaknesses in information security can jeopardize your undertaking, threaten your profitability, and invite fines and penalties from regulatory bodies.</p>
                                 <p class="text-justify wow fadeInLeft">If you are not entirely self-assured in your Information Security Status or your ability to manage IT risk, talk to our expert consultants. Our cyber security consultants provide services and solutions that deliver continuous security assurance for your business and critical infrastructure.</p>
                                 <p class="text-justify wow fadeInLeft">Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</p>
-                                <ul class="list-line list-style-type1 padding-0 wow fadeInUp">
+                                <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Analyze vulnerability to reveal risks</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Assess security threats to outline the significance of existing vulnerabilities</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Design and recommend solutions to secure the entire information security in your network</li>

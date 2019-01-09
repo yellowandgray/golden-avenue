@@ -39,16 +39,16 @@
                                                     <li>AMC Contracts</li>
                                                 </ul>-->
                         <div class="row">
-                            <div class="col-md-7">
-                                <h2 class="color-blue text-transform-none  wow fadeInLeft"><strong>At Golden Avenue our commitment is an “ASSURED REALITY”</strong></h2>
-                                <p class="wow fadeInLeft">Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p>
-                                <h3  class="wow fadeInLeft">Golden Avenue adheres to a professional approach by</h3>
-                                <ol class="wow fadeInUp" data-wow-delay="0.5s" style="font-size: 15px !important">
+                            <div class="col-md-7 wow fadeInLeft">
+                                <h2 class="color-blue text-transform-none"><strong>At Golden Avenue our commitment is an “ASSURED REALITY”</strong></h2>
+                                <p>Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p>
+                                <h3>Golden Avenue adheres to a professional approach by</h3>
+                                <ol style="font-size: 15px !important">
                                     <li>Strictly following SLA as per the client requirements</li>
                                     <li>Ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
                                     <!--                                        <li>expertise through multi-resourced IT engineers</li>-->
                                 </ol><br/>
-                                <img class="img-width wow fadeInLeft" src="img/blog/amc-scb-page.jpg" alt=""/>
+                                <img class="img-width" src="img/blog/amc-scb-page.jpg" alt=""/>
                             </div>
                             <div class="col-md-5 wow fadeInRight">
                                 <?php include 'cyber-security-workshop.php'; ?>
@@ -168,7 +168,7 @@
                         <div class="row">
                             <div class="col-md-5">
                                 <h3 class="color-blue wow fadeInLeft">Our Annual Maintenance Contract (AMC) covers the following:</h3>
-                                <ul class="list-sr wow fadeInUp" data-wow-delay="0.5s">
+                                <ul class="list-sr wow fadeInLeft">
                                     <li><i class="fa fa-check-square-o clr"></i> Maintenance of IT infrastructure</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Hardware and Software Support</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Network Solution</li>
@@ -334,10 +334,10 @@
             <section id="content">
                 <div class="container text-justify">
                     <div class="row">
-                        <div class="col-lg-12">
-                            <p class="text-justify wow fadeInUp">We at Golden Avenue offer AMC to keep your business IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions. We respect your confidential and private information, know how important confidentiality is to you, whether it’s business or personal data, or both. Our experts have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
-                            <p class="text-justify wow fadeInUp">We provide you with the best services, at very competitive prices without compromising on integrity and quality. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p>
-                            <p class="text-justify wow fadeInUp">24/7 Emergency Support Services will be provided after business hours and on public holidays with a small increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period.</p>
+                        <div class="col-lg-12 wow fadeInUp">
+                            <p class="text-justify">We at Golden Avenue offer AMC to keep your business IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions. We respect your confidential and private information, know how important confidentiality is to you, whether it’s business or personal data, or both. Our experts have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
+                            <p class="text-justify">We provide you with the best services, at very competitive prices without compromising on integrity and quality. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p>
+                            <p class="text-justify">24/7 Emergency Support Services will be provided after business hours and on public holidays with a small increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period.</p>
                         </div>
                     </div>
                 </div>

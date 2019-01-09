@@ -43,7 +43,7 @@
                                                                         </div>-->
                                     <br/>
                                     <div class="col-md-12">
-                                        <img src="img/blog/bus-02.jpg" alt="" class="img-responsive img-width wow fadeInUp"/> 
+                                        <img src="img/blog/bus-02.jpg" alt="" class="img-responsive img-width wow fadeInLeft"/> 
                                     </div>
                                 </div>
                             </div>

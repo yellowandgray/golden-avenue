@@ -32,7 +32,7 @@
                                 <p class="text-justify wow fadeInLeft">The IT Health Check / Audit for organizations from any domain is a MUST to ensure optimal performance in the day to day operations and decision-making process. It helps the organization to understand and utilize technology more efficiently. This audit helps to get more out of your existing technology investments and recommend further updates and upgrades based on the current set up.</p>
                                 <img src="img/blog/sub-page-pic-2.jpg" alt="" class="img-responsive wow fadeInLeft"/>
                                 <h3 class="text-justify wow fadeInLeft">Golden Avenue IT & Network Health Check includes various components and addresses the critical and vulnerable points of different IT aspects as detailed below:</h3>
-                                <ul class="list-line list-style-type1 padding-0 wow fadeInUp">
+                                <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Assess if the entire IT infrastructure both hardware and software fulfill the standard necessary requirements of your business and if it is cost effective</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Analyzing and testing the security policies and data protection adopted by your business</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Guides you in the right direction to build a robust and secured IT foundation for your business</li>
@@ -104,7 +104,7 @@
                             </div>
                         </div>
                         <div class="col-md-6">
-                            <div class="box-shadow-white wow fadeInRight" data-wow-delay="0.5s">
+                            <div class="box-shadow-white wow fadeInRight">
                                 <div class="text-center">
                                     <i class="fa fa-hdd-o fa-4x" aria-hidden="true"></i>
                                     <h3>Server, Storage & Backup Check</h3>
