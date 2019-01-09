@@ -1429,3 +1429,20 @@ blockquote p { color: #ffffff !important; }
 .margin-bottom-40 {
     margin-bottom: 40px;
 }
+
+/*.btn-horizontal {
+    text-align: center;
+    color: #FFFFFF;
+    padding: 12px 44px;
+    border-radius: 0px;
+    background: #007e93;
+    border-color: transparent;
+    margin-top: 12px;
+}
+
+.btn-horizontal:hover {
+    color: #000;
+    text-decoration: none;
+    background: #ffffff;
+    border-color: black;
+}*/

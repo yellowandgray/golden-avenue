@@ -18,13 +18,13 @@
                         <li>
                             <img src="img/slides/Home_banner2.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content wow slideInRight">VIRTUAL IT MANAGER<br/><span class="italic font-size-24 font-italic">at a fraction of the cost</span></h3>  
+                                <h3 class="banner-content wow slideInLeft">VIRTUAL IT MANAGER<br/><span class="italic font-size-24 font-italic">at a fraction of the cost</span></h3>  
                             </div>
                         </li>
                         <li>
                             <img src="img/slides/Home_banner1.jpg" alt="" />
                             <div class="flex-caption" style="bottom: 240px">
-                                <h3 class="banner-content1 wow slideInRight">ANNUAL MAINTENANCE<br/> CONTRACTS
+                                <h3 class="banner-content1 wow slideInLeft">ANNUAL MAINTENANCE<br/> CONTRACTS
 <!--                                    <span class="italic font-size-24 font-italic">Services to keep you fit always</span>-->
                                 </h3>  
                                 <!--<h3 class="banner-content"></br><span class="italic font-size-24 font-italic"></span></h3>-->  
@@ -33,14 +33,14 @@
                         <li>
                             <img src="img/slides/Home_banner3.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3 class="banner-content wow slideInRight">IT & NETWORK</br> HEALTH CHECKS</h3>  
+                                <h3 class="banner-content wow slideInLeft">IT & NETWORK<br/> HEALTH CHECKS</h3>  
 
                             </div>
                         </li>
                         <li>
                             <img src="img/slides/Home_banner.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3  class="banner-content wow slideInRight">IT SECURITY & INFRASTRUCTURE</br> SOLUTIONS</h3>  
+                                <h3  class="banner-content wow slideInLeft">IT SECURITY &<br/> INFRASTRUCTURE<br/> SOLUTIONS</h3>  
 
                             </div>
                         </li>
@@ -61,7 +61,7 @@
                         <li>
                             <img src="img/slides/Home_banner6.jpg" alt="" />
                             <div class="flex-caption">
-                                <h3  class="banner-content wow slideInRight">CYBER SECURITY AWARENESS WORKSHOP</h3>  
+                                <h3  class="banner-content wow slideInLeft">CYBER SECURITY AWARENESS WORKSHOP</h3>  
 
                             </div>
                         </li>
@@ -97,16 +97,16 @@
                 <div class="container"> 
                     <div class="row">
                         <div class="col-md-12">
-                            <h3 class="color-white bold wow fadeInRight">Build a CYBER Resilient Organization </h3>
+                            <h3 class="color-white bold wow fadeInUp">Build a CYBER Resilient Organization </h3>
                         </div>
-                        <div class="col-md-7 wow fadeInRight" data-wow-delay="1s">
-                            <p class="text-justify wow fadeInRight color-white">Golden Avenue helps your business to build a resilient IT system that needs to be secure and accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, ethernet switches and network storage.</p>
-                            <p class="text-justify wow fadeInRight color-white">We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
+                        <div class="col-md-7 wow fadeInUp">
+                            <p class="text-justify wow fadeInUp color-white">Golden Avenue helps your business to build a resilient IT system that needs to be secure and accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, ethernet switches and network storage.</p>
+                            <p class="text-justify wow fadeInUp color-white">We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
 
 
  <!--<p class="text-justify">With Our experienced IT expert team who are trained and certified in a wide range of information technology issues, allows us to be one of the leading IT services providers with unrivaled service. We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>-->
                         </div>
-                        <div class="col-md-5 wow fadeInRight" data-wow-delay="1s">
+                        <div class="col-md-5 wow fadeInUp">
                             <div class="cyber-security-bg1">
                                 <a href="faq-cyber-security.php"><h4 class="text-center bold"> AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4></a>
                                 <a href="faq-cyber-security.php"><img src="img/golden-cyber.jpg" class="img-responsive img-width" />
@@ -124,14 +124,14 @@
                 <section class="section-padding">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-4 wow fadeInUpBig" data-wow-delay="0.5s">
+                            <div class="col-md-4 wow fadeInUp">
                                 <div class="b1">
-                                    <h3 class="color-white bold font-size-29 wow fadeInUp"><span class="font-size-56">5 Benefits</span> Hire<br/> Your Own<br/> Virtual IT Manager</h3>  
+                                    <h3 class="color-white bold font-size-29"><span class="font-size-56">5 Benefits</span> Hire<br/> Your Own<br/> Virtual IT Manager</h3>  
                                 </div>
                             </div>
-                            <div class="col-md-4 wow fadeInUpBig" data-wow-delay="1s">
+                            <div class="col-md-4 wow fadeInUp">
                                 <div class="b2">
-                                    <ul class="list-line list-style-type padding-0 wow fadeInUp" data-wow-delay="1.2s">
+                                    <ul class="list-line list-style-type padding-0">
                                         <i class="fa fa-check" aria-hidden="true"></i><li>Increased revenue by decreasing operating costs and improving productivity</li>
                                         <i class="fa fa-check" aria-hidden="true"></i><li>Provides analysis of your entire IT Infrastructure that will include IT audit reports and necessary recommendations</li>
                                         <i class="fa fa-check" aria-hidden="true"></i><li>Ensures your system is secured at all times which helps in business continuity and backup and storage for disaster recovery</li>
@@ -140,10 +140,10 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="col-md-4 wow fadeInUpBig" data-wow-delay="1.5s">
+                            <div class="col-md-4 wow fadeInUp">
                                 <div class="b3">
-                                    <h3 class="blue-color bold wow fadeInUp" data-wow-delay="1s">Virtual IT Manager services include:</h3>  
-                                    <ul class="list-line list-style-type padding-0 wow fadeInUp" data-wow-delay="1s">
+                                    <h3 class="blue-color bold">Virtual IT Manager services include:</h3>  
+                                    <ul class="list-line list-style-type padding-0">
                                         <li>Annual Maintenance Contracts</li>
                                         <li>Cyber Security Awareness workshops</li>
                                         <li>IT Infrastructure and Network Health Check</li>
@@ -202,7 +202,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="margin-t-b-20 cntr wow fadeInRightBig" data-wow-delay="1s">
+                            <div class="margin-t-b-20 cntr wow fadeInUp">
                                 <a href="#" class="btn btn-primary trigger_popup_fricc">Get your FREE consultation now</a>
                             </div>
                             <div class="hover_bkgr_fricc">
@@ -243,7 +243,7 @@
             <section class="section-padding custome-gray-bg">
                 <div class="container">
                     <div class="row margin-bottom-0">
-                        <div class='col-md-6'>
+                        <div class="col-md-6 wow fadeInUp">
                             <h3 class="text-center bold">Testimonials</h3>
                             <div class="carousel slide" data-ride="carousel" id="quote-carousel">
                                 <!-- Bottom Carousel Indicators -->
@@ -323,7 +323,7 @@
                         </div>
 
 
-                        <div class="col-md-4">
+                        <div class="col-md-4 wow fadeInUp">
                             <h3 class="text-center bold">Clients</h3>
                             <div class="row margin-bottom-0">
                                 <div class="col-md-6">
