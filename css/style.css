@@ -411,7 +411,7 @@ select.selectmenu {
 .flex-direction-nav .flex-next{ 
     right:0px;
 }
-.flex-caption {zoom: 1;bottom: 198px;background-color: transparent;color: #fff;margin: 0;/*padding: 2px 25px 0px 30px; position: absolute; */left: 10%;/*text-align: center*/;margin: 0 auto;/*right: 0px*/;display: inline-block;/*bottom: 90px*/;width: 50%;/*right: 0 !important*/;border-radius: 15px 15px 0 0;/* display: none; */}
+.flex-caption {zoom: 1;bottom: 100px;background-color: transparent;color: #fff;margin: 0;/*padding: 2px 25px 0px 30px; position: absolute; */left: 10%;/*text-align: center*/;margin: 0 auto;/*right: 0px*/;display: inline-block;top: 100px;width: 50%;/*right: 0 !important*/;border-radius: 15px 15px 0 0;/* display: none; */}
 .flex-caption h3 {color: #fff;letter-spacing: 0px;margin-bottom: 20px;/* text-transform: uppercase; */font-size: 46px !important;font-weight: 700;text-shadow: -1px 1px 3px rgba(0, 0, 0, 0.44);}
 .flex-caption p {margin: 12px 0 18px;font-size: 19px;font-weight: 400;}
 .skill-home{margin-bottom: 50px; margin-top: 0px; position: inherit; z-index: 9}

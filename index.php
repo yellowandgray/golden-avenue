@@ -23,7 +23,7 @@
                         </li>
                         <li>
                             <img src="img/slides/Home_banner1.jpg" alt="" />
-                            <div class="flex-caption" style="bottom: 240px">
+                            <div class="flex-caption">
                                 <h3 class="banner-content1 wow slideInLeft">ANNUAL MAINTENANCE<br/> CONTRACTS
 <!--                                    <span class="italic font-size-24 font-italic">Services to keep you fit always</span>-->
                                 </h3>  
@@ -126,7 +126,7 @@
                         <div class="row">
                             <div class="col-md-4 wow fadeInUp">
                                 <div class="b1">
-                                    <h3 class="color-white bold font-size-29"><span class="font-size-56">5 Benefits</span> Hire<br/> Your Own<br/> Virtual IT Manager</h3>  
+                                    <h3 class="color-white bold font-size-29"><span class="font-size-56">5 Benefits</span><br/>To<br/> Hire<br/> Your Own<br/> Virtual IT Manager</h3>  
                                 </div>
                             </div>
                             <div class="col-md-4 wow fadeInUp">
@@ -146,8 +146,8 @@
                                     <ul class="list-line list-style-type padding-0">
                                         <li>Annual Maintenance Contracts</li>
                                         <li>Cyber Security Awareness workshops</li>
-                                        <li>IT Infrastructure</li>
-                                        <li>Network Health Check</li>
+                                        <li>IT Infrastructure Checks</li>
+                                        <li>Network Health Checks</li>
                                         <li>Cloud solutions</li>
                                         <li>IT Hardware and Software procurement</li>
                                         <li>Data storage & backup disaster recovery</li>
@@ -167,9 +167,9 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20">
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.1s">
                                             <span class="services-thumb">
-                                                <img src="img/005.jpg" class="img-responsive" />
+                                                <a href="amc-contract.php"><img src="img/005.jpg" class="img-responsive" /></a>
                                             </span> 
-                                            <h3>24 X 7 IT SUPPORT</h3> 
+                                            <a href="amc-contract.php"><h3>24 X 7 IT SUPPORT</h3> </a>
                                             <p>We offer World-Class & Unmatched Support</p>
                                             <!--<a href="contacts.php" class="btn btn-primary">Try us</a>-->
                                         </div>
@@ -177,27 +177,27 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.3s">
                                             <span class="services-thumb">
-                                                <img src="img/006.jpg" class="img-responsive" />
+                                                <a href="contacts.php"><img src="img/006.jpg" class="img-responsive" /></a>
                                             </span>
-                                            <h3>CERTIFIED IT PROFESSIONALS</h3> 
+                                            <a href="contacts.php"><h3> CERTIFIED IT PROFESSIONALS</h3> </a>
                                             <p>We are a team of Certified IT Professionals & Experts</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.5s">
                                             <span class="services-thumb">
-                                                <img src="img/007.jpg" class="img-responsive" />
+                                                <a href="contacts.php"><img src="img/007.jpg" class="img-responsive" /></a>
                                             </span> 
-                                            <h3>20+  YEARS OF EXPERIENCE</h3> 
+                                            <a href="contacts.php"><h3>20+  YEARS OF EXPERIENCE</h3></a>
                                             <p>Un-Paralleled Experience & Time Unlimited Consultancy</p>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.7s">
                                             <span class="services-thumb">
-                                                <img src="img/008.jpg" class="img-responsive" />
+                                                <a href="amc-contract.php"><img src="img/008.jpg" class="img-responsive" /></a>
                                             </span> 
-                                            <h3> FLEXIBLE CONTRACTS </h3> 
+                                            <a href="amc-contract.php"><h3>FLEXIBLE CONTRACTS</h3></a> 
                                             <p>Tailor-Made Contracts, FOCUSED & Specific to your Business Needs</p>
                                         </div>
                                     </div>
