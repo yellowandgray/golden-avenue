@@ -1413,6 +1413,7 @@ blockquote p { color: #ffffff !important; }
     padding:50px 0;
     background-image: url("../img/bg-why-golden.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .product-container {
