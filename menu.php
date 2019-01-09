@@ -9,7 +9,7 @@
                     <a href=""><i class="fa fa-linkedin"></i></a>
                     <a href=""><i class="fa fa-pinterest"></i></a>
                     <a href=""><i class="fa fa-google-plus"></i></a>&nbsp;-->
-                    <i class="fa fa-phone"></i><a href="tel:+04 2668272">04 2668272</a>|
+                    <i class="fa fa-phone"></i><a href="tel:+04 2668272">04 2668272</a>
                     <i class="fa fa-envelope-o"></i><a href="mailto:enquiry@goldenavenue.ae">enquiry@goldenavenue.ae</a>
                 </p>
             </div>
