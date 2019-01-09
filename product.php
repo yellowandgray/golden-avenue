@@ -177,6 +177,24 @@
 
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-md-12 wow fadeInUp">
+                                <h3 class="color-blue bold text-center">The Golden Avenue Promise</h3>
+                            </div>
+                            <div class="col-md-6 wow fadeInUp" data-wow-duration="2s">
+                                <div class="box-in-product">
+                                    <p>Every product sold is backed by the Golden Avenue Promise</p>
+                                    <ul class="list-line list-style-type1">
+                                        <li>-	Genuine Products</li>
+                                        <li>-	Speedy response</li>
+                                        <li>-	Commitment</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6 wow fadeInUp" data-wow-duration="2s">
+                                <img src="img/prduct-trust.jpg" alt="" class="img-width" />
+                            </div>
+                        </div>
                     </section>
                 </div>
             </section>
