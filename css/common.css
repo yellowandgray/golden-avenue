@@ -444,6 +444,13 @@ blockquote p {color: #fff;}
     }
 }
 
+@media (min-width: 992px) and (max-width: 1200px) {
+    .box-shadow-background {
+        height: 890px !important;
+    }
+    
+}
+
 @media (min-width: 280px) and (max-width: 320px) {
     .navbar-brand img{
         margin-top: -100px;
@@ -1462,6 +1469,7 @@ blockquote p { color: #ffffff !important; }
     background: #eee;
     box-shadow: 0 0 1px 0px #000;
     height: 376px;
+    margin-bottom: 20px;
 }
 
 .box-shadow-background {
@@ -1469,6 +1477,7 @@ blockquote p { color: #ffffff !important; }
     background: #fff;
     box-shadow: 0 0 10px 6px #eee;
     height: 720px;
+    margin-bottom: 20px;
 }
 
 .box-in-p {
