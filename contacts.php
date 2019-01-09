@@ -29,7 +29,7 @@
                         <div class="col-md-12 wow fadeInUp">
                             <div class="about-logo">
                                 <h2><span class="coloured">Get</span> in Touch</h2>
-                                <p class="text-justify">Please contact the Golden Avenue Team to acquire Knowledge and Knowhow and take advantage of our expertise to help solve serious problems and accomplish your critical objectives</p>
+                                <p class="text-justify">Please contact the Golden Avenue Team to acquire Knowledge and Knowhow, and take advantage of our expertise to help solve serious problems, and accomplish your critical objectives</p>
                             </div>  
                         </div>
                     </div>
