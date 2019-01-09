@@ -41,7 +41,6 @@
                                                                                 <li>Ensure that the changes and improvements recommended are implemented to create an Effective Recovery Strategy that will minimize or nullify losses in such an event.</li>
                                                                             </ul>
                                                                         </div>-->
-                                    <br/>
                                     <div class="col-md-12">
                                         <img src="img/blog/bus-02.jpg" alt="" class="img-responsive img-width wow fadeInLeft"/> 
                                     </div>
