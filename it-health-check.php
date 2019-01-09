@@ -162,13 +162,13 @@
                                 <div class="text-center">
                                     <h3>The most common threats to your business:</h3>
                                 </div>
-                                <ul class="list-line list-style-type1 padding-0">
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Malicious programs like viruses, worms, trojan horses, spyware, malware, adware and botnets</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Zero-day and zero-hour attacks</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Hacker attacks</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Denial of Service</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Distributed Denial of Service Attacks</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Data theft.</li>
+                                <ul class="list-line padding-20">
+                                    <li>Malicious programs like viruses, worms, trojan horses, spyware, malware, adware and botnets</li>
+                                    <li>Zero-day and zero-hour attacks</li>
+                                    <li>Hacker attacks</li>
+                                    <li>Denial of Service</li>
+                                    <li>Distributed Denial of Service Attacks</li>
+                                    <li>Data theft.</li>
                                 </ul>
                             </div>
                         </div>
@@ -177,13 +177,13 @@
                                 <div class="text-center">
                                     <h3>These threats look to exploit:</h3>
                                 </div>
-                                <ul class="list-line list-style-type1 padding-0">
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Unsecured wireless networks</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Unpatched software and hardware</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Unsecured websites</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Potentially unwanted applications</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Weak passwords</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Lost devices or users with malicious intent</li>
+                                <ul class="list-line padding-20">
+                                    <li>Unsecured wireless networks</li>
+                                    <li>Unpatched software and hardware</li>
+                                    <li>Unsecured websites</li>
+                                    <li>Potentially unwanted applications</li>
+                                    <li>Weak passwords</li>
+                                    <li>Lost devices or users with malicious intent</li>
                                 </ul>
                             </div>
                         </div>
