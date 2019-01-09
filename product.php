@@ -32,8 +32,6 @@
                                 <h3>Enterprise Computing & Telecom</h3>
                                 <p class="text-justify">95% of businesses depend on Information Technology and to help facilitate businesses to scale and grow in the right direction, using the right equipment is as important as making the right decisions to run your business.</p>
                                 <p class="text-justify">Golden Avenue has the expertise in providing the complete range of hardware products ranging from Laptops, Desktops, Servers, Printers, Networking and Security products. We work only with the top-tier brands and ensure genuine products are provided. Our offering is depending on the scale and nature of our client’s requirements.</p>
-<!--                                <p class="text-justify">We recognize that key areas of importance for our customers when considering an IT solution are based around four crucial perspectives: availability, adaptability, manageability and security. Our offering reflects this understanding and our solutions are designed to deliver based on these perspectives.</p>
-                                <p class="text-justify">Alpha Data’s offering is divided into a products and a solutions range, depending on the scale and nature of our client’s requirements. Below is the list of solutions we offer:</p>-->
                             </div>
                             <div class="col-md-6 wow fadeInRight">
                                 <img src="img/product-img.jpg" alt="" class="img-width">
