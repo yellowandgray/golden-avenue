@@ -712,7 +712,7 @@ section#inner-headline-0:after {
 }
 
 
-#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact-01.jpg"); height: 280px;background-position: centers}
+#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact-01.jpg"); height: 280px;background-position: right}
 section#inner-headline:after {
     content: '';
     background: rgba(0, 0, 0, 0);
@@ -852,7 +852,7 @@ section#inner-headline-1:after {
 }
 /* SUB BANNER-3 */
 
-#inner-headline-3{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-security-2.jpg"); height: 280px;background-position: center}
+#inner-headline-3{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-security-2.jpg"); height: 280px;background-position: left}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -897,7 +897,7 @@ section#inner-headline-1:after {
 }
 /* SUB BANNER-4 */
 
-#inner-headline-4{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/consulting.jpg"); height: 280px;background-position: center}
+#inner-headline-4{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/consulting.jpg"); height: 280px;background-position: right}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1116,7 +1116,7 @@ section#inner-headline-1:after {
 #inner-headline-8 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-9{ margin: 0; padding: 0; position:relative; background: url("../img/sub-banner/sub-page-pic-7.jpg"); background-position: bottom; height: 280px;background-position: center}
+#inner-headline-9{ margin: 0; padding: 0; position:relative; background: url("../img/sub-banner/sub-page-pic-7.jpg"); background-position: bottom; height: 280px; background-position: left;}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1159,7 +1159,7 @@ section#inner-headline-1:after {
 #inner-headline-9 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-10{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/why-us-2.jpg"); height: 280px;background-position: center}
+#inner-headline-10{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/why-us-2.jpg"); height: 280px;background-position: left}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -2131,6 +2131,12 @@ article img.pull-right, article .align-right{
         width:156px;
         margin:0 20px 0 0;
     }	
+    #inner-headline-2 {
+        background-position: left !important;
+    }
+    #inner-headline-6 {
+        background-position: right !important;
+    }
 
 }
 
@@ -2165,7 +2171,12 @@ article img.pull-right, article .align-right{
         /* margin-top: 20px; */
         border-bottom: none;
     }
-
+    #inner-headline-2 {
+        background-position: left !important;
+    }
+    #inner-headline-6 {
+        background-position: right !important;
+    }
     .navbar-nav {
         border-top: none;
         float: none;
@@ -2280,8 +2291,12 @@ article img.pull-right, article .align-right{
         float:left;
         margin-top:20px;
     }
-
-
+    #inner-headline-2 {
+        background-position: left !important;
+    }
+    #inner-headline-6 {
+        background-position: right !important;
+    }
     .search{
         float:left;
     }
@@ -2332,7 +2347,7 @@ article img.pull-right, article .align-right{
         border-bottom: 1px solid #716e6e;*/
     padding: 10px 25px;
     background:  url("../img/gray.jpg");
-/*    background: #007188;*/
+    /*    background: #007188;*/
     background-size: cover;
 }
 
@@ -2354,7 +2369,7 @@ article img.pull-right, article .align-right{
     /*    box-shadow: 0px -4px 5px 0px rgba(0, 0, 0, 0.28);
         border-bottom: 1px solid #716e6e;*/
     padding: 10px 25px;
-/*    background:  url("../img/gray.jpg");*/
+    /*    background:  url("../img/gray.jpg");*/
     background: rgba(0, 0, 0, 0.3);
     background-size: cover;
 }
