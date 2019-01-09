@@ -856,6 +856,7 @@ marquee {
     border-radius: 5px;
     text-align: center;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 .why-us-content h3 {
