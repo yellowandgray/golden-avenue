@@ -448,7 +448,7 @@ blockquote p {color: #fff;}
     .box-shadow-background {
         height: 890px !important;
     }
-    
+
 }
 
 @media (min-width: 280px) and (max-width: 320px) {
@@ -482,6 +482,38 @@ blockquote p {color: #fff;}
     }
     .btn-custom {
         float: none !important;
+    }
+    #inner-headline-0 {
+        width: 100% !important;
+        height: 41px !important
+    }
+    #inner-headline-0 h2.pageTitle {
+        padding: 0 !important;
+        font-size: 20px;
+    }
+    .pageTitle {
+        margin-bottom: 20px !important;
+        margin: 0px !important;
+        margin-top: 10px !important;
+    }
+    #inner-headline-1 {
+        width: 100% !important;
+        height: 41px !important
+    }
+    #inner-headline-1 h2.pageTitle {
+        padding: 0 !important;
+        font-size: 20px;
+    }
+    #inner-headline-2 {
+        width: 100% !important;
+        height: 41px !important
+    }
+    #inner-headline-2 h2.pageTitle {
+        padding: 0 !important;
+        font-size: 20px;
+    }
+    #content {
+        padding: 0px !important;
     }
 }
 

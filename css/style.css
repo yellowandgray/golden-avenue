@@ -667,7 +667,7 @@ section.hero-text h1{
 }
 /* page headline
 ==================================== */
-#inner-headline-0{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-health-check.jpg"); height: 280px;background-position: center}
+#inner-headline-0{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-health-check.jpg"); height: 280px;background-position: center; background-size: cover;}
 section#inner-headline-0:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
