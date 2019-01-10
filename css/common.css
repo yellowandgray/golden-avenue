@@ -513,13 +513,13 @@ blockquote p {color: #fff;}
         height: 275px !important;
     }
     .b1 {
-        height: 530px;
+        height: 570px;
     }
     .b2 {
-        height: 530px;
+        height: 570px;
     }
     .b3 {
-        height: 530px;
+        height: 570px;
     }
 }
 
@@ -537,13 +537,14 @@ blockquote p {color: #fff;}
         height: 275px !important;
     }
     .b1 {
-        height: 500px !important;
+        height: 570px !important;
+        padding: 100px 10px !important;
     }
     .b2 {
-        height: 500px !important;
+        height: 570px !important;
     }
     .b3 {
-        height: 500px !important;
+        height: 570px !important;
     }
     .btn {
         padding: 12px 10px;
