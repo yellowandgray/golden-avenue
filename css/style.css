@@ -1030,7 +1030,7 @@ section#inner-headline-6:after {
     color:#fff;
 }
 
-#inner-headline-7{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/sub-page-pic-11.jpg"); height: 280px;background-position: center}
+#inner-headline-7{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/sub-page-pic-11.jpg"); height: 280px;background-position: left}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
