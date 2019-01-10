@@ -17,35 +17,33 @@
                 </div>
             </section>
             <section id="content">
-                <section class="section-padding">
-                    <div class="container">
-                        <ul class="breadcrumb">
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li>Cyber Security Awareness</li>
-                        </ul>
-                        <div class="row showcase-section">
-                            <div class="col-md-7 wow fadeInLeft">
-                                <h3 class="color-blue"><strong>Cyber Security Awareness</strong></h3>
-                                <p class="text-justify">Companies of all sizes can become victims of cyber-attacks making it more important than ever to bring cyber security awareness through employee training as an integral part of your business continuity program. Look at Cyber security Awareness like a Business Function.</p> 
-                                <p class="text-justify">Businesses and organizations should address technology risk and cyber security challenges through the lens of their business value to deliver appropriate levels of protection that support their business outcomes.</p>
-                                <br/><img src="img/blog/faq-001.jpg" alt="" class="img-responsive"/><br/>
-                                <h3 class="color-blue"><strong>FAQ – Cyber Security Awareness Workshop</strong></h3>
-                                <h3 class="color-blue">What is the main purpose of Cyber Security Awareness training?</h3>
-                                <h3>Protect from within</h3>
-                                <p class="text-justify">Most cyber-attacks happen because of an internal blunder.</p>
-                                <p class="text-justify">The biggest benefit to holding a session on security awareness is to build better security from within. Knowing your employees are prepared and acting with a focus on data security gives you unmatched peace of mind and the confidence that your business is doing everything possible to prevent data breaches and possible external attacks.</p>
-                                <h3>Educate & Train</h3>
-                                <p class="text-justify">Cyber Security awareness training is a formal process for educating employees about computer security. A good security awareness program should be organized to educate your employees about the corporate policies and procedures within the IT space. The main focus is to empower your employees on the hassles of being complacent to the threats lingering out there.</p>
-                            </div>
-                            <div class="col-md-5 wow fadeInRight">
-                                <?php include 'cyber-security-workshop.php'; ?>
-                                <br/>
-                                <?php include 'enquiry.php'; ?>
-                            </div>
+                <div class="container">
+                    <ul class="breadcrumb">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li>Cyber Security Awareness</li>
+                    </ul>
+                    <div class="row showcase-section">
+                        <div class="col-md-7 wow fadeInLeft">
+                            <h3 class="color-blue"><strong>Cyber Security Awareness</strong></h3>
+                            <p class="text-justify">Companies of all sizes can become victims of cyber-attacks making it more important than ever to bring cyber security awareness through employee training as an integral part of your business continuity program. Look at Cyber security Awareness like a Business Function.</p> 
+                            <p class="text-justify">Businesses and organizations should address technology risk and cyber security challenges through the lens of their business value to deliver appropriate levels of protection that support their business outcomes.</p>
+                            <br/><img src="img/blog/faq-001.jpg" alt="" class="img-responsive"/><br/>
+                            <h3 class="color-blue"><strong>FAQ – Cyber Security Awareness Workshop</strong></h3>
+                            <h3 class="color-blue">What is the main purpose of Cyber Security Awareness training?</h3>
+                            <h3>Protect from within</h3>
+                            <p class="text-justify">Most cyber-attacks happen because of an internal blunder.</p>
+                            <p class="text-justify">The biggest benefit to holding a session on security awareness is to build better security from within. Knowing your employees are prepared and acting with a focus on data security gives you unmatched peace of mind and the confidence that your business is doing everything possible to prevent data breaches and possible external attacks.</p>
+                            <h3>Educate & Train</h3>
+                            <p class="text-justify">Cyber Security awareness training is a formal process for educating employees about computer security. A good security awareness program should be organized to educate your employees about the corporate policies and procedures within the IT space. The main focus is to empower your employees on the hassles of being complacent to the threats lingering out there.</p>
+                        </div>
+                        <div class="col-md-5 wow fadeInRight">
+                            <?php include 'cyber-security-workshop.php'; ?>
+                            <br/>
+                            <?php include 'enquiry.php'; ?>
                         </div>
                     </div>
-                </section>
+                </div>
                 <section id="contact" style="background: #f0f0f0; padding: 50px 0">
                     <div class="container">
                         <div class="row showcase-section">

@@ -17,56 +17,54 @@
                 </div>
             </section>
             <section id="content">
-                <section class="section-padding">
-                    <div class="container">
-                        <ul class="breadcrumb">
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="#">Services</a></li>
-                            <li>Network Health Check</li>
-                        </ul>
-                        <div class="row showcase-section">
-                            <div class="col-md-7">
-                                <h3 class="color-blue"><strong>Network health check</strong></h3>
-                                <p class="text-justify">Network security is any activity designed to protect the usability and integrity of your network and data. It includes both hardware and software technologies. Effective network security manages access to the network. It targets a variety of threats and stops them from entering or spreading on your network.</p> 
-                                <p class="text-justify">Relentless cyber criminals, disgruntled current and former employees and careless users can bring down your computer networks and compromise data. Network security’s made up of the hardware, software, policies and procedures designed to defend against both internal and external threats to your company’s computer systems. Multiple layers of hardware and software can prevent threats from damaging computer networks, and stop them from spreading if they slip past your defenses.</p> 
-                                <br/><img src="img/blog/sub-page-pic-10.jpg" alt="" class="img-responsive"/><br/>
-                                <p class="text-justify">Inappropriate user-access privileges pose a significant security threat. Managing employee access to critical data on an ongoing basis should not be overlooked.</p> 
-                                <p class="text-justify">When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business.</p> 
-                                <p class="text-justify">Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</p>
-                                <h3 class="color-blue">We work with Network Providers who deliver a Complete System and Network Analysis</h3>
-                                <ul class="list-line">
-                                    <li>Create a Strategy to enhance Business Productivity</li>
-                                    <li>Ensure 24x7 operation of your systems</li>
-                                    <li>Mobile connectivity for access to information anytime anywhere</li>
-                                    <li>Agile connectivity that includes network and data security through Wireless LAN</li>
-                                    <li>Connecting remote users and branch offices through Wide Area Networks (WAN)</li>
-                                    <li>Virtual Private Networks (VPN) Providing network access to outside users</li>
-                                    <li>Whether you want to UPGRADE your Current Infrastructure or Embark on a new Venture, we deliver the state-of-the-art solutions that will give your establishment a sustained Business Advantage. </li>
-                                </ul>
-                                <p class="text-justify">To schedule an appointment to discuss your business’s Network Security needs, please fill out the ENQUIRY FORM. We have assisted numerous companies and Businesses just like yours with great Success and Customer Satisfaction.</p>
-                            </div>
-                            <div class="col-md-5">
-                                <div class="box-shadow-1">
-                                    <div class="row margin-bottom-0">
-                                        <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
-                                        <div class="col-md-6">
-                                            <img src="img/golden-cyber.jpg" class="img-responsive" />
-                                        </div>
-                                        <div class="col-md-6">
-                                            <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
-                                            <hr class="hr1"> 
-                                            <p class="font-size-12 bold">Venue: Your's office Premise</p>
+                <div class="container">
+                    <ul class="breadcrumb">
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li>Network Health Check</li>
+                    </ul>
+                    <div class="row showcase-section">
+                        <div class="col-md-7">
+                            <h3 class="color-blue"><strong>Network health check</strong></h3>
+                            <p class="text-justify">Network security is any activity designed to protect the usability and integrity of your network and data. It includes both hardware and software technologies. Effective network security manages access to the network. It targets a variety of threats and stops them from entering or spreading on your network.</p> 
+                            <p class="text-justify">Relentless cyber criminals, disgruntled current and former employees and careless users can bring down your computer networks and compromise data. Network security’s made up of the hardware, software, policies and procedures designed to defend against both internal and external threats to your company’s computer systems. Multiple layers of hardware and software can prevent threats from damaging computer networks, and stop them from spreading if they slip past your defenses.</p> 
+                            <br/><img src="img/blog/sub-page-pic-10.jpg" alt="" class="img-responsive"/><br/>
+                            <p class="text-justify">Inappropriate user-access privileges pose a significant security threat. Managing employee access to critical data on an ongoing basis should not be overlooked.</p> 
+                            <p class="text-justify">When you work with sensitive data you must ensure your network is secure. Your network and its security is the center that commands the performance of the core IT technology that you use to run your business.</p> 
+                            <p class="text-justify">Obsolete or inefficient network infrastructure can create an obstacle on productivity that stifles business growth. GOLDEN AVENUE helps you build a ROBUST AND SECURE IT foundation for your company.</p>
+                            <h3 class="color-blue">We work with Network Providers who deliver a Complete System and Network Analysis</h3>
+                            <ul class="list-line">
+                                <li>Create a Strategy to enhance Business Productivity</li>
+                                <li>Ensure 24x7 operation of your systems</li>
+                                <li>Mobile connectivity for access to information anytime anywhere</li>
+                                <li>Agile connectivity that includes network and data security through Wireless LAN</li>
+                                <li>Connecting remote users and branch offices through Wide Area Networks (WAN)</li>
+                                <li>Virtual Private Networks (VPN) Providing network access to outside users</li>
+                                <li>Whether you want to UPGRADE your Current Infrastructure or Embark on a new Venture, we deliver the state-of-the-art solutions that will give your establishment a sustained Business Advantage. </li>
+                            </ul>
+                            <p class="text-justify">To schedule an appointment to discuss your business’s Network Security needs, please fill out the ENQUIRY FORM. We have assisted numerous companies and Businesses just like yours with great Success and Customer Satisfaction.</p>
+                        </div>
+                        <div class="col-md-5">
+                            <div class="box-shadow-1">
+                                <div class="row margin-bottom-0">
+                                    <h4 class="text-center bold">AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4>
+                                    <div class="col-md-6">
+                                        <img src="img/golden-cyber.jpg" class="img-responsive" />
+                                    </div>
+                                    <div class="col-md-6">
+                                        <p>Protect your business <br/>Make employees your active defense against cyber threats </p>
+                                        <hr class="hr1"> 
+                                        <p class="font-size-12 bold">Venue: Your's office Premise</p>
 <!--                                            <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
-                                        </div>
                                     </div>
                                 </div>
-                                <br/>
-                                <br/>
-                                 <?php include 'enquiry.php'; ?>
                             </div>
+                            <br/>
+                            <br/>
+                            <?php include 'enquiry.php'; ?>
                         </div>
                     </div>
-                </section>
+                </div>
             </section>
             <section id="content">
                 <div class="container">

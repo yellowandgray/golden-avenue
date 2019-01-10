@@ -592,15 +592,12 @@ blockquote p {color: #fff;}
         padding: 0 !important;
         font-size: 20px;
     }
-    #content {
-        padding: 20px 0 0 !important;
-    }
 }
 
 @media (min-width: 321px) and (max-width: 425px) {
     #inner-headline-1 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-1 h2.pageTitle {
         padding: 0 !important;
@@ -608,7 +605,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-2 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-2 h2.pageTitle {
         padding: 0 !important;
@@ -616,7 +613,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-3 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-3 h2.pageTitle {
         padding: 0 !important;
@@ -624,7 +621,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-4 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-4 h2.pageTitle {
         padding: 0 !important;
@@ -632,7 +629,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-5 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-5 h2.pageTitle {
         padding: 0 !important;
@@ -640,7 +637,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-6 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-6 h2.pageTitle {
         padding: 0 !important;
@@ -648,7 +645,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-7 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-7 h2.pageTitle {
         padding: 0 !important;
@@ -656,7 +653,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-8 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-8 h2.pageTitle {
         padding: 0 !important;
@@ -664,7 +661,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-9 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-9 h2.pageTitle {
         padding: 0 !important;
@@ -672,7 +669,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-10 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-10 h2.pageTitle {
         padding: 0 !important;
@@ -680,7 +677,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline-11 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-11 h2.pageTitle {
         padding: 0 !important;
@@ -688,7 +685,7 @@ blockquote p {color: #fff;}
     }
     #inner-headline {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline h2.pageTitle {
         padding: 0 !important;
@@ -696,11 +693,303 @@ blockquote p {color: #fff;}
     }
     #inner-headline-0 {
         width: 100% !important;
-        height: 62px !important
+        height: 46px !important;
     }
     #inner-headline-0 h2.pageTitle {
         padding: 0 !important;
         font-size: 20px;
+    }
+    .pageTitle {
+        margin-bottom: 20px !important;
+        margin: 0px !important;
+        margin-top: 10px !important;
+    }
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+    #inner-headline-1 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-1 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-2 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-2 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-3 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-3 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-4 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-4 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-5 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-5 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-6 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-6 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-7 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-7 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-8 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-8 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-9 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-9 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-10 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-10 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-11 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-11 h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline h2.pageTitle {
+        padding: 0 !important;
+    }
+    #inner-headline-0 {
+        width: 100% !important;
+        height: 112px !important
+    }
+    #inner-headline-0 h2.pageTitle {
+        padding: 0 !important;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    #inner-headline-1 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-1 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-2 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-2 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-3 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-3 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-4 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-4 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-5 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-5 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-6 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-6 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-7 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-7 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-8 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-8 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-9 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-9 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-10 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-10 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-11 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-11 h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline h2.pageTitle {
+        padding: 30px !important;
+    }
+    #inner-headline-0 {
+        width: 100% !important;
+        height: 150px !important;
+    }
+    #inner-headline-0 h2.pageTitle {
+        padding: 30px !important;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1440px) {
+    #inner-headline-1 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-1 h2.pageTitle {
+        padding: 50px !important;
+
+    }
+    #inner-headline-2 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-2 h2.pageTitle {
+        padding: 50px !important;
+
+    }
+    #inner-headline-3 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-3 h2.pageTitle {
+        padding: 50px !important;
+
+    }
+    #inner-headline-4 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-4 h2.pageTitle {
+        padding: 50px !important;
+
+    }
+    #inner-headline-5 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-5 h2.pageTitle {
+        padding: 50px !important;
+
+    }
+    #inner-headline-6 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-6 h2.pageTitle {
+        padding: 50px !important;
+    }
+    #inner-headline-7 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-7 h2.pageTitle {
+        padding: 50px !important;
+    }
+    #inner-headline-8 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-8 h2.pageTitle {
+        padding: 50px !important;
+    }
+    #inner-headline-9 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-9 h2.pageTitle {
+        padding: 50px !important;
+    }
+    #inner-headline-10 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-10 h2.pageTitle {
+        padding: 50px !important;
+    }
+    #inner-headline-11 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-11 h2.pageTitle {
+        padding: 50px !important;
+    }
+    #inner-headline {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline h2.pageTitle {
+        padding: 50px !important;
+    }
+    #inner-headline-0 {
+        width: 100% !important;
+        height: 210px !important;
+    }
+    #inner-headline-0 h2.pageTitle {
+        padding: 50px !important;
     }
 }
 
