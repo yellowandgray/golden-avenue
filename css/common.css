@@ -480,6 +480,9 @@ blockquote p {color: #fff;}
         padding: 35px !important;
         height: 460px !important;
     }
+    .btn-custom {
+        float: none !important;
+    }
 }
 
 @media (min-width: 280px) and (max-width: 768px) {
@@ -520,6 +523,9 @@ blockquote p {color: #fff;}
     }
     .b3 {
         height: 570px !important;
+    }
+    .btn-custom {
+        float: none !important;
     }
 }
 
@@ -595,6 +601,9 @@ blockquote p {color: #fff;}
     }
     .list-style-type1 i {
         padding: 8px 6px 8px !important;
+    }
+    .btn-custom {
+        float: none !important;
     }
 }
 
