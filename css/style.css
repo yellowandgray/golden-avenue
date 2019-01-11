@@ -712,7 +712,7 @@ section#inner-headline-0:after {
 }
 
 
-#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact-01.jpg"); height: 280px;background-position: center; background-size: cover;}
+#inner-headline{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/contact-01.jpg"); height: 280px;background-position: right; background-size: cover;}
 section#inner-headline:after {
     content: '';
     background: rgba(0, 0, 0, 0);
@@ -942,7 +942,7 @@ section#inner-headline-1:after {
 }
 /* SUB BANNER-5 */
 
-#inner-headline-5{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/cloud-01.jpg"); height: 280px;background-position: center; background-size: cover;}
+#inner-headline-5{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/cloud-01.jpg"); height: 280px;background-position: left; background-size: cover;}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1073,7 +1073,7 @@ section#inner-headline-1:after {
 #inner-headline-7 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-8{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/amc-banner.jpg"); height: 280px;background-position: center; background-size: cover;}
+#inner-headline-8{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/amc-banner.jpg"); height: 280px;background-position: left; background-size: cover;}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1116,7 +1116,7 @@ section#inner-headline-1:after {
 #inner-headline-8 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-9{ margin: 0; padding: 0; position:relative; background: url("../img/sub-banner/sub-page-pic-7.jpg"); background-position: bottom; height: 280px; background-position: center; background-size: cover;}
+#inner-headline-9{ margin: 0; padding: 0; position:relative; background: url("../img/sub-banner/sub-page-pic-7.jpg"); background-position: bottom; height: 280px; background-position: left; background-size: cover;}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);
@@ -1159,7 +1159,7 @@ section#inner-headline-1:after {
 #inner-headline-9 ul.breadcrumb li a {
     color:#fff;
 }
-#inner-headline-10{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/why-us-2.jpg"); height: 280px;background-position: center; background-size: cover;}
+#inner-headline-10{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/why-us-golden-avenue.jpg"); height: 280px;background-position: left; background-size: cover;}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);

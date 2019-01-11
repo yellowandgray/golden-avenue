@@ -54,7 +54,7 @@
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Instituting terms and conditions for services</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Resolving any discrepancies in Billing etc.</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Communicating the Details on Purchases with Customers</li>
-                            </ul><br/>
+                            </ul>
                         </div>
                         <div class="col-md-5 wow fadeInRight">
                             <?php include 'cyber-security-workshop.php'; ?>
