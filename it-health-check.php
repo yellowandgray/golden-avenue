@@ -52,7 +52,7 @@
             </section>
             <section id="content" style="background: #f1f1f1;">
                 <div class="container">
-                    <h3 class="color-blue text-center margin-bottom-40"><strong>The Health Check consists of the following:</strong></h3>
+                    <h3 class="color-blue text-center margin-bottom-40"><strong>The Health Check consists of the following</strong></h3>
                     <div class="row checks-h2">
                         <div class="col-md-6">
                             <div class="box-shadow-white wow fadeInLeft">
@@ -159,7 +159,7 @@
                         <div class="col-md-6">
                             <div class="box-shadow-white wow fadeInLeft">
                                 <div class="text-center">
-                                    <h3>The most common threats to your business:</h3>
+                                    <h3>The most common threats to your business</h3>
                                 </div>
                                 <ul class="list-line list-style-type1 padding-0">
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Malicious programs like viruses, worms, trojan horses, spyware, malware, adware and botnets</li>
@@ -174,7 +174,7 @@
                         <div class="col-md-6">
                             <div class="box-shadow-white wow fadeInRight">
                                 <div class="text-center">
-                                    <h3>These threats look to exploit:</h3>
+                                    <h3>These threats look to exploit</h3>
                                 </div>
                                 <ul class="list-line list-style-type1 padding-0">
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Unsecured wireless networks</li>
