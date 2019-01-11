@@ -46,7 +46,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row" style="background: url(img/why-us-background.jpg) no-repeat;padding: 40px;background-size: cover;">
+                    <div class="row" style="background: url(img/bg-box.jpg) no-repeat;padding: 40px;background-size: cover;">
                         <div class="about">
                             <div class="col-md-6">
                                 <iframe src="https://www.youtube.com/embed/w9D1LtDJe-A"></iframe>
