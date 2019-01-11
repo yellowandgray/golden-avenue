@@ -11,7 +11,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">IT PROCUREMENT</h2>
+                            <h2 class="pageTitle">IT Procurement Services</h2>
                         </div>
                     </div>
                 </div>
@@ -21,7 +21,7 @@
                     <ul class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li><a href="#">Services</a></li>
-                        <li>IT Procurement</li>
+                        <li>IT Procurement Services</li>
                     </ul>
                     <div class="row">
                         <div class="col-md-7">

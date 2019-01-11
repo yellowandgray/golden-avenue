@@ -11,7 +11,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">CLOUD MIGRATION</h2>
+                            <h2 class="pageTitle">Cloud Migration</h2>
                         </div>
                     </div>
                 </div>

@@ -852,7 +852,7 @@ section#inner-headline-1:after {
 }
 /* SUB BANNER-3 */
 
-#inner-headline-3{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-security-2.jpg"); height: 280px;background-position: center; background-size: cover;}
+#inner-headline-3{margin: 0;padding: 0;position:relative;background: url("../img/sub-banner/it-security-2.jpg"); height: 280px;background-position: left; background-size: cover;}
 section#inner-headline-1:after {
     content: '';
     background: rgba(0, 0, 0, 0.47);

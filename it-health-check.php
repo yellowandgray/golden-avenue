@@ -25,6 +25,7 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-7">
+                            <h3 class="color-blue wow fadeInLeft"><strong>IT & Network Health Checks</strong></h3>
                             <h3 class="color-blue wow fadeInLeft"><strong>What is an IT & Network Health Check?</strong></h3>
                             <p class="wow fadeInLeft">It is a comprehensive IT specific assessment of your infrastructure and security. It provides you with an accurate IT audit that will highlight your current and potential risk areas.</p> 
                             <h3 class="color-blue wow fadeInLeft"><strong>Why is an IT & Network Health Check important?</strong></h3>

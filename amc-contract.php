@@ -41,7 +41,7 @@
                         <div class="row">
                             <div class="col-md-7 wow fadeInLeft">
                                 <h2 class="color-blue text-transform-none"><strong>At Golden Avenue our commitment is an “ASSURED REALITY”</strong></h2>
-                                <p>Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p>
+                                <p class="text-justify">Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p>
                                 <h3>Golden Avenue adheres to a professional approach by</h3>
                                 <ol style="font-size: 15px !important">
                                     <li>Strictly following SLA as per the client requirements</li>
