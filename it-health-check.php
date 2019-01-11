@@ -31,12 +31,12 @@
                             <h3 class="color-blue wow fadeInLeft"><strong>Why is an IT & Network Health Check important?</strong></h3>
                             <p class="text-justify wow fadeInLeft">The IT Health Check / Audit for organizations from any domain is a MUST to ensure optimal performance in the day to day operations and decision-making process. It helps the organization to understand and utilize technology more efficiently. This audit helps to get more out of your existing technology investments and recommend further updates and upgrades based on the current set up.</p>
                             <img src="img/blog/sub-page-pic-2.jpg" alt="" class="img-responsive wow fadeInLeft"/>
-                            <h3 class="text-justify wow fadeInLeft">Golden Avenue IT & Network Health Check includes various components and addresses the critical and vulnerable points of different IT aspects as detailed below:</h3>
+                            <h3 class="text-justify wow fadeInLeft">Golden Avenue IT & Network Health Check includes various components and addresses the critical and vulnerable points of different IT aspects as detailed below.</h3>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Assess if the entire IT infrastructure both hardware and software fulfill the standard necessary requirements of your business and if it is cost effective</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Analyzing and testing the security policies and data protection adopted by your business</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Guides you in the right direction to build a robust and secured IT foundation for your business</li>
-                                <i class="fa fa-check" aria-hidden="true" style="padding: 8px 6px 38px"></i><li>Whether you want to UPGRADE your current Infrastructure or embark on a new venture, we deliver the state-of-the-art solutions that will give your establishment a sustained business advantage.</li>
+                                <i class="fa fa-check" aria-hidden="true" style="padding: 8px 6px 38px"></i><li>Whether you want to UPGRADE your current Infrastructure or embark on a new venture, we deliver the state-of-the-art solutions that will give your establishment a sustained business advantage</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Using the right network tools to check the vulnerabilities on the Network</li>
                             </ul>
 
