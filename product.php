@@ -25,11 +25,11 @@
                             <li>Products</li>
                         </ul>
                         <div class="row">
-<!--                            <div class="col-md-12">
-                                
-                            </div>-->
+                            <!--                            <div class="col-md-12">
+                                                            
+                                                        </div>-->
                             <div class="col-md-6 wow fadeInLeft">
-                                <h2 class="color-blue text-transform-none wow fadeInUp">Infrastructure Products</h2>
+                                <!--                                <h2 class="color-blue text-transform-none wow fadeInUp">Infrastructure Products</h2>-->
                                 <h4>Enterprise Computing & Telecom</h4>
                                 <p class="text-justify">95% of businesses depend on Information Technology. To help facilitate businesses to scale and grow in the right direction, using the right equipment is as important as making the right decisions to run your business.</p>
                                 <p class="text-justify">Golden Avenue has the expertise in providing the complete range of hardware products ranging from Laptops, Desktops, Servers, Printers, Networking and Security products. We work only with the top-tier brands and ensure genuine products are provided. Our offering depends on the scale and nature of our client’s requirements.</p>
@@ -85,7 +85,7 @@
                                             <div class="padding-custom">
                                                 <h3 class="color-blue">Servers </h3>
                                                 <p><strong>For Outstanding and optimum level of performance, IT-enabled companies depend significantly on computing. Golden Avenue delivers the best computing experience</strong></p>
-                                                <p>1.	Rack & Blade Servers.</p>
+                                                <p>1.	Rack & Blade Servers</p>
                                                 <p>2.	HPE</p>
                                                 <p>3.	Dell</p>
                                                 <p>4.	Lenovo</p>
@@ -196,6 +196,24 @@
                                 <img src="img/prduct-trust.jpg" alt="" class="img-width" />
                             </div>
                         </div>
+                        <div class="row">
+                            <div class="col-md-12 wow fadeInUp">
+                                <h3 class="color-blue bold">Some of the Brands we work with</h3>
+                                <div class="container">
+                                    <h2>Our  Partners</h2>
+                                    <section class="customer-logos slider">
+                                        <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
+                                        <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg"></div>
+                                        <div class="slide"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg"></div>
+                                        <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg"></div>
+                                        <div class="slide"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg"></div>
+                                        <div class="slide"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg"></div>
+                                        <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
+                                        <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg"></div>
+                                    </section>
+                                </div>
+                            </div>
+                        </div>
                     </section>
                 </div>
             </section>
@@ -217,6 +235,31 @@
 
                 // Get the element with id="defaultOpen" and click on it
                 document.getElementById("defaultOpen").click();
+
+                
+                // slick slider Java script
+                $(document).ready(function () {
+                    $('.customer-logos').slick({
+                        slidesToShow: 6,
+                        slidesToScroll: 1,
+                        autoplay: true,
+                        autoplaySpeed: 1500,
+                        arrows: false,
+                        dots: false,
+                        pauseOnHover: false,
+                        responsive: [{
+                                breakpoint: 768,
+                                settings: {
+                                    slidesToShow: 4
+                                }
+                            }, {
+                                breakpoint: 520,
+                                settings: {
+                                    slidesToShow: 3
+                                }
+                            }]
+                    });
+                });
             </script>
         </div>
     </body>

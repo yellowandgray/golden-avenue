@@ -318,7 +318,7 @@
                     <p class="wow fadeInLeft text-center">One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong brand partnerships to deliver and integrate enterprise products that seamlessly align with your business.</p>
                     <div class="row">
                         <div class="col-lg-12">
-                            <h3 class="wow fadeInLeft text-center">Benefits of signing up for an Annual Maintenance Contract (AMC):</h3>
+                            <h3 class="wow fadeInLeft text-center">Benefits of signing up for an Annual Maintenance Contract (AMC)</h3>
                             <div class="col-md-6 col-sm-2 col-xs-12 wow fadeInLeft" data-wow-delay="0.5s">
                                 <ul style="list-style: none;">
                                     <li>1. Enhanced Business Suite</li>

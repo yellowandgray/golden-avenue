@@ -7,7 +7,7 @@
     <body>
         <div id="wrapper">
             <?php include 'menu.php'; ?><!-- end header -->
-            <section id="inner-headline-2">
+            <section id="inner-headline-2" class="wow fadeInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
@@ -25,12 +25,12 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-7">
-                            <h3 class="color-blue wow fadeInLeft"><strong>Business continuity</strong></h3>
+                            <h3 class="color-blue wow fadeInLeft"><strong>Business Continuity</strong></h3>
                             <p class="text-justify wow fadeInLeft">With the increasing number of threats to businesses in today’s world, you must learn to be prepared for the unexpected. Without the proper resources, being able to ensure that your business remains safe can be challenging. Here at Golden Avenue, readiness and preparedness is our focus and we are here to assist you with developing and maintaining your business continuity plan. With access to current state of the art technology and resources, business continuity planning and maintenance has never been easier.</p>
                             <p class="text-justify wow fadeInLeft color-blue">In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible.</p>
                             <!--                                <h3 class="color-blue text-justify">In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible.</h3>
                                                             <img src="img/blog/bus1.jpg" alt="" class="img-responsive"/>-->
-                            <h3 class="color-blue text-justify wow fadeInLeft">Our experts are constantly engaged in ensuring your business performs to the optimum levels</h3>
+                            <h3 class="color-blue text-justify wow fadeInLeft">Our experts are constantly engaged in ensuring your business performs to the optimum levels.</h3>
                             <div class="row">
                                 <!--                                    <div class="col-md-6">
                                                                         <ul class="list-line">

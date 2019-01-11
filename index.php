@@ -5,7 +5,7 @@
         setTimeout(
                 function showModal() {
                     $('#myModal').modal('show');
-                }, 15000);
+                }, 20000);
     </script>
     <body onload="showModal()">
         <div id="wrapper" class="home-page">
@@ -145,12 +145,12 @@
                                     <h3 class="blue-color bold">Virtual IT Manager services include:</h3>  
                                     <ul class="list-line list-style-type padding-0">
                                         <li>Annual Maintenance Contracts</li>
-                                        <li>Cyber Security Awareness workshops</li>
+                                        <li>Cyber Security Awareness Workshops</li>
                                         <li>IT Infrastructure Checks</li>
                                         <li>Network Health Checks</li>
-                                        <li>Cloud solutions</li>
-                                        <li>IT Hardware and Software procurement</li>
-                                        <li>Data storage & backup disaster recovery</li>
+                                        <li>Cloud Solutions</li>
+                                        <li>IT Hardware & Software Procurement</li>
+                                        <li>Data Storage & Backup Disaster Recovery</li>
                                     </ul>
                                 </div>
                             </div>
@@ -327,15 +327,20 @@
                         <div class="col-md-4 wow fadeInUp">
                             <h3 class="text-center bold">Clients</h3>
                             <div class="row margin-bottom-0">
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <img src="img/clients/001.png" class="img-responsive" style="margin-bottom: 10px" />
                                     <br/>
                                     <img src="img/clients/002.png" class="img-responsive" style="margin-bottom: 10px" />
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <img src="img/clients/003.png" class="img-responsive" style="margin-bottom: 10px" />
                                     <br/>
                                     <img src="img/clients/004.png" class="img-responsive" style="margin-bottom: 10px" />
+                                </div>
+                                <div class="col-md-4">
+                                    <img src="img/clients/footer-img-1.jpg" class="img-responsive" style="margin-bottom: 10px" />
+                                    <br/>
+                                    <img src="img/clients/footer-img-2.jpg" class="img-responsive" style="margin-bottom: 10px" />
                                 </div>
                             </div>
                         </div>

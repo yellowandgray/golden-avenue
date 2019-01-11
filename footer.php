@@ -103,6 +103,7 @@
 <script src="js/common.js" type="text/javascript"></script>
 <script src="js/chat.js" type="text/javascript"></script>
 <script src="js/wow/wow.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 <script>
     wow = new WOW(
             {
