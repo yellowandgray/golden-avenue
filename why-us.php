@@ -40,7 +40,7 @@
                             <div class="col-md-4 wow fadeInUp">
                                 <div class="why-us-content">
                                     <h3>Client Focused</h3>
-                                    <p class="text-justify">We value our clients immensely and are focused on their requirements and provide the best solutions available  <br/><br/><br/><br/><br/></p>
+                                    <p class="text-justify">We value our clients immensely and are focused on their requirements and provide the best solutions available.  <br/><br/><br/><br/><br/></p>
                                 </div>
                             </div>
                         </div>
@@ -50,7 +50,7 @@
                             <div class="col-md-4 wow fadeInUp">
                                 <div class="why-us-content">
                                     <h3>Single Point of Contact and Accountability</h3>
-                                    <p class="text-justify">Each of our Clients are assigned with a dedicated Consultant who caters to their IT requirements and provide them with expert advice and solutions thus creating a better relationship with the clients in the process which helps in both ends to get the JOB DONE</p>
+                                    <p class="text-justify">Each of our Clients are assigned with a dedicated Consultant who caters to their IT requirements and provide them with expert advice and solutions thus creating a better relationship with the clients in the process which helps in both ends to get the JOB DONE.</p>
                                 </div>
                             </div>
                             <div class="col-md-4 wow fadeInUp">
