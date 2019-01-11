@@ -30,7 +30,7 @@
                                                         </div>-->
                             <div class="col-md-6 wow fadeInLeft">
                                 <!--                                <h2 class="color-blue text-transform-none wow fadeInUp">Infrastructure Products</h2>-->
-                                <h4>Enterprise Computing & Telecom</h4>
+                                <h4 class="color-blue">Enterprise Computing & Telecom</h4>
                                 <p class="text-justify">95% of businesses depend on Information Technology. To help facilitate businesses to scale and grow in the right direction, using the right equipment is as important as making the right decisions to run your business.</p>
                                 <p class="text-justify">Golden Avenue has the expertise in providing the complete range of hardware products ranging from Laptops, Desktops, Servers, Printers, Networking and Security products. We work only with the top-tier brands and ensure genuine products are provided. Our offering depends on the scale and nature of our client’s requirements.</p>
                             </div>

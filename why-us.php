@@ -24,7 +24,7 @@
                             <li><a href="index.php">Home</a></li>
                             <li>Why Us</li>
                         </ul>
-                        <h2>Why Golden Avenue</h2>
+                        <h2 class="color-blue">Why Golden Avenue?</h2>
                         <div class="row">
                             <div class="col-md-4 wow fadeInUp">
                                 <div class="why-us-content">
@@ -53,8 +53,8 @@
                             </div>
                             <div class="col-md-6">
                                 <h2 class="bold margin-0 color-blue">Prem Bhojwani</h2>
-                                <h4 class="bold">CEO, Golden Avenue</h4>
-                                <p class="bold text-justify margin-right-9">A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue is dedicated to achieving success and making a lasting impact on their clientèle.</p> 
+                                <p class="bold">CEO, Golden Avenue</p><br/>
+                                <p class="bold text-justify margin-right-90">A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue is dedicated to achieving success and making a lasting impact on their clientèle.</p> 
                             </div>
                         </div>
                     </div>
