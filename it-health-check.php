@@ -36,7 +36,7 @@
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Analyzing and testing the security policies and data protection adopted by your business</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Guides you in the right direction to build a robust and secured IT foundation for your business</li>
                                 <i class="fa fa-check" aria-hidden="true" style="padding: 8px 6px 38px"></i><li>Whether you want to UPGRADE your current Infrastructure or embark on a new venture, we deliver the state-of-the-art solutions that will give your establishment a sustained business advantage.</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Using the right network tools to check the vulnerabilities on the Network.</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Using the right network tools to check the vulnerabilities on the Network</li>
                             </ul>
 
                         </div>
