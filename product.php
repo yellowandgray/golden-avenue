@@ -199,19 +199,20 @@
                         <div class="row">
                             <div class="col-md-12 wow fadeInUp">
                                 <h3 class="color-blue bold">Some of the Brands we work with</h3>
-                                <div class="container">
-                                    <h2>Our  Partners</h2>
-                                    <section class="customer-logos slider">
-                                        <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
-                                        <div class="slide"><img src="https://image.freepik.com/free-vector/3d-box-logo_1103-876.jpg"></div>
-                                        <div class="slide"><img src="https://image.freepik.com/free-vector/blue-tech-logo_1103-822.jpg"></div>
-                                        <div class="slide"><img src="https://image.freepik.com/free-vector/colors-curl-logo-template_23-2147536125.jpg"></div>
-                                        <div class="slide"><img src="https://image.freepik.com/free-vector/abstract-cross-logo_23-2147536124.jpg"></div>
-                                        <div class="slide"><img src="https://image.freepik.com/free-vector/football-logo-background_1195-244.jpg"></div>
-                                        <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
-                                        <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg"></div>
-                                    </section>
-                                </div>
+                                <section class="customer-logos slider">
+                                    <div class="slide"><img src="img/ga-brands/001.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/002.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/003.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/004.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/005.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/006.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/007.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/008.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/009.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/010.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/011.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/012.png"></div>
+                                </section>
                             </div>
                         </div>
                     </section>
@@ -236,7 +237,7 @@
                 // Get the element with id="defaultOpen" and click on it
                 document.getElementById("defaultOpen").click();
 
-                
+
                 // slick slider Java script
                 $(document).ready(function () {
                     $('.customer-logos').slick({
@@ -255,7 +256,7 @@
                             }, {
                                 breakpoint: 520,
                                 settings: {
-                                    slidesToShow: 3
+                                    slidesToShow: 2
                                 }
                             }]
                     });

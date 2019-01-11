@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php $page = 'why-us';
+    <?php
+    $page = 'why-us';
     include 'head.php';
     ?>
     <body>
         <div id="wrapper">
-<?php include 'menu.php'; ?>
+            <?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-10">
                 <div class="container">
@@ -45,8 +46,20 @@
                             </div>
                         </div>
                     </div>
-                    <div class="about">
-                        <div class="row">
+                    <div class="row" style="background: url(img/why-us-background.jpg) no-repeat;padding: 40px;background-size: cover;">
+                        <div class="about">
+                            <div class="col-md-6">
+                                <iframe src="https://www.youtube.com/embed/w9D1LtDJe-A"></iframe>
+                            </div>
+                            <div class="col-md-6">
+                                <p>Prem Bhojwani <br/>CEO, Golden Avenue</p>
+                                <p>A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue is dedicated to achieving success and making a lasting impact on their clientèle.</p> 
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="about">
                             <div class="col-md-4 wow fadeInUp">
                                 <div class="why-us-content">
                                     <h3>Single Point of Contact and Accountability</h3>
@@ -69,7 +82,7 @@
                     </div>
                 </div>
             </section>
-        <?php include 'footer.php'; ?>
+            <?php include 'footer.php'; ?>
         </div>
     </body>
 </html>
