@@ -49,7 +49,7 @@
                         <div class="row showcase-section">
                             <div class="col-lg-12 wow fadeInLeft">
                                 <h3 class="color-blue">Why is Cyber Security Awareness Training so important to your Organization?</h3>
-                                <p>Cyber Security awareness training is about teaching employees to understand the risks and threats around the ever-evolving digital world. It also ensures that employees are fully conscious to the consequences of failing to protect the organization from external attackers. Data breaches are a major concern for all. Learning how to prevent security occurrences should be an essential part of an employees’ job.</p>
+                                <p>Cyber Security awareness training is about teaching employees to understand the risks and threats around the ever-evolving digital world. It also ensures that employees are fully conscious to the consequences of failing to protect the organization from external attackers. Data breaches are a major concern for all. Learning how to prevent security occurrences should be an essential part of an employee’s job.</p>
                             </div>
                         </div>
                         <!--                        <h3 class="color-blue">Advantages</h3>-->
