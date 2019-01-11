@@ -35,7 +35,7 @@
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Assess security threats to outline the significance of existing vulnerabilities</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Design and recommend solutions to secure the entire information security in your network</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Provide information on available security tools and methods</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Preparing workforces for a responsible and secured data sharing.</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Preparing workforces for a responsible and secured data sharing</li>
                             </ul>
                             <br/>
                             <img src="img/blog/sub-page-pic-03.jpg" alt="" class="img-responsive wow fadeInLeft"/>

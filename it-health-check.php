@@ -97,7 +97,7 @@
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Bandwidth utilization</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Content filtering to avoid certain categories of websites</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Firewall setup (policies for allowing/disallowing the users access to websites)</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Email services (unauthorized sending of emails, blocking of attachments, controlling size or type of attachments).</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Email services (unauthorized sending of emails, blocking of attachments, controlling size or type of attachments)</li>
                                 </ul>
                             </div>
                         </div>
@@ -166,7 +166,7 @@
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Hacker attacks</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Denial of Service</li>
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Distributed Denial of Service Attacks</li>
-                                    <i class="fa fa-check" aria-hidden="true"></i><li>Data theft.</li>
+                                    <i class="fa fa-check" aria-hidden="true"></i><li>Data theft</li>
                                 </ul>
                             </div>
                         </div>
