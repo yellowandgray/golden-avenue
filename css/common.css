@@ -453,7 +453,7 @@ blockquote p {color: #fff;}
 
 @media (min-width: 280px) and (max-width: 320px) {
     .navbar-brand img{
-        margin-top: -100px;
+        /*        margin-top: -100px;*/
         margin-left: -15px;
     }
     .tabcontent {
@@ -486,6 +486,7 @@ blockquote p {color: #fff;}
     #inner-headline-0 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-0 h2.pageTitle {
         padding: 45px !important;
@@ -499,6 +500,7 @@ blockquote p {color: #fff;}
     #inner-headline-1 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-1 h2.pageTitle {
         padding: 45px !important;
@@ -507,6 +509,7 @@ blockquote p {color: #fff;}
     #inner-headline-2 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-2 h2.pageTitle {
         padding: 45px !important;
@@ -515,6 +518,7 @@ blockquote p {color: #fff;}
     #inner-headline-3 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-3 h2.pageTitle {
         padding: 45px !important;
@@ -523,6 +527,7 @@ blockquote p {color: #fff;}
     #inner-headline-4 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-4 h2.pageTitle {
         padding: 45px !important;
@@ -531,6 +536,7 @@ blockquote p {color: #fff;}
     #inner-headline-5 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-5 h2.pageTitle {
         padding: 45px !important;
@@ -539,6 +545,7 @@ blockquote p {color: #fff;}
     #inner-headline-6 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-6 h2.pageTitle {
         padding: 45px !important;
@@ -547,6 +554,7 @@ blockquote p {color: #fff;}
     #inner-headline-7 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-7 h2.pageTitle {
         padding: 45px !important;
@@ -555,6 +563,7 @@ blockquote p {color: #fff;}
     #inner-headline-8 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-8 h2.pageTitle {
         padding: 45px !important;
@@ -563,6 +572,7 @@ blockquote p {color: #fff;}
     #inner-headline-9 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-9 h2.pageTitle {
         padding: 45px !important;
@@ -571,6 +581,7 @@ blockquote p {color: #fff;}
     #inner-headline-10 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-10 h2.pageTitle {
         padding: 45px !important;
@@ -579,6 +590,7 @@ blockquote p {color: #fff;}
     #inner-headline-11 {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline-11 h2.pageTitle {
         padding: 45px !important;
@@ -587,6 +599,7 @@ blockquote p {color: #fff;}
     #inner-headline {
         width: 100% !important;
         height: 145px !important;
+        margin-top: 191px !important;
     }
     #inner-headline h2.pageTitle {
         padding: 45px !important;
@@ -1217,19 +1230,24 @@ blockquote p {color: #fff;}
 .open-button {
     background-color: #007e93;
     color: white;
-    padding: 8px 20px;
+    padding: 0px 0;
     border: none;
     cursor: pointer;
-    /*    opacity: 0.8;*/
+    /* opacity: 0.8; */
     position: fixed;
     bottom: 293px;
-    left: -117px;
-    width: 280px;
-    font-size: 24px;
+    left: -61px;
+    width: 168px;
+    font-size: 22px;
     transform: rotate(-90deg);
     z-index: 999;
     border-bottom-left-radius: 10px !important;
     border-bottom-right-radius: 10px !important;
+    height: 45px;
+}
+
+.open-button blink {
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 /* The popup chat - hidden by default */
@@ -2125,11 +2143,11 @@ blockquote p { color: #ffffff !important; }
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-            user-select: none;
+    user-select: none;
     -webkit-touch-callout: none;
     -khtml-user-select: none;
     -ms-touch-action: pan-y;
-        touch-action: pan-y;
+    touch-action: pan-y;
     -webkit-tap-highlight-color: transparent;
 }
 
@@ -2155,10 +2173,10 @@ blockquote p { color: #ffffff !important; }
 .slick-slider .slick-list
 {
     -webkit-transform: translate3d(0, 0, 0);
-       -moz-transform: translate3d(0, 0, 0);
-        -ms-transform: translate3d(0, 0, 0);
-         -o-transform: translate3d(0, 0, 0);
-            transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    -o-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
 }
 
 .slick-track
