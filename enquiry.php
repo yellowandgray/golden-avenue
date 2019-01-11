@@ -1,5 +1,5 @@
 <div class="box-shadow-2">
-    <form action="" method="post" id="footer-form">
+    <form id="enquiry">
         <h3 class="text-center bold">Enquiry</h3>
         <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
         <br>
