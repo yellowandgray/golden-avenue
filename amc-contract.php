@@ -173,7 +173,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-5">
-                                <h3 class="color-blue wow fadeInLeft">Our Annual Maintenance Contract (AMC) covers the following:</h3>
+                                <h3 class="color-blue wow fadeInLeft">Our Annual Maintenance Contract (AMC) covers the following</h3>
                                 <ul class="list-sr wow fadeInLeft">
                                     <li><i class="fa fa-check-square-o clr"></i> Maintenance of IT infrastructure</li>
                                     <li><i class="fa fa-check-square-o clr"></i> Hardware and Software Support</li>
