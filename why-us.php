@@ -52,7 +52,8 @@
                                 <iframe src="https://www.youtube.com/embed/w9D1LtDJe-A"></iframe>
                             </div>
                             <div class="col-md-6">
-                                <p>Prem Bhojwani <br/>CEO, Golden Avenue</p>
+                                <h3>Prem Bhojwani </h3>
+                                <h4>CEO, Golden Avenue</h4>
                                 <p>A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue is dedicated to achieving success and making a lasting impact on their clientèle.</p> 
                             </div>
                         </div>
