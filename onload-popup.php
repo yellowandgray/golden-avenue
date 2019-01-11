@@ -14,7 +14,7 @@
 
             </div>
             <div class="modal-body-1">
-                <form action="" method="post" id="footer-form">
+                <form id="footer-form">
                     <input class="form-control" name="name" id="first_name" placeholder="Name *" required>
                     <input class="form-control" name="email" id="email" placeholder="Your Email *">
                     <input class="form-control" name="phone" placeholder="Phone *" id="phone">
