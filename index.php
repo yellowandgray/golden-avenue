@@ -11,74 +11,76 @@
         <div id="wrapper" class="home-page">
             <?php include 'menu.php'; ?>
             <!-- end header -->
-            <section id="banner">
-                <!-- Slider -->
-                <div id="main-slider" class="flexslider">
-                    <ul class="slides">
-                        <li>
-                            <img src="img/slides/Home_banner2.jpg" alt="" />
-                            <div class="flex-caption">
-                                <h3 class="banner-content wow slideInLeft">VIRTUAL IT MANAGER<br/><span class="italic font-size-24 font-italic">at a fraction of the cost</span></h3>  
-                            </div>
-                        </li>
-                        <li>
-                            <img src="img/slides/Home_banner1.jpg" alt="" />
-                            <div class="flex-caption">
-                                <h3 class="banner-content1 wow slideInLeft">ANNUAL MAINTENANCE<br/> CONTRACTS
-<!--                                    <span class="italic font-size-24 font-italic">Services to keep you fit always</span>-->
-                                </h3>  
-                                <!--<h3 class="banner-content"></br><span class="italic font-size-24 font-italic"></span></h3>-->  
-                            </div>
-                        </li>
-                        <li>
-                            <img src="img/slides/Home_banner3.jpg" alt="" />
-                            <div class="flex-caption">
-                                <h3 class="banner-content wow slideInLeft">IT & NETWORK<br/> HEALTH CHECKS</h3>  
+            <div class="banner-top">
+                <section id="banner">
+                    <!-- Slider -->
+                    <div id="main-slider" class="flexslider">
+                        <ul class="slides">
+                            <li>
+                                <img src="img/slides/Home_banner2.jpg" alt="" />
+                                <div class="flex-caption">
+                                    <h3 class="banner-content wow slideInLeft">VIRTUAL IT MANAGER<br/><span class="italic font-size-24 font-italic">at a fraction of the cost</span></h3>  
+                                </div>
+                            </li>
+                            <li>
+                                <img src="img/slides/Home_banner1.jpg" alt="" />
+                                <div class="flex-caption">
+                                    <h3 class="banner-content1 wow slideInLeft">ANNUAL MAINTENANCE<br/> CONTRACTS
+    <!--                                    <span class="italic font-size-24 font-italic">Services to keep you fit always</span>-->
+                                    </h3>  
+                                    <!--<h3 class="banner-content"></br><span class="italic font-size-24 font-italic"></span></h3>-->  
+                                </div>
+                            </li>
+                            <li>
+                                <img src="img/slides/Home_banner3.jpg" alt="" />
+                                <div class="flex-caption">
+                                    <h3 class="banner-content wow slideInLeft">IT & NETWORK<br/> HEALTH CHECKS</h3>  
 
-                            </div>
-                        </li>
-                        <li>
-                            <img src="img/slides/Home_banner.jpg" alt="" />
-                            <div class="flex-caption">
-                                <h3  class="banner-content wow slideInLeft">IT SECURITY &<br/> INFRASTRUCTURE<br/> SOLUTIONS</h3>  
+                                </div>
+                            </li>
+                            <li>
+                                <img src="img/slides/Home_banner.jpg" alt="" />
+                                <div class="flex-caption">
+                                    <h3  class="banner-content wow slideInLeft">IT SECURITY &<br/> INFRASTRUCTURE<br/> SOLUTIONS</h3>  
 
-                            </div>
-                        </li>
-                        <!--                        <li>
-                                                    <img src="img/slides/Home_banner4.jpg" alt="" />
-                                                    <div class="flex-caption">
-                                                        <h3  class="banner-content">NETWORK & CONNECTIVITY</br> SOLUTIONS</h3>  
-                        
-                                                    </div>
-                                                </li>-->
-                        <!--                        <li>
-                                                    <img src="img/slides/Home_banner5.jpg" alt="" />
-                                                    <div class="flex-caption">
-                                                        <h3  class="banner-content">DISASTER RECOVERY & STORAGE SOLUTIONS</h3>  
-                        
-                                                    </div>
-                                                </li>-->
-                        <li>
-                            <img src="img/slides/Home_banner6.jpg" alt="" />
-                            <div class="flex-caption">
-                                <h3  class="banner-content wow slideInLeft">CYBER SECURITY AWARENESS WORKSHOP</h3>  
+                                </div>
+                            </li>
+                            <!--                        <li>
+                                                        <img src="img/slides/Home_banner4.jpg" alt="" />
+                                                        <div class="flex-caption">
+                                                            <h3  class="banner-content">NETWORK & CONNECTIVITY</br> SOLUTIONS</h3>  
+                            
+                                                        </div>
+                                                    </li>-->
+                            <!--                        <li>
+                                                        <img src="img/slides/Home_banner5.jpg" alt="" />
+                                                        <div class="flex-caption">
+                                                            <h3  class="banner-content">DISASTER RECOVERY & STORAGE SOLUTIONS</h3>  
+                            
+                                                        </div>
+                                                    </li>-->
+                            <li>
+                                <img src="img/slides/Home_banner6.jpg" alt="" />
+                                <div class="flex-caption">
+                                    <h3  class="banner-content wow slideInLeft">CYBER SECURITY AWARENESS WORKSHOP</h3>  
 
-                            </div>
-                        </li>
+                                </div>
+                            </li>
 
-                    </ul>
-                    <ul class="flex-direction-nav">
-                        <li>
-                            <a class="flex-prev" href="#">Previous</a>
-                        </li>
-                        <li>
-                            <a class="flex-next" href="#">Next</a>
-                        </li>
-                    </ul>
-                </div>
-                <!-- end slider -->
+                        </ul>
+                        <ul class="flex-direction-nav">
+                            <li>
+                                <a class="flex-prev" href="#">Previous</a>
+                            </li>
+                            <li>
+                                <a class="flex-next" href="#">Next</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- end slider -->
 
-            </section> 
+                </section> 
+            </div>
 
 
             <section id="content">
@@ -110,10 +112,10 @@
                             <div class="cyber-security-bg1">
                                 <a href="faq-cyber-security.php"><h4 class="text-center bold"> AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4></a>
                                 <a href="faq-cyber-security.php"><img src="img/golden-cyber.jpg" class="img-responsive img-width" />
-                                <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
-                                <hr class="hr1"> 
-                                <p class="font-size-12 bold">Venue: Your Office Premise <a href="cyber-security.php" type="buttton" class="btn-custom">See More</a></p>
-<!--                                        <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
+                                    <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
+                                    <hr class="hr1"> 
+                                    <p class="font-size-12 bold">Venue: Your Office Premise <a href="cyber-security.php" type="buttton" class="btn-custom">See More</a></p>
+    <!--                                        <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                             </div>
                         </div>
                     </div>
@@ -350,7 +352,7 @@
             </section>
         </div>
 
-        
+
         <?php include 'footer.php'; ?>
         <?php include 'onload-popup.php'; ?>
         <script>
