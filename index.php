@@ -110,7 +110,7 @@
                         </div>
                         <div class="col-md-5 wow fadeInUp">
                             <div class="cyber-security-bg1">
-                                <a href="faq-cyber-security.php"><h4 class="text-center bold"> AED 1 CYBER SECURITY AWARENESS WORKSHOP</h4></a>
+                                <a href="faq-cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise for AED 1</h4></a>
                                 <a href="faq-cyber-security.php"><img src="img/golden-cyber.jpg" class="img-responsive img-width" />
                                     <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
                                     <hr class="hr1"> 
