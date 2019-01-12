@@ -5,7 +5,7 @@
             <div class="modal-header-1">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <img  class="img-width" src="img/sub-banner/onload-pic-1.jpg" alt=""/>
-                <h3 class="text-center margin-top-10">AED 1 Cyber Security Awareness Workshop at your Premises</h3>
+                <h3 class="text-center margin-top-10">Cyber Security Awareness Workshop at your Premise for AED 1</h3>
                 <ul>
                     <li>Protect your business</li>
                     <li>Make employees your active defense against cyber threats</li>
