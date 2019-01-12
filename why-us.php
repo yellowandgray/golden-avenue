@@ -101,7 +101,7 @@
                 <span class="helper"></span>
                 <div>
                     <div class="popupCloseButton">X</div>
-                    <video controls autoplay>
+                    <video controls>
                         <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/mp4">
                         <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/ogg">
                     </video>
