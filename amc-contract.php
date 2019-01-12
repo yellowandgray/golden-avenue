@@ -8,7 +8,7 @@
         <div id="wrapper">
             <?php include 'menu.php'; ?>
             <!-- end header -->
-            <section id="inner-headline-8">
+            <section id="inner-headline-8" class="wow fadeInUp">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">

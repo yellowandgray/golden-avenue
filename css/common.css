@@ -605,6 +605,11 @@ blockquote p {color: #fff;}
         padding: 45px !important;
         font-size: 20px;
     }
+
+    .popup-scroll {
+        width: 260px !important;
+        height: 350px !important;
+    }
 }
 
 @media (min-width: 321px) and (max-width: 425px) {

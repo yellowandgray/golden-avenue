@@ -7,7 +7,7 @@
     <body>
         <div id="wrapper">
             <?php include 'menu.php'; ?><!-- end header -->
-            <section id="inner-headline-4">
+            <section id="inner-headline-4" class="wow fadeInLeft">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
