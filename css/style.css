@@ -2349,6 +2349,7 @@ article img.pull-right, article .align-right{
     background:  url("../img/gray.jpg");
     /*    background: #007188;*/
     background-size: cover;
+    height:340px;
 }
 
 .cyber-security-bg h4 {
@@ -2372,6 +2373,7 @@ article img.pull-right, article .align-right{
     /*    background:  url("../img/gray.jpg");*/
     background: rgba(0, 0, 0, 0.3);
     background-size: cover;
+    height: 355px;
 }
 
 .cyber-security-bg1 h4 {
@@ -2389,7 +2391,7 @@ article img.pull-right, article .align-right{
 }
 
 #nav{
-/*    overflow: hidden;*/
+    /*    overflow: hidden;*/
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */

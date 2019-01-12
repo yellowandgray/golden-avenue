@@ -429,7 +429,16 @@ blockquote p {color: #fff;}
         margin-bottom: 0;
         padding: 0 40px 30px 40px;
     }
+/*    .cyber-security-bg {
+        height: 430px !important;
+    }*/
     
+}
+
+@media (min-width: 768px) and (max-width: 1500px) {
+    .cyber-security-bg {
+        height: 350px !important;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 780px) {
@@ -1059,9 +1068,9 @@ blockquote p {color: #fff;}
     .b3 {
         height: 570px !important;
     }
-    .btn-custom {
-        float: none !important;
-    }
+/*    .cyber-security-bg1 {
+        height: 435px !important;
+    }*/
 }
 
 @media (min-width: 280px) and (max-width: 320px) {
@@ -1091,7 +1100,7 @@ blockquote p {color: #fff;}
         padding: 12px 10px;
     }
     .btn-custom {
-        float: none !important;
+        float: right !important;
     }
 }
 
@@ -1138,7 +1147,7 @@ blockquote p {color: #fff;}
         padding: 8px 6px 8px !important;
     }
     .btn-custom {
-        float: none !important;
+        float: right !important;
     }
 }
 
@@ -1377,6 +1386,12 @@ marquee {
 .readmore-hover:hover {color: #d2ad6a}
 
 .img-width {width: 100%}
+
+@media (min-width: 320px) and (max-width: 425px) {
+    .cyber-security-bg-1 {
+        height: 375px !important;
+    }
+}
 
 @media (min-width: 320px) and (max-width: 976px) {
     iframe {
@@ -2096,7 +2111,7 @@ blockquote p { color: #ffffff !important; }
 .btn-custom {
     text-align: center;
     color: #FFFFFF;
-    padding: 0px 21px;
+    padding: 1px 21px;
     border-radius: 100px;
     background: #007e93;
     border-color: transparent;
@@ -2259,4 +2274,11 @@ blockquote p { color: #ffffff !important; }
 /* END SLICK SLIDER */
 .margin-right-90 {
     margin-right: 90px;
+}
+
+
+@media (min-width: 769px) and (max-width: 991px) {
+    .cyber-security-bg1 {
+        height: 430px !important;
+    }
 }
