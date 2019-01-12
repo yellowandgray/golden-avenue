@@ -429,7 +429,16 @@ blockquote p {color: #fff;}
         margin-bottom: 0;
         padding: 0 40px 30px 40px;
     }
+    
+}
 
+@media (min-width: 768px) and (max-width: 780px) {
+    #wrapper {
+        width: 107% !important;
+    }
+    footer {
+        width: 107% !important;
+    }
 }
 
 @media (min-width: 1024px) and (max-width: 1200px) {

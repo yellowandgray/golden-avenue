@@ -329,19 +329,14 @@
                         <div class="col-md-4 wow fadeInUp">
                             <h3 class="text-center bold">Clients</h3>
                             <div class="row margin-bottom-0">
-                                <div class="col-md-4">
+                                <div class="col-md-6">
                                     <img src="img/clients/001.png" class="img-responsive" style="margin-bottom: 10px" />
-                                    <br/>
                                     <img src="img/clients/002.png" class="img-responsive" style="margin-bottom: 10px" />
-                                </div>
-                                <div class="col-md-4">
                                     <img src="img/clients/003.png" class="img-responsive" style="margin-bottom: 10px" />
-                                    <br/>
-                                    <img src="img/clients/004.png" class="img-responsive" style="margin-bottom: 10px" />
                                 </div>
-                                <div class="col-md-4">
+                                <div class="col-md-6">
+                                    <img src="img/clients/004.png" class="img-responsive" style="margin-bottom: 10px" />
                                     <img src="img/clients/footer-img-1.jpg" class="img-responsive" style="margin-bottom: 10px" />
-                                    <br/>
                                     <img src="img/clients/footer-img-2.jpg" class="img-responsive" style="margin-bottom: 10px" />
                                 </div>
                             </div>
