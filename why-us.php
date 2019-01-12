@@ -54,7 +54,7 @@
                             <div class="col-md-6">
                                 <h2 class="bold margin-0 color-blue">Prem Bhojwani</h2>
                                 <p class="bold">CEO, Golden Avenue</p><br/>
-                                <p class="bold">A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue is dedicated to achieving success and making a lasting impact on their clientèle.</p> 
+                                <p class="bold">A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue is dedicated to achieving success and making a lasting impact on their clientèle.</p>
                             </div>
                         </div>
                     </div>
@@ -88,12 +88,15 @@
                 $(window).load(function () {
                     $(".trigger_popup_fricc_1").click(function () {
                         $('.hover_bkgr_fricc_1').show();
+                        $('#video_container').html('<video controls><source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/mp4"><source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/ogg"></video>');
                     });
                     $('.hover_bkgr_fricc').click(function () {
                         $('.hover_bkgr_fricc_1').hide();
+                        $('#video_container').html('');
                     });
                     $('.popupCloseButton').click(function () {
                         $('.hover_bkgr_fricc_1').hide();
+                        $('#video_container').html('');
                     });
                 });
             </script>
@@ -101,10 +104,7 @@
                 <span class="helper"></span>
                 <div>
                     <div class="popupCloseButton">X</div>
-                    <video controls>
-                        <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/mp4">
-                        <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/ogg">
-                    </video>
+                    <div id="video_container"></div>
                 </div>
             </div>
 
