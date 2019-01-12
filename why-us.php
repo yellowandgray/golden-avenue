@@ -49,7 +49,7 @@
                     <div class="row" style="background: url(img/bg-box.jpg) no-repeat;padding: 40px;background-size: cover;">
                         <div class="about">
                             <div class="col-md-6">
-                                <img class="trigger_popup_fricc img-responsive" id="myImg" src="img/why-us-play.jpg" onclick="" alt="" />
+                                <img class="trigger_popup_fricc_1 img-responsive" id="myImg" src="img/why-us-play.jpg" onclick="" alt="" />
                             </div>
                             <div class="col-md-6">
                                 <h2 class="bold margin-0 color-blue">Prem Bhojwani</h2>
@@ -86,24 +86,25 @@
             <?php include 'footer.php'; ?>
             <script>
                 $(window).load(function () {
-                    $(".trigger_popup_fricc").click(function () {
-                        $('.hover_bkgr_fricc').show();
+                    $(".trigger_popup_fricc_1").click(function () {
+                        $('.hover_bkgr_fricc_1').show();
                     });
                     $('.hover_bkgr_fricc').click(function () {
-                        $('.hover_bkgr_fricc').hide();
+                        $('.hover_bkgr_fricc_1').hide();
                     });
                     $('.popupCloseButton').click(function () {
-                        $('.hover_bkgr_fricc').hide();
+                        $('.hover_bkgr_fricc_1').hide();
                     });
                 });
             </script>
-            <div class="hover_bkgr_fricc">
+            <div class="hover_bkgr_fricc_1">
                 <span class="helper"></span>
                 <div>
                     <div class="popupCloseButton">X</div>
                     <video controls autoplay>
                         <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/mp4">
-                        <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/ogg"></video>
+                        <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/ogg">
+                    </video>
                 </div>
             </div>
 
