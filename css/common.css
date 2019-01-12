@@ -434,10 +434,10 @@ blockquote p {color: #fff;}
         margin-bottom: 0;
         padding: 0 40px 30px 40px;
     }
-/*    .cyber-security-bg {
-        height: 430px !important;
-    }*/
-    
+    /*    .cyber-security-bg {
+            height: 430px !important;
+        }*/
+
 }
 
 @media (min-width: 768px) and (max-width: 1500px) {
@@ -1073,9 +1073,9 @@ blockquote p {color: #fff;}
     .b3 {
         height: 570px !important;
     }
-/*    .cyber-security-bg1 {
-        height: 435px !important;
-    }*/
+    /*    .cyber-security-bg1 {
+            height: 435px !important;
+        }*/
 }
 
 @media (min-width: 280px) and (max-width: 320px) {
@@ -2286,4 +2286,81 @@ blockquote p { color: #ffffff !important; }
     .cyber-security-bg1 {
         height: 430px !important;
     }
+}
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}
+
+/* Popup box BEGIN */
+.hover_bkgr_fricc{
+    background:rgba(0,0,0,.4);
+    cursor:pointer;
+    display:none;
+    height:100%;
+    position:fixed;
+    text-align:center;
+    top:0;
+    width:100%;
+    z-index:10000;
+}
+.hover_bkgr_fricc .helper{
+    display:inline-block;
+    height:100%;
+    vertical-align:middle;
+}
+.hover_bkgr_fricc > div {
+    background-color: #fff;
+    box-shadow: 10px 10px 60px #555;
+    display: inline-block;
+    height: auto;
+    max-width: 700px;
+    min-height: 100px;
+    vertical-align: middle;
+    width: 60%;
+    position: relative;
+    border-radius: 8px;
+    padding: 15px 5%;
+}
+.popupCloseButton {
+    background-color: #fff;
+    border: 3px solid #999;
+    border-radius: 50px;
+    cursor: pointer;
+    display: inline-block;
+    font-family: arial;
+    font-weight: bold;
+    position: absolute;
+    top: -20px;
+    right: -20px;
+    font-size: 25px;
+    line-height: 30px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.popupCloseButton:hover {
+    background-color: #ccc;
+}
+.trigger_popup_fricc {
+    cursor: pointer;
+    font-size: 20px;
+/*    margin: 20px;*/
+    display: inline-block;
+    font-weight: bold;
+}
+/* Popup box BEGIN */
+
+#myImg:hover {opacity: 0.7;}
+
+#myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+video {
+    width: 436px;
+    height: 315px;
 }

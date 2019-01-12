@@ -49,7 +49,7 @@
                     <div class="row" style="background: url(img/bg-box.jpg) no-repeat;padding: 40px;background-size: cover;">
                         <div class="about">
                             <div class="col-md-6">
-                                <iframe src="https://www.youtube.com/embed/w9D1LtDJe-A"></iframe>
+                                <img class="trigger_popup_fricc img-responsive" id="myImg" src="img/why-us-play.jpg" onclick="" alt="" />
                             </div>
                             <div class="col-md-6">
                                 <h2 class="bold margin-0 color-blue">Prem Bhojwani</h2>
@@ -84,6 +84,29 @@
                 </div>
             </section>
             <?php include 'footer.php'; ?>
+            <script>
+                $(window).load(function () {
+                    $(".trigger_popup_fricc").click(function () {
+                        $('.hover_bkgr_fricc').show();
+                    });
+                    $('.hover_bkgr_fricc').click(function () {
+                        $('.hover_bkgr_fricc').hide();
+                    });
+                    $('.popupCloseButton').click(function () {
+                        $('.hover_bkgr_fricc').hide();
+                    });
+                });
+            </script>
+            <div class="hover_bkgr_fricc">
+                <span class="helper"></span>
+                <div>
+                    <div class="popupCloseButton">X</div>
+                    <video controls autoplay>
+                        <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/mp4">
+                        <source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/ogg"></video>
+                </div>
+            </div>
+
         </div>
     </body>
 </html>
