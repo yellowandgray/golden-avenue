@@ -25,30 +25,26 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-7 wow fadeInLeft">
-                            <h2>Why AMC?</h2>
-                            <p>By Golden Avenue | 21 January 2019</p>
-                            <img src="img/blog/cyber-crime-1.jpg" alt="" class="img-responsive"/>
-                            <h2>AMC Is The Smarter Way to Look After your IT Assets</h2>
-                            <h3 class="text-justify">Prevention is always better than Repair, and Growth over sluggishness.</h3>
-                            <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
-                            <p class="text-justify">What are the Advantages of signing up with an IT AMC Service Provider?</p>
+                            <img src="img/blog/cyber-crime.jpg" alt="" class="img-responsive"/>
+                            <h2>274 cyber attacks target the UAE so far in 2018, down 39%</h2>
+                            <h3 class="text-justify">Telecommunications Regulations Authority lauds efforts of cyber defence team in combatting attacks against UAE websites</h3>
+                            <p class="text-justify">A total of 274 cyber attacks targeted government and private sector entities in the UAE during the first seven months of the year, a decrease of 39 percent compared to the corresponding period in 2017.</p>
+                            <p class="text-justify">According to Telecommunications Regulations Authority (TRA) statistics, the decline in reported attacks is attributed to the efforts made by the Computer Emergency Readiness Team, which is in charge of foiling all cyber attacks. <a href="https://www.arabianbusiness.com/technology/403750-274-cyber-attacks-target-the-uae-so-far-in-2018-down-39" target="blank" class="bold readmore-hover">Read More</a></p>
+                            <br/>
+                            <img src="img/blog/biggest-data-breaches-2018.jpg" alt="" class="img-responsive img-width"/>
+                            <h2>The 10 Biggest Data Breaches of 2018... So Far</h2>
+                            <h4 class="text-justify">We're only halfway through 2018, but the scale of some of the data breaches that have already been reported is staggering. Think Facebook was the biggest one? Guess again.</h4>
+                            <p class="text-justify">Six months is a long time in infosec, so it's no surprise that numerous data breaches have emerged in the first half of 2018. Below is a countdown of 10 of the biggest incidents reported thus far in 2018 in terms of total number of records compromised. <a href="https://blog.barkly.com/biggest-data-breaches-2018-so-far" target="blank" class="bold readmore-hover">Read More</a></p>
+                            <br/>
+                            <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>
+                            <h2>The worst Cyber Security Breaches of 2018 so far</h2>
+                            <p class="text-justify">LOOKING BACK AT the first six months of 2018, there haven't been as many government leaks and global ransomware attacks as there were by this time last year, but that's pretty much where the good news ends. Corporate security isn't getting better fast enough, critical infrastructure security hangs in the balance, and state-backed hackers from around the world are getting bolder and more sophisticated.</p>
 
-<!--                            <img src="img/blog/biggest-data-breaches-2018.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>1. Regular Scheduled maintenance Updates and Upgrades</h2>
-                            <p class="text-justify">Handling business and IT challenges simultaneously can be a difficulty for many small and medium businesses. Lack of focus on the main stream of business can hinder growth. Signing up with an <a href="amc-contract.php">AMC Service Provider</a> will take care of both IT and maintenance troubles. The AMC Service provider will monitor your schedule and keep in touch with you whenever the appropriate procedures need to be implemented.</p>
-                            <p class="text-justify">Routine checks guarantee a better prevention option and a solution. An IT Infrastructure checkup performed regularly can also result in the devices performing efficiently throughout the year. Any issue detected, can be resolved immediately to prevent further damages thus increasing the device life.</p>
-<!--                            <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>2. Cost Effective</h2>
-                            <p class="text-justify">Partnering with the right IT <a href="amc-contract.php">AMC Service Provider</a> is a better choice than depending upon separate individual service providers which may add up to huge monetary amount by the end of the year because of lack of experience and expertise. AMC Service Providers these days offer flexible customized solutions & services that cater to different industries.</p>
-
-<!--                            <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>3. Handle IT Emergencies better</h2>
-                            <p class="text-justify">Joining forces with an IT <a href="amc-contract.php">AMC Service Provider</a> and thus working with their skilled technicians could be exactly what you are looking for.</p>
-                            <p class="text-justify">More Businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
-                            <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="amc-contract.php">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
-                            <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>
-                            <h3 class="text-justify">We at <a href="index.php">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
-                            <p class="text-justify">Give us a Call for a No Cost / No Obligation Free Consultation</p>
+                            <p class="text-justify">Here are the big digital security dramas that have played out so far this year—and it's only half over. <a href="https://www.wired.com/story/2018-worst-hacks-so-far/" target="blank" class="bold readmore-hover">Read More</a></p>
+                            <br/>
+                            <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>
+                            <h2>60 Cybersecurity Predictions For 2019</h2>
+                            <p class="text-justify">I’ve always been a loner, avoiding crowds as much as possible, but last Friday I found myself in the company of 500 million people. The breach of the personal accounts of Marriott and Starwood customers forced us to join the 34% of U.S. consumers who experienced a compromise of their personal information over the last year. Viewed another way, there were 2,216 data breaches and more than 53,000 cybersecurity incidents reported in 65 countries in the 12 months ending in March 2018. <a href="https://www.forbes.com/sites/gilpress/2018/12/03/60-cybersecurity-predictions-for-2019/#6b5233d44352" target="blank" class="bold readmore-hover">Read More</a></p>
                         </div>
                         <div class="col-md-5 wow fadeInRight">
                             <?php include 'cyber-security-workshop.php'; ?>
