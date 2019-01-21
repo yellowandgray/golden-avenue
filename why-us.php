@@ -53,7 +53,7 @@
                             </div>
                             <div class="col-md-6">
                                 <h2 class="bold margin-0 color-blue">Prem Bhojwani</h2>
-                                <p class="bold">CEO, Golden Avenue</p><br/>
+                                <p class="bold">MD, Golden Avenue</p><br/>
                                 <p class="bold">A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue is dedicated to achieving success and making a lasting impact on their clientèle.</p>
                             </div>
                         </div>
