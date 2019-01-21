@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Golden Avenue &#8211; A Dubai venture | Make Your World Better</title>
+    <title>Golden Avenue | Your Virtual IT team</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="" />
     <meta name="author" content="http://webthemez.com" />

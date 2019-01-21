@@ -2402,3 +2402,7 @@ article img.pull-right, article .align-right{
     margin-top: 170px;
     width: 101%;
 }
+
+.hidden {
+  display: none;   
+}
