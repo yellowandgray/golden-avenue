@@ -2417,3 +2417,7 @@ video {
         width: 45% !important;
     }
 }
+
+.text-decoration:hover {
+    text-decoration: underline;
+}
