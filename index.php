@@ -1,6 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php include 'head.php'; ?>
+    <head>
+        <meta charset="utf-8">
+        <title>Golden Avenue | Your Virtual IT team</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Virtual IT Manager & Best Annual Maintenance Service Provider ( AMC ) in Dubai, IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand IT Infrastructure Products," />
+        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="author" content="" />
+        <link rel="icon" href="img/favicon.png" type="image">
+        <!-- css -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" />
+        <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
+        <link href="css/flexslider.css" rel="stylesheet" /> 
+        <link href="css/style.css" rel="stylesheet" />
+        <link href="css/common.css" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&amp;subset=chinese-traditional,japanese" rel="stylesheet">
+        <link href="css/libs/animate.css" rel="stylesheet" type="text/css"/>
+        <!--    <link href="css/site.css" rel="stylesheet" type="text/css"/>-->
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+              <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+            <![endif]-->
+    </head>
     <script>
         setTimeout(
                 function showModal() {
@@ -112,10 +133,10 @@
                             <div class="cyber-security-bg1">
                                 <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise for AED 1</h4></a>
                                 <a href="cyber-security.php"><img src="img/golden-cyber.jpg" class="img-responsive img-width" /></a>
-                                    <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
-                                    <hr class="hr1"> 
-                                    <a href="cyber-security.php" type="buttton" class="btn-custom">See More</a>
-    <!--                                        <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
+                                <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
+                                <hr class="hr1"> 
+                                <a href="cyber-security.php" type="buttton" class="btn-custom">See More</a>
+<!--                                        <p class="font-size-12 bold">Date: &nbsp;&nbsp;&nbsp; January 01, 2019</p>-->
                             </div>
                         </div>
                     </div>

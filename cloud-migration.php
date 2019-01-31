@@ -1,9 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
-    <?php
-    $page = 'services';
-    include 'head.php';
-    ?>
+    <head>
+        <?php $page = 'services'; ?>
+        <meta charset="utf-8">
+        <title>Golden Avenue | Your Virtual IT team</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="License or rent software & infrastructure into a secure cloud environment, Software as a Service (Saas), Infrastructure as a Service (Iaas), Golden Avenue best consultant and Annual maintenance contract Provider ( AMC )  in Dubai" />
+        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="author" content="" />
+        <link rel="icon" href="img/favicon.png" type="image">
+        <!-- css -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" />
+        <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
+        <link href="css/flexslider.css" rel="stylesheet" /> 
+        <link href="css/style.css" rel="stylesheet" />
+        <link href="css/common.css" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&amp;subset=chinese-traditional,japanese" rel="stylesheet">
+        <link href="css/libs/animate.css" rel="stylesheet" type="text/css"/>
+        <!--    <link href="css/site.css" rel="stylesheet" type="text/css"/>-->
+        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+        <!--[if lt IE 9]>
+              <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+            <![endif]-->
+    </head>
     <body>
         <div id="wrapper">
             <?php include 'menu.php'; ?><!-- end header -->
