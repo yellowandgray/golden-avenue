@@ -45,7 +45,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-7 wow fadeInLeft">
                             <h2>Data Protection: Why it matters?</h2>
-                            <p>By Golden Avenue | 21 January 2019</p>
+                            <p>By Golden Avenue | 12 February 2019</p>
                             <img src="img/blog/why-matters.jpg" alt="" class="img-responsive"/>
                             <h2>What is Data Protection?</h2>
                             <p class="text-justify">All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
