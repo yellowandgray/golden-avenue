@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php $page = 'blog'; ?>
         <meta charset="utf-8">
         <title>Golden Avenue | Your Virtual IT team</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -73,6 +72,15 @@
                             <?php include 'cyber-security-workshop.php'; ?>
                             <br>
                             <?php include 'enquiry.php'; ?>
+                            <br/>
+                            <div class="box-shadow-2 blog-other">
+                                <h2 class="text-center color-blue">Other Blogs</h2>
+                                <a href="blog-1.php" class="text-decoration">
+                                    <h4>Data Protection: Why it matters?</h4>
+                                    <span>By Golden Avenue | 12 February 2019</span>
+                                    <img src="img/blog/why-matters.jpg" alt="" class="img-responsive"/>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>

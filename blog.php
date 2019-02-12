@@ -56,18 +56,18 @@
                             <p class="text-justify">Partnering with the right IT <a href="amc-contract.php" class="text-decoration">AMC Service Provider</a> is a better choice than depending upon separate individual service providers which may add up to huge monetary amount by the end of the year because of lack of experience and expertise. AMC Service Providers these days offer flexible customized solutions & services that cater to different industries.</p>
                             <h3>1. Risks involved in online presence and <a href="cyber-security.php" class="text-decoration">threats posed by Hackers and Malware</a></h3>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
-                                <i class="fa fa-dot-circle-o" aria-hidden="true"></i><li>Hackers try to break into computers over the internet. This is a serious risk, particularly for companies that hold highly sensitive and confidential data</li>
-                                <i class="fa fa-dot-circle-o" aria-hidden="true"></i><li>Some computer viruses erase files. These usually infect company systems through the internet, via a downloaded file or email</li>
-                                <i class="fa fa-dot-circle-o" aria-hidden="true"></i><li>Other malware (malicious software) like Trojans and spyware may read your data and transmit it across the internet, or wipe it completely</li>
-                                <i class="fa fa-dot-circle-o" aria-hidden="true"></i><li>Ransomware is now a common threat, where hackers steal vital data and issue a ransom for its safe return</li>
+                                <i class="fa fa-cube" aria-hidden="true"></i><li>Hackers try to break into computers over the internet. This is a serious risk, particularly for companies that hold highly sensitive and confidential data</li>
+                                <i class="fa fa-cube" aria-hidden="true"></i><li>Some computer viruses erase files. These usually infect company systems through the internet, via a downloaded file or email</li>
+                                <i class="fa fa-cube" aria-hidden="true"></i><li>Other malware (malicious software) like Trojans and spyware may read your data and transmit it across the internet, or wipe it completely</li>
+                                <i class="fa fa-cube" aria-hidden="true"></i><li>Ransomware is now a common threat, where hackers steal vital data and issue a ransom for its safe return</li>
                             </ul>
                             <h3>2. Human Error</h3>
                             <p class="text-justify">It is easy to change or erase data accidentally. For instance, a staff member could delete a crucial list of customers by mistake.</p>
                             <h3>3. Physical threats</h3>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
-                                <i class="fa fa-dot-circle-o" aria-hidden="true"></i><li><a href="it-security.php" class="text-decoration">Failed hardware,</a> like a damaged hard disk, can result in the loss of important files and data</li>
-                                <i class="fa fa-dot-circle-o" aria-hidden="true"></i><li>Theft of company computers or mobile devices can result in data falling into the wrong hands, or being lost forever</li>
-                                <i class="fa fa-dot-circle-o" aria-hidden="true"></i><li>A natural calamity could destroy the server holding key business information. For example, a fire or flood in your business premises</li>
+                                <i class="fa fa-cube" aria-hidden="true"></i><li><a href="it-security.php" class="text-decoration">Failed hardware,</a> like a damaged hard disk, can result in the loss of important files and data</li>
+                                <i class="fa fa-cube" aria-hidden="true"></i><li>Theft of company computers or mobile devices can result in data falling into the wrong hands, or being lost forever</li>
+                                <i class="fa fa-cube" aria-hidden="true"></i><li>A natural calamity could destroy the server holding key business information. For example, a fire or flood in your business premises</li>
                             </ul>
                             <h3>4. Malicious action by a disgruntled employee or an individual</h3>
                             <p class="text-justify">Anyone with access to your data could copy or delete it. For instance, a disgruntled employee could sell your customer database to a competitor. Controlling access to users is a key to reducing this risk.</p>
