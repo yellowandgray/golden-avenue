@@ -108,7 +108,7 @@
                         </div>
                         <div class="col-md-12">
                             <p class="text-justify">Maintenance Experts and <a href="amc-contract.php" class="text-decoration">Annual Maintenance Contract</a> Providers like <a href="index.php" class="text-decoration">Golden Avenue</a> can help you by conducting a comprehensive <a href="it-health-check.php" class="text-decoration">IT & Network Health Check</a> on all your <a href="it-security.php" class="text-decoration">IT infrastructure</a> Assets. They will submit to you a concise picture of the vulnerabilities and threats posed to your business and provide a list of solutions based on those findings. You can REST ASSURED that you are in safe hands.</p>
-                            <p class="text-justify">Give us a <a href="tel:+04 2668272">04 2668272</a> for a FREE no obligation Consultation.</p>
+                            <p class="text-justify">Give us a call <a href="tel:+04 2668272">04 2668272</a> for a FREE no obligation Consultation.</p>
                         </div>
                     </div>
                 </div>
