@@ -65,7 +65,7 @@
                             <p class="text-justify">It is easy to change or erase data accidentally. For instance, a staff member could delete a crucial list of customers by mistake.</p>
                             <h3>3. Physical threats</h3>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
-                                <i class="fa fa-circle" aria-hidden="true"></i><li><a href="it-security.php" class="text-decoration">Failed hardware,</a> like a damaged hard disk, can result in the loss of important files and data</li>
+                                <i class="fa fa-circle" aria-hidden="true"></i><li><a href="it-health-check.php" class="text-decoration">Failed hardware,</a> like a damaged hard disk, can result in the loss of important files and data</li>
                                 <i class="fa fa-circle" aria-hidden="true"></i><li>Theft of company computers or mobile devices can result in data falling into the wrong hands, or being lost forever</li>
                                 <i class="fa fa-circle" aria-hidden="true"></i><li>A natural calamity could destroy the server holding key business information. For example, a fire or flood in your business premises</li>
                             </ul>
