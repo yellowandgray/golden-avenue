@@ -5,8 +5,8 @@
         <meta charset="utf-8">
         <title>Golden Avenue | Your Virtual IT team</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="3 AMC ( Annual Maintenance Contract ) Advantages for preemptive IT maintenance and security audits" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="description" content="Data Protection: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
+        <meta name="keywords" content="Annual Maintenance Contract, Dubai, Data Protection, Annual Maintenance Contract Provider, AMC, AMC Dubai, Annual Maintenance Contract, cybercrimes, IT Infrastructure, IT & Network Health Check, Consultation">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
@@ -44,71 +44,35 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-7 wow fadeInLeft">
-                            <h2>Data Protection: Why it matters?</h2>
+                            <h2>Why AMC?</h2>
                             <p>By Golden Avenue | 21 January 2019</p>
-                            <img src="img/blog/why-matters.jpg" alt="" class="img-responsive"/>
-                            <h2>What is Data Protection?</h2>
-                            <p class="text-justify">All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
-                            <p class="text-justify">Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine <a href="business-continuity.php" class="text-decoration">(Golden Avenue Business Continuity Strategies).</a></p>
-                            <h2>Why is Data Protection vital to a Business?</h2>
-                            <p class="text-justify">Data protection procedures is fundamental to help prevent <a href="cyber-security.php" class="text-decoration">cybercrimes</a> by ensuring details are protected to prevent fraud. For instance, a breach in a company’s data protection can be very costly to the company as well as the clients, if your client’s or customer’s bank accounts were hacked into.  Case in point: 2018 <strong>Marriott International’s breach of its Starwood guest reservation database exposed the personal information of up to 500 million people.</strong></p>
-                            <h2>What could go wrong if Data is not protected?</h2>
+                            <img src="img/blog/cyber-crime-1.jpg" alt="" class="img-responsive"/>
+                            <h2>AMC Is The Smarter Way to Look After your IT Assets</h2>
+                            <h3 class="text-justify">Prevention is always better than Repair, and Growth over sluggishness.</h3>
+                            <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
+                            <p class="text-justify">What are the Advantages of signing up with an IT AMC Service Provider?</p>
+
+<!--                            <img src="img/blog/biggest-data-breaches-2018.jpg" alt="" class="img-responsive img-width"/>-->
+                            <h2>1. Regular Scheduled maintenance Updates and Upgrades</h2>
+                            <p class="text-justify">Handling business and IT challenges simultaneously can be a difficulty for many small and medium businesses. Lack of focus on the main stream of business can hinder growth. Signing up with an <a href="amc-contract.php" class="text-decoration">AMC Service Provider</a> will take care of both IT and maintenance troubles. The AMC Service provider will monitor your schedule and keep in touch with you whenever the appropriate procedures need to be implemented.</p>
+                            <p class="text-justify">Routine checks guarantee a better prevention option and a solution. An IT Infrastructure checkup performed regularly can also result in the devices performing efficiently throughout the year. Any issue detected, can be resolved immediately to prevent further damages thus increasing the device life.</p>
+<!--                            <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>-->
+                            <h2>2. Cost Effective</h2>
                             <p class="text-justify">Partnering with the right IT <a href="amc-contract.php" class="text-decoration">AMC Service Provider</a> is a better choice than depending upon separate individual service providers which may add up to huge monetary amount by the end of the year because of lack of experience and expertise. AMC Service Providers these days offer flexible customized solutions & services that cater to different industries.</p>
-                            <h3>1. Risks involved in online presence and <a href="cyber-security.php" class="text-decoration">threats posed by Hackers and Malware</a></h3>
-                            <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Hackers try to break into computers over the internet. This is a serious risk, particularly for companies that hold highly sensitive and confidential data</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Some computer viruses erase files. These usually infect company systems through the internet, via a downloaded file or email</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Other malware (malicious software) like Trojans and spyware may read your data and transmit it across the internet, or wipe it completely</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Ransomware is now a common threat, where hackers steal vital data and issue a ransom for its safe return</li>
-                            </ul>
-                            <h3>2. Human Error</h3>
-                            <p class="text-justify">It is easy to change or erase data accidentally. For instance, a staff member could delete a crucial list of customers by mistake.</p>
-                            <h3>3. Physical threats</h3>
-                            <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
-                                <i class="fa fa-check" aria-hidden="true"></i><li><a href="it-security.php" class="text-decoration">Failed hardware,</a> like a damaged hard disk, can result in the loss of important files and data</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Theft of company computers or mobile devices can result in data falling into the wrong hands, or being lost forever</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>A natural calamity could destroy the server holding key business information. For example, a fire or flood in your business premises</li>
-                            </ul>
-                            <h3>4. Malicious action by a disgruntled employee or an individual</h3>
-                            <p class="text-justify">Anyone with access to your data could copy or delete it. For instance, a disgruntled employee could sell your customer database to a competitor. Controlling access to users is a key to reducing this risk.</p>
+
+<!--                            <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>-->
+                            <h2>3. Handle IT Emergencies better</h2>
+                            <p class="text-justify">Joining forces with an IT <a href="amc-contract.php" class="text-decoration">AMC Service Provider</a> and thus working with their skilled technicians could be exactly what you are looking for.</p>
+                            <p class="text-justify">More Businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
+                            <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="amc-contract.php" class="text-decoration">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
+                            <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>
+                            <h3 class="text-justify">We at <a href="index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
+                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> / No Obligation Free Consultation</p>
                         </div>
                         <div class="col-md-5 wow fadeInRight">
                             <?php include 'cyber-security-workshop.php'; ?>
                             <br>
                             <?php include 'enquiry.php'; ?>
-                            <br/>
-                            <div class="box-shadow-2 blog-other">
-                                <h2 class="text-center color-blue">Other Blogs</h2>
-                                <a href="blog-1.php" class="text-decoration">
-                                    <h4>Why AMC?</h4>
-                                    <span>By Golden Avenue | 21 January 2019</span>
-                                    <img src="img/blog/cyber-crime-1.jpg" alt="" class="img-responsive"/>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-md-8">
-                            <h2>How do you protect Data?</h2>
-                            <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Prevent users from unauthorized access to the network</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure malicious elements don’t exist within the network</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Deny programs from certain resources that could be infected</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Secure confidential information</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure the company follows good online security practices</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Compliance with Government regulations</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure use of security software and maintain all software updates and upgrades</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Look for software with undo/rollback functions to minimize the risks posed by human error</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Have a good BACK UP and RESTORE strategy in case of a disaster</li>
-                                <i class="fa fa-check" aria-hidden="true"></i><li>Use <a href="index.php" class="text-decoration">security Experts</a> to comb through the system thoroughly and install security measures</li>
-                            </ul>
-                        </div>
-                        <div class="col-md-4">
-                            <img src="img/blog/why-matters-1.jpg" class="img-responsive" />
-                        </div>
-                        <div class="col-md-12">
-                            <p class="text-justify">Maintenance Experts and <a href="amc-contract.php" class="text-decoration">Annual Maintenance Contract</a> Providers like <a href="index.php" class="text-decoration">Golden Avenue</a> can help you by conducting a comprehensive <a href="it-health-check.php" class="text-decoration">IT & Network Health Check</a> on all your <a href="it-security.php" class="text-decoration">IT infrastructure</a> Assets. They will submit to you a concise picture of the vulnerabilities and threats posed to your business and provide a list of solutions based on those findings. You can REST ASSURED that you are in safe hands.</p>
-                            <p class="text-justify">Give us a <a href="tel:+04 2668272">04 2668272</a> for a FREE no obligation Consultation.</p>
                         </div>
                     </div>
                 </div>

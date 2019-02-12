@@ -2421,3 +2421,13 @@ video {
 .text-decoration:hover {
     text-decoration: underline;
 }
+
+.blog-other h4 {
+    margin: 0;
+    padding:0;
+    color: #428bca;
+}
+
+.blog-other span {
+    font-size: 11px;
+}
