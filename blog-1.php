@@ -75,7 +75,7 @@
                             <br/>
                             <div class="box-shadow-2 blog-other">
                                 <h2 class="text-center color-blue">Other Blogs</h2>
-                                <a href="blog-1.php" class="text-decoration">
+                                <a href="blog.php" class="text-decoration">
                                     <h4>Data Protection: Why it matters?</h4>
                                     <span>By Golden Avenue | 12 February 2019</span>
                                     <img src="img/blog/why-matters.jpg" alt="" class="img-responsive"/>
