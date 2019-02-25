@@ -80,6 +80,11 @@
                                     <span>By Golden Avenue | 12 February 2019</span>
                                     <img src="img/blog/why-matters.jpg" alt="" class="img-responsive"/>
                                 </a>
+                                <a href="blog-2.php" class="text-decoration">
+                                    <h4>When & why you need Server Maintenance?</h4>
+                                    <span>By Golden Avenue | 25 February 2019</span>
+                                    <img src="img/blog/cyber-crime-2.jpg" alt="" class="img-responsive"/>
+                                </a>
                             </div>
                         </div>
                     </div>
