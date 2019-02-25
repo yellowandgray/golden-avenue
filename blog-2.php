@@ -75,7 +75,7 @@
 <!--                            <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>-->
                             <h2>2. Avoid down time and loss of data</h2>
                             <p class="text-justify">To avoid down time and loss of data, as well as ensuring that your business’s computer network is running as intended, a regular Server maintenance is crucial. It not only increases server productivity but also boosts business productivity. Server Maintenance must be carried out regularly to ensure IT security and long term viability. With an AMC, If server failure is imminent, our team at Golden Avenue will arrange for spares to be delivered and fitted as soon as possible so that your business can return to full working capacity as fast as possible.</p>
-                            <P>It is always best to approach problems pro-active, before it affects your business productivity.</P>
+                            <P><strong>It is always best to approach problems pro-active, before it affects your business productivity.</strong></P>
 <!--                            <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>-->
                             <h2>3. Review Backups and Recovery strategies </h2>
                             <p class="text-justify">A planned server maintenance can be a good opportunity for checking backups, revisiting server resources, especially if the servers are virtualized. Every maintenance action will review the alerts and monitoring system and recovery strategies and necessary application level tests will be executed. Effective Business Continuity Plans are vital to any business in case of a disaster.</p>
