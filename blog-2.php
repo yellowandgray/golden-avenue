@@ -83,7 +83,7 @@
                             <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="amc-contract.php" class="text-decoration">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
                             <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>-->
                             <p class="text-justify">It is always a good idea to have a professional relationship with a reliable <a href="amc-contract.php" class="text-decoration">Annual Maintenance Contract</a> Provider like  <a href="index.php" class="text-decoration">Golden Avenue</a>, whose pool of experts can help you discover what’s wrong with your servers quickly, and help you figure out if a system replacement is in order. </p>
-                            <p class="text-justify">Give us a call 04 2668272 for a FREE no obligation Consultation.</p>
+                             <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
                         </div>
                         <div class="col-md-5 wow fadeInRight">
                             <?php include 'cyber-security-workshop.php'; ?>
