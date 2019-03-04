@@ -132,7 +132,7 @@
                         <div class="col-md-5 wow fadeInUp">
                             <div class="cyber-security-bg1">
                                 <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise for AED 1</h4></a>
-                                <a href="cyber-security.php"><img src="img/golden-cyber.jpg" class="img-responsive img-width" /></a>
+                                <a href="cyber-security.php"><img src="img/golden-cyber.jpg" alt="" class="img-responsive img-width" /></a>
                                 <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
                                 <hr class="hr1"> 
                                 <a href="cyber-security.php" type="buttton" class="btn-custom">See More</a>
@@ -190,7 +190,7 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20">
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.1s">
                                             <span class="services-thumb">
-                                                <a href="amc-contract.php"><img src="img/005.jpg" class="img-responsive" /></a>
+                                                <a href="amc-contract.php"><img src="img/005.jpg" alt="" class="img-responsive" /></a>
                                             </span> 
                                             <a href="amc-contract.php"><h3>24 X 7 IT SUPPORT</h3> </a>
                                             <p>We offer World-Class & Unmatched Support</p>
@@ -200,7 +200,7 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.3s">
                                             <span class="services-thumb">
-                                                <a href="why-us.php"><img src="img/006.jpg" class="img-responsive" /></a>
+                                                <a href="why-us.php"><img src="img/006.jpg" alt="" class="img-responsive" /></a>
                                             </span>
                                             <a href="why-us.php"><h3> CERTIFIED IT PROFESSIONALS</h3> </a>
                                             <p>We are a team of Certified IT Professionals & Experts</p>
@@ -209,7 +209,7 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.5s">
                                             <span class="services-thumb">
-                                                <a href="why-us.php"><img src="img/007.jpg" class="img-responsive" /></a>
+                                                <a href="why-us.php"><img src="img/007.jpg" alt="" class="img-responsive" /></a>
                                             </span> 
                                             <a href="why-us.php"><h3>20+  YEARS OF EXPERIENCE</h3></a>
                                             <p>Un-Paralleled Experience & Time Unlimited Consultancy</p>
@@ -218,7 +218,7 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.7s">
                                             <span class="services-thumb">
-                                                <a href="amc-contract.php"><img src="img/008.jpg" class="img-responsive" /></a>
+                                                <a href="amc-contract.php"><img src="img/008.jpg" alt="" class="img-responsive" /></a>
                                             </span> 
                                             <a href="amc-contract.php"><h3>FLEXIBLE CONTRACTS</h3></a> 
                                             <p>Tailor-Made Contracts, FOCUSED & Specific to your Business Needs</p>
@@ -286,7 +286,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/footer-logo/logo-1.jpg" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-1.jpg" alt="" style="width: 100px;height:100px;">
                                                     <!--<img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg" style="width: 100px;height:100px;">-->
                                                 </div>
                                                 <div class="col-sm-9">
@@ -301,7 +301,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/footer-logo/logo-2.jpg" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-2.jpg" alt="" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
                                                     <p>" The service was very prompt with reasonable pricing, we really appreciate this!</p>
@@ -315,7 +315,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/footer-logo/logo-3.jpg" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-3.jpg" alt="" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
                                                     <p>" We are very satisfied with the services and prices that Golden avenue is offering us. We look forward to have a good long-term relationship with your organization</p>
