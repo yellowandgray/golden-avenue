@@ -65,7 +65,7 @@
 } ?>"><a href="product.php">Products</a></li>
                         <li class="<?php if ($page == 'blog') {
     echo 'active';
-    } ?>"><a href="blog-all.php">Blog</a></li>
+    } ?>"><a href="blog.php">Blog</a></li>
                         <li class="<?php if ($page == 'why-us') {
     echo 'active';
 } ?>"><a href="why-us.php">Why Us</a></li>

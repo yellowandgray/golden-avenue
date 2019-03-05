@@ -40,6 +40,7 @@
                     <ul class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li>Blog</li>
+                        <li>Blog-1</li>
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">

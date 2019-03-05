@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <?php $page = 'blog'; ?>
         <meta charset="utf-8">
         <title>Golden Avenue | Your Virtual IT team</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -40,6 +41,7 @@
                     <ul class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
                         <li>Blog</li>
+                        <li>Blog-4</li>
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
@@ -48,9 +50,32 @@
                             <img src="img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
-                            <p><b>A good offence is an active DEFENCE.</b></p>
-                            <p>To effectively protect your business, it is important to be aware of the common widespread cyber security threats and take appropriate measures to combat such threats......</p>
-                            <a href="#" class="btn-blog">CONTINUE READING</a>
+                            <h3 class="font-size-29">A good offence is an active DEFENCE.</h3>
+                            <p>To effectively protect your business, it is important to be aware of the common widespread cyber security threats and take appropriate measures to combat such threats.</p>
+                            <h3 class="font-size-29">Common external cyber security threats SMEs should be aware of</h3>
+                            <h3>1. Defacements</h3>
+                            <p>Website defacement is an attack on a website that changes the visual appearance of the site or a webpage and inserts the hacker’s message. In short, it is vandalism of a website or a criminal drawing of graffiti. </p>
+                            <h3>2. Automated exploit of a known vulnerability</h3>
+                            <p>These are non-targeted automated attacks that attempt to compromise computer’s operating system which has known security vulnerability especially in windows. These attacks occur if ALL necessary patches are not installed. </p>
+                            <h3>3. SEO Spam</h3>
+                            <p>By injecting irrelevant keywords, links, spam comments etc into a website, SEO spam forces the site to rank away from the specific keywords given by a business, which may result in considerable loss of traffic.</p>
+                            <h3>4. Malicious redirects </h3>
+                            <p>A malicious redirect occurs when visitors land on a site and are sent to another site containing malicious content due to embedded JavaScript code. WordPress hacked redirect, is becoming quite widespread redirecting visitors to adult & other malicious pages. </p>
+                            <h3>5. Distributed denial-of-service (DDoS)</h3>
+                            <p>A DDoS attack occurs when a website’s server is maliciously overloaded by “bogus” traffic from attacker-controlled computers, called a botnet. This causes slow website loading times and crashed servers, which can be devastating to your bottom line but a boon to your competitors.</p>
+                            <h3>6. Ransomware</h3>
+                            <p>Ransomware is a type of malware that prevents users from accessing their system or personal files and demands ransom payment in order to resume access. Many attacks don’t have to be as vicious as WannaCry or NotPetia to take an entire SME down due to the financial strain. Ransomware was the fastest growing threat in cyber security. </p>
+                            <h3 class="font-size-29">Some of the ways cyber infestations occur from within</h3>
+                            <h3>1. Reckless web surfing by employees </h3>
+                            <p>Employees can surf non-business-related sites using the company’s electronic devices which can affect company network with bot clients, Trojans, spyware, and different kinds of malware. The sites that spread the most malware are </p>
+                            <ul class="list-style-type">
+                                <li>a)	Celebrity fan sites </li>
+                                <li>b)	Casual gaming sites</li>
+                                <li>c)	Adult sites and online social networks </li>
+                            </ul>
+                            <h3>2. Insider attacks </h3>
+                            <p>Since SMEs have fewer employees, they tend to allocate a lot of control over assets to a single individual. This gives one employee the ability to do more harm as an insider. These insider attacks can be unauthorized extraction, manipulation, destruction of assets and data, and unauthorized use of third-party software which may contain harmful viruses. </p>
+                          
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
@@ -70,94 +95,7 @@
                                                     </div>
                                                 </div>-->
                     </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-2.php">When & why you need Server Maintenance?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue"> 25 February 2019</span></p>
-                            <img src="img/blog/cyber-crime-02.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p>Servers are critical pieces of IT infrastructure for a business which should work without challenges for long periods of time.</p>
-                            <p><b>What are the red flags to know your server needs maintenance?</b></p>
-                            <p><b>1. When your CPU is running hot</b></p>
-                            <p>Increase in temperature, decreases the reliability of the server. Sometimes the high temperature may be due to an issue with power supply, memory, fans not running properly, etc.,. Other possible causes may be a clogged front intake, blockage of airflow, recent shifting or moving of the machine. It’s always best to leave it to the experts.......</p>
-                            <a href="blog-2.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog.php">Data Protection: Why it matters?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">12 February 2019</span></p>
-                            <img src="img/blog/why-matters-01.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p><b>What is Data Protection?</b></p>
-                            <p>All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
-                            <p>Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine (Golden Avenue Business Continuity Strategies)....</p>
-                            <a href="blog.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-1.php">Why AMC?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">21 January 2019</span></p>
-                            <img src="img/blog/cyber-crime-01.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p><b>Prevention is always better than Repair, and Growth over sluggishness.</b></p>
-                            <p>In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
-                            <p>What are the Advantages of signing up with an IT AMC Service Provider?....</p>
-                            <a href="blog-1.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
+             
                 </div>
                 <!--                <div class="container">
                 
