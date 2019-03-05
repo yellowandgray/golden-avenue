@@ -38,13 +38,13 @@
                     <div id="main-slider" class="flexslider">
                         <ul class="slides">
                             <li>
-                                <img src="img/slides/Home_banner2.jpg" alt="" />
+                                <img src="img/slides/Home_banner2.jpg" alt="Golden Avenue-Slider" />
                                 <div class="flex-caption">
                                     <h3 class="banner-content wow slideInLeft">VIRTUAL IT MANAGER<br/><span class="italic font-size-24 font-italic">at a fraction of the cost</span></h3>  
                                 </div>
                             </li>
                             <li>
-                                <img src="img/slides/Home_banner1.jpg" alt="" />
+                                <img src="img/slides/Home_banner1.jpg" alt="Golden Avenue-Slider" />
                                 <div class="flex-caption">
                                     <h3 class="banner-content1 wow slideInLeft">ANNUAL MAINTENANCE<br/> CONTRACTS
     <!--                                    <span class="italic font-size-24 font-italic">Services to keep you fit always</span>-->
@@ -53,14 +53,14 @@
                                 </div>
                             </li>
                             <li>
-                                <img src="img/slides/Home_banner3.jpg" alt="" />
+                                <img src="img/slides/Home_banner3.jpg" alt="Golden Avenue-Slider" />
                                 <div class="flex-caption">
                                     <h3 class="banner-content wow slideInLeft">IT & NETWORK<br/> HEALTH CHECKS</h3>  
 
                                 </div>
                             </li>
                             <li>
-                                <img src="img/slides/Home_banner.jpg" alt="" />
+                                <img src="img/slides/Home_banner.jpg" alt="Golden Avenue-Slider" />
                                 <div class="flex-caption">
                                     <h3  class="banner-content wow slideInLeft">IT SECURITY &<br/> INFRASTRUCTURE<br/> SOLUTIONS</h3>  
 
@@ -81,7 +81,7 @@
                                                         </div>
                                                     </li>-->
                             <li>
-                                <img src="img/slides/Home_banner6.jpg" alt="" />
+                                <img src="img/slides/Home_banner6.jpg" alt="Golden Avenue-Slider" />
                                 <div class="flex-caption">
                                     <h3  class="banner-content wow slideInLeft">CYBER SECURITY AWARENESS WORKSHOP</h3>  
 
@@ -132,7 +132,7 @@
                         <div class="col-md-5 wow fadeInUp">
                             <div class="cyber-security-bg1">
                                 <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise for AED 1</h4></a>
-                                <a href="cyber-security.php"><img src="img/golden-cyber.jpg" alt="" class="img-responsive img-width" /></a>
+                                <a href="cyber-security.php"><img src="img/golden-cyber.jpg" alt="Cyber Security Awareness Workshop" class="img-responsive img-width" /></a>
                                 <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
                                 <hr class="hr1"> 
                                 <a href="cyber-security.php" type="buttton" class="btn-custom">See More</a>
@@ -190,7 +190,7 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20">
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.1s">
                                             <span class="services-thumb">
-                                                <a href="amc-contract.php"><img src="img/005.jpg" alt="" class="img-responsive" /></a>
+                                                <a href="amc-contract.php"><img src="img/005.jpg" alt="Golden Avenue - IT Support" class="img-responsive" /></a>
                                             </span> 
                                             <a href="amc-contract.php"><h3>24 X 7 IT SUPPORT</h3> </a>
                                             <p>We offer World-Class & Unmatched Support</p>
@@ -200,7 +200,7 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.3s">
                                             <span class="services-thumb">
-                                                <a href="why-us.php"><img src="img/006.jpg" alt="" class="img-responsive" /></a>
+                                                <a href="why-us.php"><img src="img/006.jpg" alt="Golden Avenue - Certified IT Professionals" class="img-responsive" /></a>
                                             </span>
                                             <a href="why-us.php"><h3> CERTIFIED IT PROFESSIONALS</h3> </a>
                                             <p>We are a team of Certified IT Professionals & Experts</p>
@@ -209,7 +209,7 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.5s">
                                             <span class="services-thumb">
-                                                <a href="why-us.php"><img src="img/007.jpg" alt="" class="img-responsive" /></a>
+                                                <a href="why-us.php"><img src="img/007.jpg" alt="Golden Avenue - Years of Experience" class="img-responsive" /></a>
                                             </span> 
                                             <a href="why-us.php"><h3>20+  YEARS OF EXPERIENCE</h3></a>
                                             <p>Un-Paralleled Experience & Time Unlimited Consultancy</p>
@@ -218,7 +218,7 @@
                                     <div class="col-md-3 col-sm-6 text-center margin-t-b-20"> 
                                         <div class="services-inner wow fadeInUp" data-wow-delay="0.7s">
                                             <span class="services-thumb">
-                                                <a href="amc-contract.php"><img src="img/008.jpg" alt="" class="img-responsive" /></a>
+                                                <a href="amc-contract.php"><img src="img/008.jpg" alt="Golden Avenue - Flexible Contracts" class="img-responsive" /></a>
                                             </span> 
                                             <a href="amc-contract.php"><h3>FLEXIBLE CONTRACTS</h3></a> 
                                             <p>Tailor-Made Contracts, FOCUSED & Specific to your Business Needs</p>
@@ -286,7 +286,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/footer-logo/logo-1.jpg" alt="" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-1.jpg" alt="Client-logo-Fetchr" style="width: 100px;height:100px;">
                                                     <!--<img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg" style="width: 100px;height:100px;">-->
                                                 </div>
                                                 <div class="col-sm-9">
@@ -301,7 +301,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/footer-logo/logo-2.jpg" alt="" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-2.jpg" alt="Client-logo-iCADEMY MIDDLE EAST" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
                                                     <p>" The service was very prompt with reasonable pricing, we really appreciate this!</p>
@@ -315,7 +315,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/footer-logo/logo-3.jpg" alt="" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-3.jpg" alt="Client-logo-centena" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
                                                     <p>" We are very satisfied with the services and prices that Golden avenue is offering us. We look forward to have a good long-term relationship with your organization</p>
@@ -329,7 +329,7 @@
                                         <blockquote>
                                             <div class="row">
                                                 <div class="col-sm-3 text-center">
-                                                    <img class="img-circle" src="img/footer-logo/logo-04.jpg" style="width: 100px;height:100px;">
+                                                    <img class="img-circle" src="img/footer-logo/logo-04.jpg" alt="Client-logo-U.A.S" style="width: 100px;height:100px;">
                                                 </div>
                                                 <div class="col-sm-9">
                                                     <p>" Delivery is on time, urgent orders are handled well, pricing is great. Overall, it is value for money!</p>
@@ -351,14 +351,14 @@
                             <h3 class="text-center bold">Clients</h3>
                             <div class="row margin-bottom-0">
                                 <div class="col-md-6">
-                                    <img src="img/clients/001.png" class="img-responsive" style="margin-bottom: 10px" />
-                                    <img src="img/clients/002.png" class="img-responsive" style="margin-bottom: 10px" />
-                                    <img src="img/clients/003.png" class="img-responsive" style="margin-bottom: 10px" />
+                                    <img src="img/clients/001.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
+                                    <img src="img/clients/002.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
+                                    <img src="img/clients/003.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
                                 </div>
                                 <div class="col-md-6">
-                                    <img src="img/clients/004.png" class="img-responsive" style="margin-bottom: 10px" />
-                                    <img src="img/clients/footer-img-1.jpg" class="img-responsive" style="margin-bottom: 10px" />
-                                    <img src="img/clients/footer-img-2.jpg" class="img-responsive" style="margin-bottom: 10px" />
+                                    <img src="img/clients/004.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
+                                    <img src="img/clients/footer-img-1.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
+                                    <img src="img/clients/footer-img-2.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
                                 </div>
                             </div>
                         </div>

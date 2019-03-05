@@ -54,7 +54,7 @@
                                 <p class="text-justify">Golden Avenue has the expertise in providing the complete range of hardware products ranging from Laptops, Desktops, Servers, Printers, Networking and Security products. We work only with the top-tier brands and ensure genuine products are provided. Our offering depends on the scale and nature of our client’s requirements.</p>
                             </div>
                             <div class="col-md-6 wow fadeInRight">
-                                <img src="img/product-img.jpg" alt="" class="img-width">
+                                <img src="img/product-img.jpg" alt="Golden-Avenue-Product" class="img-width">
                             </div>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                                         <!--                                        <div class="product-container">-->
                                         <div class="col-md-6">
                                             <div class="product-inner product-container">
-                                                <img src="img/product-new/pc.jpg" alt="" class="img-width" />
+                                                <img src="img/product-new/pc.jpg" alt="Product for PC" class="img-width" />
                                             </div>
                                         </div>
                                         <div class="col-md-6 col-6-custome">
@@ -97,7 +97,7 @@
 
                                         <div class="col-md-6">
                                             <div class="product-inner product-container1">
-                                                <img src="img/product-new/server.jpg" alt="" class="img-width" />
+                                                <img src="img/product-new/server.jpg" alt="Product for Server" class="img-width" />
                                             </div>
                                         </div>
                                         <div class="col-md-6 col-6-custome">
@@ -117,7 +117,7 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="product-inner product-container2">
-                                                <img src="img/product-new/storage.jpg" alt="" class="img-width" />
+                                                <img src="img/product-new/storage.jpg" alt="Product for Storage" class="img-width" />
                                             </div>
                                         </div>
                                         <div class="col-md-6 col-6-custome">
@@ -137,7 +137,7 @@
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="product-inner product-container3">
-                                                <img src="img/product-new/printing.jpg" alt="" class="img-width" />
+                                                <img src="img/product-new/printing.jpg" alt="Product for Printing" class="img-width" />
                                             </div>
                                         </div>
                                         <div class="col-md-6 col-6-custome">
@@ -158,7 +158,7 @@
 
                                         <div class="col-md-6">
                                             <div class="product-inner product-container4">
-                                                <img src="img/product-new/network.jpg" alt="" class="img-width" />
+                                                <img src="img/product-new/network.jpg" alt="Product for Network" class="img-width" />
                                             </div>
                                         </div>
                                         <div class="col-md-6 col-6-custome">
@@ -178,7 +178,7 @@
 
                                         <div class="col-md-6">
                                             <div class="product-inner product-container4">
-                                                <img src="img/product-new/security.jpg" alt="" class="img-width" />
+                                                <img src="img/product-new/security.jpg" alt="Product for Security" class="img-width" />
                                             </div>
                                         </div>
                                         <div class="col-md-6 col-6-custome">
@@ -212,25 +212,25 @@
                                 </div>
                             </div>
                             <div class="col-md-6 wow fadeInUp" data-wow-duration="2s">
-                                <img src="img/prduct-trust.jpg" alt="" class="img-width" />
+                                <img src="img/prduct-trust.jpg" alt="Golden Avenue Promise" class="img-width" />
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-md-12 wow fadeInUp">
                                 <h3 class="color-blue bold">Some of the Brands we work with</h3>
                                 <section class="customer-logos slider">
-                                    <div class="slide"><img src="img/ga-brands/001.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/002.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/003.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/004.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/005.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/006.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/007.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/008.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/009.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/010.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/011.png"></div>
-                                    <div class="slide"><img src="img/ga-brands/012.png"></div>
+                                    <div class="slide"><img src="img/ga-brands/001.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/002.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/003.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/004.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/005.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/006.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/007.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/008.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/009.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/010.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/011.png" alt="GA Brands"></div>
+                                    <div class="slide"><img src="img/ga-brands/012.png" alt="GA Brands"></div>
                                 </section>
                             </div>
                         </div>

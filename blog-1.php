@@ -45,7 +45,7 @@
                         <div class="col-md-7 wow fadeInLeft">
                             <h2>Why AMC?</h2>
                             <p>By Golden Avenue | 21 January 2019</p>
-                            <img src="img/blog/cyber-crime-1.jpg" alt="" class="img-responsive"/>
+                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
                             <h2>AMC Is The Smarter Way to Look After your IT Assets</h2>
                             <h3 class="text-justify">Prevention is always better than Repair, and Growth over sluggishness.</h3>
                             <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
@@ -78,12 +78,12 @@
                                 <a href="blog.php" class="text-decoration">
                                     <h4>Data Protection: Why it matters?</h4>
                                     <span>By Golden Avenue | 12 February 2019</span>
-                                    <img src="img/blog/why-matters.jpg" alt="" class="img-responsive"/>
+                                    <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
                                 </a>
                                 <a href="blog-2.php" class="text-decoration">
                                     <h4>When & why you need Server Maintenance?</h4>
                                     <span>By Golden Avenue | 25 February 2019</span>
-                                    <img src="img/blog/cyber-crime-2.jpg" alt="" class="img-responsive"/>
+                                    <img src="img/blog/cyber-crime-2.jpg" alt="Blog" class="img-responsive"/>
                                 </a>
                             </div>
                         </div>

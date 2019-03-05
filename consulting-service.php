@@ -57,7 +57,7 @@
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Preparing workforces for a responsible and secured data sharing</li>
                             </ul>
                             <br/>
-                            <img src="img/blog/sub-page-pic-03.jpg" alt="" class="img-responsive wow fadeInLeft"/>
+                            <img src="img/blog/sub-page-pic-03.jpg" alt="Consulting Services" class="img-responsive wow fadeInLeft"/>
                         </div>
                         <div class="col-md-5 wow fadeInRight">
                             <?php include 'cyber-security-workshop.php'; ?>

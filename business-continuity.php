@@ -60,7 +60,7 @@
                                                                         </ul>
                                                                     </div>-->
                                 <div class="col-md-12">
-                                    <img src="img/blog/bus-02.jpg" alt="" class="img-responsive img-width wow fadeInLeft"/> 
+                                    <img src="img/blog/bus-02.jpg" alt="Blog" class="img-responsive img-width wow fadeInLeft"/> 
                                 </div>
                             </div>
                         </div>

@@ -68,7 +68,7 @@
                     <div class="row" style="background: url(img/bg-box.jpg) no-repeat;padding: 40px;background-size: cover;">
                         <div class="about">
                             <div class="col-md-6">
-                                <img class="trigger_popup_fricc_1 img-responsive" id="myImg" src="img/why-us-play.jpg" onclick="" alt="" />
+                                <img class="trigger_popup_fricc_1 img-responsive" id="myImg" src="img/why-us-play.jpg" onclick="" alt="GA Video Play Icon" />
                             </div>
                             <div class="col-md-6">
                                 <h2 class="bold margin-0 color-blue">Prem Bhojwani</h2>

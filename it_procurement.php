@@ -47,7 +47,7 @@
                             <h2 class="font-size-20 color-blue wow fadeInLeft">IT Procurement Services</h2>
                             <h3 class="color-blue wow fadeInLeft">Why Use IT Procurement Services?</h3>
                             <p class="text-justify wow fadeInLeft">In many businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure.</p>
-                            <img src="img/blog/outsourcing-1.jpg" alt="" class="img-responsive wow fadeInLeft"/>
+                            <img src="img/blog/outsourcing-1.jpg" alt="IT Procurement" class="img-responsive wow fadeInLeft"/>
                             <h2 class="font-size-20 color-blue wow fadeInLeft">Advantages of IT Procurement Services</h2>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Access to Skilled Resources</li>

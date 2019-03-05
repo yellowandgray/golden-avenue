@@ -45,7 +45,7 @@
                         <div class="col-md-7 wow fadeInLeft">
                             <h2>When & why you need Server Maintenance?</h2>
                             <p>By Golden Avenue | 25 February 2019</p>
-                            <img src="img/blog/cyber-crime-2.jpg" alt="" class="img-responsive"/>
+                            <img src="img/blog/cyber-crime-2.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p>Servers are critical pieces of IT infrastructure for a business which should work without challenges for long periods of time. </p>
                         
@@ -97,12 +97,12 @@
                                 <a href="blog.php" class="text-decoration">
                                     <h4>Data Protection: Why it matters?</h4>
                                     <span>By Golden Avenue | 12 February 2019</span>
-                                    <img src="img/blog/why-matters.jpg" alt="" class="img-responsive"/>
+                                    <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
                                 </a>
                                 <a href="blog-1.php" class="text-decoration">
                                     <h4>Why AMC?</h4>
                                     <span>By Golden Avenue | 21 January 2019</span>
-                                    <img src="img/blog/cyber-crime-1.jpg" alt="" class="img-responsive"/>
+                                    <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
                                 </a>
                             </div>
                         </div>

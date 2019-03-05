@@ -67,7 +67,7 @@
                                     <li>Ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
                                     <!--                                        <li>expertise through multi-resourced IT engineers</li>-->
                                 </ol>
-                                <img class="img-width" src="img/blog/amc-scb-page.jpg" alt=""/>
+                                <img class="img-width" src="img/blog/amc-scb-page.jpg" alt="Annual Maintenance Contracts"/>
                                 <div class="padding-20">
                                     <h3 class="color-blue bold"><i class="fa fa-check"></i> We Guarantee Best Services</h3>
                                     <h3 class="color-blue bold"><i class="fa fa-check"></i> We Provide Quality Service</h3>

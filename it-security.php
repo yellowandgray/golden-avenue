@@ -47,7 +47,7 @@
                             <h3 class="color-blue wow fadeInLeft"><strong>IT Security</strong></h3>
                             <h3 class="bold color-blue wow fadeInLeft">Make IT Security your top business priority</h3>
                             <p class="text-justify wow fadeInLeft">When companies move their business processes towards mobility, collaboration or the cloud, progressing without IT security is unthinkable.</p>
-                            <img src="img/blog/sub-page-pic-1.jpg" alt="" class="img-responsive wow fadeInLeft"/><br/>
+                            <img src="img/blog/sub-page-pic-1.jpg" alt="IT Security" class="img-responsive wow fadeInLeft"/><br/>
                             <p class="text-justify wow fadeInLeft">With the rapid advances in Information Technology, businesses these days are expected to be constantly vigilant and preemptive due to the growing complexity in security threats. Our highly experienced and qualified security professionals bring years of experience, in-depth industry knowledge and business-process expertise to protect your business against threats and minimalize risks. Upon understanding and analyzing your business requirements in depth, our consultants will offer a complete package of security solutions ranging from formulating security strategy for business, Network security and design, Email and web security, Network audit & monitoring, Endpoint control and security services. Our solutions help you minimize risks to your data and solve your current security challenges.</p>
                             <p class="text-justify wow fadeInLeft">Golden Avenue ensures to give you full control over your virtual, physical and cloud IT environments. Our team brings to you tailormade solutions for your IT infrastructure that is scalable, flexible and threat free. Our solutions will add wings of freedom to drive your business growth.</p>
                             <h3 class="color-blue wow fadeInLeft">Our Experts in Golden Avenue do the following in order to prevent any threats</h3>
@@ -63,7 +63,7 @@
                             <?php include 'cyber-security-workshop.php'; ?>
                             <br/>
                             <div class="box-shadow-cyber-attack text-center margin-t-b-20">
-                                <img src="img/cyber-attack.png" alt="image" class="img-responsive" />
+                                <img src="img/cyber-attack.png" alt="IT Security" class="img-responsive" />
                                 <p>According to the Global IT Security Risk Survey by Kaspersky,</p>
                                 <h2><span class="out-of-font color-blue">9</span> OUT OF <span class="out-of-font color-blue">10</span></h2>
                                 <h3 class="margin-t-b-0">COMPANIES HAD ALREADY BEEN THE</h3>

@@ -49,7 +49,7 @@
                             <p class="wow fadeInLeft">It is a comprehensive IT specific assessment of your infrastructure and security. It provides you with an accurate IT audit that will highlight your current and potential risk areas.</p> 
                             <h3 class="color-blue wow fadeInLeft"><strong>Why is an IT & Network Health Check important?</strong></h3>
                             <p class="text-justify wow fadeInLeft">The IT Health Check / Audit for organizations from any domain is a MUST to ensure optimal performance in the day to day operations and decision-making process. It helps the organization to understand and utilize technology more efficiently. This audit helps to get more out of your existing technology investments and recommend further updates and upgrades based on the current set up.</p>
-                            <img src="img/blog/sub-page-pic-2.jpg" alt="" class="img-responsive wow fadeInLeft"/>
+                            <img src="img/blog/sub-page-pic-2.jpg" alt="IT Health Check" class="img-responsive wow fadeInLeft"/>
                             <h3 class="text-justify wow fadeInLeft">Golden Avenue IT & Network Health Check includes various components and addresses the critical and vulnerable points of different IT aspects as detailed below.</h3>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Assess if the entire IT infrastructure both hardware and software fulfill the standard necessary requirements of your business and if it is cost effective</li>

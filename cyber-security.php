@@ -47,7 +47,7 @@
                             <h3 class="color-blue"><strong>Cyber Security Awareness</strong></h3>
                             <p class="text-justify">Companies of all sizes can become victims of cyber-attacks making it more important than ever to bring cyber security awareness through employee training as an integral part of your business continuity program. Look at Cyber security Awareness like a Business Function.</p> 
                             <p class="text-justify">Businesses and organizations should address technology risk and cyber security challenges through the lens of their business value to deliver appropriate levels of protection that support their business outcomes.</p>
-                            <br/><img src="img/blog/faq-001.jpg" alt="" class="img-responsive"/><br/>
+                            <br/><img src="img/blog/faq-001.jpg" alt="Cyber Security Awareness" class="img-responsive"/><br/>
                             <h3 class="color-blue"><strong>FAQ – Cyber Security Awareness Workshop</strong></h3>
                             <h3 class="color-blue">What is the main purpose of Cyber Security Awareness training?</h3>
                             <h3>Protect from within</h3>
@@ -85,7 +85,7 @@
                                 <div class="box-shadow-background">
                                     <h4>You are able to meet regulatory requirements</h4>
                                     <p>Cyber security is being addressed at government-level now more than ever before, with several new regulations mandating strengthened security controls. Employee cyber security awareness trainings are almost universally essential to avoid any disciplinary action.</p>
-                                    <br/><img class="img-responsive" src="img/blog/faq.jpg" alt=""/>
+                                    <br/><img class="img-responsive" src="img/blog/faq.jpg" alt="Cyber Security Awareness"/>
                                 </div>
                             </div>
                             <div class="col-md-4 text-justify wow fadeInUp">

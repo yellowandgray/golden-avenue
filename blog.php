@@ -46,7 +46,7 @@
                         <div class="col-md-7 wow fadeInLeft">
                             <h2>Data Protection: Why it matters?</h2>
                             <p>By Golden Avenue | 12 February 2019</p>
-                            <img src="img/blog/why-matters.jpg" alt="" class="img-responsive"/>
+                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
                             <h2>What is Data Protection?</h2>
                             <p class="text-justify">All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
                             <p class="text-justify">Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine <a href="business-continuity.php" class="text-decoration">(Golden Avenue Business Continuity Strategies).</a></p>
@@ -82,12 +82,12 @@
                                 <a href="blog-1.php" class="text-decoration">
                                     <h4>Why AMC?</h4>
                                     <span>By Golden Avenue | 21 January 2019</span>
-                                    <img src="img/blog/cyber-crime-1.jpg" alt="" class="img-responsive"/>
+                                    <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
                                 </a>
                                  <a href="blog-2.php" class="text-decoration">
                                     <h4>When & why you need Server Maintenance?</h4>
                                     <span>By Golden Avenue | 25 February 2019</span>
-                                    <img src="img/blog/cyber-crime-2.jpg" alt="" class="img-responsive"/>
+                                    <img src="img/blog/cyber-crime-2.jpg" alt="Blog" class="img-responsive"/>
                                 </a>
                             </div>
                         </div>
@@ -109,7 +109,7 @@
                             </ul>
                         </div>
                         <div class="col-md-4">
-                            <img src="img/blog/why-matters-1.jpg" class="img-responsive" />
+                            <img src="img/blog/why-matters-1.jpg" alt="Blog" class="img-responsive" />
                         </div>
                         <div class="col-md-12">
                             <p class="text-justify">Maintenance Experts and <a href="amc-contract.php" class="text-decoration">Annual Maintenance Contract</a> Providers like <a href="index.php" class="text-decoration">Golden Avenue</a> can help you by conducting a comprehensive <a href="it-health-check.php" class="text-decoration">IT & Network Health Check</a> on all your <a href="it-security.php" class="text-decoration">IT infrastructure</a> Assets. They will submit to you a concise picture of the vulnerabilities and threats posed to your business and provide a list of solutions based on those findings. You can REST ASSURED that you are in safe hands.</p>
