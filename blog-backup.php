@@ -42,11 +42,11 @@
                         <li>Blog</li>
                     </ul>
                     <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-1.php">Why AMC?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">21 January 2019</span></p>
-                            <img src="img/blog/cyber-crime-01.jpg" alt="Blog" class="img-responsive"/>
-                            <h2 class="font-size-29">AMC Is The Smarter Way to Look After your IT Assets</h2>
+                        <div class="col-md-7 wow fadeInLeft">
+                            <h2>Why AMC?</h2>
+                            <p>By Golden Avenue | 21 January 2019</p>
+                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
+                            <h2>AMC Is The Smarter Way to Look After your IT Assets</h2>
                             <h3 class="text-justify">Prevention is always better than Repair, and Growth over sluggishness.</h3>
                             <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
                             <p class="text-justify">What are the Advantages of signing up with an IT AMC Service Provider?</p>
@@ -68,7 +68,25 @@
                             <h3 class="text-justify">We at <a href="index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
                             <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
                         </div>
-                       
+                        <div class="col-md-5 wow fadeInRight">
+                            <?php include 'cyber-security-workshop.php'; ?>
+                            <br>
+                            <?php include 'enquiry.php'; ?>
+                            <br/>
+                            <div class="box-shadow-2 blog-other">
+                                <h2 class="text-center color-blue">Other Blogs</h2>
+                                <a href="blog.php" class="text-decoration">
+                                    <h4>Data Protection: Why it matters?</h4>
+                                    <span>By Golden Avenue | 12 February 2019</span>
+                                    <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
+                                </a>
+                                <a href="blog-2.php" class="text-decoration">
+                                    <h4>When & why you need Server Maintenance?</h4>
+                                    <span>By Golden Avenue | 25 February 2019</span>
+                                    <img src="img/blog/cyber-crime-2.jpg" alt="Blog" class="img-responsive"/>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <!--                <div class="container">

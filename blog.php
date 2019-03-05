@@ -43,16 +43,16 @@
                         <li>Blog</li>
                     </ul>
                     <div class="row showcase-section">
-                        <div class="col-md-7 wow fadeInLeft">
-                            <h2>Data Protection: Why it matters?</h2>
-                            <p>By Golden Avenue | 12 February 2019</p>
-                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                            <h2>What is Data Protection?</h2>
+                        <div class="col-md-12 wow fadeInLeft">
+                            <h2 class="font-size-42"><a href="blog.php">Data Protection: Why it matters?</a></h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">12 February 2019</span></p>
+                            <img src="img/blog/why-matters-01.jpg" alt="Blog" class="img-responsive"/>
+                            <h2 class="font-size-29">What is Data Protection?</h2>
                             <p class="text-justify">All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
                             <p class="text-justify">Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine <a href="business-continuity.php" class="text-decoration">(Golden Avenue Business Continuity Strategies).</a></p>
-                            <h2>Why is Data Protection vital to a Business?</h2>
+                            <h2 class="font-size-29">Why is Data Protection vital to a Business?</h2>
                             <p class="text-justify">Data protection procedures is fundamental to help prevent <a href="cyber-security.php" class="text-decoration">cybercrimes</a> by ensuring details are protected to prevent fraud. For instance, a breach in a company’s data protection can be very costly to the company as well as the clients, if your client’s or customer’s bank accounts were hacked into.  Case in point: 2018 <strong>Marriott International’s breach of its Starwood guest reservation database exposed the personal information of up to 500 million people.</strong></p>
-                            <h2>What could go wrong if Data is not protected?</h2>
+                            <h2 class="font-size-29">What could go wrong if Data is not protected?</h2>
                             <p class="text-justify">Partnering with the right IT <a href="amc-contract.php" class="text-decoration">AMC Service Provider</a> is a better choice than depending upon separate individual service providers which may add up to huge monetary amount by the end of the year because of lack of experience and expertise. AMC Service Providers these days offer flexible customized solutions & services that cater to different industries.</p>
                             <h3>1. Risks involved in online presence and <a href="cyber-security.php" class="text-decoration">threats posed by Hackers and Malware</a></h3>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
@@ -72,10 +72,10 @@
                             <h3>4. Malicious action by a disgruntled employee or an individual</h3>
                             <p class="text-justify">Anyone with access to your data could copy or delete it. For instance, a disgruntled employee could sell your customer database to a competitor. Controlling access to users is a key to reducing this risk.</p>
                         </div>
-                        <div class="col-md-5 wow fadeInRight">
-                            <?php include 'cyber-security-workshop.php'; ?>
+<!--                        <div class="col-md-5 wow fadeInRight">
+                   
                             <br>
-                            <?php include 'enquiry.php'; ?>
+                        
                             <br/>
                             <div class="box-shadow-2 blog-other">
                                 <h2 class="text-center color-blue">Other Blogs</h2>
@@ -90,11 +90,11 @@
                                     <img src="img/blog/cyber-crime-2.jpg" alt="Blog" class="img-responsive"/>
                                 </a>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                     <div class="row">
                         <div class="col-md-8">
-                            <h2>How do you protect Data?</h2>
+                            <h2 class="font-size-29">How do you protect Data?</h2>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Prevent users from unauthorized access to the network</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Ensure malicious elements don’t exist within the network</li>
