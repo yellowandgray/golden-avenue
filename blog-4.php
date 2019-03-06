@@ -75,6 +75,9 @@
                             </ul>
                             <h3>2. Insider attacks </h3>
                             <p>Since SMEs have fewer employees, they tend to allocate a lot of control over assets to a single individual. This gives one employee the ability to do more harm as an insider. These insider attacks can be unauthorized extraction, manipulation, destruction of assets and data, and unauthorized use of third-party software which may contain harmful viruses. </p>
+                            <p>While many SMEs are concerned about cyber attacks, more than half are not allocating enough in their budgets to risk mitigation. They also lack proper back-up and recovery strategy to pick up from an attack easily. An effective pro-active defence must include regular IT Security Audits and incorporate offensive countermeasures to outsmart an adversary. </p>
+                            <p>Although developing policy can be a hard task, external expert security consultants like Golden Avenue can help in creating a cyber secure environment for your business. </p>
+                            <p>Give us a call for a FREE/ No obligation expert Consultation.</p>
                           
 
                         </div>
