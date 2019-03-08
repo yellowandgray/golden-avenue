@@ -40,8 +40,8 @@
                 <div class="container">
                     <ul class="breadcrumb">
                         <li><a href="index.php">Home</a></li>
-                        <li>Blog</li>
-                        <li>Blog-2</li>
+                        <li><a href="blog.php">Blog</a></li>
+                        <li>Blog-Data Protection: Why it matters?</li>
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
