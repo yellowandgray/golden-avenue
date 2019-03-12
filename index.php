@@ -350,19 +350,26 @@
                         <div class="col-md-4 wow fadeInUp">
                             <h3 class="text-center bold">Clients</h3>
                             <div class="row margin-bottom-0">
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <img src="img/clients/001.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
                                     <img src="img/clients/002.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
                                     <img src="img/clients/003.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-4">
                                     <img src="img/clients/004.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
                                     <img src="img/clients/footer-img-1.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
                                     <img src="img/clients/footer-img-2.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
                                 </div>
+                                <div class="col-md-4">
+                                    <img src="img/clients/footer-img-3.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
+                                    <img src="img/clients/footer-img-4.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
+                                    <img src="img/clients/footer-img-5.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
+                                </div>
                             </div>
                         </div>
                     </div>
+                    
+                    
                 </div>
 
             </section>
