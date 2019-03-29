@@ -49,7 +49,7 @@
                             <img src="img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p>Phishing is a deceitful attempt by scammers to get your personal information such as Bank account numbers, credit card details, passwords etc. It is a cyber crime that lures individuals to provide sensitive and confidential information by posing as a legitimate organization, via email, telephone or messages.</p>
-                            <p><b>The common types of Phishing are</b></p>
+                            <h4><b>The common types of Phishing are</b></h4>
                             <p><b>1. Deceptive phishing by email</b></p>
                             <p>Fraudsters impersonate a genuine company and attempt to steal people’s personal information, login credentials using fake emails. These emails repeatedly use threats, and a sense of urgency to create panic for users into giving the information they are after. For example, credit card scammers might send out a fake email that instructs them to click on a link in order to rectify an error in their account. In actuality, the link leads to a fake login page that collects the user’s login credentials.</p>
                             <a href="blog-phishing.php" class="btn-blog">CONTINUE READING</a>
