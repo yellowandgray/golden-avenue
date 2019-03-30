@@ -44,6 +44,36 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
+                            <h2 class="font-size-42"><a href="blog-phishing.php">Phishing| How to recognize them and avoid them</a></h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
+                            <img src="img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
+                            <br/>
+                            <p>Phishing is a deceitful attempt by scammers to get your personal information such as Bank account numbers, credit card details, passwords etc. It is a cyber crime that lures individuals to provide sensitive and confidential information by posing as a legitimate organization, via email, telephone or messages.</p>
+                            <h4><b>The common types of Phishing are</b></h4>
+                            <p><b>1. Deceptive phishing by email</b></p>
+                            <p>Fraudsters impersonate a genuine company and attempt to steal people’s personal information, login credentials using fake emails. These emails repeatedly use threats, and a sense of urgency to create panic for users into giving the information they are after. For example, credit card scammers might send out a fake email that instructs them to click on a link in order to rectify an error in their account. In actuality, the link leads to a fake login page that collects the user’s login credentials.</p>
+                            <a href="blog-phishing.php" class="btn-blog">CONTINUE READING</a>
+
+                        </div>
+                        <!--                        <div class="col-md-5 wow fadeInRight">
+                       
+                                                    <div class="box-shadow-2 blog-other">
+                                                        <h2 class="text-center color-blue">Other Blogs</h2>
+                                                        <a href="blog.php" class="text-decoration">
+                                                            <h4>Data Protection: Why it matters?</h4>
+                                                            <span>By Golden Avenue | 12 February 2019</span>
+                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                        <a href="blog-1.php" class="text-decoration">
+                                                            <h4>Why AMC?</h4>
+                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                    </div>
+                                                </div>-->
+                    </div>
+                    <div class="row showcase-section">
+                        <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog-cyber-security-threats.php">Cyber security threats on SMEs</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
                             <img src="img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
