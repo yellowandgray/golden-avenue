@@ -44,7 +44,7 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-cyber-security-threats.php">Phishing| How to recognize them and avoid them</a></h2>
+                            <h2 class="font-size-42"><a href="blog-phishing.php">Phishing| How to recognize them and avoid them</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
                             <img src="img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
