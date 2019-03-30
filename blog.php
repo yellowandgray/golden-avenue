@@ -50,7 +50,7 @@
                             <br/>
                             <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
                             <p><b>A good offence is an active DEFENCE.</b></p>
-                            <p>To effectively protect your business, it is important to be aware of the common widespread cyber security threats and take appropriate measures to combat such threats......</p>
+  
                             <a href="blog-cyber-security-threats.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
