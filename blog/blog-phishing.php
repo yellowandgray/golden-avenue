@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
+   <head>
         <?php $page = 'blog'; ?>
         <meta charset="utf-8">
         <title>Golden Avenue | Your Virtual IT team</title>
@@ -10,13 +10,13 @@
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" />
-        <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
-        <link href="css/flexslider.css" rel="stylesheet" /> 
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/common.css" rel="stylesheet" type="text/css"/>
+        <link href="../css/bootstrap.min.css" rel="stylesheet" />
+        <link href="../css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
+        <link href="../css/flexslider.css" rel="stylesheet" /> 
+        <link href="../css/style.css" rel="stylesheet" />
+        <link href="../css/common.css" rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&amp;subset=chinese-traditional,japanese" rel="stylesheet">
-        <link href="css/libs/animate.css" rel="stylesheet" type="text/css"/>
+        <link href="../css/libs/animate.css" rel="stylesheet" type="text/css"/>
         <!--    <link href="css/site.css" rel="stylesheet" type="text/css"/>-->
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -39,15 +39,15 @@
             <section id="content">
                 <div class="container">
                     <ul class="breadcrumb">
-                        <li><a href="index.php">Home</a></li>
-                        <li><a href="blog.php">Blog</a></li>
+                        <li><a href="../index.php">Home</a></li>
+                        <li><a href="../blog.php">Blog</a></li>
                         <li>Phishing | How to recognize them and avoid them</li>
                     </ul>
                    <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-phishing.php">Phishing | How to recognize them and avoid them</a></h2>
+                            <h2 class="font-size-42">Phishing | How to recognize them and avoid them</h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
-                            <img src="img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
+                            <img src="../img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p>Phishing is a deceitful attempt by scammers to get your personal information such as Bank account numbers, credit card details, passwords etc. It is a cyber crime that lures individuals to provide sensitive and confidential information by posing as a legitimate organization, via email, telephone or messages.</p>
                             <h4><b>The common types of Phishing are</b></h4>

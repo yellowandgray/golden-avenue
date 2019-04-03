@@ -44,7 +44,7 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-phishing.php">Phishing| How to recognize them and avoid them</a></h2>
+                            <h2 class="font-size-42"><a href="blog/blog-phishing.php">Phishing| How to recognize them and avoid them</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
                             <img src="img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
@@ -52,7 +52,7 @@
                             <h4><b>The common types of Phishing are</b></h4>
                             <p><b>1. Deceptive phishing by email</b></p>
                             <p>Fraudsters impersonate a genuine company and attempt to steal people’s personal information, login credentials using fake emails. These emails repeatedly use threats, and a sense of urgency to create panic for users into giving the information they are after. For example, credit card scammers might send out a fake email that instructs them to click on a link in order to rectify an error in their account. In actuality, the link leads to a fake login page that collects the user’s login credentials.</p>
-                            <a href="blog-phishing.php" class="btn-blog">CONTINUE READING</a>
+                            <a href="blog/blog-phishing.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
@@ -74,14 +74,14 @@
                     </div>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-cyber-security-threats.php">Cyber security threats on SMEs</a></h2>
+                            <h2 class="font-size-42"><a href="blog/blog-cyber-security-threats.php">Cyber security threats on SMEs</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
                             <img src="img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
                             <p><b>A good offence is an active DEFENCE.</b></p>
   
-                            <a href="blog-cyber-security-threats.php" class="btn-blog">CONTINUE READING</a>
+                            <a href="blog/blog-cyber-security-threats.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
@@ -103,7 +103,7 @@
                     </div>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-when&why-server-maintenance.php">When & why you need Server Maintenance?</a></h2>
+                            <h2 class="font-size-42"><a href="blog/blog-when&why-server-maintenance.php">When & why you need Server Maintenance?</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue"> 25 February 2019</span></p>
                             <img src="img/blog/cyber-crime-02.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
@@ -111,7 +111,7 @@
                             <p><b>What are the red flags to know your server needs maintenance?</b></p>
                             <p><b>1. When your CPU is running hot</b></p>
                             <p>Increase in temperature, decreases the reliability of the server. Sometimes the high temperature may be due to an issue with power supply, memory, fans not running properly, etc.,. Other possible causes may be a clogged front intake, blockage of airflow, recent shifting or moving of the machine. It’s always best to leave it to the experts.......</p>
-                            <a href="blog-when&why-server-maintenance.php" class="btn-blog">CONTINUE READING</a>
+                            <a href="blog/blog-when&why-server-maintenance.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
@@ -133,14 +133,14 @@
                     </div>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-data-protection.php">Data Protection: Why it matters?</a></h2>
+                            <h2 class="font-size-42"><a href="blog/blog-data-protection.php">Data Protection: Why it matters?</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">12 February 2019</span></p>
                             <img src="img/blog/why-matters-01.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p><b>What is Data Protection?</b></p>
                             <p>All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
                             <p>Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine (Golden Avenue Business Continuity Strategies)....</p>
-                            <a href="blog-data-protection.php" class="btn-blog">CONTINUE READING</a>
+                            <a href="blog/blog-data-protection.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
@@ -162,14 +162,14 @@
                     </div>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog-why-amc.php">Why AMC?</a></h2>
+                            <h2 class="font-size-42"><a href="blog/blog-why-amc.php">Why AMC?</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">21 January 2019</span></p>
                             <img src="img/blog/cyber-crime-01.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p><b>Prevention is always better than Repair, and Growth over sluggishness.</b></p>
                             <p>In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
                             <p>What are the Advantages of signing up with an IT AMC Service Provider?....</p>
-                            <a href="blog-why-amc.php" class="btn-blog">CONTINUE READING</a>
+                            <a href="blog/blog-why-amc.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
