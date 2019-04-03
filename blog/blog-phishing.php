@@ -73,7 +73,7 @@
                                 <li> Be aware that Banks never ask for confidential information via emails, calls or texts.</li>
                                 <li> Whenever you are sharing your personal or financial information online, ensure it’s secure. Make sure that the website’s URL begins with “https” instead of “http”, and has a lock symbol on the website. Clicking on the lock icon should display the digital certificate of authenticity of the website.</li>
                             </ul>
-                            <p class="text-justify">For more information on how to protect yourself and your employees from these cyber crimes give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
+                            <p class="text-justify">For more information on how to protect yourself and your employees from these cyber crimes give the experts at <a href=../index.php>Golden Avenue</a> a Call <a href="tel:+04 2668272">04 2668272</a>, for a No Obligation Free Consultation</p>
                             
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
