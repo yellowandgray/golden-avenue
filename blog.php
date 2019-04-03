@@ -42,7 +42,8 @@
                         <li><a href="index.php">Home</a></li>
                         <li>Blog</li>
                     </ul>
-                    <div class="row showcase-section">
+                    
+             <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog/blog-phishing.php">Phishing| How to recognize them and avoid them</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
@@ -53,7 +54,6 @@
                             <p><b>1. Deceptive phishing by email</b></p>
                             <p>Fraudsters impersonate a genuine company and attempt to steal people’s personal information, login credentials using fake emails. These emails repeatedly use threats, and a sense of urgency to create panic for users into giving the information they are after. For example, credit card scammers might send out a fake email that instructs them to click on a link in order to rectify an error in their account. In actuality, the link leads to a fake login page that collects the user’s login credentials.</p>
                             <a href="blog/blog-phishing.php" class="btn-blog">CONTINUE READING</a>
-
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
                        
@@ -80,7 +80,7 @@
                             <br/>
                             <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
                             <p><b>A good offence is an active DEFENCE.</b></p>
-  
+
                             <a href="blog/blog-cyber-security-threats.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>

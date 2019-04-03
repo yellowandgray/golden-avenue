@@ -8,7 +8,7 @@
         <meta name="description" content="Data Protection: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
         <meta name="keywords" content="Annual Maintenance Contract, Dubai, Data Protection, Annual Maintenance Contract Provider, AMC, AMC Dubai, Annual Maintenance Contract, cybercrimes, IT Infrastructure, IT & Network Health Check, Consultation">
         <meta name="author" content="" />
-        <link rel="icon" href="img/favicon.png" type="image">
+        <link rel="icon" href="../img/favicon.png" type="image">
         <!-- css -->
         <link href="../css/bootstrap.min.css" rel="stylesheet" />
         <link href="../css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
