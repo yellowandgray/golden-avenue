@@ -22,10 +22,21 @@
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-137857896-1');
+        </script>
     </head>
     <body>
         <div id="wrapper">
-            <?php include 'menu.php'; ?>
+<?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-9" class="wow fadeInUp">
                 <div class="container">
@@ -70,7 +81,7 @@
                             <h3 class="text-justify">We at <a href="../index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
                             <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
                         </div>
-                       
+
                     </div>
                 </div>
                 <!--                <div class="container">
@@ -271,7 +282,7 @@
                 
                                 </div>-->
             </section>
-            <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
 
         </div>
 

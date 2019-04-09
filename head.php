@@ -13,9 +13,20 @@
     <link href="css/common.css" rel="stylesheet" type="text/css"/>
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&amp;subset=chinese-traditional,japanese" rel="stylesheet">
     <link href="css/libs/animate.css" rel="stylesheet" type="text/css"/>
-<!--    <link href="css/site.css" rel="stylesheet" type="text/css"/>-->
+    <!--    <link href="css/site.css" rel="stylesheet" type="text/css"/>-->
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
           <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-137857896-1');
+    </script>
 </head>

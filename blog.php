@@ -22,10 +22,21 @@
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-137857896-1');
+        </script>
     </head>
     <body>
         <div id="wrapper">
-            <?php include 'menu.php'; ?>
+<?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-9" class="wow fadeInUp">
                 <div class="container">
@@ -80,7 +91,7 @@
                             <br/>
                             <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
                             <p><b>A good offence is an active DEFENCE.</b></p>
-  
+
                             <a href="blog/blog-cyber-security-threats.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
@@ -388,7 +399,7 @@
                 
                                 </div>-->
             </section>
-            <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
 
         </div>
 

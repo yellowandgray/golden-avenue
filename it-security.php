@@ -22,10 +22,21 @@
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-137857896-1');
+        </script>
     </head>
     <body>
         <div id="wrapper">
-            <?php include 'menu.php'; ?><!-- end header -->
+<?php include 'menu.php'; ?><!-- end header -->
             <section id="inner-headline-3" class="wow fadeInLeft">
                 <div class="container">
                     <div class="row">
@@ -60,7 +71,7 @@
                             <!--<p class="text-justify line-height-30">The information security risks analysis from Golden Avenue is based on scrutinizing the statistics of network operation and evaluation of exposures and vulnerabilities. It aids to avoid unwanted attacks on valuable data and diminish the effect from existing threats. Evaluating the risks in Regular intervals is more effective than a one-time analysis.</p>-->
                         </div>
                         <div class="col-md-5 wow fadeInRight">
-                            <?php include 'cyber-security-workshop.php'; ?>
+<?php include 'cyber-security-workshop.php'; ?>
                             <br/>
                             <div class="box-shadow-cyber-attack text-center margin-t-b-20">
                                 <img src="img/cyber-attack.png" alt="IT Security" class="img-responsive" />
@@ -75,7 +86,7 @@
                                 </a>
                             </div>
                             <br/>
-                            <?php include 'enquiry.php'; ?>
+<?php include 'enquiry.php'; ?>
                         </div>
                     </div>
                     <!--                        <div class="row">
@@ -111,7 +122,7 @@
                                             </div>-->
                 </div>
             </section>
-            <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
         </div>
     </body>
 </html>

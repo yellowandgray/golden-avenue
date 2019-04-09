@@ -22,10 +22,21 @@
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-137857896-1');
+        </script>
     </head>
     <body>
         <div id="wrapper">
-            <?php include 'menu.php'; ?>
+<?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-9" class="wow fadeInUp">
                 <div class="container">
@@ -78,7 +89,7 @@
                             <p>While many SMEs are concerned about cyber attacks, more than half are not allocating enough in their budgets to risk mitigation. They also lack proper back-up and recovery strategy to pick up from an attack easily. An effective pro-active defence must include regular IT Security Audits and incorporate offensive countermeasures to outsmart an adversary. </p>
                             <p>Although developing policy can be a hard task, external expert security consultants like Golden Avenue can help in creating a cyber secure environment for your business. </p>
                             <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
-                          
+
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
@@ -98,7 +109,7 @@
                                                     </div>
                                                 </div>-->
                     </div>
-             
+
                 </div>
                 <!--                <div class="container">
                 
@@ -298,7 +309,7 @@
                 
                                 </div>-->
             </section>
-            <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
 
         </div>
 

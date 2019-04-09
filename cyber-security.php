@@ -22,10 +22,21 @@
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-137857896-1');
+        </script>
     </head>
     <body>
         <div id="wrapper">
-            <?php include 'menu.php'; ?><!-- end header -->
+<?php include 'menu.php'; ?><!-- end header -->
             <section id="inner-headline-6" class="wow fadeInLeft">
                 <div class="container">
                     <div class="row">
@@ -59,7 +70,7 @@
                         <div class="col-md-5 wow fadeInRight">
                             <?php include 'cyber-security-workshop.php'; ?>
                             <br/>
-                            <?php include 'enquiry.php'; ?>
+<?php include 'enquiry.php'; ?>
                         </div>
                     </div>
                 </div>
@@ -115,7 +126,7 @@
                     </div>
                 </section>
             </section>
-            <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
         </div>
     </body>
 </html>

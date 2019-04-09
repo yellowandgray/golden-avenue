@@ -22,10 +22,21 @@
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-137857896-1');
+        </script>
     </head>
     <body>
         <div id="wrapper">
-            <?php include 'menu.php'; ?>
+<?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-9" class="wow fadeInUp">
                 <div class="container">
@@ -73,25 +84,25 @@
                             <h3>4. Malicious action by a disgruntled employee or an individual</h3>
                             <p class="text-justify">Anyone with access to your data could copy or delete it. For instance, a disgruntled employee could sell your customer database to a competitor. Controlling access to users is a key to reducing this risk.</p>
                         </div>
-<!--                        <div class="col-md-5 wow fadeInRight">
-                   
-                            <br>
-                        
-                            <br/>
-                            <div class="box-shadow-2 blog-other">
-                                <h2 class="text-center color-blue">Other Blogs</h2>
-                                <a href="blog-1.php" class="text-decoration">
-                                    <h4>Why AMC?</h4>
-                                    <span>By Golden Avenue | 21 January 2019</span>
-                                    <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                </a>
-                                 <a href="blog-2.php" class="text-decoration">
-                                    <h4>When & why you need Server Maintenance?</h4>
-                                    <span>By Golden Avenue | 25 February 2019</span>
-                                    <img src="img/blog/cyber-crime-2.jpg" alt="Blog" class="img-responsive"/>
-                                </a>
-                            </div>
-                        </div>-->
+                        <!--                        <div class="col-md-5 wow fadeInRight">
+                                           
+                                                    <br>
+                                                
+                                                    <br/>
+                                                    <div class="box-shadow-2 blog-other">
+                                                        <h2 class="text-center color-blue">Other Blogs</h2>
+                                                        <a href="blog-1.php" class="text-decoration">
+                                                            <h4>Why AMC?</h4>
+                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                         <a href="blog-2.php" class="text-decoration">
+                                                            <h4>When & why you need Server Maintenance?</h4>
+                                                            <span>By Golden Avenue | 25 February 2019</span>
+                                                            <img src="img/blog/cyber-crime-2.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                    </div>
+                                                </div>-->
                     </div>
                     <div class="row">
                         <div class="col-md-8">
@@ -316,7 +327,7 @@
                 
                                 </div>-->
             </section>
-            <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
 
         </div>
 

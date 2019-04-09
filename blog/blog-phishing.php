@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
+    <head>
         <?php $page = 'blog'; ?>
         <meta charset="utf-8">
         <title>Golden Avenue | Your Virtual IT team</title>
@@ -22,10 +22,21 @@
         <!--[if lt IE 9]>
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-137857896-1');
+        </script>
     </head>
     <body>
         <div id="wrapper">
-            <?php include 'menu.php'; ?>
+<?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-9" class="wow fadeInUp">
                 <div class="container">
@@ -43,7 +54,7 @@
                         <li><a href="../blog.php">Blog</a></li>
                         <li>Phishing | How to recognize them and avoid them</li>
                     </ul>
-                   <div class="row showcase-section">
+                    <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">Phishing | How to recognize them and avoid them</h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
@@ -74,7 +85,7 @@
                                 <li> Whenever you are sharing your personal or financial information online, ensure it’s secure. Make sure that the website’s URL begins with “https” instead of “http”, and has a lock symbol on the website. Clicking on the lock icon should display the digital certificate of authenticity of the website.</li>
                             </ul>
                             <p class="text-justify">For more information on how to protect yourself and your employees from these cyber crimes give the experts at <a href=../index.php>Golden Avenue</a> a Call <a href="tel:+04 2668272">04 2668272</a>, for a No Obligation Free Consultation</p>
-                            
+
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
                        
@@ -93,7 +104,7 @@
                                                     </div>
                                                 </div>-->
                     </div>
-             
+
                 </div>
                 <!--                <div class="container">
                 
@@ -293,7 +304,7 @@
                 
                                 </div>-->
             </section>
-            <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>
 
         </div>
 

@@ -43,13 +43,23 @@
               <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 
             <![endif]-->
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'UA-137857896-1');
+        </script>
 
     </head>
 
     <script>
 
         setTimeout(
-
                 function showModal() {
 
                     $('#myModal').modal('show');
@@ -62,7 +72,7 @@
 
         <div id="wrapper" class="home-page">
 
-            <?php include 'menu.php'; ?>
+<?php include 'menu.php'; ?>
 
             <!-- end header -->
 
@@ -752,7 +762,7 @@
 
         <?php include 'footer.php'; ?>
 
-        <?php include 'onload-popup.php'; ?>
+<?php include 'onload-popup.php'; ?>
 
         <script>
 
