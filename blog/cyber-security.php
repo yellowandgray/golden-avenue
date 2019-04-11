@@ -8,15 +8,15 @@
         <meta name="description" content="Data Protection: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
         <meta name="keywords" content="Annual Maintenance Contract, Dubai, Data Protection, Annual Maintenance Contract Provider, AMC, AMC Dubai, Annual Maintenance Contract, cybercrimes, IT Infrastructure, IT & Network Health Check, Consultation">
         <meta name="author" content="" />
-        <link rel="icon" href="img/favicon.png" type="image">
+        <link rel="icon" href="../img/favicon.png" type="image">
         <!-- css -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" />
-        <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
-        <link href="css/flexslider.css" rel="stylesheet" /> 
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/common.css" rel="stylesheet" type="text/css"/>
+        <link href="../css/bootstrap.min.css" rel="stylesheet" />
+        <link href="../css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
+        <link href="../css/flexslider.css" rel="stylesheet" /> 
+        <link href="../css/style.css" rel="stylesheet" />
+        <link href="../css/common.css" rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&amp;subset=chinese-traditional,japanese" rel="stylesheet">
-        <link href="css/libs/animate.css" rel="stylesheet" type="text/css"/>
+        <link href="../css/libs/animate.css" rel="stylesheet" type="text/css"/>
         <!--    <link href="css/site.css" rel="stylesheet" type="text/css"/>-->
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -36,7 +36,7 @@
     </head>
     <body>
         <div id="wrapper">
-<?php include 'menu.php'; ?>
+            <?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-9" class="wow fadeInUp">
                 <div class="container">
@@ -50,49 +50,81 @@
             <section id="content">
                 <div class="container">
                     <ul class="breadcrumb">
-                        <li><a href="index.php">Home</a></li>
-                        <li>Blog</li>
+                        <li><a href="../index.php">Home</a></li>
+                        <li><a href="../blog.php">Blog</a></li>
+                        <li>Cyber security</li>
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-phishing.php">Phishing| How to recognize them and avoid them</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
-                            <img src="img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p>Phishing is a deceitful attempt by scammers to get your personal information such as Bank account numbers, credit card details, passwords etc. It is a cyber crime that lures individuals to provide sensitive and confidential information by posing as a legitimate organization, via email, telephone or messages.</p>
-                            <h4><b>The common types of Phishing are</b></h4>
-                            <p><b>1. Deceptive phishing by email</b></p>
-                            <p>Fraudsters impersonate a genuine company and attempt to steal people’s personal information, login credentials using fake emails. These emails repeatedly use threats, and a sense of urgency to create panic for users into giving the information they are after. For example, credit card scammers might send out a fake email that instructs them to click on a link in order to rectify an error in their account. In actuality, the link leads to a fake login page that collects the user’s login credentials.</p>
-                            <a href="blog/blog-phishing.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/cyber-security.php">Cyber security</a></h2>
+                            <h2 class="font-size-42">Cyber security</h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
-                            <img src="img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
+                            <img src="../img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
-                            <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
-                            <p><b>A good offence is an active DEFENCE.</b></p>
-
-                            <a href="blog/cyber-security.php" class="btn-blog">CONTINUE READING</a>
+<!--                            <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>-->
+                            <h3 class="font-size-29">What is cyber security?</h3>
+                            <p>Cyber security refers to the preventative techniques used to protect IT infrastructure assets and data of an organization or individual, from being attacked, stolen or accessed illegally.  It includes protecting hardware and software from becoming compromised to internal or external cyber-attacks.</p>
+                            <p>No Business is too small to be immune from cyber-attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.To effectively protect your business, it is important to be aware of the common widespread cyber security threats and take appropriate measures to combat such threats.</p>
+                            <h3 class="font-size-29">What are the Common external cyber security threats?</h3>
+                            <h3>1. Defacements</h3>
+                            <p>Website defacement is an attack on a website that changes the visual appearance of the site or a webpage and inserts the hacker’s message. In short, it is vandalism of a website or a criminal drawing of graffiti.</p>
+                            <h3>2. Automated exploit of a known vulnerability</h3>
+                            <p>These are non-targeted automated attacks that attempt to compromise computer’s operating system which has known security vulnerability especially in windows. These attacks occur if ALL necessary patches are not installed.</p>
+                            <h3>3. SEO Spam</h3>
+                            <p>By injecting irrelevant keywords, links, spam comments etc into a website, SEO spam forces the site to rank away from the specific keywords given by a business, which may result in considerable loss of traffic.</p>
+                            <h3>4. Malicious redirects </h3>
+                            <p>A malicious redirect occurs when visitors land on a site and are sent to another site containing malicious content due to embedded JavaScript code. WordPress hacked redirect, is becoming quite widespread redirecting visitors to adult & other malicious pages.</p>
+                            <h3>5. Distributed denial-of-service (DDoS)</h3>
+                            <p>A DDoS attack occurs when a website’s server is maliciously overloaded by “bogus” traffic from attacker-controlled computers, called a botnet. This causes slow website loading times and crashed servers, which can be devastating to your bottom line but a boon to your competitors.</p>
+                            <h3>6. Ransomware</h3>
+                            <p>Ransomware is a type of malware that prevents users from accessing their system or personal files and demands ransom payment in order to resume access. Many attacks don’t have to be as vicious as WannaCry or NotPetia to take an entire SME down due to the financial strain. Ransomware was the fastest growing threat in cyber security.</p>
+                            <h3 class="font-size-29">What are some of the internal cyber security threats?</h3>
+                            <h3>1. Reckless web surfing by employees </h3>
+                            <p>Employees can surf non-business-related sites using the company’s electronic devices which can affect company network with bot clients, Trojans, spyware, and different kinds of malware. The sites that spread the most malware are</p>
+                            <ul class="list-style-type">
+                                <li>a)	Celebrity fan sites </li>
+                                <li>b)	Casual gaming sites</li>
+                                <li>c)	Adult sites and online social networks </li>
+                            </ul>
+                            <h3>2. Insider attacks </h3>
+                            <p>Since SMEs have fewer employees, they tend to allocate a lot of control over assets to a single individual. This gives one employee the ability to do more harm as an insider. These insider attacks can be unauthorized extraction, manipulation, destruction of assets and data, and unauthorized use of third-party software which may contain harmful viruses.</p>
+                            <p>While many SMEs are concerned about cyber-attacks, more than half are not allocating enough in their budgets to risk mitigation. They also lack proper back-up and recovery strategy to pick up from an attack easily. An effective pro-active defense must include regular IT Security Audits and incorporate offensive countermeasures to outsmart an adversary.</p>
+                            <h3 class="font-size-29">What could go wrong if Data is not protected?</h3>
+                            <h3>1. Risks involved in online presence and threats posed by Hackers and Malware</h3>
+                            <ul class="list-line list-style-type1 padding-0">
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Hackers try to break into computers over the internet. This is a serious risk, particularly for companies that hold highly sensitive and confidential data</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Some computer viruses erase files. These usually infect company systems through the internet, via a downloaded file or email</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Other malware (malicious software) like Trojans and spyware may read your data and transmit it across the internet, or wipe it completely</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Ransomware is now a common threat, where hackers steal vital data and issue a ransom for its safe return</li>
+                            </ul>
+                            <h3>2. Human Error</h3>
+                            <p>It is easy to change or erase data accidentally. For instance, a staff member could delete a crucial list of customers by mistake.</p>
+                            <h3>3. Physical threats</h3>
+                            <ul class="list-line list-style-type1 padding-0">
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Failed hardware, like a damaged hard disk, can result in the loss of important files and data</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Theft of company computers or mobile devices can result in data falling into the wrong hands, or being lost forever</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>A natural calamity could destroy the server holding key business information. For example, a fire or flood in your business premises</li>
+                            </ul>
+                            <h3>4. Malicious action by a disgruntled employee or an individual</h3>
+                            <p>Anyone with access to your data could copy or delete it. For instance, a disgruntled employee could sell your customer database to a competitor. Controlling access to users is a key to reducing this risk.</p>
+                            <h3 class="font-size-29">What are the types of cyber security measures?</h3>
+                            <b>Protect from within</b>
+                            <p>Most cyber-attacks happen because of an internal blunder.</p>
+                            <p>The biggest benefit to holding a session on security awareness is to build better security from within. Knowing your employees are prepared and acting with a focus on data security gives you unmatched peace of mind and the confidence that your business is doing everything possible to prevent data breaches and possible external attacks.</p>
+                            <b>Educate & Train</b>
+                            <p>Cyber Security awareness training is a formal process for educating employees about computer security. A good security awareness program should be organized to educate your employees about the corporate policies and procedures within the IT space. The main focus is to empower your employees on the hassles of being complacent to the threats lingering out there.</p>
+                            <ul class="list-line list-style-type1 padding-0">
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Prevent users from unauthorized access to the network</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure malicious elements don’t exist within the network</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Deny programs from certain resources that could be infected</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Secure confidential information</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure the company follows good online security practices</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Compliance with Government regulations</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure use of security software and maintain all software updates and upgrades</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Look for software with undo/rollback functions to minimize the risks posed by human error</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Have a good BACK UP and RESTORE strategy in case of a disaster</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Use <b>security Experts</b> to comb through the system thoroughly and install security measures</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li><b>AMC Is the Smarter cyber security for your IT Assets with Regular Scheduled maintenance Updates and Upgrades</b></li>
+                            </ul>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
@@ -112,94 +144,7 @@
                                                     </div>
                                                 </div>-->
                     </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-when&why-server-maintenance.php">When & why you need Server Maintenance?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue"> 25 February 2019</span></p>
-                            <img src="img/blog/cyber-crime-02.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p>Servers are critical pieces of IT infrastructure for a business which should work without challenges for long periods of time.</p>
-                            <p><b>What are the red flags to know your server needs maintenance?</b></p>
-                            <p><b>1. When your CPU is running hot</b></p>
-                            <p>Increase in temperature, decreases the reliability of the server. Sometimes the high temperature may be due to an issue with power supply, memory, fans not running properly, etc.,. Other possible causes may be a clogged front intake, blockage of airflow, recent shifting or moving of the machine. It’s always best to leave it to the experts.......</p>
-                            <a href="blog/blog-when&why-server-maintenance.php" class="btn-blog">CONTINUE READING</a>
 
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-data-protection.php">Data Protection: Why it matters?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">12 February 2019</span></p>
-                            <img src="img/blog/why-matters-01.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p><b>What is Data Protection?</b></p>
-                            <p>All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
-                            <p>Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine (Golden Avenue Business Continuity Strategies)....</p>
-                            <a href="blog/blog-data-protection.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-why-amc.php">Why AMC?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">21 January 2019</span></p>
-                            <img src="img/blog/cyber-crime-01.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p><b>Prevention is always better than Repair, and Growth over sluggishness.</b></p>
-                            <p>In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
-                            <p>What are the Advantages of signing up with an IT AMC Service Provider?....</p>
-                            <a href="blog/blog-why-amc.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
                 </div>
                 <!--                <div class="container">
                 
@@ -399,7 +344,7 @@
                 
                                 </div>-->
             </section>
-<?php include 'footer.php'; ?>
+            <?php include 'footer.php'; ?>
 
         </div>
 
