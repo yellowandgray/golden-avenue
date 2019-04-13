@@ -230,9 +230,9 @@
 
                             <h1 class="color-blue wow fadeInUp">Dubai's Best IT Services and Technical Support Provider</h1>
 
-                            <p class="text-justify wow fadeInUp">At Golden Avenue, we are a team of IT professionals and experts with a mission to influence your IT requirements & provide solutions in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
+                            <p class="text-justify wow fadeInUp">At Golden Avenue, we are a team of IT professionals and experts with a mission to influence your IT requirements & provide best IT solutions in Dubai, in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
 
-                            <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions, and support focusing on satisfying our clients requirements. If your business requires unparalleled technical support, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
+                            <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions and IT support in Dubai, focusing on satisfying our clients requirements. If your business requires unparalleled IT support in Dubai, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
 
                         </div>
 
@@ -260,7 +260,7 @@
 
                             <p class="text-justify wow fadeInUp color-white">Golden Avenue helps your business to build a resilient IT system that needs to be secure and accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, ethernet switches and network storage.</p>
 
-                            <p class="text-justify wow fadeInUp color-white">We offer steady and practical business-oriented solutions that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance, we also offer customized and tailor-made solutions to distinctive needs focused on your business, or various businesses and areas surrounding UAE.</p>
+                            <p class="text-justify wow fadeInUp color-white">We offer steady and best practical business-oriented IT solutions in Dubai that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance, we also offer customized and tailor-made IT solutions in Dubai, to distinctive needs focused on your business, or various businesses.</p>
 
 
 
@@ -330,7 +330,7 @@
 
                                         <i class="fa fa-check" aria-hidden="true"></i><li>Ensures no downtime to your business productivity</li>
 
-                                        <i class="fa fa-check" aria-hidden="true"></i><li>Dedicated IT professionals at a fraction of the cost</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Dedicated IT professionals & best IT support in Dubai at a fraction of the cost</li>
 
                                     </ul>
 
@@ -398,7 +398,7 @@
 
                                             <a href="amc-contract.php"><h3>24 X 7 IT SUPPORT</h3> </a>
 
-                                            <p>We offer World-Class & Unmatched Support</p>
+                                            <p>We offer World-Class & Unmatched IT Support in Dubai</p>
 
                                             <!--<a href="contacts.php" class="btn btn-primary">Try us</a>-->
 
