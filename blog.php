@@ -85,14 +85,14 @@
                     </div>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-cyber-security-threats.php">Cyber security threats on SMEs</a></h2>
+                            <h2 class="font-size-42"><a href="blog/cyber-security.php">Cyber security</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
                             <img src="img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
                             <p><b>A good offence is an active DEFENCE.</b></p>
 
-                            <a href="blog/blog-cyber-security-threats.php" class="btn-blog">CONTINUE READING</a>
+                            <a href="blog/cyber-security.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">

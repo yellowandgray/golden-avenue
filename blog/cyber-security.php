@@ -24,7 +24,7 @@
             <![endif]-->
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
-        <script> 
+        <script>
             window.dataLayer = window.dataLayer || [];
             function gtag() {
                 dataLayer.push(arguments);
@@ -36,7 +36,7 @@
     </head>
     <body>
         <div id="wrapper">
-<?php include 'menu.php'; ?>
+            <?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-9" class="wow fadeInUp">
                 <div class="container">
@@ -52,37 +52,99 @@
                     <ul class="breadcrumb">
                         <li><a href="../index.php">Home</a></li>
                         <li><a href="../blog.php">Blog</a></li>
-                        <li>Blog - Why AMC?</li>
+                        <li>Cyber security</li>
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42">Why AMC?</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">21 January 2019</span></p>
-                            <img src="../img/blog/cyber-crime-01.jpg" alt="Blog" class="img-responsive"/>
-                            <h2 class="font-size-29">AMC Is The Smarter Way to Look After your IT Assets</h2>
-                            <h3 class="text-justify">Prevention is always better than Repair, and Growth over sluggishness.</h3>
-                            <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
-                            <p class="text-justify">What are the Advantages of signing up with an IT AMC Service Provider?</p>
+                            <h2 class="font-size-42">Cyber security</h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
+                            <img src="../img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
+                            <br/>
+<!--                            <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>-->
+                            <h3 class="font-size-29">What is cyber security?</h3>
+                            <p>Cyber security refers to the preventative techniques used to protect IT infrastructure assets and data of an organization or individual, from being attacked, stolen or accessed illegally.  It includes protecting hardware and software from becoming compromised to internal or external cyber-attacks.</p>
+                            <p>No Business is too small to be immune from cyber-attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.To effectively protect your business, it is important to be aware of the common widespread cyber security threats and take appropriate measures to combat such threats.</p>
+                            <h3 class="font-size-29">What are the Common external cyber security threats?</h3>
+                            <h3>1. Defacements</h3>
+                            <p>Website defacement is an attack on a website that changes the visual appearance of the site or a webpage and inserts the hacker’s message. In short, it is vandalism of a website or a criminal drawing of graffiti.</p>
+                            <h3>2. Automated exploit of a known vulnerability</h3>
+                            <p>These are non-targeted automated attacks that attempt to compromise computer’s operating system which has known security vulnerability especially in windows. These attacks occur if ALL necessary patches are not installed.</p>
+                            <h3>3. SEO Spam</h3>
+                            <p>By injecting irrelevant keywords, links, spam comments etc into a website, SEO spam forces the site to rank away from the specific keywords given by a business, which may result in considerable loss of traffic.</p>
+                            <h3>4. Malicious redirects </h3>
+                            <p>A malicious redirect occurs when visitors land on a site and are sent to another site containing malicious content due to embedded JavaScript code. WordPress hacked redirect, is becoming quite widespread redirecting visitors to adult & other malicious pages.</p>
+                            <h3>5. Distributed denial-of-service (DDoS)</h3>
+                            <p>A DDoS attack occurs when a website’s server is maliciously overloaded by “bogus” traffic from attacker-controlled computers, called a botnet. This causes slow website loading times and crashed servers, which can be devastating to your bottom line but a boon to your competitors.</p>
+                            <h3>6. Ransomware</h3>
+                            <p>Ransomware is a type of malware that prevents users from accessing their system or personal files and demands ransom payment in order to resume access. Many attacks don’t have to be as vicious as WannaCry or NotPetia to take an entire SME down due to the financial strain. Ransomware was the fastest growing threat in cyber security.</p>
+                            <h3 class="font-size-29">What are some of the internal cyber security threats?</h3>
+                            <h3>1. Reckless web surfing by employees </h3>
+                            <p>Employees can surf non-business-related sites using the company’s electronic devices which can affect company network with bot clients, Trojans, spyware, and different kinds of malware. The sites that spread the most malware are</p>
+                            <ul class="list-style-type">
+                                <li>a)	Celebrity fan sites </li>
+                                <li>b)	Casual gaming sites</li>
+                                <li>c)	Adult sites and online social networks </li>
+                            </ul>
+                            <h3>2. Insider attacks </h3>
+                            <p>Since SMEs have fewer employees, they tend to allocate a lot of control over assets to a single individual. This gives one employee the ability to do more harm as an insider. These insider attacks can be unauthorized extraction, manipulation, destruction of assets and data, and unauthorized use of third-party software which may contain harmful viruses.</p>
+                            <p>While many SMEs are concerned about cyber-attacks, more than half are not allocating enough in their budgets to risk mitigation. They also lack proper back-up and recovery strategy to pick up from an attack easily. An effective pro-active defense must include regular IT Security Audits and incorporate offensive countermeasures to outsmart an adversary.</p>
+                            <h3 class="font-size-29">What could go wrong if Data is not protected?</h3>
+                            <h3>1. Risks involved in online presence and threats posed by Hackers and Malware</h3>
+                            <ul class="list-line list-style-type1 padding-0">
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Hackers try to break into computers over the internet. This is a serious risk, particularly for companies that hold highly sensitive and confidential data</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Some computer viruses erase files. These usually infect company systems through the internet, via a downloaded file or email</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Other malware (malicious software) like Trojans and spyware may read your data and transmit it across the internet, or wipe it completely</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Ransomware is now a common threat, where hackers steal vital data and issue a ransom for its safe return</li>
+                            </ul>
+                            <h3>2. Human Error</h3>
+                            <p>It is easy to change or erase data accidentally. For instance, a staff member could delete a crucial list of customers by mistake.</p>
+                            <h3>3. Physical threats</h3>
+                            <ul class="list-line list-style-type1 padding-0">
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Failed hardware, like a damaged hard disk, can result in the loss of important files and data</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Theft of company computers or mobile devices can result in data falling into the wrong hands, or being lost forever</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>A natural calamity could destroy the server holding key business information. For example, a fire or flood in your business premises</li>
+                            </ul>
+                            <h3>4. Malicious action by a disgruntled employee or an individual</h3>
+                            <p>Anyone with access to your data could copy or delete it. For instance, a disgruntled employee could sell your customer database to a competitor. Controlling access to users is a key to reducing this risk.</p>
+                            <h3 class="font-size-29">What are the types of cyber security measures?</h3>
+                            <b>Protect from within</b>
+                            <p>Most cyber-attacks happen because of an internal blunder.</p>
+                            <p>The biggest benefit to holding a session on security awareness is to build better security from within. Knowing your employees are prepared and acting with a focus on data security gives you unmatched peace of mind and the confidence that your business is doing everything possible to prevent data breaches and possible external attacks.</p>
+                            <b>Educate & Train</b>
+                            <p>Cyber Security awareness training is a formal process for educating employees about computer security. A good security awareness program should be organized to educate your employees about the corporate policies and procedures within the IT space. The main focus is to empower your employees on the hassles of being complacent to the threats lingering out there.</p>
+                            <ul class="list-line list-style-type1 padding-0">
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Prevent users from unauthorized access to the network</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure malicious elements don’t exist within the network</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Deny programs from certain resources that could be infected</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Secure confidential information</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure the company follows good online security practices</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Compliance with Government regulations</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Ensure use of security software and maintain all software updates and upgrades</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Look for software with undo/rollback functions to minimize the risks posed by human error</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Have a good BACK UP and RESTORE strategy in case of a disaster</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Use <b>security Experts</b> to comb through the system thoroughly and install security measures</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li><b>AMC Is the Smarter cyber security for your IT Assets with Regular Scheduled maintenance Updates and Upgrades</b></li>
+                            </ul>
 
-<!--                            <img src="img/blog/biggest-data-breaches-2018.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>1. Regular Scheduled maintenance Updates and Upgrades</h2>
-                            <p class="text-justify">Handling business and IT challenges simultaneously can be a difficulty for many small and medium businesses. Lack of focus on the main stream of business can hinder growth. Signing up with an <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> will take care of both IT and maintenance troubles. The AMC Service provider will monitor your schedule and keep in touch with you whenever the appropriate procedures need to be implemented.</p>
-                            <p class="text-justify">Routine checks guarantee a better prevention option and a solution. An IT Infrastructure checkup performed regularly can also result in the devices performing efficiently throughout the year. Any issue detected, can be resolved immediately to prevent further damages thus increasing the device life.</p>
-<!--                            <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>2. Cost Effective</h2>
-                            <p class="text-justify">Partnering with the right IT <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> is a better choice than depending upon separate individual service providers which may add up to huge monetary amount by the end of the year because of lack of experience and expertise. AMC Service Providers these days offer flexible customized solutions & services that cater to different industries.</p>
-
-<!--                            <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>3. Handle IT Emergencies better</h2>
-                            <p class="text-justify">Joining forces with an IT <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> and thus working with their skilled technicians could be exactly what you are looking for.</p>
-                            <p class="text-justify">More Businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
-                            <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="../amc-contract.php" class="text-decoration">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
-                            <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>
-                            <h3 class="text-justify">We at <a href="../index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
-                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
                         </div>
-
+                        <!--                        <div class="col-md-5 wow fadeInRight">
+                       
+                                                    <div class="box-shadow-2 blog-other">
+                                                        <h2 class="text-center color-blue">Other Blogs</h2>
+                                                        <a href="blog.php" class="text-decoration">
+                                                            <h4>Data Protection: Why it matters?</h4>
+                                                            <span>By Golden Avenue | 12 February 2019</span>
+                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                        <a href="blog-1.php" class="text-decoration">
+                                                            <h4>Why AMC?</h4>
+                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                    </div>
+                                                </div>-->
                     </div>
+
                 </div>
                 <!--                <div class="container">
                 
@@ -282,7 +344,7 @@
                 
                                 </div>-->
             </section>
-<?php include 'footer.php'; ?>
+            <?php include 'footer.php'; ?>
 
         </div>
 
