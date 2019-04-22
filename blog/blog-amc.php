@@ -8,15 +8,15 @@
         <meta name="description" content="Data Protection: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
         <meta name="keywords" content="Annual Maintenance Contract, Dubai, Data Protection, Annual Maintenance Contract Provider, AMC, AMC Dubai, Annual Maintenance Contract, cybercrimes, IT Infrastructure, IT & Network Health Check, Consultation">
         <meta name="author" content="" />
-        <link rel="icon" href="img/favicon.png" type="image">
+        <link rel="icon" href="../img/favicon.png" type="image">
         <!-- css -->
-        <link href="css/bootstrap.min.css" rel="stylesheet" />
-        <link href="css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
-        <link href="css/flexslider.css" rel="stylesheet" /> 
-        <link href="css/style.css" rel="stylesheet" />
-        <link href="css/common.css" rel="stylesheet" type="text/css"/>
+        <link href="../css/bootstrap.min.css" rel="stylesheet" />
+        <link href="../css/fancybox/jquery.fancybox.css" rel="stylesheet"> 
+        <link href="../css/flexslider.css" rel="stylesheet" /> 
+        <link href="../css/style.css" rel="stylesheet" />
+        <link href="../css/common.css" rel="stylesheet" type="text/css"/>
         <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:100,300,400,500,700,900&amp;subset=chinese-traditional,japanese" rel="stylesheet">
-        <link href="css/libs/animate.css" rel="stylesheet" type="text/css"/>
+        <link href="../css/libs/animate.css" rel="stylesheet" type="text/css"/>
         <!--    <link href="css/site.css" rel="stylesheet" type="text/css"/>-->
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
         <!--[if lt IE 9]>
@@ -50,159 +50,82 @@
             <section id="content">
                 <div class="container">
                     <ul class="breadcrumb">
-                        <li><a href="index.php">Home</a></li>
-                        <li>Blog</li>
+                        <li><a href="../index.php">Home</a></li>
+                        <li><a href="../blog.php">Blog</a></li>
+                        <li>Blog - AMC</li>
                     </ul>
-
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-amc.php">Annual Maintenance Contract | Why AMC and what you should know about IT maintenance contracts?</a></h2>
+                            <h2 class="font-size-42">Annual Maintenance Contract | Why AMC and what you should know about IT maintenance contracts?</h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">22 April 2019</span></p>
-                            <img src="img/blog/sub-page-pic-05.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
+                            <img src="../img/blog/sub-page-pic-05.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                             <h2 class="font-size-29">Annual Maintenance Contracts are the Smarter Way to Look after your IT Assets</h2>
                             <h2 class="text-justify">Why AMC?</h2>
                             <h3 class="text-justify">Prevention is always better than Repair and Growth over sluggishness.</h3>
                             <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or downtime can result in long durations of no productivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
+                            <h2 class="text-justify">What are the Advantages of signing up with an IT AMC Service Provider?</h2>
 
-                            <a href="blog/blog-why-amc.php" class="btn-blog">CONTINUE READING</a>
 
+<!--                            <img src="img/blog/biggest-data-breaches-2018.jpg" alt="" class="img-responsive img-width"/>-->
+                            <h3>1. Regular Scheduled maintenance Updates and Upgrades</h3>
+                            <p class="text-justify">Handling business and IT challenges simultaneously can be difficult for many small and medium businesses. Lack of focus on the main stream of business can hinder growth. Signing up with an AMC Service Provider will take care of both IT and maintenance problems. The AMC Service provider will monitor your schedule and keep in touch with you whenever the appropriate procedures need to be implemented.</p>
+                            <p class="text-justify">Routine checks guarantee a better prevention option and a solution. An IT Infrastructure check-up performed regularly can also result in the devices performing efficiently throughout the year. Any challenges detected, can be resolved immediately to prevent further damages thus increasing the device life.</p>
+<!--                            <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>-->
+                            <h3>2. Cost Effective</h3>
+                            <p class="text-justify">Partnering with the right IT <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> is a better choice than depending upon separate individual service providers which may add up to huge monetary amount by the end of the year because of lack of experience and expertise. AMC Service Providers today offer flexible customized solutions & services that cater to different industries.</p>
+
+<!--                            <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>-->
+                            <h3>3. Handle IT Emergencies better</h3>
+                            <p class="text-justify">Joining forces with an IT <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> and thus working with their skilled technicians could be exactly what you are looking for.</p>
+                            <p class="text-justify">More businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
+                            <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="../amc-contract.php" class="text-decoration">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h3>Other benefits in an AMC Package may include,</h3>
+                                    <ul class="list-line list-style-type1 padding-0 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Assembling of Computer Systems</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Spare parts replacement</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Hardware installation</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Server installation</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Removal of Virus and Computer Protection</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Defragmentation of hard drives</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Create User guidelines on preventive maintenance</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Optimize computer equipments</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Set up of Wi-Fi or LAN facilities and maintain its security</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Fixing of Internet errors</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Data Recovery</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Repairing  breakdowns</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Hard-disk, DVD ROM and Modem  and other hardware wear and tear</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Maintenance of Scanners and Printers and other peripherals</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>24 x 7  Customer support service</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="../img/blog/sub-page-pic-005.jpg" alt="Blog" class="img-responsive margin-top-45" style="border: 1px solid #c7c7c7;"/>
+                                </div>
+                            </div>
+                            <h3>Types of Annual Maintenance Contracts</h3>
+                            <h4>1. Non-Comprehensive  Annual maintenance contract (AMC) </h4>
+                            <p class="text-justify">A manufacturer provides service with the help of other local authorized service providers appointed by them. This support is generally for the period of 1 year and can be extended up to three years or five years as per the understanding between both parties. Typically, the authorized service providers give only service support and would charge separately for few components excluded in the warranty cover. </p>
+                            <h4>2. Comprehensive maintenance contract (CMC)</h4>
+                            <p class="text-justify">CMC includes prioritized on time service from the company or maintenance service providers. Here also the contract is generally for the period of 1 year and may be extended up to three years or five years as per the understanding between both the parties.  It includes repairs and replacements of defective parts. This type of contract gives the added benefit because it may include consumables, i.e. goods used by individuals and businesses that are used up or wear out and require regular replacement (which is not part of a standard Annual Maintenance Contract) made available at affordable costs. CMC is more expensive than AMC because it includes the costs of spares as well.</p>
+
+                            <h3>What should you look for in an Annual Maintenance Contract provider?</h3>
+                            <ul class="list-line list-style-type1 padding-0 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Check for professional exposure of the Annual Maintenance Contract experts</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Proper training certificates and important enclosures which assures you about their appropriate AMC services</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Choose the service provider who assures you a 24 / 7 service support. This 24 / 7 support helps businesses to reduce their downtime by taking appropriate measures to identify the problem immediately, and resolve before it escalates. Today, this round-the-clock service has become the norm thus earning the appreciation of many businesses</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>No service provider can guarantee 100 % protection from hackers, virus attacks and other external threats. Ensure that your AMC service provider will carry out a comprehensive maintenance plan that wsill minimize your exposure to such threats. This protection can be achieved with regular system upgrades of necessary tools and software currently available in the marketplace</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>It is best to make sure your maintenance contract provider knows that all your systems need a strong and active software and hardware support</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Finally, choose the firm which offers you an economical annual plan for the IT Annual Maintenance Contract services based on your requirements</li>
+
+                            </ul>
+                            <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>
+                            <h3 class="text-justify">We at <a href="../index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
+                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
                         </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
+
                     </div>
-
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-phishing.php">Phishing| How to recognize them and avoid them</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
-                            <img src="img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p>Phishing is a deceitful attempt by scammers to get your personal information such as Bank account numbers, credit card details, passwords etc. It is a cyber crime that lures individuals to provide sensitive and confidential information by posing as a legitimate organization, via email, telephone or messages.</p>
-                            <h4><b>The common types of Phishing are</b></h4>
-                            <p><b>1. Deceptive phishing by email</b></p>
-                            <p>Fraudsters impersonate a genuine company and attempt to steal people’s personal information, login credentials using fake emails. These emails repeatedly use threats, and a sense of urgency to create panic for users into giving the information they are after. For example, credit card scammers might send out a fake email that instructs them to click on a link in order to rectify an error in their account. In actuality, the link leads to a fake login page that collects the user’s login credentials.</p>
-                            <a href="blog/blog-phishing.php" class="btn-blog">CONTINUE READING</a>
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/cyber-security.php">Cyber security</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
-                            <img src="img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
-                            <p><b>A good offence is an active DEFENCE.</b></p>
-
-                            <a href="blog/cyber-security.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-when&why-server-maintenance.php">When & why you need Server Maintenance?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue"> 25 February 2019</span></p>
-                            <img src="img/blog/cyber-crime-02.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p>Servers are critical pieces of IT infrastructure for a business which should work without challenges for long periods of time.</p>
-                            <p><b>What are the red flags to know your server needs maintenance?</b></p>
-                            <p><b>1. When your CPU is running hot</b></p>
-                            <p>Increase in temperature, decreases the reliability of the server. Sometimes the high temperature may be due to an issue with power supply, memory, fans not running properly, etc.,. Other possible causes may be a clogged front intake, blockage of airflow, recent shifting or moving of the machine. It’s always best to leave it to the experts.......</p>
-                            <a href="blog/blog-when&why-server-maintenance.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-                    <div class="row showcase-section">
-                        <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-data-protection.php">Data Protection: Why it matters?</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">12 February 2019</span></p>
-                            <img src="img/blog/why-matters-01.jpg" alt="Blog" class="img-responsive"/>
-                            <br/>
-                            <p><b>What is Data Protection?</b></p>
-                            <p>All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
-                            <p>Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine (Golden Avenue Business Continuity Strategies)....</p>
-                            <a href="blog/blog-data-protection.php" class="btn-blog">CONTINUE READING</a>
-
-                        </div>
-                        <!--                        <div class="col-md-5 wow fadeInRight">
-                       
-                                                    <div class="box-shadow-2 blog-other">
-                                                        <h2 class="text-center color-blue">Other Blogs</h2>
-                                                        <a href="blog.php" class="text-decoration">
-                                                            <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
-                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                        <a href="blog-1.php" class="text-decoration">
-                                                            <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
-                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
-                                                        </a>
-                                                    </div>
-                                                </div>-->
-                    </div>
-
                 </div>
                 <!--                <div class="container">
                 
@@ -408,3 +331,5 @@
 
     </body>
 </html>
+
+
