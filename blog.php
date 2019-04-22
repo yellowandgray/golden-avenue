@@ -64,7 +64,7 @@
                             <h3 class="text-justify">Prevention is always better than Repair and Growth over sluggishness.</h3>
                             <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or downtime can result in long durations of no productivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
 
-                            <a href="blog/blog-why-amc.php" class="btn-blog">CONTINUE READING</a>
+                            <a href="blog/blog-amc.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
