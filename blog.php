@@ -56,7 +56,7 @@
 
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/blog-amc.php">Annual Maintenance Contract | Why AMC and what you should know about IT maintenance contracts?</a></h2>
+                            <h2 class="font-size-42"><a href="blog/amc.php">Annual Maintenance Contract | Why AMC and what you should know about IT maintenance contracts?</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">22 April 2019</span></p>
                             <img src="img/blog/sub-page-pic-05.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                             <h2 class="font-size-29">Annual Maintenance Contracts are the Smarter Way to Look after your IT Assets</h2>
@@ -64,7 +64,7 @@
                             <h3 class="text-justify">Prevention is always better than Repair and Growth over sluggishness.</h3>
                             <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or downtime can result in long durations of no productivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
 
-                            <a href="blog/blog-amc.php" class="btn-blog">CONTINUE READING</a>
+                            <a href="blog/amc.php" class="btn-blog">CONTINUE READING</a>
 
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
