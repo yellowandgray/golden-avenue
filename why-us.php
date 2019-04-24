@@ -118,7 +118,7 @@
                 $(window).load(function () {
                     $(".trigger_popup_fricc_1").click(function () {
                         $('.hover_bkgr_fricc_1').show();
-                        $('#video_container').html('<video controls><source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/mp4"><source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/ogg"></video>');
+                        $('#video_container').html('<video controls autoplay><source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/mp4"><source src="golden-avenue-intro-by-prem-bhojwani.mp4" type="video/ogg"></video>');
                     });
                     $('.hover_bkgr_fricc').click(function () {
                         $('.hover_bkgr_fricc_1').hide();

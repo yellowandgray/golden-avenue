@@ -274,7 +274,7 @@
 
                             <div class="cyber-security-bg1">
 
-                                <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise for AED 1</h4></a>
+                                <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise</h4></a>
 
                                 <a href="cyber-security.php"><img src="img/golden-cyber.jpg" alt="Cyber Security Awareness Workshop" class="img-responsive img-width" /></a>
 

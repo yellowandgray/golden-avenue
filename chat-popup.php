@@ -1,4 +1,4 @@
-<button class="chat-popup-button" onclick="openPopup()"><i class="fa fa-comments fa-3x" aria-hidden="true"></i></button>
+<!--<button class="chat-popup-button" onclick="openPopup()"><i class="fa fa-comments fa-3x" aria-hidden="true"></i></button>
 
 <div class="chat-popup-section" id="myForm">
     <div class="chat-bg-css"></div>
@@ -11,4 +11,4 @@
             <div class="floatright"><button class="btn"><i class="fa fa-share-square"></i></button></div>
         </div>
     </form>
-</div>
+</div>-->
