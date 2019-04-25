@@ -447,7 +447,7 @@
                                                 <div class="col-md-1"></div>
                                             </div>
                                             <div class="row text-center">
-                                                <a href="it_procurement.php" class="btn btn-primary"><i class="icon-bolt"></i>IT PROCUREMENT GUIDE</a>
+                                                <a href="it-procurement.php" class="btn btn-primary"><i class="icon-bolt"></i>IT PROCUREMENT GUIDE</a>
                                             </div>
                                         </div>-->
                     </div>
