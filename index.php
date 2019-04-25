@@ -6,15 +6,17 @@
 
         <meta charset="utf-8">
 
-        <title> No.1 IT service in Dubai | IT solutions company in Dubai[2019] </title>
+        <title> IT Support in Dubai | IT solutions and Service provider in Dubai</title>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta name="description" content="We are a team of professional IT service in Dubai and IT Solutions in Dubai. our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Services. We offer remote, on-site support 24 hours a day, 7 days a week." />
+        <meta name="description" content="We are a team of professional IT Support in Dubai and IT Solutions Dubai. our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support in dubai. We offer remote, on-site support 24 hours a day, 7 days a week." />
 
-        <meta name="keywords" content="it services in dubai,it solutions in dubai">
-
-        <meta name="author" content="" />
+        <meta name="keywords" content="it support in dubai,it solutions in dubai,IT Service in dubai">
+        
+		<link rel="canonical" href="https://www.goldenavenue.ae/index.php" />
+        
+		<meta name="author" content="" />
 
         <link rel="icon" href="img/favicon.png" type="image">
 
@@ -228,9 +230,9 @@
 
                         <div class="col-md-12">
 
-                            <h1 class="color-blue wow fadeInUp">Dubai's Best IT Services and Technical Support Provider</h1>
+                            <h1 class="color-blue wow fadeInUp"> IT Support in Dubai Best IT solutions and Service provider in Dubai</h1>
 
-                            <p class="text-justify wow fadeInUp">At Golden Avenue, we are a team of IT professionals and experts with a mission to influence your IT requirements & provide best IT solutions in Dubai, in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
+                            <p class="text-justify wow fadeInUp">At Golden Avenue, we are a team of IT Support in dubai and experts with a mission to influence your IT requirements & provide best IT solutions in Dubai, in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
 
                             <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions and IT support in Dubai, focusing on satisfying our clients requirements. If your business requires unparalleled IT support in Dubai, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
 
