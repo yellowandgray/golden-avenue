@@ -6,17 +6,33 @@
 
         <meta charset="utf-8">
 
-        <title> IT Support in Dubai | IT solutions and Service provider in Dubai</title>
+        <title> IT Support in Dubai | Best IT Solutions & Services Provider in Dubai</title>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta name="description" content="We are a team of professional IT Support in Dubai and IT Solutions Dubai. our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support in dubai. We offer remote, on-site support 24 hours a day, 7 days a week." />
+        <meta name="description" content="We are a team of 20+ years Experienced professional IT Support in Dubai and IT Solutions Dubai. our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support in dubai. We offer remote, on-site support 24 hours a day, 7 days a week." />
 
         <meta name="keywords" content="it support in dubai,it solutions in dubai,IT Service in dubai">
         
 		<link rel="canonical" href="https://www.goldenavenue.ae/index.php" />
         
 		<meta name="author" content="" />
+		<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "Organization",
+	"name": "Golden Avenue",
+	"description": "Golden Avenue, we are a team of IT Support in Dubai and experts with a mission to influence your IT requirements & provide best IT solutions in Dubai, in alignment with your vision and performance goals.",
+	"url": "https://www.goldenavenue.ae/",
+	"telephone": "  +971 4 266 8272/ +971 4 271 3404 ",
+	"address": {
+		"@type": "PostalAddress",
+		"addressLocality": "Dubai, U.A.E.",
+		"postalCode": "122041",
+		"addressCountry": "UAE"
+	}
+    }
+</script>
 
         <link rel="icon" href="img/favicon.png" type="image">
 
@@ -55,6 +71,10 @@
             gtag('js', new Date());
 
             gtag('config', 'UA-137857896-1');
+		
+}
+	
+
         </script>
 
     </head>
@@ -276,7 +296,7 @@
 
                             <div class="cyber-security-bg1">
 
-                                <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise</h4></a>
+                                <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise for AED 1</h4></a>
 
                                 <a href="cyber-security.php"><img src="img/golden-cyber.jpg" alt="Cyber Security Awareness Workshop" class="img-responsive img-width" /></a>
 
