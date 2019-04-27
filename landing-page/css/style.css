@@ -1181,3 +1181,7 @@ h4 {
     font-weight: bold;
     color: #007e93 !important;
 }
+
+.hidden {
+    display: none;   
+}

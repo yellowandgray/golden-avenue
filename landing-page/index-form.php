@@ -15,7 +15,8 @@ $mail->AddReplyTo('gagtdxb@gmail.com', 'Golden Avenue');
 $mail->Subject = 'Form Submission';
 $mail->Body = $body;
 $mail->AltBody = $body;
-$mail->AddAddress('gagtdxb@gmail.com', 'Golden Avenue');
+//$mail->AddAddress('gagtdxb@gmail.com', 'Golden Avenue');
+$mail->AddAddress('projects@yellowandgray.com', 'Golden Avenue');
 if ($mail->Send()) {
     $res = array('error' => false, 'message' => 'Form submitted successfully');
 }
