@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'services'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>IT Network Health Check Services | Best IT Services in Dubai | goldenavenue.ae</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="IT & Network Health Checks for your entire Business, Power Check, Network checks, Internet/Intranet Connectivity Check, Server, Storage & Backup Check, Desktop, Laptop & Thin Clients Check, Software License Compliance Check, viruses, worms, Trojan horses, spyware, malware, adware and botnets" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="description" content="IT Network Health Checks for your entire Business, Power Check, Network checks, Internet/Intranet Connectivity Check, Server, Storage & Backup Check, Desktop, Laptop & Thin Clients Check, Software License Compliance Check, viruses, worms, Trojan horses, spyware, malware, adware and botnets" />
+        <meta name="keywords" content="IT Network Health Check Services,IT Health Check,Network Health Check">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->

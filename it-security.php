@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'services'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>IT Security | IT security specialist </title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Security audits to reduce risk of data breaches security for your IT infrastructure. Make IT Security your top business priority. Protect data from viruses, worms, Trojan horses, spyware, malware, adware and botnets, preventive measures through Annual Maintenance Service ( AMC )" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="description" content="IT Security audits to reduce the risk of data breaches security for your IT infrastructure. Make IT Security your top business priority. Protect data from viruses, worms, Trojan horses, spyware, malware, adware and botnets, preventive measures through Annual Maintenance Service ( AMC )" />
+        <meta name="keywords" content="IT Security,IT Security Specialist,IT Security Basics">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
@@ -55,7 +55,7 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-7">
-                            <h3 class="color-blue wow fadeInLeft"><strong>IT Security</strong></h3>
+                            <h1 class="color-blue wow fadeInLeft"><strong>IT Security</strong></h1>
                             <h3 class="bold color-blue wow fadeInLeft">Make IT Security your top business priority</h3>
                             <p class="text-justify wow fadeInLeft">When companies move their business processes towards mobility, collaboration or the cloud, progressing without IT security is unthinkable.</p>
                             <img src="img/blog/sub-page-pic-1.jpg" alt="IT Security" class="img-responsive wow fadeInLeft"/><br/>

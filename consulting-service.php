@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'services'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>IT Consulting Services in Dubai| Best IT Company in Dubai</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Expert IT consulting, security Audits, Annual Maintenance Service ( AMC ) that gives you confidence in your information security status, analyze vulnerability to reveal risks" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="description" content="We are Expert in IT consulting Servicesin Dubai, security Audits, Annual Maintenance Service ( AMC ) that gives you confidence in your information security status, analyze vulnerability to reveal risks" />
+        <meta name="keywords" content="IT Consulting Services in Dubai,IT Consulting services,Consulting">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
@@ -55,8 +55,8 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-7">
-                            <h3 class="color-blue wow fadeInLeft"><strong>Consulting Services</strong></h3>
-                            <h3 class="wow fadeInLeft">Our experts at Golden Avenue offer consulting that gives you confidence in your information security status.</h3>
+                            <h1 class="color-blue wow fadeInLeft"><strong>Consulting Services</strong></h1>
+                            <h3 class="wow fadeInLeft">Our experts at Golden Avenue offer IT Consulting Services that gives you confidence in your information security status.</h3>
                             <p class="text-justify wow fadeInLeft">Weaknesses in information security can jeopardize your undertaking, threaten your profitability, and invite fines and penalties from regulatory bodies.</p>
                             <p class="text-justify wow fadeInLeft">If you are not entirely self-assured in your Information Security Status or your ability to manage IT risk, talk to our expert consultants. Our cyber security consultants provide services and solutions that deliver continuous security assurance for your business and critical infrastructure.</p>
                             <p class="text-justify wow fadeInLeft">Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</p>

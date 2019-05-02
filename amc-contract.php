@@ -33,7 +33,6 @@
 
             gtag('config', 'UA-137857896-1');
         </script>
-        
     </head>
     <body>
         <div id="wrapper">

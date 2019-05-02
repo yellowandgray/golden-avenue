@@ -10,13 +10,11 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta name="description" content="We are a team of 20+ years Experienced professional IT Support in Dubai and IT Solutions Dubai. our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support in dubai. We offer remote, on-site support 24 hours a day, 7 days a week." />
+        <meta name="description" content="We are professional IT Support in Dubai and IT Solutions Dubai.our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support in dubai. We offer remote, on-site support 24 hours a day, 7 days a week." />
 
         <meta name="keywords" content="it support in dubai,it solutions in dubai,IT Service in dubai">
         
-		<link rel="canonical" href="https://www.goldenavenue.ae/index.php" />
-        
-		<meta name="author" content="" />
+        <meta name="author" content="" />
 		<script type="application/ld+json">
 {
 	"@context": "http://schema.org",
@@ -110,7 +108,7 @@
 
                             <li>
 
-                                <img src="img/slides/Home_banner2.jpg" alt="Golden Avenue-Slider" />
+                                <img src="img/slides/Home_banner2.jpg" alt="IT Support in Dubai" />
 
                                 <div class="flex-caption">
 
@@ -122,7 +120,7 @@
 
                             <li>
 
-                                <img src="img/slides/Home_banner1.jpg" alt="Golden Avenue-Slider" />
+                                <img src="img/slides/Home_banner1.jpg" alt="IT Support in Dubai" />
 
                                 <div class="flex-caption">
 
@@ -140,7 +138,7 @@
 
                             <li>
 
-                                <img src="img/slides/Home_banner3.jpg" alt="Golden Avenue-Slider" />
+                                <img src="img/slides/Home_banner3.jpg" alt="IT Support in Dubai" />
 
                                 <div class="flex-caption">
 
@@ -254,7 +252,7 @@
 
                             <p class="text-justify wow fadeInUp">At Golden Avenue, we are a team of IT Support in dubai and experts with a mission to influence your IT requirements & provide best IT solutions in Dubai, in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
 
-                            <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions and IT support in Dubai, focusing on satisfying our clients requirements. If your business requires unparalleled IT support in Dubai, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
+                            <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions and IT Services in Dubai, focusing on satisfying our clients requirements. If your business requires unparalleled IT support in Dubai, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
 
                         </div>
 
@@ -296,7 +294,7 @@
 
                             <div class="cyber-security-bg1">
 
-                                <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise for AED 1</h4></a>
+                                <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise</h4></a>
 
                                 <a href="cyber-security.php"><img src="img/golden-cyber.jpg" alt="Cyber Security Awareness Workshop" class="img-responsive img-width" /></a>
 
@@ -352,7 +350,7 @@
 
                                         <i class="fa fa-check" aria-hidden="true"></i><li>Ensures no downtime to your business productivity</li>
 
-                                        <i class="fa fa-check" aria-hidden="true"></i><li>Dedicated IT professionals & best IT support in Dubai at a fraction of the cost</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Dedicated IT professionals & best IT Solutions in Dubai at a fraction of the cost</li>
 
                                     </ul>
 

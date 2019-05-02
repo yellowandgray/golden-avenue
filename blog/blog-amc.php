@@ -24,7 +24,7 @@
             <![endif]-->
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-137857896-1"></script>
-        <script> 
+        <script>
             window.dataLayer = window.dataLayer || [];
             function gtag() {
                 dataLayer.push(arguments);
@@ -36,7 +36,7 @@
     </head>
     <body>
         <div id="wrapper">
-<?php include 'menu.php'; ?>
+            <?php include 'menu.php'; ?>
             <!-- end header -->
             <section id="inner-headline-9" class="wow fadeInUp">
                 <div class="container">
@@ -52,31 +52,74 @@
                     <ul class="breadcrumb">
                         <li><a href="../index.php">Home</a></li>
                         <li><a href="../blog.php">Blog</a></li>
-                        <li>Blog - Why AMC?</li>
+                        <li>Blog - AMC</li>
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42">Why AMC?</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">21 January 2019</span></p>
-                            <img src="../img/blog/cyber-crime-01.jpg" alt="Blog" class="img-responsive"/>
-                            <h2 class="font-size-29">AMC Is The Smarter Way to Look After your IT Assets</h2>
-                            <h3 class="text-justify">Prevention is always better than Repair, and Growth over sluggishness.</h3>
-                            <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or uptime can result in long durations of unproductivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
-                            <p class="text-justify">What are the Advantages of signing up with an IT AMC Service Provider?</p>
+                            <h2 class="font-size-42">Annual Maintenance Contract | Why AMC and what you should know about IT maintenance contracts?</h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">22 April 2019</span></p>
+                            <img src="../img/blog/sub-page-pic-05.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
+                            <h2 class="font-size-29">Annual Maintenance Contracts are the Smarter Way to Look after your IT Assets</h2>
+                            <h2 class="text-justify">Why AMC?</h2>
+                            <h3 class="text-justify">Prevention is always better than Repair and Growth over sluggishness.</h3>
+                            <p class="text-justify">In this digital age, the performance and efficiency of your business is largely affected by the performance and efficiency of your IT systems. Any breakdown in performance or downtime can result in long durations of no productivity that can hinder your business plans and strategies. To avoid such situations and use your IT infrastructure to its optimal capacity, you need to take care of challenges speedily before they create further damage and increase downtime. To attain peak performance, you need a well maintained system.</p>
+                            <h2 class="text-justify">What are the Advantages of signing up with an IT AMC Service Provider?</h2>
+
 
 <!--                            <img src="img/blog/biggest-data-breaches-2018.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>1. Regular Scheduled maintenance Updates and Upgrades</h2>
-                            <p class="text-justify">Handling business and IT challenges simultaneously can be a difficulty for many small and medium businesses. Lack of focus on the main stream of business can hinder growth. Signing up with an <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> will take care of both IT and maintenance troubles. The AMC Service provider will monitor your schedule and keep in touch with you whenever the appropriate procedures need to be implemented.</p>
-                            <p class="text-justify">Routine checks guarantee a better prevention option and a solution. An IT Infrastructure checkup performed regularly can also result in the devices performing efficiently throughout the year. Any issue detected, can be resolved immediately to prevent further damages thus increasing the device life.</p>
+                            <h3>1. Regular Scheduled maintenance Updates and Upgrades</h3>
+                            <p class="text-justify">Handling business and IT challenges simultaneously can be difficult for many small and medium businesses. Lack of focus on the main stream of business can hinder growth. Signing up with an AMC Service Provider will take care of both IT and maintenance problems. The AMC Service provider will monitor your schedule and keep in touch with you whenever the appropriate procedures need to be implemented.</p>
+                            <p class="text-justify">Routine checks guarantee a better prevention option and a solution. An IT Infrastructure check-up performed regularly can also result in the devices performing efficiently throughout the year. Any challenges detected, can be resolved immediately to prevent further damages thus increasing the device life.</p>
 <!--                            <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>2. Cost Effective</h2>
-                            <p class="text-justify">Partnering with the right IT <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> is a better choice than depending upon separate individual service providers which may add up to huge monetary amount by the end of the year because of lack of experience and expertise. AMC Service Providers these days offer flexible customized solutions & services that cater to different industries.</p>
+                            <h3>2. Cost Effective</h3>
+                            <p class="text-justify">Partnering with the right IT <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> is a better choice than depending upon separate individual service providers which may add up to huge monetary amount by the end of the year because of lack of experience and expertise. AMC Service Providers today offer flexible customized solutions & services that cater to different industries.</p>
 
 <!--                            <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>-->
-                            <h2>3. Handle IT Emergencies better</h2>
+                            <h3>3. Handle IT Emergencies better</h3>
                             <p class="text-justify">Joining forces with an IT <a href="../amc-contract.php" class="text-decoration">AMC Service Provider</a> and thus working with their skilled technicians could be exactly what you are looking for.</p>
-                            <p class="text-justify">More Businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
+                            <p class="text-justify">More businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
                             <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="../amc-contract.php" class="text-decoration">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <h3>Other benefits in an AMC Package may include,</h3>
+                                    <ul class="list-line list-style-type1 padding-0 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Assembling of Computer Systems</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Spare parts replacement</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Hardware installation</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Server installation</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Removal of Virus and Computer Protection</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Defragmentation of hard drives</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Create User guidelines on preventive maintenance</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Optimize computer equipments</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Set up of Wi-Fi or LAN facilities and maintain its security</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Fixing of Internet errors</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Data Recovery</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Repairing  breakdowns</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Hard-disk, DVD ROM and Modem  and other hardware wear and tear</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Maintenance of Scanners and Printers and other peripherals</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>24 x 7  Customer support service</li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <img src="../img/blog/sub-page-pic-005.jpg" alt="Blog" class="img-responsive margin-top-45" style="border: 1px solid #c7c7c7;"/>
+                                </div>
+                            </div>
+                            <h3>Types of Annual Maintenance Contracts</h3>
+                            <h4>1. Non-Comprehensive  Annual maintenance contract (AMC) </h4>
+                            <p class="text-justify">A manufacturer provides service with the help of other local authorized service providers appointed by them. This support is generally for the period of 1 year and can be extended up to three years or five years as per the understanding between both parties. Typically, the authorized service providers give only service support and would charge separately for few components excluded in the warranty cover. </p>
+                            <h4>2. Comprehensive maintenance contract (CMC)</h4>
+                            <p class="text-justify">CMC includes prioritized on time service from the company or maintenance service providers. Here also the contract is generally for the period of 1 year and may be extended up to three years or five years as per the understanding between both the parties.  It includes repairs and replacements of defective parts. This type of contract gives the added benefit because it may include consumables, i.e. goods used by individuals and businesses that are used up or wear out and require regular replacement (which is not part of a standard Annual Maintenance Contract) made available at affordable costs. CMC is more expensive than AMC because it includes the costs of spares as well.</p>
+
+                            <h3>What should you look for in an Annual Maintenance Contract provider?</h3>
+                            <ul class="list-line list-style-type1 padding-0 wow fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Check for professional exposure of the Annual Maintenance Contract experts</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Proper training certificates and important enclosures which assures you about their appropriate AMC services</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Choose the service provider who assures you a 24 / 7 service support. This 24 / 7 support helps businesses to reduce their downtime by taking appropriate measures to identify the problem immediately, and resolve before it escalates. Today, this round-the-clock service has become the norm thus earning the appreciation of many businesses</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>No service provider can guarantee 100 % protection from hackers, virus attacks and other external threats. Ensure that your AMC service provider will carry out a comprehensive maintenance plan that will minimize your exposure to such threats. This protection can be achieved with regular system upgrades of necessary tools and software currently available in the marketplace</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>It is best to make sure your maintenance contract provider knows that all your systems need a strong and active software and hardware support</li>
+                                <i class="fa fa-check" aria-hidden="true"></i><li>Finally, choose the firm which offers you an economical annual plan for the IT Annual Maintenance Contract services based on your requirements</li>
+
+                            </ul>
                             <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>
                             <h3 class="text-justify">We at <a href="../index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
                             <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
@@ -282,9 +325,11 @@
                 
                                 </div>-->
             </section>
-<?php include 'footer.php'; ?>
+            <?php include 'footer.php'; ?>
 
         </div>
 
     </body>
 </html>
+
+
