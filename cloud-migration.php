@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'services'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>Cloud Migration Services in Dubai | Best IT Company in Dubai</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="License or rent software & infrastructure into a secure cloud environment, Software as a Service (Saas), Infrastructure as a Service (Iaas), Golden Avenue best consultant and Annual maintenance contract Provider ( AMC )  in Dubai" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="description" content="Cloud Migration services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it and wherever you need it." />
+        <meta name="keywords" content="Cloud Migration,Cloud Migration Services">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
@@ -55,7 +55,7 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-7 wow fadeInLeft">
-                            <h3 class="color-blue"><strong>Cloud Migration</strong></h3>
+                            <h1 class="color-blue"><strong>Cloud Migration</strong></h1>
                             <p class="text-justify">Many organizations and businesses are expected to move to the cloud and thus transform and adapt to the new digital age. The previous mind set of in-house infrastructure is getting erased and will soon be completely replaced by the cloud.</p>
                             <p class="text-justify">Golden Avenue helps such businesses either through a new transformed set-up or by transitioning their already existing data centers, to a highly accessible and secure cloud environment. We support customer hosted hardware apart from web-services which includes hosting websites, custom apps and emails.</p>
                             <img src="img/blog/sub-page-pic-9.jpg" alt="Cloud Migration" class="img-responsive"/><br/>
@@ -74,7 +74,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
-                            <h3 class="color-blue text-center bold margin-bottom-40">Types of Cloud Services</h3>
+                            <h3 class="color-blue text-center bold margin-bottom-40">Types of Cloud Migration Services</h3>
                         </div>
                         <div class="col-md-2"></div>
                         <div class="col-md-4 wow fadeInLeft">

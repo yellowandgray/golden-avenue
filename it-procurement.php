@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'services'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>IT Procurement Services | Best IT Company in Dubai | IT Service Providers</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="IT Procurement Services Save Money, Comparison in Price, configuration, functionalities between brands, Global Sourcing for materials for Laptops, Desktops, Servers, Printers, Networking and Security products in Dubai" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="keywords" content="IT Procurement Services,IT Procurement Services in dubai">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
@@ -41,7 +41,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">IT Procurement Services</h2>
+                            <h1 class="pageTitle">IT Procurement Services</h1>
                         </div>
                     </div>
                 </div>
@@ -56,9 +56,9 @@
                     <div class="row">
                         <div class="col-md-7">
                             <h2 class="font-size-20 color-blue wow fadeInLeft">IT Procurement Services</h2>
-                            <h3 class="color-blue wow fadeInLeft">Why Use IT Procurement Services?</h3>
+                            <h2 class="color-blue wow fadeInLeft">Why Use IT Procurement Services?</h2>
                             <p class="text-justify wow fadeInLeft">In many businesses, it is very expensive and problematic to sustain Domain expertise in every category. Using a PSP removes the problems in obtaining the right IT Infrastructure.</p>
-                            <img src="img/blog/outsourcing-1.jpg" alt="IT Procurement" class="img-responsive wow fadeInLeft"/>
+                            <img src="img/blog/outsourcing-1.jpg" alt="IT Procurement Services" class="img-responsive wow fadeInLeft"/>
                             <h2 class="font-size-20 color-blue wow fadeInLeft">Advantages of IT Procurement Services</h2>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Access to Skilled Resources</li>
@@ -76,7 +76,7 @@
                                                                     <li>Reviewing relationship with client on a Quarterly Basis</li>
                                                                     <li>Fixed Margin for all the procurement</li>-->
                             </ul></br>
-                            <h2 class="font-size-20 color-blue line-height-30 wow fadeInLeft">What does IT Procurement services include?</h2>
+                            <h3 class="font-size-20 color-blue line-height-30 wow fadeInLeft">What does IT Procurement services include?</h3>
                             <!--                                <h4>IT procurement involves both strategic and administrative responsibilities</h4>-->
                             <!--                                <h3>Daily work involved </h3>-->
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
@@ -95,7 +95,7 @@
                     </div>
                     <div class="row">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-20 color-blue">How do I use IT Procurement Services?</h2>
+                            <h4 class="font-size-20 color-blue">How do I use IT Procurement Services?</h4>
                             <p class="text-justify">Our team of experts will personally meet with you to understand your requirements. We will then strategize and align our services that maybe necessary to you. You do not have to outsource your entire procurement functionalities. We will assist you in selecting the right spend categories that will save you both time and money.</p>
                             <!--<p>Please refer to &nbsp;&nbsp;&nbsp;&nbsp; <a href="#" class="btn-1 btn-primary" id="get-started1"><i class="fa fa-play-circle video"></i>&nbsp;&nbsp;IT&nbsp;&nbsp;Procurement&nbsp;&nbsp;Guide</a></p>-->
                         </div>
