@@ -1251,3 +1251,24 @@ h4 {
         height: auto;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .site-logo p {
+        width: 100%;
+    }
+    .w-26 {
+        width: 50% !important;
+    }
+}
+
+.site-logo p {
+    margin-bottom: 0;
+    font-size: 15px;
+    color: #fff;
+    float: left;
+    margin-left: 15px;
+}
+
+.w-26 {
+    width: 26%;
+}
