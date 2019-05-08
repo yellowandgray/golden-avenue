@@ -18,7 +18,7 @@ $mail->AltBody = $body;
 $mail->AddAddress('goldenavenue.ads@gmail.com', 'Golden Avenue');
 //$mail->AddAddress('projects@yellowandgray.com', 'Golden Avenue');
 if ($mail->Send()) {
-    $res = array('error' => false, 'message' => 'Form submitted successfully');
+    $res = array('error' => false, 'message' => 'Form is submitted successfully.');
 }
 response_json($res);
 
