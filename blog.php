@@ -56,6 +56,36 @@
 
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
+                            <h2 class="font-size-42"><a href="blog/cloud-computing.php">Cloud computing and its benefits for SMBs</a></h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">10 May 2019</span></p>
+                            <img src="img/blog/cloud-computing.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
+                            <h2 class="font-size-29">What is CLOUD technology?</h2>
+                            <h3 class="text-justify">Compute Login Off-site Uploading Downloadings</h3>
+                            <p class="text-justify">Cloud computing in business is becoming the new standard adopted by many SMBs. The cloud is completely changing the way in which businesses are operating today. In this digital age, cloud computing serves as an opportunity for small businesses to get access to high-end technologies, which was earlier limited only to large enterprises. Cloud computing enhances business productivity and efficiency and also offers a series of other benefits.</p>
+
+                            <a href="blog/cloud-computing.php" class="btn-blog">CONTINUE READING</a>
+
+                        </div>
+                        <!--                        <div class="col-md-5 wow fadeInRight">
+                       
+                                                    <div class="box-shadow-2 blog-other">
+                                                        <h2 class="text-center color-blue">Other Blogs</h2>
+                                                        <a href="blog.php" class="text-decoration">
+                                                            <h4>Data Protection: Why it matters?</h4>
+                                                            <span>By Golden Avenue | 12 February 2019</span>
+                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                        <a href="blog-1.php" class="text-decoration">
+                                                            <h4>Why AMC?</h4>
+                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                    </div>
+                                                </div>-->
+                    </div>
+                    
+                    <div class="row showcase-section">
+                        <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog/amc.php">Annual Maintenance Contract | Why AMC and what you should know about IT maintenance contracts?</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">22 April 2019</span></p>
                             <img src="img/blog/sub-page-pic-05.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
