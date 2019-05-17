@@ -2459,5 +2459,16 @@ video {
     color: #000 !important;
 }
 .font-size-42 a:hover {
-       color: #007c93 !important;
+    color: #007c93 !important;
+}
+
+.img-adj{
+    position: absolute;
+    top: -568px;
+    height: auto;
+}
+.form-box {
+    padding: 40px;
+    background: #fff;
+    border-radius: 7px;
 }

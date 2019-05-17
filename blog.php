@@ -56,6 +56,35 @@
 
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
+                            <h2 class="font-size-42"><a href="blog/microsoft-azure.php">Microsoft Azure Cloud Computing</a></h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">17 May 2019</span></p>
+                            <img src="img/blog/micro-azure.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
+                            <h2 class="font-size-29">What is Office 365?</h2>
+                            <h3 class="text-justify">Office 365: 7 Reasons to increase your Business Productivity</h3>
+                            <p class="text-justify">Office 365 is a subscription service offered by Microsoft that allows users to download and install Microsoft Office apps to use with both Windows and OS X operating systems. Office 365 is more than just a set of tools but it’s also a new way of working. </p>
+
+                            <a href="blog/microsoft-azure.php" class="btn-blog">CONTINUE READING</a>
+
+                        </div>
+                        <!--                        <div class="col-md-5 wow fadeInRight">
+                       
+                                                    <div class="box-shadow-2 blog-other">
+                                                        <h2 class="text-center color-blue">Other Blogs</h2>
+                                                        <a href="blog.php" class="text-decoration">
+                                                            <h4>Data Protection: Why it matters?</h4>
+                                                            <span>By Golden Avenue | 12 February 2019</span>
+                                                            <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                        <a href="blog-1.php" class="text-decoration">
+                                                            <h4>Why AMC?</h4>
+                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
+                                                        </a>
+                                                    </div>
+                                                </div>-->
+                    </div>
+                    <div class="row showcase-section">
+                        <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog/cloud-computing.php">Cloud computing and its benefits for SMBs</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">10 May 2019</span></p>
                             <img src="img/blog/cloud-computing.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
@@ -83,7 +112,8 @@
                                                     </div>
                                                 </div>-->
                     </div>
-                    
+
+
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog/amc.php">Annual Maintenance Contract | Why AMC and what you should know about IT maintenance contracts?</a></h2>
