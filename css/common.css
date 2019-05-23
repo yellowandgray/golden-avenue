@@ -2485,3 +2485,7 @@ video {
 .landing-box h3 {
     color: #000;
 }
+
+#sub-footer a {
+    color: #bbb;
+}

@@ -49,30 +49,21 @@
             gtag('config', 'UA-137857896-1');
         </script>
     </head>
-    <script>
-        setTimeout(
-                function showModal() {
-
-                    $('#myModal').modal('show');
-
-                }, 20000);
-
-    </script>
-    <body onload="showModal()">
+    <body>
         <div id="wrapper" class="home-page">
-            <section style="background-image: url('../img/slides/Home_banner2.jpg');">
+            <section style="background-image: url('images/banner.jpg');">
                <!--                <img src="../img/slides/Home_banner2.jpg" alt="IT Support in Dubai" class="img-responsive"/>-->
                 <div class="container">
                     <div class="col-md-12" style="padding: 50px 0px;">
                         <div class="row">
-                            <div class="col-md-4">
+                            <div class="col-md-6">
                                 <a href="https://www.goldenavenue.ae"><img src="images/logo-001.png" atl="" class="img-responsive "></a>
                                 <p class="img-responsive "><i class="fa fa-phone" aria-hidden="true" style="color: #fff"></i><a  style="color: white;padding: 0px 3px;" href="tel:+04-2668272"> 04 2668272</a></p>
                                 <p class="img-responsive "><i class="fa fa-envelope" aria-hidden="true" style="color: #fff"></i><a style="color: white;padding: 0px 3px;" href="mailto:enquiry@goldenavenue.ae">enquiry@goldenavenue.ae</a></p>
                             </div>
-                            <div class="col-md-8">
+                            <div class="col-md-6">
                                 <div class="ml-auto" data-aos="fade-up" data-aos-delay="500" style="">
-                                    <form onsubmit="return submitForm('index-form');" id="index-form" class="form-box">
+                                    <form onsubmit="return submitForm1('index-form');" id="index-form" class="form-box">
                                         <h3 class="h4 text-black mb-4">Contact Us</h3>
                                         <div class="form-group">
                                             <input type="text" name="name" class="form-control mandatory field" placeholder="Your Name" required data-message="Enter name" data-emaillabel="Name">
@@ -224,18 +215,5 @@
             </section>
         </div>
         <?php include 'footer.php'; ?>
-        <script>
-            $(function () {
-                $(".c_h").click(function (e) {
-                    if ($(".chat_container").is(":visible")) {
-                        $(".c_h .right_c .mini").text("+")
-                    } else {
-                        $(".c_h .right_c .mini").text("-")
-                    }
-                    $(".chat_container").slideToggle("slow");
-                    return false
-                });
-            });
-        </script>
     </body>
 </html>

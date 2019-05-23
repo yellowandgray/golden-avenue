@@ -1,4 +1,4 @@
-function submitForm(id) {
+function submitForm1(id) {
     if (validForm(id)) {
         var data = {data: []};
         $('#' + id + ' .field').each(function (key, ele) {
