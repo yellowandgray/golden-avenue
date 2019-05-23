@@ -2472,3 +2472,16 @@ video {
     background: #fff;
     border-radius: 7px;
 }
+
+.landing-box {
+    box-shadow: 0px 7px 8px 0px #cecece;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #fff;
+}
+
+.landing-box h3 {
+    color: #000;
+}
