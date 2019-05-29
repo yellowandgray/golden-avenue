@@ -23,6 +23,20 @@
             }
             }
         </script>
+        <script>
+            gtag('event', 'conversion', {'send_to': 'AW-751499415/XU5iCMntgKEBEJfxq-YC'});
+        </script>
+        <!-- Global site tag (gtag.js) - Google Ads: 751499415 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-751499415"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag('js', new Date());
+
+            gtag('config', 'AW-751499415');
+        </script>
         <link rel="icon" href="../img/favicon.png" type="image">
         <!-- css -->
         <link href="../css/bootstrap.min.css" rel="stylesheet" />
