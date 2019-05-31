@@ -56,12 +56,11 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42">Microsoft Azure Cloud Computing</h2>
+                            <h2 class="font-size-42">Office 365: 7 Reasons to increase your Business Productivity</h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">17 May 2019</span></p>
                             <img src="../img/blog/micro-azure.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <h4><b>What is Office 365?</b></h4>
-                            <p><b>Office 365: 7 Reasons to increase your Business Productivity</b></p>
                             <p>Office 365 is a subscription service offered by Microsoft that allows users to download and install Microsoft Office apps to use with both Windows and OS X operating systems. Office 365 is more than just a set of tools but it’s also a new way of working. </p>
                             <p> It's an excellent choice for small businesses that want easy access to Microsoft’s powerful office productivity suite (Excel, Word, PowerPoint, OneNote, Outlook, etc.) on desktop, browser, and mobile devices and cloud storage but don't want to switch their email to Microsoft servers.</p>
                             <h4><b>What are the main benefits of Office 365 for SMBs?</b></h4>

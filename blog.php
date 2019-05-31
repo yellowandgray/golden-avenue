@@ -56,11 +56,10 @@
 
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42"><a href="blog/microsoft-azure.php">Microsoft Azure Cloud Computing</a></h2>
+                            <h2 class="font-size-42"><a href="blog/microsoft-azure.php">Office 365: 7 Reasons to increase your Business Productivity</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">17 May 2019</span></p>
                             <img src="img/blog/micro-azure.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                             <h2 class="font-size-29">What is Office 365?</h2>
-                            <h3 class="text-justify">Office 365: 7 Reasons to increase your Business Productivity</h3>
                             <p class="text-justify">Office 365 is a subscription service offered by Microsoft that allows users to download and install Microsoft Office apps to use with both Windows and OS X operating systems. Office 365 is more than just a set of tools but it’s also a new way of working. </p>
 
                             <a href="blog/microsoft-azure.php" class="btn-blog">CONTINUE READING</a>
