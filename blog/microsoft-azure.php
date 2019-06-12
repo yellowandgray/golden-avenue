@@ -52,7 +52,7 @@
                     <ul class="breadcrumb">
                         <li><a href="../index.php">Home</a></li>
                         <li><a href="../blog.php">Blog</a></li>
-                        <li>Microsoft Azure Cloud Computing</li>
+                        <li>Office 365</li>
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">

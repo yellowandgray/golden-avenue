@@ -56,6 +56,17 @@
 
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
+                            <h2 class="font-size-42"><a href="blog/microsoft-azure-cloud-computing.php">Microsoft Azure Cloud Computing</a></h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">1 June 2019</span></p>
+                            <img src="img/blog/micro-azure-01.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
+                            <h2 class="font-size-29">Microsoft Azure in a nutshell</h2>
+                            <p class="text-justify">Microsoft Azure is a cloud computing service created for building, testing, deploying, and managing applications and services through Microsoft-managed data centres. It delivers software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools and frameworks, including both Microsoft-specific and third-party software and systems. Azure is available worldwide and can be used to host websites, apps, virtual machines and databases.</p>
+
+                            <a href="blog/microsoft-azure-cloud-computing.php" class="btn-blog">CONTINUE READING</a>
+
+                        </div>
+                    <div class="row showcase-section">
+                        <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog/microsoft-azure.php">Office 365: 7 Reasons to increase your Business Productivity</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">17 May 2019</span></p>
                             <img src="img/blog/micro-azure.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
