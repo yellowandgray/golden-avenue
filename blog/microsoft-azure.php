@@ -58,7 +58,7 @@
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">Office 365: 7 Reasons to increase your Business Productivity</h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">17 May 2019</span></p>
-                            <img src="../img/blog/office-365.jpg" alt="Blog" class="img-responsive"/>
+                            <img src="../img/blog/office365.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <h4><b>What is Office 365?</b></h4>
                             <p>Office 365 is a subscription service offered by Microsoft that allows users to download and install Microsoft Office apps to use with both Windows and OS X operating systems. Office 365 is more than just a set of tools but it’s also a new way of working. </p>
