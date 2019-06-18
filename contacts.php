@@ -118,7 +118,6 @@
                         </div>
                         <div class="col-md-3 wow fadeInRight">
                             <div class="margin-top-45">
-                                <h3>Address:</h3>
                                 <h4>Golden Avenue Dubai</h4>
                                 <p>P.O.Box-122041<br/> Dubai, U.A.E.</p>
                             </div>
@@ -147,9 +146,8 @@
                         </div>
                         <div class="col-md-3 wow fadeInRight">
                             <div class="margin-top-45">
-                                <h3>Address:</h3>
                                 <h4>Golden Avenue India</h4>
-                                <p>No.12, 4th Cross Street, Durga Colony, Sembakkam<br/>Chennai-600073.</p>
+                                <p>No.12, 4th Cross Street, Durga Colony, Sembakkam Chennai.<br/>India - 600073.</p>
                             </div>
                             <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+919840470876">+91 98 4047 0876</a><br/>
                             <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:enquiry@goldenavenue.ae">enquiry@goldenavenue.ae</a><br/><br/>

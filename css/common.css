@@ -2489,3 +2489,11 @@ video {
 #sub-footer a {
     color: #bbb;
 }
+
+.list-style-type2 {
+    list-style: none;
+}
+
+.list-style-type2 i {
+    color: #2c91a2;
+}

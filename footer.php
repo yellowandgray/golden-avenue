@@ -45,9 +45,9 @@
                 <div class="widget">
                     <h5 class="widgetheading">Recent News</h5>
                     <ul class="link-list">
-                        <li><a href="https://www.arabianbusiness.com/technology/403750-274-cyber-attacks-target-the-uae-so-far-in-2018-down-39">274 cyber attacks target the UAE so far in 2018,</a></li>
-                        <li><a href="https://blog.barkly.com/biggest-data-breaches-2018-so-far">The 10 Biggest Data Breaches of 2018... So Far</a></li>
-                        <li><a href="https://www.wired.com/story/2018-worst-hacks-so-far/">THE WORST CYBERSECURITY BREACHES OF 2018 SO FAR</a></li>
+                        <li><a href="https://www.cnbc.com/2019/06/18/cyberattacks-in-uae-middle-east-darkmatter-report.html">Cyberattacks in the Middle East are on the rise.</a></li>
+                        <li><a href="https://gulfnews.com/uae/cyber-attack-on-dubai-school-network-parents-warned-1.62883738">Cyber attack on Dubai school network, parents warned</a></li>
+                        <li><a href="https://www.khaleejtimes.com/business/local/cyberattacks-increase-in-uae">Cyberattacks increasing in UAE, study says</a></li>
                     </ul>
                 </div>
             </div>
