@@ -13,24 +13,24 @@
         <meta name="description" content="We are professional IT Support in Dubai and IT Solutions Dubai.our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support in dubai. We offer remote, on-site support 24 hours a day, 7 days a week." />
 
         <meta name="keywords" content="it support in dubai,it solutions in dubai,IT Service in dubai">
-        
+
         <meta name="author" content="" />
-		<script type="application/ld+json">
-{
-	"@context": "http://schema.org",
-	"@type": "Organization",
-	"name": "Golden Avenue",
-	"description": "Golden Avenue, we are a team of IT Support in Dubai and experts with a mission to influence your IT requirements & provide best IT solutions in Dubai, in alignment with your vision and performance goals.",
-	"url": "https://www.goldenavenue.ae/",
-	"telephone": "  +971 4 266 8272/ +971 4 271 3404 ",
-	"address": {
-		"@type": "PostalAddress",
-		"addressLocality": "Dubai, U.A.E.",
-		"postalCode": "122041",
-		"addressCountry": "UAE"
-	}
-    }
-</script>
+        <script type="application/ld+json">
+            {
+            "@context": "http://schema.org",
+            "@type": "Organization",
+            "name": "Golden Avenue",
+            "description": "Golden Avenue, we are a team of IT Support in Dubai and experts with a mission to influence your IT requirements & provide best IT solutions in Dubai, in alignment with your vision and performance goals.",
+            "url": "https://www.goldenavenue.ae/",
+            "telephone": "  +971 4 266 8272/ +971 4 271 3404 ",
+            "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Dubai, U.A.E.",
+            "postalCode": "122041",
+            "addressCountry": "UAE"
+            }
+            }
+        </script>
 
         <link rel="icon" href="img/favicon.png" type="image">
 
@@ -69,9 +69,9 @@
             gtag('js', new Date());
 
             gtag('config', 'UA-137857896-1');
-		
-}
-	
+
+            }
+
 
         </script>
 
@@ -92,7 +92,7 @@
 
         <div id="wrapper" class="home-page">
 
-<?php include 'menu.php'; ?>
+            <?php include 'menu.php'; ?>
 
             <!-- end header -->
 
@@ -553,20 +553,13 @@
             </section>
 
 
-
-
-
-
-
-
-
             <section class="section-padding custome-gray-bg">
 
-                <div class="container">
+                <div class="container-fluid">
 
                     <div class="row margin-bottom-0">
 
-                        <div class="col-md-6 wow fadeInUp">
+                        <div class="col-md-5 wow fadeInUp">
 
                             <h3 class="text-center bold">Testimonials</h3>
 
@@ -722,50 +715,32 @@
 
                         </div>
 
-
-
-
-
-                        <div class="col-md-4 wow fadeInUp">
-
-                            <h3 class="text-center bold">Clients</h3>
-
-                            <div class="row margin-bottom-0">
-
-                                <div class="col-md-4">
-
-                                    <img src="img/clients/001.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                    <img src="img/clients/002.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                    <img src="img/clients/003.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                </div>
-
-                                <div class="col-md-4">
-
-                                    <img src="img/clients/004.png" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                    <img src="img/clients/footer-img-1.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                    <img src="img/clients/footer-img-2.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                </div>
-
-                                <div class="col-md-4">
-
-                                    <img src="img/clients/footer-img-3.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                    <img src="img/clients/footer-img-4.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                    <img src="img/clients/footer-img-5.jpg" alt="Golden Avenue Clients" class="img-responsive" style="margin-bottom: 10px" />
-
-                                </div>
-
-                            </div>
-
+                        <div class="col-md-5 wow fadeInUp">
+                            <h3 class="text-center bold">Video</h3>
+                            <video controls style="width: 100%; height: auto;">
+                                <source src="video/cutted-video.mp4" type="video/mp4">
+                                Your browser does not support the <code>video</code> tag.
+                            </video>
+                            <center>
+                                <h3 style="margin: 0;">Abbas Merchant</h3>
+                                <i style="color: #fff;">Director, Wow Interiors, Dubai</i>
+                            </center>
                         </div>
 
+                        <div class="col-md-2 wow fadeInUp">
+                            <h3 class="text-center bold">Clients</h3>
+                            <section class="customer-logos slider" style="margin-top: 80px">
+                                <div class="slide"><img src="img/clients/001.png" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/002.png" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/003.png" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/004.png" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-1.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-2.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-3.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-4.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-5.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
+                            </section>
+                        </div>
                     </div>
 
                 </div>
@@ -782,7 +757,8 @@
 
         <?php include 'footer.php'; ?>
 
-<?php include 'onload-popup.php'; ?>
+        <?php include 'onload-popup.php'; ?>
+        <?php include 'side-form.php'; ?>
 
         <script>
 
@@ -806,6 +782,29 @@
 
                 });
 
+            });
+
+            $(document).ready(function () {
+                $('.customer-logos').slick({
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: true,
+                    autoplaySpeed: 3000,
+                    arrows: false,
+                    dots: false,
+                    pauseOnHover: false,
+                    responsive: [{
+                            breakpoint: 768,
+                            settings: {
+                                slidesToShow: 1
+                            }
+                        }, {
+                            breakpoint: 520,
+                            settings: {
+                                slidesToShow: 1
+                            }
+                        }]
+                });
             });
 
         </script>
