@@ -716,7 +716,7 @@
                         </div>
 
                         <div class="col-md-5 wow fadeInUp">
-                            <h3 class="text-center bold">Video</h3>
+                            <h3 class="text-center bold">Client Feedback</h3>
                             <video controls style="width: 100%; height: auto;">
                                 <source src="video/cutted-video.mp4" type="video/mp4">
                                 Your browser does not support the <code>video</code> tag.

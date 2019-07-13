@@ -1,11 +1,11 @@
 <div class="open-button-1">
-    <form id="side-popup">
+    <form onsubmit="return submitForm('side-form');" id="side-form">
         <h3 class="text-center bold">Get in Touch</h3>
         <input class="form-control mandatory field" name="name" id="first_name" placeholder="Name *" type="text" required data-message="Enter name" data-emaillabel="Name" />
         <input class="form-control mandatory field" name="email" id="email" placeholder="Your Email *" type="email" required data-message="Enter email" data-emaillabel="Email" />
         <input class="form-control mandatory field" name="phone" placeholder="Phone *" id="phone" type="text" required data-message="Enter phone" data-emaillabel="Phone" />
         <input class="form-control mandatory field" name="subject" placeholder="Subject" id="subject" type="text" required data-message="Enter subject" data-emaillabel="Subject" />
-        <textarea class="form-control mandatory field" name="subject" placeholder="Comments" id="comments" style="min-height: 70px;" required data-message="Give comments" data-emaillabel="Comments"></textarea>
+        <textarea class="form-control mandatory field" name="comments" placeholder="Comments" id="comments" style="min-height: 70px;" required data-message="Give comments" data-emaillabel="Comments"></textarea>
         <center>
             <input type="submit" class="btn btn-blue" value="Submit" />
             <div class="submit-response"></div>
