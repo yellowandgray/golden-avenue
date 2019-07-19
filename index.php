@@ -6,13 +6,13 @@
 
         <meta charset="utf-8">
 
-        <title> IT Support in Dubai | Best IT Solutions & Services Provider in Dubai</title>
+        <title> Best IT Service in Dubai | IT Support in Dubai | goldenavenue.ae </title>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta name="description" content="We are professional IT Support in Dubai and IT Solutions Dubai.our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support in dubai. We offer remote, on-site support 24 hours a day, 7 days a week." />
+        <meta name="description" content="We are professional IT Service in Dubai and IT Support in Dubai.our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support. We offer remote, on-site support 24 hours a day, 7 days a week." />
 
-        <meta name="keywords" content="it support in dubai,it solutions in dubai,IT Service in dubai">
+        <meta name="keywords" content="IT Service in Dubai,IT Service Dubai,IT Services,IT Services Dubai,IT Support in Dubai,it comapny in dubai">
 
         <meta name="author" content="" />
         <script type="application/ld+json">
@@ -108,7 +108,7 @@
 
                             <li>
 
-                                <img src="img/slides/Home_banner2.jpg" alt="IT Support in Dubai" />
+                                <img src="img/slides/Home_banner2.jpg" alt="IT Service in Dubai" />
 
                                 <div class="flex-caption">
 
@@ -138,7 +138,7 @@
 
                             <li>
 
-                                <img src="img/slides/Home_banner3.jpg" alt="IT Support in Dubai" />
+                                <img src="img/slides/Home_banner3.jpg" alt="IT Services Dubai" />
 
                                 <div class="flex-caption">
 
@@ -152,7 +152,7 @@
 
                             <li>
 
-                                <img src="img/slides/Home_banner.jpg" alt="Golden Avenue-Slider" />
+                                <img src="img/slides/Home_banner.jpg" alt="IT Service Dubai" />
 
                                 <div class="flex-caption">
 
@@ -166,7 +166,7 @@
 
                             <!--                        <li>
 
-                                                        <img src="img/slides/Home_banner4.jpg" alt="" />
+                                                        <img src="img/slides/Home_banner4.jpg" alt="IT Support Dubai" />
 
                                                         <div class="flex-caption">
 
@@ -180,7 +180,7 @@
 
                             <!--                        <li>
 
-                                                        <img src="img/slides/Home_banner5.jpg" alt="" />
+                                                        <img src="img/slides/Home_banner5.jpg" alt="IT Services" />
 
                                                         <div class="flex-caption">
 
@@ -194,7 +194,7 @@
 
                             <li>
 
-                                <img src="img/slides/Home_banner6.jpg" alt="Golden Avenue-Slider" />
+                                <img src="img/slides/Home_banner6.jpg" alt="IT Solutions in Dubai" />
 
                                 <div class="flex-caption">
 
@@ -248,11 +248,11 @@
 
                         <div class="col-md-12">
 
-                            <h1 class="color-blue wow fadeInUp"> IT Support in Dubai Best IT solutions and Service provider in Dubai</h1>
+                            <h1 class="color-blue wow fadeInUp"> IT Service in Dubai Best IT Support provider in Dubai</h1>
 
-                            <p class="text-justify wow fadeInUp">At Golden Avenue, we are a team of IT Support in dubai and experts with a mission to influence your IT requirements & provide best IT solutions in Dubai, in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
+                            <p class="text-justify wow fadeInUp">At Golden Avenue, we are a team of IT Service in dubai and experts with a mission to influence your IT requirements & provide best IT Support in Dubai, in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
 
-                            <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT solutions and IT Services in Dubai, focusing on satisfying our clients requirements. If your business requires unparalleled IT support in Dubai, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
+                            <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT Support and IT Services in Dubai, focusing on satisfying our clients requirements. If your business requires unparalleled IT Solutions, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
 
                         </div>
 
@@ -280,7 +280,7 @@
 
                             <p class="text-justify wow fadeInUp color-white">Golden Avenue helps your business to build a resilient IT system that needs to be secure and accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, ethernet switches and network storage.</p>
 
-                            <p class="text-justify wow fadeInUp color-white">We offer steady and best practical business-oriented IT solutions in Dubai that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance, we also offer customized and tailor-made IT solutions in Dubai, to distinctive needs focused on your business, or various businesses.</p>
+                            <p class="text-justify wow fadeInUp color-white">We offer steady and best practical business-oriented IT Service in Dubai that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance, we also offer customized and tailor-made IT solutions in Dubai, to distinctive needs focused on your business, or various businesses.</p>
 
 
 
@@ -296,7 +296,7 @@
 
                                 <a href="cyber-security.php"><h4 class="text-center bold">Cyber Security Awareness Workshop at your Premise</h4></a>
 
-                                <a href="cyber-security.php"><img src="img/golden-cyber.jpg" alt="Cyber Security Awareness Workshop" class="img-responsive img-width" /></a>
+                                <a href="cyber-security.php"><img src="img/golden-cyber.jpg" alt="IT Company in Dubai" class="img-responsive img-width" /></a>
 
                                 <p>- Protect your business <br/>- Make employees your active defense against cyber threats </p>
 
@@ -344,13 +344,13 @@
 
                                         <i class="fa fa-check" aria-hidden="true"></i><li>Increased revenue by decreasing operating costs and improving productivity</li>
 
-                                        <i class="fa fa-check" aria-hidden="true"></i><li>Provides analysis of your entire IT Infrastructure that will include IT audit reports and necessary recommendations</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Provides analysis of your entire IT Services that will include IT audit reports and necessary recommendations</li>
 
                                         <i class="fa fa-check" aria-hidden="true"></i><li>Ensures your system is secured at all times which helps in business continuity and backup and storage for disaster recovery</li>
 
                                         <i class="fa fa-check" aria-hidden="true"></i><li>Ensures no downtime to your business productivity</li>
 
-                                        <i class="fa fa-check" aria-hidden="true"></i><li>Dedicated IT professionals & best IT Solutions in Dubai at a fraction of the cost</li>
+                                        <i class="fa fa-check" aria-hidden="true"></i><li>Dedicated IT professionals & best IT Service in Dubai at a fraction of the cost</li>
 
                                     </ul>
 
@@ -553,6 +553,13 @@
             </section>
 
 
+
+
+
+
+
+
+
             <section class="section-padding custome-gray-bg">
 
                 <div class="container-fluid">
@@ -663,7 +670,7 @@
 
                                                     <p>" We are very satisfied with the services and prices that Golden avenue is offering us. We look forward to have a good long-term relationship with your organization</p>
 
-                                                    <small>Mr. Glen Dâ€™souza, Centena Group</small>
+                                                    <small>Mr. Glen D’souza, Centena Group</small>
 
                                                 </div>
 
@@ -784,6 +791,7 @@
 
             });
 
+
             $(document).ready(function () {
                 $('.customer-logos').slick({
                     slidesToShow: 1,
@@ -806,7 +814,6 @@
                         }]
                 });
             });
-
         </script>
 
     </body>
