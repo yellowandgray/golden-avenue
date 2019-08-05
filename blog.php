@@ -56,6 +56,17 @@
 
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
+                            <h2 class="font-size-42"><a href="blog/fortimail-form-fortinet.php">Fortimail from Fortinet</a></h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">05 July 2019</span></p>
+                            <img src="img/blog/fortimail-from-fortinet.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
+                            <h2 class="font-size-29">Fortimail from Fortinet: One of the best email security solutions for SMBs</h2>
+                            <p class="text-justify">As communications via email has become a key and essential component of a business in this digital age, small and medium businesses are facing many security challenges along with increased global opportunities. As new technology gets adopted (IoT, cloud services, mobility), dealing with challenges associated with business agility becomes mandatory. An effective solution is to use a secure email gateway available in the market to protect from email related threats and attacks.</p>
+                            <a href="blog/fortimail-form-fortinet.php" class="btn-blog">CONTINUE READING</a>
+                        </div>
+                    </div>
+
+                    <div class="row showcase-section">
+                        <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog/ip-pbx-telephony.php">IP PBX Telephony: best telephony solutions for SMEs</a></h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">18 June 2019</span></p>
                             <img src="img/blog/ip-pbx-telephony.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
