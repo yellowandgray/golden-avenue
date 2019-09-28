@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'blog'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title> Cloud Computing [2019] | Goldenavenue.ae </title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Data Protection: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
-        <meta name="keywords" content="Annual Maintenance Contract, Dubai, Data Protection, Annual Maintenance Contract Provider, AMC, AMC Dubai, Annual Maintenance Contract, cybercrimes, IT Infrastructure, IT & Network Health Check, Consultation">
+        <meta name="description" content="Microsoft Azure is a cloud computing service created for building, testing, deploying, and managing applications and services through Microsoft-managed data centres. " />
+        <meta name="keywords" content="cloud computing,cloud services,cloud migration ">
         <meta name="author" content="" />
         <link rel="icon" href="../img/favicon.png" type="image">
         <!-- css -->
@@ -57,7 +57,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">Microsoft Azure Cloud Computing</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">1 June 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">1 June 2019</span></p>
                             <img src="../img/blog/micro-azure-01.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <h4><b>Microsoft Azure in a nutshell</b></h4>
@@ -73,7 +73,7 @@
                             <p><em>Added flexibility</em>–Applications can be deployed to the Windows Azure platform very quickly which means that any changes can be applied without any downtime. This makes it an ideal platform for developers to add functionality to your application that you would otherwise not implement.</p>
                             <p><em>Quicker time to market</em>–Since there is no infrastructure or platform, you can focus on developing the core functionality of your business application so it can be completed quicker, thus reducing your time to market.</p>
                             <br/>
-                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> at <a href=../index.php>Golden Avenue</a> for a No Obligation Free Consultation.</p>
+                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> at <a href=../index.php>Golden Avenue Technology LLC</a> for a No Obligation Free Consultation.</p>
                         </div>
                     </div>
 

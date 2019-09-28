@@ -6,7 +6,7 @@
         <title>IT Consulting Services in Dubai| Best IT Company in Dubai</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="We are Expert in IT consulting Servicesin Dubai, security Audits, Annual Maintenance Service ( AMC ) that gives you confidence in your information security status, analyze vulnerability to reveal risks" />
-        <meta name="keywords" content="IT Consulting Services in Dubai,IT Consulting services,Consulting">
+        <meta name="keywords" content="IT Consulting Services in Dubai,IT Consulting services,IT Consulting">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
@@ -56,10 +56,10 @@
                     <div class="row showcase-section">
                         <div class="col-md-7">
                             <h1 class="color-blue wow fadeInLeft"><strong>Consulting Services</strong></h1>
-                            <h3 class="wow fadeInLeft">Our experts at Golden Avenue offer IT Consulting Services that gives you confidence in your information security status.</h3>
+                            <h3 class="wow fadeInLeft">Our experts at Golden Avenue Technology LLC offer IT Consulting Services that gives you confidence in your information security status.</h3>
                             <p class="text-justify wow fadeInLeft">Weaknesses in information security can jeopardize your undertaking, threaten your profitability, and invite fines and penalties from regulatory bodies.</p>
                             <p class="text-justify wow fadeInLeft">If you are not entirely self-assured in your Information Security Status or your ability to manage IT risk, talk to our expert consultants. Our cyber security consultants provide services and solutions that deliver continuous security assurance for your business and critical infrastructure.</p>
-                            <p class="text-justify wow fadeInLeft">Golden Avenue experts provide remote as well as onsite information security consultation that includes the following services:</p>
+                            <p class="text-justify wow fadeInLeft">Golden Avenue Technology LLC experts provide remote as well as onsite information security consultation that includes the following services:</p>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Analyze vulnerability to reveal risks</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Assess security threats to outline the significance of existing vulnerabilities</li>
@@ -68,7 +68,7 @@
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Preparing workforces for a responsible and secured data sharing</li>
                             </ul>
                             <br/>
-                            <img src="img/blog/sub-page-pic-03.jpg" alt="Consulting Services" class="img-responsive wow fadeInLeft"/>
+                            <img src="img/blog/sub-page-pic-03.jpg" alt="IT Consulting Services in dubai,Consulting Services,IT Consulting Services" class="img-responsive wow fadeInLeft"/>
                         </div>
                         <div class="col-md-5 wow fadeInRight">
                             <?php include 'cyber-security-workshop.php'; ?>

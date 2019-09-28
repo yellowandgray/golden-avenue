@@ -33,6 +33,21 @@
 
             gtag('config', 'UA-137857896-1');
         </script>
+		<script type='application/ld+json'>
+  {
+   "@context": "https://schema.org/",
+   "@type": "Organization",
+   "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingCount": "6",
+   "reviewCount": "6",
+   "bestRating": "5",
+   "ratingValue": "5.0",
+   "worstRating": "0"
+ }
+}
+</script>
+
     </head>
     <body>
         <div id="wrapper">
@@ -57,7 +72,7 @@
                         <div class="col-md-7 wow fadeInLeft">
                             <h1 class="color-blue"><strong>Cloud Migration</strong></h1>
                             <p class="text-justify">Many organizations and businesses are expected to move to the cloud and thus transform and adapt to the new digital age. The previous mind set of in-house infrastructure is getting erased and will soon be completely replaced by the cloud.</p>
-                            <p class="text-justify">Golden Avenue helps such businesses either through a new transformed set-up or by transitioning their already existing data centers, to a highly accessible and secure cloud environment. We support customer hosted hardware apart from web-services which includes hosting websites, custom apps and emails.</p>
+                            <p class="text-justify">Golden Avenue Technology LLC helps such businesses either through a new transformed set-up or by transitioning their already existing data centers, to a highly accessible and secure cloud environment. We support customer hosted hardware apart from web-services which includes hosting websites, custom apps and emails.</p>
                             <img src="img/blog/sub-page-pic-9.jpg" alt="Cloud Migration" class="img-responsive"/><br/>
                             <p class="text-justify">Cloud services are the trend into the future. The reason is they offer the ability to license or “rent” software and infrastructure when you need it and wherever you need it. Prior to the influx of “Cloud Technology”, companies had to allocate a hefty budget for the system, which would have included the purchase of the server, the required software, and the cost of a certified professional to set the entire infrastructure on premise.</p>
                             <p class="text-justify">Now, for a monthly “Rental” Fee, companies can set up any or all software into the Cloud, pay no startup fee, add spaces instantaneously, have the service provided over the internet to each of the employee’s computer, laptop, or mobile device. It’s easy to install, doesn’t sit on any person or persons computer or server, easy to maintain, and the software is updated regularly for you by the Cloud Provider.</p>

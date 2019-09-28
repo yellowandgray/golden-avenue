@@ -25,7 +25,7 @@
                                 <a href="#content-1" type="button" class="btn btn-primary btn-width">Choose From Our AMC</a>
                             </div>
                             <div class="col-md-3">
-                                <a href="#content-3" type="button" class="btn btn-primary btn-width">Why Golden Avenue</a>
+                                <a href="#content-3" type="button" class="btn btn-primary btn-width">Why Golden Avenue Technology LLC?</a>
                             </div>
                             <div class="col-md-3">
                                 <a href="#content-2" type="button" class="btn btn-primary btn-width">Crisis Management</a>
@@ -41,11 +41,11 @@
                         <section class="section-padding">
                             <div class="row">
                                 <div class="col-md-7">
-                                    <h2 class="color-blue text-transform-none"><strong>At GOLDEN AVENUE our commitment is an “ASSURED REALITY”</strong></h2><br/>
-                                    <h4>Worried when your server is down?? Put you worries aside with Annual Maintenance Services provided by Golden Avenue.</h4><br/>
-                                    <p>Golden Avenue's Annual Maintenance Contract services provide you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented certified engineers enables us to provide optimum IT support services for your system.</p><br/>
+                                    <h2 class="color-blue text-transform-none"><strong>At Golden Avenue Technology LLC our commitment is an “ASSURED REALITY”</strong></h2><br/>
+                                    <h4>Worried when your server is down?? Put you worries aside with Annual Maintenance Services provided by Golden Avenue Technology LLC.</h4><br/>
+                                    <p>Golden Avenue Technology LLC's Annual Maintenance Contract services provide you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented certified engineers enables us to provide optimum IT support services for your system.</p><br/>
                                     <!--                                    <h4>Reality check:</h4>-->
-                                    <h3>Golden Avenue adheres to a professional approach by</h3>
+                                    <h3>Golden Avenue Technology LLC adheres to a professional approach by</h3>
                                     <ol style="font-size: 15px !important">
                                         <li>strictly following SLA as per the client requirements</li>
                                         <li>ensuring the shortest Response and Resolution time as per the tailor-made contract</li>

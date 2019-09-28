@@ -57,7 +57,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">Cyber security threats on SMEs</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">3 March 2019</span></p>
                             <img src="../img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
@@ -87,7 +87,7 @@
                             <h3>2. Insider attacks </h3>
                             <p>Since SMEs have fewer employees, they tend to allocate a lot of control over assets to a single individual. This gives one employee the ability to do more harm as an insider. These insider attacks can be unauthorized extraction, manipulation, destruction of assets and data, and unauthorized use of third-party software which may contain harmful viruses. </p>
                             <p>While many SMEs are concerned about cyber attacks, more than half are not allocating enough in their budgets to risk mitigation. They also lack proper back-up and recovery strategy to pick up from an attack easily. An effective pro-active defence must include regular IT Security Audits and incorporate offensive countermeasures to outsmart an adversary. </p>
-                            <p>Although developing policy can be a hard task, external expert security consultants like Golden Avenue can help in creating a cyber secure environment for your business. </p>
+                            <p>Although developing policy can be a hard task, external expert security consultants like Golden Avenue Technology LLC can help in creating a cyber secure environment for your business. </p>
                             <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
 
 
@@ -98,12 +98,12 @@
                                                         <h2 class="text-center color-blue">Other Blogs</h2>
                                                         <a href="blog.php" class="text-decoration">
                                                             <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
+                                                            <span>By Golden Avenue Technology LLC | 12 February 2019</span>
                                                             <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
                                                         </a>
                                                         <a href="blog-1.php" class="text-decoration">
                                                             <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <span>By Golden Avenue Technology LLC | 21 January 2019</span>
                                                             <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
                                                         </a>
                                                     </div>

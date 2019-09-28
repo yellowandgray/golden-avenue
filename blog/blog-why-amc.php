@@ -57,7 +57,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">Why AMC?</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">21 January 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">21 January 2019</span></p>
                             <img src="../img/blog/cyber-crime-01.jpg" alt="Blog" class="img-responsive"/>
                             <h2 class="font-size-29">AMC Is The Smarter Way to Look After your IT Assets</h2>
                             <h3 class="text-justify">Prevention is always better than Repair, and Growth over sluggishness.</h3>
@@ -78,7 +78,7 @@
                             <p class="text-justify">More Businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
                             <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="../amc-contract.php" class="text-decoration">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
                             <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>
-                            <h3 class="text-justify">We at <a href="../index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
+                            <h3 class="text-justify">We at <a href="../index.php" class="text-decoration">Golden Avenue Technology LLC</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
                             <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
                         </div>
 

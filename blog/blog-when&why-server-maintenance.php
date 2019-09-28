@@ -3,7 +3,7 @@
     <head>
         <?php $page = 'blog'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>Golden Avenue Technology LLC | Your Virtual IT team</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="Data Protection: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
         <meta name="keywords" content="Annual Maintenance Contract, Dubai, Data Protection, Annual Maintenance Contract Provider, AMC, AMC Dubai, Annual Maintenance Contract, cybercrimes, IT Infrastructure, IT & Network Health Check, Consultation">
@@ -57,7 +57,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">When & why you need Server Maintenance?</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue"> 25 February 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue"> 25 February 2019</span></p>
                             <img src="../img/blog/cyber-crime-02.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <p>Servers are critical pieces of IT infrastructure for a business which should work without challenges for long periods of time. </p>
@@ -80,7 +80,7 @@
 <!--                            <p class="text-justify">More Businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
                             <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="amc-contract.php" class="text-decoration">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
                             <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>-->
-                            <!--                            <h3 class="text-justify">We at <a href="index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
+                            <!--                            <h3 class="text-justify">We at <a href="index.php" class="text-decoration">Golden Avenue Technology LLC</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
                                                         <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>-->
                             <h2 class="font-size-29">Why do you need Server Maintenance?</h2>
                             <p>Servers have the critical job of managing, storing and handling company data 24x7. It is extremely imperative that you schedule routine checks to help maintain their health and functionality. Doing so, not only keeps them running smoothly, but it can also prolong their life. Increasing server life span is money saved in prevented damages and complete replacement.</p>
@@ -89,7 +89,7 @@
                             <!--<p class="text-justify">Routine checks guarantee a better prevention option and a solution. An IT Infrastructure checkup performed regularly can also result in the devices performing efficiently throughout the year. Any issue detected, can be resolved immediately to prevent further damages thus increasing the device life.</p>-->
 <!--                            <img src="img/blog/PowerGrid-Security-961452604.jpg" alt="" class="img-responsive img-width"/>-->
                             <h2>2. Avoid down time and loss of data</h2>
-                            <p class="text-justify">To avoid down time and loss of data, as well as ensuring that your business’s computer network is running as intended, a regular Server maintenance is crucial. It not only increases server productivity but also boosts business productivity. Server Maintenance must be carried out regularly to ensure <a href="../it-security.php" class="text-decoration">IT security</a> and long term viability. With an AMC, If server failure is imminent, our team at Golden Avenue will arrange for spares to be delivered and fitted as soon as possible so that your business can return to full working capacity as fast as possible.</p>
+                            <p class="text-justify">To avoid down time and loss of data, as well as ensuring that your business’s computer network is running as intended, a regular Server maintenance is crucial. It not only increases server productivity but also boosts business productivity. Server Maintenance must be carried out regularly to ensure <a href="../it-security.php" class="text-decoration">IT security</a> and long term viability. With an AMC, If server failure is imminent, our team at Golden Avenue Technology LLC will arrange for spares to be delivered and fitted as soon as possible so that your business can return to full working capacity as fast as possible.</p>
                             <P><strong>It is always best to approach problems pro-active, before it affects your business productivity.</strong></P>
 <!--                            <img src="img/blog/blog-04.jpg" alt="" class="img-responsive img-width"/>-->
                             <h2>3. Review Backups and Recovery strategies </h2>
@@ -97,7 +97,7 @@
 <!--                            <p class="text-justify">More Businesses are getting digitalized, and that calls for every organization to be built with the right kind of IT infrastructure to be on par with their digital needs. However, its maintenance can be a weigh down for the enterprise and a disruption from performing core business activities. Moreover, hiring technicians for each and every troubleshooting can be distressing. An AMC for Computers, printers or servers, networks etc. which all fall under the category of IT infrastructure, will be helpful in relieving you of the difficulties of dealing with IT challenges, arising without warning.</p>
                             <p class="text-justify">Regular maintenance of IT infrastructure is better to prevent sudden and unexpected IT challenges which may interrupt business operations. Affiliating with the right <a href="amc-contract.php" class="text-decoration">AMC Service provider</a> and their skilled technicians who understand your individual business requirements aptly can prove to be a smart move.</p>
                             <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>-->
-                            <p class="text-justify">It is always a good idea to have a professional relationship with a reliable <a href="../amc-contract.php" class="text-decoration">Annual Maintenance Contract</a> Provider like  <a href="../index.php" class="text-decoration">Golden Avenue</a>, whose pool of experts can help you discover what’s wrong with your servers quickly, and help you figure out if a system replacement is in order. </p>
+                            <p class="text-justify">It is always a good idea to have a professional relationship with a reliable <a href="../amc-contract.php" class="text-decoration">Annual Maintenance Contract</a> Provider like  <a href="../index.php" class="text-decoration">Golden Avenue Technology LLC</a>, whose pool of experts can help you discover what’s wrong with your servers quickly, and help you figure out if a system replacement is in order. </p>
                             <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>
                         </div>
                         <!--                        <div class="col-md-5 wow fadeInRight">
@@ -109,12 +109,12 @@
                                                         <h2 class="text-center color-blue">Other Blogs</h2>
                                                         <a href="blog.php" class="text-decoration">
                                                             <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
+                                                            <span>By Golden Avenue Technology LLC | 12 February 2019</span>
                                                             <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
                                                         </a>
                                                         <a href="blog-1.php" class="text-decoration">
                                                             <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <span>By Golden Avenue Technology LLC | 21 January 2019</span>
                                                             <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
                                                         </a>
                                                     </div>

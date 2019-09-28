@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'blog'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>What is Cyber Security? | goldenavenue.com</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Data Protection: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
-        <meta name="keywords" content="Annual Maintenance Contract, Dubai, Data Protection, Annual Maintenance Contract Provider, AMC, AMC Dubai, Annual Maintenance Contract, cybercrimes, IT Infrastructure, IT & Network Health Check, Consultation">
+        <meta name="description" content="Cyber Security: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
+        <meta name="keywords" content="Cyber Security,What is Cyber Security,Types of Cyber Security">
         <meta name="author" content="" />
         <link rel="icon" href="../img/favicon.png" type="image">
         <!-- css -->
@@ -56,12 +56,12 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h2 class="font-size-42">Cyber security</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
+                            <h1 class="font-size-42">Cyber security</h1>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">3 March 2019</span></p>
                             <img src="../img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
 <!--                            <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>-->
-                            <h3 class="font-size-29">What is cyber security?</h3>
+                            <h2 class="font-size-29">What is cyber security?</h2>
                             <p>Cyber security refers to the preventative techniques used to protect IT infrastructure assets and data of an organization or individual, from being attacked, stolen or accessed illegally.  It includes protecting hardware and software from becoming compromised to internal or external cyber-attacks.</p>
                             <p>No Business is too small to be immune from cyber-attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.To effectively protect your business, it is important to be aware of the common widespread cyber security threats and take appropriate measures to combat such threats.</p>
                             <h3 class="font-size-29">What are the Common external cyber security threats?</h3>
@@ -133,12 +133,12 @@
                                                         <h2 class="text-center color-blue">Other Blogs</h2>
                                                         <a href="blog.php" class="text-decoration">
                                                             <h4>Data Protection: Why it matters?</h4>
-                                                            <span>By Golden Avenue | 12 February 2019</span>
+                                                            <span>By Golden Avenue Technology LLC | 12 February 2019</span>
                                                             <img src="img/blog/why-matters.jpg" alt="Blog" class="img-responsive"/>
                                                         </a>
                                                         <a href="blog-1.php" class="text-decoration">
                                                             <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <span>By Golden Avenue Technology LLC | 21 January 2019</span>
                                                             <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
                                                         </a>
                                                     </div>

@@ -57,7 +57,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">Office 365: 7 Reasons to increase your Business Productivity</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">17 May 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">17 May 2019</span></p>
                             <img src="../img/blog/office-365.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <h4><b>What is Office 365?</b></h4>
@@ -74,7 +74,7 @@
                                 <li><b>7.Flexible Plans to choose from</b><br>A business can pick and choose Office 365 plans for their employees based on their needs. Microsoft offers Office 365 Business, Business Essentials, and Business Premium plans each has a limit of 300 users, while the Enterprise plans are for an unlimited number of users. </li>
                             </ol>
                             <br/>
-                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> at <a href=../index.php>Golden Avenue</a> for a No Obligation Free Consultation.</p>
+                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> at <a href=../index.php>Golden Avenue Technology LLC</a> for a No Obligation Free Consultation.</p>
 
                         </div>
                     </div>

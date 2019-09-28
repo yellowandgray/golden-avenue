@@ -57,11 +57,11 @@
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">Data Protection: Why it matters?</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">12 February 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">12 February 2019</span></p>
                             <img src="../img/blog/why-matters-01.jpg" alt="Blog" class="img-responsive"/>
                             <h2 class="font-size-29">What is Data Protection?</h2>
                             <p class="text-justify">All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
-                            <p class="text-justify">Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine <a href="../business-continuity.php" class="text-decoration">(Golden Avenue Business Continuity Strategies).</a></p>
+                            <p class="text-justify">Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine <a href="../business-continuity.php" class="text-decoration">(Golden Avenue Technology LLC Business Continuity Strategies).</a></p>
                             <h2 class="font-size-29">Why is Data Protection vital to a Business?</h2>
                             <p class="text-justify">Data protection procedures is fundamental to help prevent <a href="../cyber-security.php" class="text-decoration">cybercrimes</a> by ensuring details are protected to prevent fraud. For instance, a breach in a company’s data protection can be very costly to the company as well as the clients, if your client’s or customer’s bank accounts were hacked into.  Case in point: 2018 <strong>Marriott International’s breach of its Starwood guest reservation database exposed the personal information of up to 500 million people.</strong></p>
                             <h2 class="font-size-29">What could go wrong if Data is not protected?</h2>
@@ -93,12 +93,12 @@
                                                         <h2 class="text-center color-blue">Other Blogs</h2>
                                                         <a href="blog-1.php" class="text-decoration">
                                                             <h4>Why AMC?</h4>
-                                                            <span>By Golden Avenue | 21 January 2019</span>
+                                                            <span>By Golden Avenue Technology LLC | 21 January 2019</span>
                                                             <img src="img/blog/cyber-crime-1.jpg" alt="Blog" class="img-responsive"/>
                                                         </a>
                                                          <a href="blog-2.php" class="text-decoration">
                                                             <h4>When & why you need Server Maintenance?</h4>
-                                                            <span>By Golden Avenue | 25 February 2019</span>
+                                                            <span>By Golden Avenue Technology LLC | 25 February 2019</span>
                                                             <img src="img/blog/cyber-crime-2.jpg" alt="Blog" class="img-responsive"/>
                                                         </a>
                                                     </div>
@@ -124,7 +124,7 @@
                             <img src="../img/blog/why-matters-1.jpg" alt="Blog" class="img-responsive" />
                         </div>
                         <div class="col-md-12">
-                            <p class="text-justify">Maintenance Experts and <a href="../amc-contract.php" class="text-decoration">Annual Maintenance Contract</a> Providers like <a href="../index.php" class="text-decoration">Golden Avenue</a> can help you by conducting a comprehensive <a href="../it-health-check.php" class="text-decoration">IT & Network Health Check</a> on all your <a href="../it-security.php" class="text-decoration">IT infrastructure</a> Assets. They will submit to you a concise picture of the vulnerabilities and threats posed to your business and provide a list of solutions based on those findings. You can REST ASSURED that you are in safe hands.</p>
+                            <p class="text-justify">Maintenance Experts and <a href="../amc-contract.php" class="text-decoration">Annual Maintenance Contract</a> Providers like <a href="../index.php" class="text-decoration">Golden Avenue Technology LLC</a> can help you by conducting a comprehensive <a href="../it-health-check.php" class="text-decoration">IT & Network Health Check</a> on all your <a href="../it-security.php" class="text-decoration">IT infrastructure</a> Assets. They will submit to you a concise picture of the vulnerabilities and threats posed to your business and provide a list of solutions based on those findings. You can REST ASSURED that you are in safe hands.</p>
                             <p class="text-justify">Give us a call <a href="tel:+04 2668272">04 2668272</a> for a FREE no obligation Consultation.</p>
                         </div>
                     </div>

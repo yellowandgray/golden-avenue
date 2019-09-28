@@ -27,7 +27,7 @@
                         <section class="section-padding">
                             <div class="row table-center-align">
                                 <h3 class="color-blue"><strong>Annual Maintenance Contracts</strong></h3>
-                                <p>Golden Avenue offers sensible, trustworthy, efficient yet affordable and flexible Technical IT Annual Maintenance Services to its clients in Dubai. Become a part of our distinguished Clientele to keep your Business Information Technology Infrastructure updated and current to avoid any Malfunction or Security breaches which would result in loss of Revenue</p>
+                                <p>Golden Avenue Technology LLC offers sensible, trustworthy, efficient yet affordable and flexible Technical IT Annual Maintenance Services to its clients in Dubai. Become a part of our distinguished Clientele to keep your Business Information Technology Infrastructure updated and current to avoid any Malfunction or Security breaches which would result in loss of Revenue</p>
                                 <h3 class="color-blue">Remote Support by Email & Telephone</h3>
                                 <table class="table">
                                     <tr>

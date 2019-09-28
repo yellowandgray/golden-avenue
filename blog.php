@@ -56,8 +56,19 @@
 
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
+                            <h2 class="font-size-42"><a href="blog/fortimail-form-fortinet.php">Fortimail from Fortinet</a></h2>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">05 July 2019</span></p>
+                            <img src="img/blog/fortimail-from-fortinet.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
+                            <h2 class="font-size-29">Fortimail from Fortinet: One of the best email security solutions for SMBs</h2>
+                            <p class="text-justify">As communications via email has become a key and essential component of a business in this digital age, small and medium businesses are facing many security challenges along with increased global opportunities. As new technology gets adopted (IoT, cloud services, mobility), dealing with challenges associated with business agility becomes mandatory. An effective solution is to use a secure email gateway available in the market to protect from email related threats and attacks.</p>
+                            <a href="blog/fortimail-form-fortinet.php" class="btn-blog">CONTINUE READING</a>
+                        </div>
+                    </div>
+
+                    <div class="row showcase-section">
+                        <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog/ip-pbx-telephony.php">IP PBX Telephony: best telephony solutions for SMEs</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">18 June 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">18 June 2019</span></p>
                             <img src="img/blog/ip-pbx-telephony.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                             <h2 class="font-size-29">What is a PBX?</h2>
                             <p class="text-justify">PBX stands for <strong>private branch exchange</strong> which helps a business phone system to accomplish their day to day voice communication needs.</p>
@@ -68,7 +79,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42"><a href="blog/microsoft-azure-cloud-computing.php">Microsoft Azure Cloud Computing</a></h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">1 June 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">1 June 2019</span></p>
                             <img src="img/blog/micro-azure-01.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                             <h2 class="font-size-29">Microsoft Azure in a nutshell</h2>
                             <p class="text-justify">Microsoft Azure is a cloud computing service created for building, testing, deploying, and managing applications and services through Microsoft-managed data centres. It delivers software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools and frameworks, including both Microsoft-specific and third-party software and systems. Azure is available worldwide and can be used to host websites, apps, virtual machines and databases.</p>
@@ -79,7 +90,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-12 wow fadeInLeft">
                                 <h2 class="font-size-42"><a href="blog/ms-office-365.php">Office 365: 7 Reasons to increase your Business Productivity</a></h2>
-                                <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">17 May 2019</span></p>
+                                <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">17 May 2019</span></p>
                                 <img src="img/blog/office-365.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                                 <h2 class="font-size-29">What is Office 365?</h2>
                                 <p class="text-justify">Office 365 is a subscription service offered by Microsoft that allows users to download and install Microsoft Office apps to use with both Windows and OS X operating systems. Office 365 is more than just a set of tools but it’s also a new way of working. </p>
@@ -107,7 +118,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-12 wow fadeInLeft">
                                 <h2 class="font-size-42"><a href="blog/cloud-computing.php">Cloud computing and its benefits for SMBs</a></h2>
-                                <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">10 May 2019</span></p>
+                                <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">10 May 2019</span></p>
                                 <img src="img/blog/cloud-computing.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                                 <h2 class="font-size-29">What is CLOUD technology?</h2>
                                 <h3 class="text-justify">Compute Login Off-site Uploading Downloadings</h3>
@@ -138,7 +149,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-12 wow fadeInLeft">
                                 <h2 class="font-size-42"><a href="blog/amc.php">Annual Maintenance Contract | Why AMC and what you should know about IT maintenance contracts?</a></h2>
-                                <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">22 April 2019</span></p>
+                                <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">22 April 2019</span></p>
                                 <img src="img/blog/sub-page-pic-05.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                                 <h2 class="font-size-29">Annual Maintenance Contracts are the Smarter Way to Look after your IT Assets</h2>
                                 <h2 class="text-justify">Why AMC?</h2>
@@ -169,7 +180,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-12 wow fadeInLeft">
                                 <h2 class="font-size-42"><a href="blog/blog-phishing.php">Phishing| How to recognize them and avoid them</a></h2>
-                                <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">29 March 2019</span></p>
+                                <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">29 March 2019</span></p>
                                 <img src="img/blog/sub-page-pic-04.jpg" alt="Blog" class="img-responsive"/>
                                 <br/>
                                 <p>Phishing is a deceitful attempt by scammers to get your personal information such as Bank account numbers, credit card details, passwords etc. It is a cyber crime that lures individuals to provide sensitive and confidential information by posing as a legitimate organization, via email, telephone or messages.</p>
@@ -198,7 +209,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-12 wow fadeInLeft">
                                 <h2 class="font-size-42"><a href="blog/cyber-security.php">Cyber security</a></h2>
-                                <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">3 March 2019</span></p>
+                                <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">3 March 2019</span></p>
                                 <img src="img/blog/sub-page-pic-02.jpg" alt="Blog" class="img-responsive"/>
                                 <br/>
                                 <p>No Business is too small to be immune from cyber attacks. On an average a site is attacked 50 times per day, and improper security measures can increase the threat.</p>
@@ -227,7 +238,7 @@
                         <div class="row showcase-section">
                             <div class="col-md-12 wow fadeInLeft">
                                 <h2 class="font-size-42"><a href="blog/blog-when&why-server-maintenance.php">When & why you need Server Maintenance?</a></h2>
-                                <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue"> 25 February 2019</span></p>
+                                <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue"> 25 February 2019</span></p>
                                 <img src="img/blog/cyber-crime-02.jpg" alt="Blog" class="img-responsive"/>
                                 <br/>
                                 <p>Servers are critical pieces of IT infrastructure for a business which should work without challenges for long periods of time.</p>
@@ -257,12 +268,12 @@
                         <div class="row showcase-section">
                             <div class="col-md-12 wow fadeInLeft">
                                 <h2 class="font-size-42"><a href="blog/blog-data-protection.php">Data Protection: Why it matters?</a></h2>
-                                <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">12 February 2019</span></p>
+                                <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">12 February 2019</span></p>
                                 <img src="img/blog/why-matters-01.jpg" alt="Blog" class="img-responsive"/>
                                 <br/>
                                 <p><b>What is Data Protection?</b></p>
                                 <p>All companies regardless of size or location have data, such as personnel files, customer data, product information, financial transactions, etc. Data protection is nothing but the process of safeguarding important information from corruption, compromise, damage, loss or theft.</p>
-                                <p>Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine (Golden Avenue Business Continuity Strategies)....</p>
+                                <p>Effective data security involves understanding what data you hold and how you store and use it. Companies and businesses need to put in place good data security procedures, including a backup routine (Golden Avenue Technology LLC Business Continuity Strategies)....</p>
                                 <a href="blog/blog-data-protection.php" class="btn-blog">CONTINUE READING</a>
 
                             </div>

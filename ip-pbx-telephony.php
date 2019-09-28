@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'blog'; ?>
         <meta charset="utf-8">
-        <title>What is PBX? | Goldenavenue.ae</title>
+        <title>Golden Avenue | Your Virtual IT team</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="PBX stands for private branch exchange which helps a business phone system to accomplish their day to day voice communication needs." />
-        <meta name="keywords" content="What is PBX,types of pbx,PBX">
+        <meta name="description" content="Data Protection: Why it matters? Protection of your data from threats posed by Hackers and Malware, Failed hardware, natural calamity or unauthorized access to the network etc., needs a good Annual Maintenance Contract Provider" />
+        <meta name="keywords" content="Annual Maintenance Contract, Dubai, Data Protection, Annual Maintenance Contract Provider, AMC, AMC Dubai, Annual Maintenance Contract, cybercrimes, IT Infrastructure, IT & Network Health Check, Consultation">
         <meta name="author" content="" />
         <link rel="icon" href="../img/favicon.png" type="image">
         <!-- css -->
@@ -56,9 +56,9 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
-                            <h1 class="font-size-42">IP PBX Telephony: best telephony solutions for SMEs</h1>
+                            <h2 class="font-size-42">IP PBX Telephony: best telephony solutions for SMEs</h2>
                             <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">18 June 2019</span></p>
-                            <img src="../img/blog/ip-pbx-telephony.jpg" alt="pbx" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
+                            <img src="../img/blog/ip-pbx-telephony.jpg" alt="Blog" class="img-responsive" style="border: 1px solid #c7c7c7;"/>
                             <h2 class="font-size-29">What is a PBX?</h2>
                             <p class="text-justify">PBX stands for <strong>private branch exchange</strong> which helps a business phone system to accomplish their day to day voice communication needs.</p>
                         </div>
@@ -109,7 +109,7 @@
                         </div>
                     </div>
 <!--   <p class="text-justify">AMC Service providers are fully prepared in advance with all the required knowledge and knowhow essential for selecting solutions appropriate for your specific needs and are READY TO GO when things go wrong.</p>
-                    <h3 class="text-justify">We at <a href="../index.php" class="text-decoration">Golden Avenue Technology LLC</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
+                    <h3 class="text-justify">We at <a href="../index.php" class="text-decoration">Golden Avenue</a> will assist you to build an IT Maintenance Plan around your Infrastructure Needs.</h3>
                     <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> for a No Obligation Free Consultation</p>-->
                 </div>
 

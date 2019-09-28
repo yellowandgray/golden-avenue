@@ -57,7 +57,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-12 wow fadeInLeft">
                             <h2 class="font-size-42">Cloud computing and its benefits for SMBs</h2>
-                            <p>Posted by: <span class="color-blue">Golden Avenue</span> | Date: <span class="color-blue">10 May 2019</span></p>
+                            <p>Posted by: <span class="color-blue">Golden Avenue Technology LLC</span> | Date: <span class="color-blue">10 May 2019</span></p>
                             <img src="../img/blog/cloud-computing.jpg" alt="Blog" class="img-responsive"/>
                             <br/>
                             <h4><b>What is CLOUD technology?</b></h4>
@@ -85,8 +85,8 @@
                             </ol>
                             <p class="text-justify">In the past few years, we have seen a remarkable increase in the number of companies adopting cloud computing strategies. From using applications on individual local machines to now hosting it on a remote cloud location somewhere on the world map, companies have started reaping the benefits of using the same resource over the internet at a reduced cost and round the clock accessibility.</p>
                             <br/>
-                            <p class="text-justify"><b>Golden Avenue can help evolve and scale your business and show you the benefits of Cloud Computing.</b></p>
-                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> at <a href=../index.php>Golden Avenue</a> for a No Obligation Free Consultation.</p>
+                            <p class="text-justify"><b>Golden Avenue Technology LLC can help evolve and scale your business and show you the benefits of Cloud Computing.</b></p>
+                            <p class="text-justify">Give us a Call <a href="tel:+04 2668272">04 2668272</a> at <a href=../index.php>Golden Avenue Technology LLC</a> for a No Obligation Free Consultation.</p>
 
                         </div>
                     </div>

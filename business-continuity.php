@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'services'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>Business Continuity | Best IT Support in Dubai</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Disaster Recovery Plan to sustain your business from security breaches and hackers or system breakdowns to reduce downtime, Storage & Backup, preemptive Annual Maintenance Service ( AMC )" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="description" content="We are here to assist you with developing and maintaining your business continuity plan. With access to current state of the art technology and resources, business continuity planning and maintenance has never been easier" />
+        <meta name="keywords" content="Business Continuity,Business Continuity Services,Business Continuity Services in Dubai">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
@@ -33,6 +33,21 @@
 
             gtag('config', 'UA-137857896-1');
         </script>
+		<script type='application/ld+json'>
+  {
+   "@context": "https://schema.org/",
+   "@type": "Organization",
+   "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingCount": "6",
+   "reviewCount": "6",
+   "bestRating": "5",
+   "ratingValue": "5.0",
+   "worstRating": "0"
+ }
+}
+</script>
+
     </head>
     <body>
         <div id="wrapper">
@@ -56,7 +71,7 @@
                     <div class="row showcase-section">
                         <div class="col-md-7">
                             <h3 class="color-blue wow fadeInLeft"><strong>Business Continuity</strong></h3>
-                            <p class="text-justify wow fadeInLeft">With the increasing number of threats to businesses in today’s world, you must learn to be prepared for the unexpected. Without the proper resources, being able to ensure that your business remains safe can be challenging. Here at Golden Avenue, readiness and preparedness is our focus and we are here to assist you with developing and maintaining your business continuity plan. With access to current state of the art technology and resources, business continuity planning and maintenance has never been easier.</p>
+                            <p class="text-justify wow fadeInLeft">With the increasing number of threats to businesses in today’s world, you must learn to be prepared for the unexpected. Without the proper resources, being able to ensure that your business remains safe can be challenging. Here at Golden Avenue Technology LLC, readiness and preparedness is our focus and we are here to assist you with developing and maintaining your business continuity plan. With access to current state of the art technology and resources, business continuity planning and maintenance has never been easier.</p>
                             <p class="text-justify wow fadeInLeft color-blue">In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible.</p>
                             <!--                                <h3 class="color-blue text-justify">In the event of a disaster which may disrupt the operational process, it is very important to recover from such shock and start functioning in the quickest time possible.</h3>
                                                             <img src="img/blog/bus1.jpg" alt="" class="img-responsive"/>-->
@@ -71,7 +86,7 @@
                                                                         </ul>
                                                                     </div>-->
                                 <div class="col-md-12">
-                                    <img src="img/blog/bus-02.jpg" alt="Blog" class="img-responsive img-width wow fadeInLeft"/> 
+                                    <img src="img/blog/bus-02.jpg" alt="Blog" class="Business Continuity,Business Continuity Services,Business Continuity Services in Dubai"/> 
                                 </div>
                             </div>
                         </div>

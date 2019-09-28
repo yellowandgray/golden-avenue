@@ -3,11 +3,12 @@
     <head>
         <?php $page = 'services'; ?>
         <meta charset="utf-8">
-        <title>IT Network Health Check Services | Best IT Services in Dubai | goldenavenue.ae</title>
+        <title>Networking Companies in Dubai | IT Network Health Check Services</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="IT Network Health Checks for your entire Business, Power Check, Network checks, Internet/Intranet Connectivity Check, Server, Storage & Backup Check, Desktop, Laptop & Thin Clients Check, Software License Compliance Check, viruses, worms, Trojan horses, spyware, malware, adware and botnets" />
-        <meta name="keywords" content="IT Network Health Check Services,IT Health Check,Network Health Check">
-        <meta name="author" content="" />
+        <meta name="description" content="Golden Avenue is the best Networking Company in Dubai.IT Network Health Checks for your entire Business, Power Check, Network checks, Internet/Intranet Connectivity Check, Server, Storage & Backup Check, Desktop, Laptop & Thin Clients Check, Software License Compliance Check, viruses, worms, Trojan horses, spyware, malware, adware and botnets" />
+        <meta name="keywords" content="networking companies in dubai,IT Network Health Check Services,IT Health Check,Network Health Check">
+        <link rel="canonical" href="https://www.goldenavenue.ae/it-health-check.php" />
+	    <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
         <link href="css/bootstrap.min.css" rel="stylesheet" />
@@ -33,6 +34,21 @@
 
             gtag('config', 'UA-137857896-1');
         </script>
+		<script type='application/ld+json'>
+  {
+   "@context": "https://schema.org/",
+   "@type": "Organization",
+   "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingCount": "6",
+   "reviewCount": "6",
+   "bestRating": "5",
+   "ratingValue": "5.0",
+   "worstRating": "0"
+ }
+}
+</script>
+
     </head>
     <body>
         <div id="wrapper">
@@ -41,7 +57,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">IT & Network Health Checks</h2>
+                            <h1 class="pageTitle"> Networking Companies in Dubai </h1>
                         </div>
                     </div>
                 </div>
@@ -55,13 +71,13 @@
                     </ul>
                     <div class="row showcase-section">
                         <div class="col-md-7">
-                            <h3 class="color-blue wow fadeInLeft"><strong>IT & Network Health Checks</strong></h3>
+                            <h2 class="color-blue wow fadeInLeft"><strong>Networking Companies in Dubai</strong></h2>
                             <h3 class="color-blue wow fadeInLeft"><strong>What is an IT & Network Health Check?</strong></h3>
-                            <p class="wow fadeInLeft">It is a comprehensive IT specific assessment of your infrastructure and security. It provides you with an accurate IT audit that will highlight your current and potential risk areas.</p> 
+                            <p class="wow fadeInLeft">Networking Companies in Dubai a comprehensive IT specific assessment of your infrastructure and security. It provides you with an accurate IT audit that will highlight your current and potential risk areas.</p> 
                             <h3 class="color-blue wow fadeInLeft"><strong>Why is an IT & Network Health Check important?</strong></h3>
                             <p class="text-justify wow fadeInLeft">The IT Health Check / Audit for organizations from any domain is a MUST to ensure optimal performance in the day to day operations and decision-making process. It helps the organization to understand and utilize technology more efficiently. This audit helps to get more out of your existing technology investments and recommend further updates and upgrades based on the current set up.</p>
-                            <img src="img/blog/sub-page-pic-2.jpg" alt="IT Health Check" class="img-responsive wow fadeInLeft"/>
-                            <h3 class="text-justify wow fadeInLeft">Golden Avenue IT & Network Health Check includes various components and addresses the critical and vulnerable points of different IT aspects as detailed below.</h3>
+                            <img src="img/blog/sub-page-pic-2.jpg" alt="networking companies in dubai" class="img-responsive wow fadeInLeft"/>
+                            <h3 class="text-justify wow fadeInLeft">Golden Avenue Technology LLC IT Networking Company includes various components and addresses the critical and vulnerable points of different IT aspects as detailed below.</h3>
                             <ul class="list-line list-style-type1 padding-0 wow fadeInLeft">
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Assess if the entire IT infrastructure both hardware and software fulfill the standard necessary requirements of your business and if it is cost effective</li>
                                 <i class="fa fa-check" aria-hidden="true"></i><li>Analyzing and testing the security policies and data protection adopted by your business</li>
@@ -82,7 +98,7 @@
             </section>
             <section id="content" style="background: #f1f1f1;">
                 <div class="container">
-                    <h3 class="color-blue text-center margin-bottom-40"><strong>The Health Check consists of the following</strong></h3>
+                    <h3 class="color-blue text-center margin-bottom-40"><strong>The Networking Company consists of the following</strong></h3>
                     <div class="row checks-h2">
                         <div class="col-md-6">
                             <div class="box-shadow-white wow fadeInLeft">
@@ -189,7 +205,7 @@
                         <div class="col-md-6">
                             <div class="box-shadow-white wow fadeInLeft">
                                 <div class="text-center">
-                                    <h3>The most common threats to your business</h3>
+                                    <h3>The most common threats to your business solved by Networking Companies</h3>
                                 </div>
                                 <ul class="list-line list-style-type1 padding-0">
                                     <i class="fa fa-check" aria-hidden="true"></i><li>Malicious programs like viruses, worms, trojan horses, spyware, malware, adware and botnets</li>

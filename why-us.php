@@ -3,7 +3,7 @@
     <head>
         <?php $page = 'why-us'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>Golden Avenue Technology LLC | Your Virtual IT team</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="Flexible AMC Contracts, IT Professionals, IT security Experts, best IT audits in Dubai, Competent and Resourceful, client focused" />
         <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
@@ -54,12 +54,12 @@
                             <li><a href="index.php">Home</a></li>
                             <li>Why Us</li>
                         </ul>
-                        <h2 class="color-blue">Why Golden Avenue?</h2>
+                        <h2 class="color-blue">Why Golden Avenue Technology LLC?</h2>
                         <div class="row">
                             <div class="col-md-4 wow fadeInUp">
                                 <div class="why-us-content">
                                     <h3>Experts</h3>
-                                    <p class="text-justify">Golden Avenue Professionals are well versed in their field and keep themselves constantly upgraded to improve their qualifications and have the most up-to-date knowledge and skills. Our team of experts are certified and has enormous experience in IT infrastructure design and organization.</p>
+                                    <p class="text-justify">Golden Avenue Technology LLC Professionals are well versed in their field and keep themselves constantly upgraded to improve their qualifications and have the most up-to-date knowledge and skills. Our team of experts are certified and has enormous experience in IT infrastructure design and organization.</p>
                                 </div>
                             </div>
                             <div class="col-md-4 wow fadeInUp">
@@ -83,8 +83,8 @@
                             </div>
                             <div class="col-md-6">
                                 <h2 class="bold margin-0 color-blue">Prem Bhojwani</h2>
-                                <p class="bold">MD, Golden Avenue</p><br/>
-                                <p class="bold">A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue is dedicated to achieving success and making a lasting impact on their clientèle.</p>
+                                <p class="bold">MD, Golden Avenue Technology LLC</p><br/>
+                                <p class="bold">A visionary business leader, driving high-tech innovations into a successful business. Under his leadership Golden Avenue Technology LLC is dedicated to achieving success and making a lasting impact on their clientèle.</p>
                             </div>
                         </div>
                     </div>

@@ -3,10 +3,10 @@
     <head>
         <?php $page = 'services'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>Cyber Security Service in Dubai| Best Cyber Security Provider in Dubai</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Cyber security awareness through employee training, part of your business continuity program, address technology risk and cyber security challenges, Educate & Train through our workshop" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
+        <meta name="description" content="Golden Avenue is the best Cyber Security Service Provider in Dubai.Cyber security awareness through employee training, part of your business continuity program, address technology risk and cyber security challenges, Educate & Train through our workshop" />
+        <meta name="keywords" content="Cyber security Dubai,Cyber Security Service in Dubai,Cyber Security Service Provider in Dubai">
         <meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
@@ -33,6 +33,20 @@
 
             gtag('config', 'UA-137857896-1');
         </script>
+			<script type='application/ld+json'>
+  {
+   "@context": "https://schema.org/",
+   "@type": "Organization",
+   "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingCount": "6",
+   "reviewCount": "6",
+   "bestRating": "5",
+   "ratingValue": "5.0",
+   "worstRating": "0"
+ }
+}
+</script>
     </head>
     <body>
         <div id="wrapper">
@@ -41,7 +55,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
-                            <h2 class="pageTitle">Cyber Security Awareness</h2>
+                            <h1 class="pageTitle">Cyber Security Service</h1>
                         </div>
                     </div>
                 </div>
@@ -57,7 +71,7 @@
                         <div class="col-md-7 wow fadeInLeft">
                             <h3 class="color-blue"><strong>Cyber Security Awareness</strong></h3>
                             <p class="text-justify">Companies of all sizes can become victims of cyber-attacks making it more important than ever to bring cyber security awareness through employee training as an integral part of your business continuity program. Look at Cyber security Awareness like a Business Function.</p> 
-                            <p class="text-justify">Businesses and organizations should address technology risk and cyber security challenges through the lens of their business value to deliver appropriate levels of protection that support their business outcomes.</p>
+                            <p class="text-justify">Businesses and organizations should address technology risk and cyber security challenges through the lens of their business value to deliver appropriate levels of protection that <a href="https://www.goldenavenue.ae/" class="text-decoration">IT Support </a> their business outcomes.</p>
                             <br/><img src="img/blog/faq-001.jpg" alt="Cyber Security Awareness" class="img-responsive"/><br/>
                             <h3 class="color-blue"><strong>FAQ – Cyber Security Awareness Workshop</strong></h3>
                             <h3 class="color-blue">What is the main purpose of Cyber Security Awareness training?</h3>

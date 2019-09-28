@@ -5,7 +5,7 @@
                 <div class="widget">
                     <h5 class="widgetheading">Our Contact</h5>
                     <address>
-                        <strong>Golden Avenue</strong><br>
+                        <strong>Golden Avenue Technology LLC</strong><br>
                         P.O.Box-122041<br>
                         Dubai, U.A.E.</address>
                     <p>
@@ -59,7 +59,7 @@
                 <div class="col-sm-6">
                     <div class="copyright">
                         <p>
-                            <span>&copy; Golden Avenue 2018 All right reserved. Designed By </span><a href="http://yellowandgray.com" target="_blank">YG Studio</a>
+                            <span>&copy; Golden Avenue Technology LLC 2018 All right reserved. Designed By </span><a href="http://yellowandgray.com" target="_blank">YG Studio</a>
                         </p>
                     </div>
                 </div>

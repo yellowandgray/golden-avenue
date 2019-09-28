@@ -3,11 +3,12 @@
     <head>
         <?php $page = 'amc-contract'; ?>
         <meta charset="utf-8">
-        <title>Golden Avenue | Your Virtual IT team</title>
+        <title>Best IT AMC Service in Dubai [2019] | Annual Maintenance contract in Dubai</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Cost effective Annual maintenance contracts ( AMC )  for your business needs, Hardware and Software Support, Remote Support and Software assistance, Telephone Support, Server Monitoring 24*7, Scheduled Maintenance" />
-        <meta name="keywords" content="AMC Dubai, Annual Maintenance Contract Dubai, virtual it, VIRTUAL manager Dubai, IT SUPPORT Dubai, IT security, Cyber security, , IT & Network Health Checks, Business Continuity, IT Security, Consulting Services, Cloud Migration, IT Procurement, Top Brand, IT Infrastructure, Products, IT INFRASTRUCTURE DUBAI">
-        <meta name="author" content="" />
+        <meta name="description" content="Cost effective IT AMC Service in Dubai ( Annual maintenance contracts )for your business needs, Hardware and Software Support, Remote Support and Software assistance, Telephone Support, Server Monitoring 24*7,Scheduled Maintenance.Best Quality AMC Provider in Dubai" />
+        <meta name="keywords" content="IT AMC Service,IT AMC Service,IT AMC Services Dubai,AMC Dubai,AMC in Dubai,IT AMC in Dubai, Annual Maintenance Contract Dubai,AMC Provider in Dubai.">
+        <link rel="canonical" href=""../amc-contract.php"" />
+		<meta name="author" content="" />
         <link rel="icon" href="img/favicon.png" type="image">
         <!-- css -->
         <link href="css/bootstrap.min.css" rel="stylesheet" />
@@ -33,6 +34,20 @@
 
             gtag('config', 'UA-137857896-1');
         </script>
+		<script type='application/ld+json'>
+  {
+   "@context": "https://schema.org/",
+   "@type": "Organization",
+   "aggregateRating": {
+   "@type": "AggregateRating",
+   "ratingCount": "6",
+   "reviewCount": "6",
+   "bestRating": "5",
+   "ratingValue": "5.0",
+   "worstRating": "0"
+ }
+}
+</script>
     </head>
     <body>
         <div id="wrapper">
@@ -70,15 +85,15 @@
                                                 </ul>-->
                         <div class="row">
                             <div class="col-md-7 wow fadeInLeft">
-                                <h2 class="color-blue text-transform-none"><strong>At Golden Avenue our commitment is an “ASSURED REALITY”</strong></h2>
-                                <p class="text-justify">Golden Avenue's Annual Maintenance Contracts provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum IT support services for your business.</p>
-                                <h3>Golden Avenue adheres to a professional approach by</h3>
+                                <h1 class="color-blue text-transform-none"><strong>IT AMC in Dubai ( Annual Maintenance Contract ) </strong></h1>
+                                <p class="text-justify">Golden Avenue Technology LLC's IT AMC (Annual Maintenance Contract) Service provides you with flexible options to ensure that your IT department is up and running without obstacles. Being one of the leading IT service providers, we promote technology as a facilitator to your business. Our pool of multitalented engineers enables us to provide optimum  <a href="https://www.goldenavenue.ae/" class="text-decoration">IT Support</a> services for your business.</p>
+                                <h3>Golden Avenue Technology LLC  adheres to a professional approach by</h3>
                                 <ol style="font-size: 15px !important">
                                     <li>Strictly following SLA as per the client requirements</li>
                                     <li>Ensuring the shortest Response and Resolution time as per the tailor-made contract</li>
                                     <!--                                        <li>expertise through multi-resourced IT engineers</li>-->
                                 </ol>
-                                <img class="img-width" src="img/blog/amc-scb-page.jpg" alt="Annual Maintenance Contracts"/>
+                                <img class="img-width" src="img/blog/amc-scb-page.jpg" alt="AMC Dubai"/>
                                 <div class="padding-20">
                                     <h3 class="color-blue bold"><i class="fa fa-check"></i> We Guarantee Best Services</h3>
                                     <h3 class="color-blue bold"><i class="fa fa-check"></i> We Provide Quality Service</h3>
@@ -93,21 +108,21 @@
                             </div>
                         </div><br/>
                         <div class="row">
-                            <h4 class="text-center color-blue wow fadeInLeft" >Signup for our Annual Maintenance Contract (AMC) to avail</h4>
+                            <h4 class="text-center color-blue wow fadeInLeft" >Signup for our IT Annual Maintenance Contract (AMC) to avail</h4>
                             <div class="col-md-3">
                                 <div class="amc-box-content text-center wow fadeInUp" data-wow-delay="0.5s">
                                     <i class="fa fa-clock-o fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">24 / 7</p>
                                     <p>Anywhere Anytime at your desk</p>
                                 </div>
-<!--                                    <img src="img/sub-banner/amc-3-1.png" alt=""/>-->
+<!--                                    <img src="img/sub-banner/amc-3-1.png" alt="IT AMC in Dubai"/>-->
                             </div> 
                             <div class="col-md-3">
                                 <div class="amc-box-content text-center wow fadeInUp" data-wow-delay="0.8s">
                                     <i class="fa fa-mobile fa-3x" aria-hidden="true"></i>
                                     <p class="bold font-size-20">Mobile</p>
                                     <p>A simple call / chat to resolve issue</p>
-<!--                                    <img src="img/sub-banner/amc-3-2.png" alt=""/>-->
+<!--                                    <img src="img/sub-banner/amc-3-2.png" alt="IT AMC Dubai"/>-->
                                 </div>
                             </div>
                             <div class="col-md-3">
@@ -116,7 +131,7 @@
                                     <p class="bold font-size-20">On site</p>
                                     <p>We are at your rescue in minutes</p>
                                 </div>
-<!--                                    <img src="img/sub-banner/amc-3-3.png" alt=""/>-->
+<!--                                    <img src="img/sub-banner/amc-3-3.png" alt="Annual Maintenance Contract"/>-->
                             </div>
                             <div class="col-md-3">
                                 <div class="amc-box-content text-center wow fadeInUp" data-wow-delay="1.4s">
@@ -128,7 +143,7 @@
                             </div>
                         </div><br/>
                         <div class="row">
-                            <h3 class="text-center color-blue wow fadeInRight" id="content-1">Annual Maintenance Contract Package</h3>
+                            <h3 class="text-center color-blue wow fadeInRight" id="content-1">IT AMC Package</h3>
                             <!--                        <div class="col-lg-12"> 
                                                     </div>-->
                             <div class="col-sm-1"></div>
@@ -220,9 +235,9 @@
                             </div>
                             <div class="col-md-7 wow fadeInRight">
                                 <div class="box-in-p">
-                                    <p class="text-justify">In today’s business environment it’s very important to maintain and keep your server online in order for your business to be active to your customers round the clock. One can maintain the server without any hassle with Golden Avenue’s Annual Maintenance Contract (AMC) in Dubai, UAE.</p>  
+                                    <p class="text-justify">In today’s business environment it’s very important to maintain and keep your server online in order for your business to be active to your customers round the clock. One can maintain the server without any hassle with Golden Avenue Technology LLC’s <a href="../amc-contract.php" class="text-decoration">IT AMC in Dubai</a> (Annual Maintenance Contract), UAE.</p>  
                                     <p class="text-justify">IT is a key component for any business operational infrastructure. Downtime starts as soon as the systems stop functioning and this leads to loss in communication, output and profit. Our technical professionals are capable of managing your IT infrastructure because of the knowledge and experience they possess in the areas that are most critical.</p>
-                                    <p class="text-justify">Golden Avenue is the right choice for cost effective maintenance for all your business needs. Approaching us is the smartest way ahead for solving all your difficulties in business. We provide adept maintenance of the IT infrastructure that improves your performance and keeps you moving ahead. We have a team of experts, who are dedicated in assisting you in maintaining your IP telephony equipment, IT systems such as your Laptops / Desktops, Network infrastructure, Servers, Storage & back-up systems etc.</p>
+                                    <p class="text-justify">Golden Avenue Technology LLC  is the right choice for cost effective maintenance for all your business needs. Approaching us is the smartest way ahead for solving all your difficulties in business. We provide adept IT AMC of the IT infrastructure that improves your performance and keeps you moving ahead. We have a team of experts, who are dedicated in assisting you in maintaining your IP telephony equipment, IT systems such as your Laptops / Desktops, Network infrastructure, Servers, Storage & back-up systems etc.</p>
                                 </div>
                             </div>
                         </div>
@@ -235,13 +250,13 @@
                         <div class="row">
                             <div class="col-md-5">
                                 <h3>Types of</h3>
-                                <h1 class="color-blue">Annual
+                                <h2 class="color-blue">Annual
                                     <br/>
                                     <br/>
                                     Maintenance
                                     <br/>
                                     <br/>
-                                    Contract (AMC)</h1>
+                                    Contract (AMC)</h2>
                                 <h3>you can sign-up for:</h3>
                                 <div class="border-line"></div>
                             </div>
@@ -286,7 +301,7 @@
                 <section class="section-padding">
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-1"><img src="img/sub-banner/amc-5.png" alt="" class="img-responsive"/>
+                            <div class="col-md-1"><img src="img/sub-banner/amc-5.png" alt="AMC Service in Dubai" class="img-responsive"/>
                             </div>
                             <div class="col-md-3 border-height">
                                 <h3>Monitoring</h3>
@@ -344,11 +359,11 @@
             </section>-->
             <section id="content-3">
                 <div class="container text-justify">
-                    <h2 class="color-blue wow fadeInLeft text-center">Why Golden Avenue?</h2>
+                    <h2 class="color-blue wow fadeInLeft text-center">Why Golden Avenue Technology LLC?</h2>
                     <p class="wow fadeInLeft text-center">One stop solution for multi-vendor products and services. As reflected by our strong technology expertise, we leverage strong brand partnerships to deliver and integrate enterprise products that seamlessly align with your business.</p>
                     <div class="row">
                         <div class="col-lg-12">
-                            <h3 class="wow fadeInLeft text-center">Benefits of signing up for an Annual Maintenance Contract (AMC)</h3>
+                            <h3 class="wow fadeInLeft text-center">Benefits of signing up for an IT AMC (Annual Maintenance Contract)</h3>
                             <div class="col-md-6 col-sm-2 col-xs-12 wow fadeInLeft" data-wow-delay="0.5s">
                                 <ul style="list-style: none;">
                                     <li>1. Enhanced Business Suite</li>
@@ -371,7 +386,7 @@
                 <div class="container text-justify">
                     <div class="row">
                         <div class="col-lg-12 wow fadeInUp">
-                            <p class="text-justify">We at Golden Avenue offer AMC to keep your business IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions. We respect your confidential and private information, know how important confidentiality is to you, whether it’s business or personal data, or both. Our experts have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
+                            <p class="text-justify">We at Golden Avenue Technology LLC offer IT AMC in Dubai to keep your business IT Systems and Network at peak performance. We understand your needs best and provide you with excellent solutions. We respect your confidential and private information, know how important confidentiality is to you, whether it’s business or personal data, or both. Our experts have the training and the tools necessary to protect and secure your professionally sensitive and private data.</p>
                             <p class="text-justify">We provide you with the best services, at very competitive prices without compromising on integrity and quality. It is what will give us the confidence to stand up to any scrutiny. We believe in providing prompt and same level of service to different segments of customers.</p>
                             <p class="text-justify">24/7 Emergency Support Services will be provided after business hours and on public holidays with a small increase in basic service charges. Substantial discount will be provided on any products or services purchased from us during contract period.</p>
                         </div>

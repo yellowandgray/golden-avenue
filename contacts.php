@@ -58,7 +58,7 @@
                         <div class="col-md-12 wow fadeInUp">
                             <div class="about-logo">
                                 <h2><span class="coloured">Get</span> in Touch</h2>
-                                <p class="text-justify">Please contact the Golden Avenue Team to acquire Knowledge and Knowhow, and take advantage of our expertise to help solve serious problems, and accomplish your critical objectives.</p>
+                                <p class="text-justify">Please contact the Golden Avenue Technology LLC Team to acquire Knowledge and Knowhow, and take advantage of our expertise to help solve serious problems, and accomplish your critical objectives.</p>
                             </div>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                         </div>
                         <div class="col-md-3 wow fadeInRight">
                             <div class="margin-top-45">
-                                <h4>Golden Avenue Dubai</h4>
+                                <h4>Golden Avenue Technology LLC Dubai</h4>
                                 <p>P.O.Box-122041<br/> Dubai, U.A.E.</p>
                             </div>
                             <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+9714266 8272">+971 4 266 8272</a><br/>
@@ -146,7 +146,7 @@
                         </div>
                         <div class="col-md-3 wow fadeInRight">
                             <div class="margin-top-45">
-                                <h4>Golden Avenue India</h4>
+                                <h4>Golden Avenue Technology LLC India</h4>
                                 <p>No.12, 4th Cross Street, Durga Colony, Sembakkam Chennai.<br/>India - 600073.</p>
                             </div>
                             <i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+919840470876">+91 98 4047 0876</a><br/>

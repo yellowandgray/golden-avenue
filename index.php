@@ -6,15 +6,17 @@
 
         <meta charset="utf-8">
 
-        <title> Best IT Service in Dubai | IT Support in Dubai | goldenavenue.ae </title>
+        <title> Best IT Support in Dubai (2019) | IT Service in Dubai</title>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta name="description" content="We are professional IT Service in Dubai and IT Support in Dubai.our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support. We offer remote, on-site support 24 hours a day, 7 days a week." />
+        <meta name="description" content="We are professional IT Company in Dubai and IT Support in Dubai.our experts with a mission to influence your IT requirements. We specialize in delivery and support of managed IT Support. We offer remote, on-site support 24 hours a day, 7 days a week." />
 
-        <meta name="keywords" content="IT Service in Dubai,IT Service Dubai,IT Services,IT Services Dubai,IT Support in Dubai,it comapny in dubai">
-
-        <meta name="author" content="" />
+        <meta name="keywords" content="IT Companies in Dubai,IT Service in Dubai,IT Service Dubai,IT Services,IT Services Dubai,IT Support in Dubai,it company in dubai,IT Support Dubai">
+        
+		<link rel="canonical" href="https://www.goldenavenue.ae/" />
+        
+		<meta name="author" content="" />
         <script type="application/ld+json">
             {
             "@context": "http://schema.org",
@@ -120,7 +122,7 @@
 
                             <li>
 
-                                <img src="img/slides/Home_banner1.jpg" alt="IT Support in Dubai" />
+                                <img src="img/slides/Home_banner1.jpg" alt="IT Companies in Dubai" />
 
                                 <div class="flex-caption">
 
@@ -248,11 +250,11 @@
 
                         <div class="col-md-12">
 
-                            <h1 class="color-blue wow fadeInUp"> IT Service in Dubai Best IT Support provider in Dubai</h1>
+                            <h1 class="color-blue wow fadeInUp"> IT Service in Dubai Best IT Company in Dubai</h1>
 
-                            <p class="text-justify wow fadeInUp">At Golden Avenue, we are a team of IT Service in dubai and experts with a mission to influence your IT requirements & provide best IT Support in Dubai, in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
+                            <p class="text-justify wow fadeInUp">At Golden Avenue Technology LLC IT Company, we are a team of IT Service in dubai and experts with a mission to influence your IT requirements & provide best IT Support in Dubai, in alignment with your vision and performance goals. We believe in creative aspects, pour passion & emotion into our work and let your business grow with us delivering you 100% satisfaction and perfection.</p>
 
-                            <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue has earned the rock-solid reputation of delivering reliable IT Support and IT Services in Dubai, focusing on satisfying our clients requirements. If your business requires unparalleled IT Solutions, our team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
+                            <p class="text-justify wow fadeInUp">With over 20+ years of experience, Golden Avenue Technology LLC has earned the rock-solid reputation of delivering reliable IT Support and IT Services in Dubai, focusing on satisfying our clients requirements. If your business requires unparalleled IT Solutions, our IT Company team is at your service to offer you a powerful set of services that operates like an in-house IT department with the same response time, accuracy and quality. Think of us as your Virtual IT Manager.</p>
 
                         </div>
 
@@ -278,7 +280,7 @@
 
                         <div class="col-md-7 wow fadeInUp">
 
-                            <p class="text-justify wow fadeInUp color-white">Golden Avenue helps your business to build a resilient IT system that needs to be secure and accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, ethernet switches and network storage.</p>
+                            <p class="text-justify wow fadeInUp color-white">Golden Avenue Technology LLC helps your business to build a resilient IT system that needs to be secure and accessible. Security means, among other things, up-to-date security patches, not just on servers but also on other infrastructure components, including firewalls, ethernet switches and network storage.</p>
 
                             <p class="text-justify wow fadeInUp color-white">We offer steady and best practical business-oriented IT Service in Dubai that reflects in our services for IT infrastructure setup and maintenance, server and network management, backup and data security protection, equipment upgrade and software licensing. Along with our usual maintenance, we also offer customized and tailor-made IT solutions in Dubai, to distinctive needs focused on your business, or various businesses.</p>
 
@@ -412,7 +414,7 @@
 
                                             <span class="services-thumb">
 
-                                                <a href="amc-contract.php"><img src="img/005.jpg" alt="Golden Avenue - IT Support" class="img-responsive" /></a>
+                                                <a href="amc-contract.php"><img src="img/005.jpg" alt="Golden Avenue Technology LLC - IT Support" class="img-responsive" /></a>
 
                                             </span> 
 
@@ -432,7 +434,7 @@
 
                                             <span class="services-thumb">
 
-                                                <a href="why-us.php"><img src="img/006.jpg" alt="Golden Avenue - Certified IT Professionals" class="img-responsive" /></a>
+                                                <a href="why-us.php"><img src="img/006.jpg" alt="Golden Avenue Technology LLC - Certified IT Professionals" class="img-responsive" /></a>
 
                                             </span>
 
@@ -450,7 +452,7 @@
 
                                             <span class="services-thumb">
 
-                                                <a href="why-us.php"><img src="img/007.jpg" alt="Golden Avenue - Years of Experience" class="img-responsive" /></a>
+                                                <a href="why-us.php"><img src="img/007.jpg" alt="Golden Avenue Technology LLC - Years of Experience" class="img-responsive" /></a>
 
                                             </span> 
 
@@ -468,7 +470,7 @@
 
                                             <span class="services-thumb">
 
-                                                <a href="amc-contract.php"><img src="img/008.jpg" alt="Golden Avenue - Flexible Contracts" class="img-responsive" /></a>
+                                                <a href="amc-contract.php"><img src="img/008.jpg" alt="Golden Avenue Technology LLC - Flexible Contracts" class="img-responsive" /></a>
 
                                             </span> 
 
@@ -670,7 +672,7 @@
 
                                                     <p>" We are very satisfied with the services and prices that Golden avenue is offering us. We look forward to have a good long-term relationship with your organization</p>
 
-                                                    <small>Mr. Glen D’souza, Centena Group</small>
+                                                    <small>Mr. Glen Dï¿½souza, Centena Group</small>
 
                                                 </div>
 
@@ -737,15 +739,15 @@
                         <div class="col-md-2 wow fadeInUp">
                             <h3 class="text-center bold">Clients</h3>
                             <section class="customer-logos slider" style="margin-top: 80px">
-                                <div class="slide"><img src="img/clients/001.png" alt="Golden Avenue Clients" class="img-responsive"></div>
-                                <div class="slide"><img src="img/clients/002.png" alt="Golden Avenue Clients" class="img-responsive"></div>
-                                <div class="slide"><img src="img/clients/003.png" alt="Golden Avenue Clients" class="img-responsive"></div>
-                                <div class="slide"><img src="img/clients/004.png" alt="Golden Avenue Clients" class="img-responsive"></div>
-                                <div class="slide"><img src="img/clients/footer-img-1.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
-                                <div class="slide"><img src="img/clients/footer-img-2.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
-                                <div class="slide"><img src="img/clients/footer-img-3.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
-                                <div class="slide"><img src="img/clients/footer-img-4.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
-                                <div class="slide"><img src="img/clients/footer-img-5.jpg" alt="Golden Avenue Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/001.png" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/002.png" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/003.png" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/004.png" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-1.jpg" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-2.jpg" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-3.jpg" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-4.jpg" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
+                                <div class="slide"><img src="img/clients/footer-img-5.jpg" alt="Golden Avenue Technology LLC Clients" class="img-responsive"></div>
                             </section>
                         </div>
                     </div>
